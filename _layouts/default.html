@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="theme-base-08" >
 
     {% include sidebar.html %}
 
@@ -20,7 +20,21 @@
       </div>
 
       <div class="container content">
+        {% if page.title =="Home" and paginator.page == 1 %}
+  <div class="post"><p>Last tweets by @papascott</p>
+<a class="twitter-timeline" href="https://twitter.com/papascott" 
+data-widget-id="336416654936379392" 
+data-link-color="#ac4142"
+data-theme="light" 
+data-chrome="nofooter noheader"
+data-tweet-limit="5"
+>Tweets by @papascott</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+{% endif %}
+
         {{ content }}
+        {% include comments.html %}
       </div>
     </div>
 
