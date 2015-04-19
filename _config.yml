@@ -2,15 +2,15 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #permalink:           pretty
-permalink:           /archives/:year/:month/:day/:title/
-#relative_permalinks: true
+permalink:           archives/:year/:month/:day/:title/
+relative_permalinks: true
 
 # Setup
 title:               PapaScott
 tagline:             'And you know what they said? Well, some of it was true!'
 #description:         "PapaScott is a personal weblog by Scott Hanson. The opinions expressed here are his and his alone. Born in 1962 in California, raised in Minnesota, he has lived since 1990 in Germany. His wife Frauke is a McDonald's franchisee with 4 restaurants in Nordheide-Harburg. They live with teenaged son Christopher in Jesteburg (near Hamburg).."
 url:                 http://blog.papascott.de
-baseurl:             /
+baseurl:            '' 
 paginate:            5
 comments:            true
 # About/contact
