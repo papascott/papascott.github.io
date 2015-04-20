@@ -5,6 +5,8 @@
 permalink:           archives/:year/:month/:day/:title/
 relative_permalinks: true
 
+#markdown:    rdiscount
+
 # Setup
 title:               PapaScott
 tagline:             'And you know what they said? Well, some of it was true!'
