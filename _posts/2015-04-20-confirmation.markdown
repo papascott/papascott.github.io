@@ -9,7 +9,8 @@ author:
   email: papascott@gmail.com
   url: http://www.papascott.de/
 ---
-[![Policke](/assets/policke-200415.jpg){: class="alignright"}](http://www.policke.de)Last week we bought a confirmation suit. Of course we went to [Policke](http://www.policke.de) in Hamburg. It's the perfect place for young (or older) men to shop. It has the feel of a 1920s haberdasher, full of dark little rooms connected by narrow halls and staircases. You're met at the front door by the head sizer, who determines your size with a glance and with a slight movement of his eyes directs you to the room where your size is stocked. Once there, you nod at the salesman (they're all men), who from your nod determines the style and price range you want. You're in and out in 10 minutes. No words are necessary at any time. 
+[![Policke](/assets/policke-200415.jpg){: class="alignright"}](http://policke1.p2-men.de/)
+Last week we bought a confirmation suit. Of course we went to [Policke](http://policke1.p2-men.de/) in Hamburg. It's the perfect place for young (or older) men to shop. It has the feel of a 1920s haberdasher, full of dark little rooms connected by narrow halls and staircases. You're met at the front door by the head sizer, who determines your size with a glance and with a slight movement of his eyes directs you to the room where your size is stocked. Once there, you nod at the salesman (they're all men), who from your nod determines the style and price range you want. You're in and out in 10 minutes. No words are necessary at any time. 
 
 Well, maybe not quite. :-) 
 
