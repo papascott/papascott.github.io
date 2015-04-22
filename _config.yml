@@ -22,8 +22,8 @@ author:
   email:             papascott@gmail.com
 
 # Directories not to rebuild automatically
-exclude: [wordpress]
-keep_files: [wordpress]
+#exclude: [wordpress]
+#keep_files: [wordpress]
 
 
 # Custom vars
