@@ -21,7 +21,7 @@ author:
   url:               https://twitter.com/papascott
   email:             papascott@gmail.com
 
-# Directories not to rebuild automatically
+## Directories not to rebuild automatically
 #exclude: [wordpress]
 #keep_files: [wordpress]
 
