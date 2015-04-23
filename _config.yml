@@ -25,6 +25,22 @@ author:
 #exclude: [wordpress]
 #keep_files: [wordpress]
 
+gems:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled: [year, month]
+  permalinks:
+    year: '/archives/:year/'
+    month: '/archives/:year/:month/'
+    #day: '/:year/:month/:day/'
+    #tag: '/tag/:name/'
+    #category: '/category/:name/'
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
+    tag: tag-archive-layout
 
 # Custom vars
 #version:             1.0.0

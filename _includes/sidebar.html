@@ -24,7 +24,14 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
+    
+<div class="sidebar-nav-item">Archives: 
+{% strip %}{% for archive in site.archives %}
+{% if archive.type == "year" %}
+<a href="{{ archive.url }}">{{ archive.date | date: "%Y" }}</a>
+{% endif %}
+{% endfor %}{% endstrip %}
+</div>
     <a class="sidebar-nav-item" href="http://www.mcdonalds-nordheide.de/">McDonald's Nordheide-Harburg</a>
 
 
