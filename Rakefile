@@ -1,4 +1,5 @@
 # http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html
+# simply call 'rake publish' to compile and publish your web-site to GitHub Pages.
 require "rubygems"
 require "tmpdir"
 
