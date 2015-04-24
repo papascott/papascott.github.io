@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>PapaScott</title>
+ <link href="http://www.papascott.de/atom.xml" rel="self"/>
+ <link href="http://www.papascott.de/"/>
+ <updated>2015-04-24T03:58:28+02:00</updated>
+ <id>http://www.papascott.de</id>
+ <author>
+   <name>Scott Hanson</name>
+   <email>papascott@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Transition</title>
+   <link href="http://www.papascott.de/archives/2015/04/23/transition/"/>
+   <updated>2015-04-23T00:00:00+02:00</updated>
+   <id>http://www.papascott.de/archives/2015/04/23/transition</id>
+   <content type="html">&lt;p&gt;So maybe you noticed, maybe you didn’t, but this blog looks a little bit different than a week ago. Behind the scenes it looks a &lt;em&gt;lot&lt;/em&gt; different. After over a decade of blogging on WordPress (I actually started using its predecessor &lt;a href=&quot;http://cafelog.com/&quot;&gt;B2&lt;/a&gt; in 2002), I’m now on the static site generator jekyll. My posts have been exported to text files. No more mysql database, no PHP, no more web interface. &lt;/p&gt;
+
+&lt;p&gt;So everything is new and things are still broken. I don’t have all posts imported yet, I’m only back to 2012 and not 1999 when this thing started. There are a lot a worthless one-line posts from the olden days, since back then we didn’t have Twitter and Facebook yet for worthless posts. So I have some work to do. But I’m looking forward to it.&lt;/p&gt;
+
+&lt;p&gt;The design, however, is absolutely fabulous, even on mobile, and for that I can take absolutely no credit. It’s the &lt;a href=&quot;http://lanyon.getpoole.com/&quot;&gt;lanyon&lt;/a&gt; theme for jekyll by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;, who co-wrote (Twitter) &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;, and I thank him for making his work available to us mere mortals. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Confirmation</title>
+   <link href="http://www.papascott.de/archives/2015/04/20/confirmation/"/>
+   <updated>2015-04-20T00:00:00+02:00</updated>
+   <id>http://www.papascott.de/archives/2015/04/20/confirmation</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://policke1.p2-men.de/&quot;&gt;&lt;img src=&quot;/assets/policke-200415.jpg&quot; alt=&quot;Policke&quot; class=&quot;alignright&quot; /&gt;&lt;/a&gt;
+Last week we bought a confirmation suit. Of course we went to &lt;a href=&quot;http://policke1.p2-men.de/&quot;&gt;Policke&lt;/a&gt; in Hamburg. It’s the perfect place for young (or older) men to shop. It has the feel of a 1920s haberdasher, full of dark little rooms connected by narrow halls and staircases. You’re met at the front door by the head sizer, who determines your size with a glance and with a slight movement of his eyes directs you to the room where your size is stocked. Once there, you nod at the salesman (they’re all men), who from your nod determines the style and price range you want. You’re in and out in 10 minutes. No words are necessary at any time. &lt;/p&gt;
+
+&lt;p&gt;Well, maybe not quite. :-) &lt;/p&gt;
+
+&lt;p&gt;The confirmation will be at the end of May, on Pentecost Sunday. My mother will be flying in from the US. My father won’t be there, of course.  He made a huge impression on his grandson, though, despite living an ocean and thousands of miles away. He thought of his grandfather when he chose his confirmation verse*. We also legally added his grandfather’s name as an additional middle name for him. He will carry his grandfather’s name the rest of his life, and he will be confirmed with it next month.&lt;/p&gt;
+
+&lt;p&gt;So I guess my father will be there after all.&lt;/p&gt;
+
+&lt;p&gt;*Matthew 7:7 “Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How I Punked Facebook</title>
+   <link href="http://www.papascott.de/archives/2015/02/10/how-i-punked-facebook/"/>
+   <updated>2015-02-10T07:13:25+01:00</updated>
+   <id>http://www.papascott.de/archives/2015/02/10/how-i-punked-facebook</id>
+   <content type="html">&lt;p&gt;It took me nearly two years, but I finally did it. I was able to get the better of Facebook. Yesterday I was able to celebrate my birthday without a single greeting on social media, even if my wife very nearly &lt;a href=&quot;https://www.facebook.com/papascott/posts/10152947844446281y&quot;&gt;gave me away&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It was heaven! It was bliss! I was living free of the distractions of the digital world, if only for one day. My day! For me, me alone!&lt;/p&gt;
+&lt;p&gt;I hope your day was a good one too.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Where Were You?</title>
+   <link href="http://www.papascott.de/archives/2014/11/09/where-were-you/"/>
+   <updated>2014-11-09T17:59:03+01:00</updated>
+   <id>http://www.papascott.de/archives/2014/11/09/where-were-you</id>
+   <content type="html">&lt;p&gt;Where was I 25 years ago as the Berlin Wall fell? I must confess, I don&#39;t remember exactly. If I had known the news would radically change our lives, I might have paid more attention.&lt;/p&gt;
+&lt;p&gt;We didn&#39;t realize it at the time, but our lives in November 1989 were &quot;in between&quot;. In between jobs, in between continents, in between everything. We had just moved to Arizona, following her old boss who didn&#39;t have a job for her yet. I was working temp jobs hoping to find something permanent (one of them eventually did). We thought Arizona would become our home. We were in love with the desert, the sun, the lifestyle, everything.&lt;/p&gt;
+&lt;p&gt;We had, however, picked a horrible time to move to Arizona. The savings and loan crisis had broken out, and the economy was already stagnant. And in the weeks and months that followed, the soon-to-be-reunified Germany became more attractive to us. We thought we could work there for a couple years and come back when the job climate in Arizona was better.&lt;/p&gt;
+&lt;p&gt;But where was I when I heard the news? Today I have no idea. In my car listening to NPR? At home watching CNN? With my wife when she got a call from her Hungarian friend Gabi? I just know that less than 10 months later, we were here.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thank you to everyone for everything</title>
+   <link href="http://www.papascott.de/archives/2014/10/11/thank-you-to-everyone-for-everything/"/>
+   <updated>2014-10-11T06:08:07+02:00</updated>
+   <id>http://www.papascott.de/archives/2014/10/11/thank-you-to-everyone-for-everything</id>
+   <content type="html">&lt;p&gt;Thanks to everyone who sent condolences for my father, be it on PapaScott, Facebook, Twitter or even with written words on paper. I debated posting publically about my feelings, and now I&#39;m glad I did.&lt;/p&gt;
+&lt;p&gt;I&#39;m currently &quot;between the continents&quot;, so to speak. I returned yesterday from the US, and fly today to Dubrovnik for 4 days on business. I still have some thoughts on the past week, the funeral, the Midwestern traditions, and the hotdish. I&#39;ll share them once I get the chance.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Absence</title>
+   <link href="http://www.papascott.de/archives/2014/10/04/absence/"/>
+   <updated>2014-10-04T13:08:14+02:00</updated>
+   <id>http://www.papascott.de/archives/2014/10/04/absence</id>
+   <content type="html">&lt;p&gt;My father died Thursday morning, age 81. I wasn&#39;t there yet, I had only made it as far as London. He was always impatient, he never liked waiting for anyone when he was ready to go.&lt;/p&gt;
+&lt;p&gt;It&#39;s not like we weren&#39;t ready for this. He&#39;s been on oxygen for 11 years, at first only at night, and later 24 hours. I always wondered how I would feel when the time came. Now I know. I feel his absence. Absence, as in the opposite of presence.&lt;/p&gt;
+&lt;p&gt;Now I&#39;m home with my mother and brother to together go through the rituals. We spoke with the funeral home yesterday, made the decisions, gave details for the obituary, looked at the plot, picked out flowers. Viewing is Sunday afternoon, prayer service that evening, funeral 10:30 Monday morning. We tried to do things to make it informal and not all too a somber and sad affair.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;http://www.zahrbockfuneralhome.com/obituaries.php&quot;&gt;obituary will be online&lt;/a&gt;. That&#39;s a thing now I guess. If you have Flash music will play, you may want to turn it down first.&lt;/p&gt;
+&lt;p&gt;Our son arrives from Germany today. He brought his bagpipes. I hope he&#39;s up to playing.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Godmorgen</title>
+   <link href="http://www.papascott.de/archives/2014/05/30/godmorgen/"/>
+   <updated>2014-05-30T11:35:17+02:00</updated>
+   <id>http://www.papascott.de/archives/2014/05/30/godmorgen</id>
+   <content type="html">&lt;p&gt;We decided to spend some money on ourselves rather than the business for a change. When we built our house back in 1996, when we got to designing the bathroom we had run out of both money and imagination. We ended with boring hospital-white. We* tore everything out, replaced and rearranged the fixtures, threw out the tub, built a new wall, replaced the door and window, and installed a walk-in spa-like shower. After two and half weeks without a bath, it&#39;s done enough that we can use it. We&#39;re missing a few details yet, like towel hooks, toilet paper dispenser, mirrors, and cabinets.&lt;/p&gt;
+&lt;p&gt;*Of course, &quot;we did&quot; actually means &quot;we hired professionals to do&quot;, but we did build the Ikea Godmorgen sink cabinet ourselves. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; I&#39;ve now added panorama photos und put them all in a Flickr album.&lt;/p&gt;
+&lt;p&gt;&lt;div style=&#39;position: relative; padding-bottom: 76%; height: 0; overflow: hidden;&#39;&gt;&lt;iframe id=&#39;iframe&#39; src=&#39;http://flickrit.com/slideshowholder.php?height=75&amp;size=big&amp;setId=72157644926436595&amp;thumbnails=0&amp;transition=0&amp;layoutType=responsive&amp;sort=0&#39; scrolling=&#39;no&#39; frameborder=&#39;0&#39;style=&#39;width:100%; height:100%; position: absolute; top:0; left:0;&#39; &gt; &lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Phone Tricks 2014</title>
+   <link href="http://www.papascott.de/archives/2014/03/31/phone-tricks-2014/"/>
+   <updated>2014-03-31T09:20:30+02:00</updated>
+   <id>http://www.papascott.de/archives/2014/03/31/phone-tricks-2014</id>
+   <content type="html">&lt;p&gt;To keep in touch with home I find it handy to have an US phone number. We never got in the habit of using Skype; a cordless phone is just a lot handier than turning on the PC. For a while I had a US Skype Number with a Minnesota area code. However, at €5 a month it&#39;s not that cheap, and worse, my parents were not able to reach the number from their cell phones. And if I forward the calls to our regular German number, I pay Skype rates for the privilege.&lt;/p&gt;
+&lt;p&gt;So I did some hunting around, and discovered the VOIP provider &lt;a href=&quot;http://www.anveo.com/consumer/default.asp&quot;&gt;Anveo&lt;/a&gt; offers US numbers pay-as-you-go for $2 a month (&lt;a href=&quot;http://www.anveo.com/consumer/mainphonenumbers.asp&quot;&gt;&quot;Personal Unlimited&quot;&lt;/a&gt; plan). You can then forward the calls to a regular number at their normal rates, but since we have VOIP at home anyway, I just set them up as an additional account and pay nothing. Calls to the US cost $0.01 per minute, slightly cheaper than our main provider. They have servers in both the US and Germany. We&#39;ve been with them for 2 months, and they seem to work just fine.&lt;/p&gt;
+&lt;p&gt;In case you&#39;re wondering, our main VOIP (for home and home office) is on &lt;a href=&quot;http://www.sipgate.de/team/voip&quot;&gt;Sipgate Team&lt;/a&gt; with a &lt;a href=&quot;http://www.amazon.de/gp/product/B004U6NTXU/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B004U6NTXU&amp;amp;linkCode=as2&amp;amp;tag=papascott-21&quot;&gt;Gigaset C610 IP&lt;/a&gt;&lt;img src=&quot;//ir-de.amazon-adsystem.com/e/ir?t=papascott-21&amp;amp;l=as2&amp;amp;o=3&amp;amp;a=B004U6NTXU&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt; base station. I tried first with a Fritz Box, but never managed to get it working reliably, probably because the Fritz Box was not our router, but behind our router.&lt;/p&gt;
+&lt;p&gt;The other trick to plan mobile phone and data for our visits to the US. Prepaid credit expires quickly in the States, so if you&#39;re there just once or twice a year it&#39;s likely cheapest to set up something new each year. This year we&#39;re trying service from &lt;a href=&quot;http://goredpocket.com/&quot;&gt;Red Pocket&lt;/a&gt; sold by &lt;a href=&quot;http://www.reisesim.de/&quot;&gt;ReiseSIM.de&lt;/a&gt; in Germany. The SIMs are pre-activated, you can add credit before your trip, and you can dial direct without going through a gateway to call Germany. Calls are $0.10/min in the US and $0.11/min to Germany. Network is ATT, and for the data plans &lt;a href=&quot;http://goredpocket.com/plans#gsmt-mi&quot;&gt;&quot;tethering is encouraged&quot;&lt;/a&gt; (that was our mistake last year, no tethering, and we constantly fought over the one tablet with internet). Our son will be taking a phone on his Easter trip to Minnesota, and we&#39;re in Orlando for business at the end of April, so we&#39;ll see how it goes.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>B-52's</title>
+   <link href="http://www.papascott.de/archives/2014/02/09/b-52s/"/>
+   <updated>2014-02-09T09:39:32+01:00</updated>
+   <id>http://www.papascott.de/archives/2014/02/09/b-52s</id>
+   <content type="html">&lt;p&gt;&lt;iframe width=&quot;450&quot; height=&quot;253&quot; src=&quot;//www.youtube-nocookie.com/embed/9SOryJvTAGs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;EXCLUSIVE CONTENT: I&#39;ve hidden my birthday on Facebook, but you might be able to guess my new age from the title of this post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New Car</title>
+   <link href="http://www.papascott.de/archives/2014/01/28/new-car/"/>
+   <updated>2014-01-28T22:01:58+01:00</updated>
+   <id>http://www.papascott.de/archives/2014/01/28/new-car</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/wordpress/wp-content/uploads/2014/01/NewImage.png&quot; alt=&quot;NewImage&quot; title=&quot;NewImage.png&quot; border=&quot;0&quot; width=&quot;429&quot; height=&quot;262&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Three years have gone by, the lease has expired on our Volkswagen Sharan mini-van, and it&#39;s time for something new. The Sharan was way too big for us. We thought we could use the extra space for our business, but in the 3 years we transported 8 passengers exactly one time. In that same time had to replace bumpers 3 times (twice my fault, once my wife&#39;s) because the Sharan so damn wide you&#39;re scraping something before you know it. In that sense, good riddance. &lt;/p&gt;
+&lt;p&gt;We&#39;re on good terms with our local Volkswagen dealer, and we decided to downsize to the newest member of the VW line, the &lt;a href=&quot;http://www.caranddriver.com/reviews/2015-volkswagen-sportwagen-golf-variant-first-drive-review&quot;&gt;Golf Variant&lt;/a&gt;, a station wagon. It was released in September, we ordered right away, and took delivery at the end of January (that is, today). &lt;/p&gt;
+&lt;p&gt;Now, my wife gets a lot more excited about cars than I. She&#39;ll study the web sites and the specs to find exactly what she wants. For me, a car is simply a vehicle to take me from A to B. She&#39;s excited about the new car and what it can do. I&#39;m just happy that it&#39;s smaller and we&#39;re less likely to tear off a bumper.&lt;/p&gt;
+&lt;p&gt;And I hope that choice is right because the lease is for another three years.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Five Pounds of Post</title>
+   <link href="http://www.papascott.de/archives/2014/01/03/five-pounds-of-post/"/>
+   <updated>2014-01-03T16:37:14+01:00</updated>
+   <id>http://www.papascott.de/archives/2014/01/03/five-pounds-of-post</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/wordpress/wp-content/uploads/2014/01/photo1.jpg&quot;&gt;&lt;img src=&quot;/wordpress/wp-content/uploads/2014/01/photo1.jpg&quot; alt=&quot;Five Pounds of Post&quot; width=&quot;450&quot; height=&quot;337&quot; class=&quot;size-full wp-image-17540&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here&#39;s a week&#39;s worth of documents, weighing in at 2.4 kg, for our accountant, in case you&#39;ve wondered if we&#39;ve done any work over the holidays. It&#39;s a bit more than usual since it&#39;s end-of-month, we normally have 1.0 to 1.5 kg per week. (Yes, it&#39;s all scanned as well, but we don&#39;t have a digital workflow with the accountant yet.)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Happy New Year 2014</title>
+   <link href="http://www.papascott.de/archives/2013/12/31/happy-new-year-2014/"/>
+   <updated>2013-12-31T16:24:39+01:00</updated>
+   <id>http://www.papascott.de/archives/2013/12/31/happy-new-year-2014</id>
+   <content type="html">&lt;p&gt;Happy New Year! Here&#39;s our son&#39;s latest film creation. It&#39;s not for the faint of heart.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;450&quot; height=&quot;253&quot; src=&quot;//www.youtube-nocookie.com/embed/u39IyQpQIbI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Oslo Cruise Again</title>
+   <link href="http://www.papascott.de/archives/2013/09/09/oslo-cruise-again/"/>
+   <updated>2013-09-09T18:41:47+02:00</updated>
+   <id>http://www.papascott.de/archives/2013/09/09/oslo-cruise-again</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/wordpress/wp-content/uploads/2013/09/9711707806_0e85cf2051.jpg&quot;&gt;&lt;img src=&quot;/wordpress/wp-content/uploads/2013/09/9711707806_0e85cf2051.jpg&quot; alt=&quot;9711707806_0e85cf2051&quot; width=&quot;500&quot; height=&quot;374&quot; class=&quot;aligncenter size-full wp-image-16876&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We managed to return from our weekend and to escape without any long-term repercussions, so I&#39;m sure it&#39;s safe to reveal where our destination. For the occasion of our 30th wedding anniversary, we took the ferry from Kiel and spent the weekend in Oslo!&lt;/p&gt;
+&lt;p&gt;Some of you will now ask us, &quot;Hold on, isn&#39;t that the &lt;a href=&quot;http://www.papascott.de/archives/2008/09/08/oslo-cruise/&quot;&gt;exact same destination&lt;/a&gt; you had for your 25th wedding anniversary?&quot;&lt;/p&gt;
+&lt;p&gt;Well, yes, 5 years ago we also took the ferry to Oslo. But it wasn&#39;t exactly the same the last time. For one, this time we stayed overnight, at the lovely Radisson Blu Plaza, a hotel that is, well, tall, with a lovely view of the Oslo skyline.&lt;/p&gt;
+&lt;p&gt;For another, we took a bicycle tour though the city with &lt;a href=&quot;http://vikingbikingoslo.com/&quot; title=&quot;Viking Biking&quot;&gt;Viking Biking&lt;/a&gt;, which was the perfect way to spend the afternoon, especially as the weather was nearly perfect (5 years ago it was cool and cloudy). It was very pleasant, low-key (central Oslo is relatively flat) and entertaining, and the tour highly deserves its &lt;a href=&quot;http://www.tripadvisor.com/Attraction_Review-g190479-d2697659-Reviews-Viking_Biking-Oslo_Eastern_Norway.html#REVIEWS&quot;&gt;high rating on Trip Advisor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And finally, we treated ourselves to a 5-star cabin, and booked a separate cabin for our son. He could be Mr. Independent on the ship, while we had some time for ourselves. &lt;/p&gt;
+&lt;p&gt;Just to make us feel old, there was a concert by Soundgarden next door to our hotel. We were born 10 years too early to appreciate them, and our hotel was full of nostalgic 40-something fans all younger than us. Happy Anniversary!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Same procedure as every year</title>
+   <link href="http://www.papascott.de/archives/2013/09/06/same-procedure-as-every-year/"/>
+   <updated>2013-09-06T06:10:39+02:00</updated>
+   <id>http://www.papascott.de/archives/2013/09/06/same-procedure-as-every-year</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;/wordpress/wp-content/uploads/2012/09/Hennepin_County_Government_Center.jpg&quot;&gt;&lt;img src=&quot;/wordpress/wp-content/uploads/2012/09/Hennepin_County_Government_Center-228x300.jpg&quot; alt=&quot;&quot; title=&quot;Hennepin_County_Government_Center.jpg&quot; width=&quot;228&quot; height=&quot;300&quot; class=&quot;size-medium wp-image-4822&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&#39;re not sure about the statute of limitations for &lt;a href=&quot;http://www.papascott.de/archives/2000/09/06/&quot; title=&quot;Happy Anniversary to Us&quot;&gt;international crimes against common sense&lt;/a&gt;, but just to be on the safe side we&#39;re skipping town for the weekend, for the case it&#39;s longer than 30 years. We&#39;ll be back Monday evening when we&#39;re sure the coast is clear.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>German Surveillance</title>
+   <link href="http://www.papascott.de/archives/2013/08/10/german-surveillance/"/>
+   <updated>2013-08-10T14:18:48+02:00</updated>
+   <id>http://www.papascott.de/archives/2013/08/10/german-surveillance</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://commons.wikimedia.org/wiki/File:Bonn_Bundeskanzleramt_200702.jpg&quot;&gt;&lt;img src=&quot;/wordpress/wp-content/uploads/2013/08/800px-Bonn_Bundeskanzleramt_200702-300x225.jpg&quot; alt=&quot;800px-Bonn_Bundeskanzleramt_200702&quot; width=&quot;300&quot; height=&quot;225&quot; class=&quot;alignright size-medium wp-image-16711&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All the talk of the &quot;NSA Affair&quot; in Germany reminds of a time when we were definitely spied upon by the German government.&lt;/p&gt;
+&lt;p&gt;In the early &#39;90s we were visiting a relative in Bonn, which was still the German capital. We were exploring the government district and were admiring the &lt;em&gt;Bundeskanzleramt&lt;/em&gt;, the Chancellor&#39;s office, occupied at the time by Helmut Kohl. We were outside the entrance gate, and behind the &lt;em&gt;Bundeskanzleramt&lt;/em&gt; was an office building with the distinctive 3-pointed Mercedes star.&lt;/p&gt;
+&lt;p&gt;One of us mentioned how utterly appropriate it was that a symbol of German industry was looking down upon the Chancellor&#39;s office when suddenly the loudspeaker on the gate crackled.&lt;/p&gt;
+&lt;p&gt;&quot;The Star of Bethlehem.&quot;&lt;/p&gt;
+&lt;p&gt;That was the absolute highlight of our trip to Bonn.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Heros without Glory Revisited</title>
+   <link href="http://www.papascott.de/archives/2013/06/14/heros-without-glory-revisited/"/>
+   <updated>2013-06-14T19:54:42+02:00</updated>
+   <id>http://www.papascott.de/archives/2013/06/14/heros-without-glory-revisited</id>
+   <content type="html">&lt;p&gt;Today the Bundestag &lt;a href=&quot;http://www.bundestag.de/dokumente/textarchiv/2013/45287063_kw24_gedenkveranstaltung_17_juni/index.html&quot; title=&quot;bundestag.de: Gedenkveranstaltung zum 17. Juni 1953&quot;&gt;commemorated&lt;/a&gt; the 60th anniversary of the June 17th workers&#39; uprising in East Germany in 1953. President Gauck spoke, linking the uprising then with the struggles for freedom throughout the world today, but the ceremony has merited only a brief mention in the German media. &lt;a href=&quot;http://www.papascott.de/archives/2003/06/18/heros-without-glory/&quot; title=&quot;Heros without Glory&quot;&gt;Ten years ago&lt;/a&gt; I blogged about a documentary on the uprising which impresses me even today, particularly this photo.&lt;/p&gt;
+&lt;p&gt;&lt;img title=&quot;Nieder mit der Regierung - Down with the Government&quot; alt=&quot;Documentary photo of girl holding sign in Leipzig, 17 June 1953&quot; src=&quot;/wordpress/wp-content/uploads/2003/06/heldenohneruhm.jpg&quot; width=&quot;300&quot; height=&quot;218&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&quot;http://heldenohneruhm.de/&quot;&gt;Helden ohne Ruhm&lt;/a&gt; is a fascinating documentary of the 1953 uprising shown in ARD last night. It features interviews with demonstrators, VoPos, Soviet soldiers, and widows. It&#39;s being rerun tonight (RBB) and tomorrow (SWR) if you missed it. The photo is from newly discovered footage from Leipzig. The girl holding the sign was imprisoned until 1962.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Grinding it out</title>
+   <link href="http://www.papascott.de/archives/2013/05/20/grinding-it-out/"/>
+   <updated>2013-05-20T11:27:33+02:00</updated>
+   <id>http://www.papascott.de/archives/2013/05/20/grinding-it-out</id>
+   <content type="html">&lt;p&gt;Since my &lt;a href=&quot;http://www.papascott.de/archives/2013/04/02/back-to-the-grind/&quot;&gt;last fitness post&lt;/a&gt; I&#39;ve been progressing at making progress. &lt;/p&gt;
+&lt;p&gt;With a 5K run at the local &lt;a href=&quot;http://www.buchholzerstadtlauf.de/&quot;&gt;Stadtlauf&lt;/a&gt; in June as a goal, I started running every other day following the run/walk program in &lt;a href=&quot;http://www.amazon.de/gp/product/B006OH9ENM/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B006OH9ENM&amp;amp;linkCode=as2&amp;amp;tag=papascott-21&quot;&gt;The Beginning Runner&#39;s Handbook&lt;/a&gt;. That program is actually for a 10K, so the 5K at the Stadtlauf should be a piece of cake (although it&#39;s on asphalt and might be hot), right? The program calls for 3 runs a week, however I&#39;m cheating a bit by sticking to every other day. As a result I&#39;m already on Week 9.&lt;/p&gt;
+&lt;p&gt;I actually did the 5K at the Stadtlauf in 2010, but I didn&#39;t train sufficiently or correctly and &lt;s&gt;nearly died&lt;/s&gt; was very sore the following week. My run yesterday was 55 minutes (with 3 1-minute walking breaks) and nearly 7K and I felt fine (slow pace with pulse in the 130s the entire time). The Stadtlauf should go just fine. And the 10K training won&#39;t go to waste, I&#39;m intending to keep it up for the &lt;a href=&quot;http://volkslauf.vfl-jesteburg.de/&quot;&gt;Volkslauf in Jesteburg&lt;/a&gt; in September (through woods in fall weather).&lt;/p&gt;
+&lt;p&gt;On the days I don&#39;t run I&#39;ve been working out at the fitness center, so except for one day last week when I hurt my foot I&#39;ve been doing fitness everyday for 8 weeks, since the week before Easter. And I have the results to show for it. I&#39;ve lost a further 3 kg in the meantime, my weight is at 90.x (sounds like a radio station frequency), and my body fat is down too. My goals are 89.x by the end of June and 84.x by the end of September.  &lt;/p&gt;
+&lt;p&gt;This was also a test of &lt;a href=&quot;http://fargo.io/&quot;&gt;fargo.io&lt;/a&gt; for posting to WordPress. (Note: to separate paragraphs you seem to need blank line directly after each one.)  I promise my next post will be about something more interesting than my improving fitness. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Salt of the Earth</title>
+   <link href="http://www.papascott.de/archives/2013/04/04/salt-of-the-earth/"/>
+   <updated>2013-04-04T20:07:38+02:00</updated>
+   <id>http://www.papascott.de/archives/2013/04/04/salt-of-the-earth</id>
+   <content type="html">&lt;p&gt;One of the cool things about 30 years of marriage (yes, it&#39;s going to be THIRTY YEARS this September) is that it&#39;s still possible after all that time to discover minuscule areas where you have irreconcilable differences. Or maybe &quot;re-discover&quot; is the better word, since for all we know we already knew all the things that annoy us about our partner but had conveniently forgotten them.&lt;/p&gt;
+&lt;p&gt;Take, for instance, salt. My mother is a health-conscious nurse, so even in the &#39;70s when I was growing up we didn&#39;t eat a lot of salt. She always cooked with a herbal mixture to replace salt. I never got in the habit of adding salt at the table, and don&#39;t think of a salt shaker as an essential piece of cutlery.&lt;/p&gt;
+&lt;p&gt;My wife, on the other hand, will salt everything, often without tasting it first (especially if I have cooked it). She gets nervous if she sits at the table and there is not a salt shaker within reach. We sometimes have 3 or 4 salt shakers on the table at one time, since she often brings one to the table herself to make sure there&#39;s one there. And by my observation, her use of salt is moderate compared to some in her family and in Germany in general. I sometimes think that the heavy use of salt can so deaden the taste buds that one forgets food can have taste other than salt.&lt;/p&gt;
+&lt;p&gt;So when my nutrition class mentioned that cutting down on salt was not only healthy, but good for weight loss, I had no problems putting that into effect for myself. It however opened up a new source of conflict. I would cook a healthy dish without salt, my wife would grimace and reach for the salt shaker, I would roll my eyes, and our entertainment was guaranteed for the rest of the meal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/gefro-040413.png&quot; alt=&quot;Gefro Diätwurze&quot; class=&quot;alignright&quot; /&gt;Some peace has been restored to our household through the use of a salt substitute (which, strangely enough, is &lt;a href=&quot;http://www.myline24.de/shop/essen-trinken/gefro-produktwelt/gefro-di%C3%A4tw%C3%BCrze-und-di%C3%A4tsuppe&quot;&gt;sold&lt;/a&gt; by the publisher of the nutrition class). It&#39;s based on potassium chloride, and tastes something like chicken soup. &lt;/p&gt;
+&lt;p&gt;It doesn&#39;t work that well at the table, though. The last time my wife asked me to pass the salt (which I had conveniently placed at the opposite end of the table from her), I instead handed her a newspaper article with the headline &lt;a href=&quot;http://www.abendblatt.de/ratgeber/wissen/article114765123/Millionen-Tote-durch-zu-hohen-Salzkonsum.html&quot;&gt;&quot;Millions of deaths from excessive salt consumption&quot;&lt;/a&gt;. Just my way of saying I love you, honey! (And after she threw the newspaper in my face, I handed her the salt.)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Back to the Grind</title>
+   <link href="http://www.papascott.de/archives/2013/04/02/back-to-the-grind/"/>
+   <updated>2013-04-02T22:36:58+02:00</updated>
+   <id>http://www.papascott.de/archives/2013/04/02/back-to-the-grind</id>
+   <content type="html">&lt;p&gt;Forgive me, internet, for I have sinned. It has been over 3 months since my last blog post.&lt;/p&gt;
+&lt;p&gt;And about the time of that last blog post I noticed that my weight and fitness were both leaving much to be desired. (I&#39;m sure my wife noticed long before I did, and I&#39;m sure she tried to let me know about it, and I&#39;m even more sure I did my best to ignore her.) My weight was brushing up to triple-figures in kilograms (that&#39;s 220 pounds in dog years), and that was my wake-up call.&lt;/p&gt;
+&lt;p&gt;For the past couple of months I&#39;ve been trying to put myself first as far as diet and exercise go. Instead of just thinking about going to the gym, I actually went to the gym three times a week. As motivation I bought a Spotify subscription for my cell phone and a set of &lt;a href=&quot;http://www.plantronics.com/us/product/backbeat-go&quot;&gt;Plantronics BackBeat Go&lt;/a&gt; wireless sport headphones (as &lt;a href=&quot;http://vowe.net/archives/013489.html&quot;&gt;recommended by vowe&lt;/a&gt;… with gadgets you can do much worse than to buy &lt;a href=&quot;http://vowe.net/archives/013739.html&quot;&gt;what vowe keeps&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I also retook the &lt;a href=&quot;http://www.myline24.de/&quot;&gt;MyLine&lt;/a&gt; nutrition course at our gym. Having taken it once before, it all sounded familiar and I was able to take more of it to heart than the first time. The first change they recommend is to eat 5 times a day. That&#39;s not as easy as it sounds. Avoiding alcohol is also a challenge. :-)&lt;/p&gt;
+&lt;p&gt;But between the workouts and the nutrition and the positive motivation I was able to see results after two months. 6 kilos lost. Body fat reduced by nearly 3 percentage points. Waist and hips 3 cm smaller. Not bad for a guy who just turned 51.&lt;/p&gt;
+&lt;p&gt;If you&#39;re doing the math, you&#39;ll know my weight is not yet ideal. (To help you calculate BMI, my height is 174 cm. As my trainer said, if I were 15 cm taller my weight would be ideal.) So&#39;ll I&#39;ll be sticking with the program for another 3 months.&lt;/p&gt;
+&lt;p&gt;As it turned out, my next goal has been handed to me on a silver platter. Our business co-sponsors the local &quot;&lt;a href=&quot;http://www.buchholzerstadtlauf.de/&quot;&gt;Stadtlauf&lt;/a&gt;&quot; (city run) in June, and the organizer told (not asked) my wife, &quot;and your husband will run 5K this time&quot;. I&#39;ll take that as a challenge.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>More Blessed to Give</title>
+   <link href="http://www.papascott.de/archives/2012/12/29/more-blessed-to-give/"/>
+   <updated>2012-12-29T08:38:37+01:00</updated>
+   <id>http://www.papascott.de/archives/2012/12/29/more-blessed-to-give</id>
+   <content type="html">&lt;p&gt;I&#39;m not a particularly materialistic person. It&#39;s said that it is more blessed to give than to receive. If that&#39;s the case, then I had a particularly blessed Christmas. I&#39;ve been blessed by a ratio of approximately 10 to 1.&lt;/p&gt;
+&lt;p&gt;A part of this is due to the arrangement that my in-laws have with one another, to not arrange gifts among the adults, but only for the nieces and nephews and then with a strict price limit. In this arrangement everything is systematic and pre-arranged without any risk of surprise or forethought. The suggested gifts are specified to the last detail, usually accompanied by a ISBN number or an Amazon link. Those who have no specific wishes simply wish for iTunes gift cards. Larger suggestions can be combined among families or with Oma, with a complicated accounting of how the costs are shared and who pays whom for what.&lt;/p&gt;
+&lt;p&gt;As you may know, our gift for Christopher this was a somewhat expensive musical instrument, a set of small pipes imported from Canada. My idea was that the in-laws could give a share of the instrument as their gift to Christopher: the set budget for Christmas and birthday would cover one-twelfth of the cost. I assumed this would be entered into the post-Christmas cost-of-gift accounting. But for some reason, perhaps because the small pipes did not have an item number at Amazon, the in-laws had all instead prepared envelopes with cash for Christopher. That was somewhat awkward as he already had gotten the pipes on Christmas Eve, so I had to snatch the cash from the cards. One of them had even pasted the bills with double-sides sticky pads to the card, which could only be removed with 10 minutes elbow grease and nail polish.&lt;/p&gt;
+&lt;p&gt;For my gifts within the family I did my best to break the rules about avoiding surprise and forethought. For Christopher I found a couple of his favorite US groceries (Honey-Nut Cheerios!), for my wife some Brazilian jewelry and her specific wish for a bag for eyeglasses on her running belt (she lost a pair in the woods a couple of months ago; if you see a wild boar wearing bifocals you know who they belong to). For both I found a print of a hand-drawn map of London to remember our recent trip.&lt;/p&gt;
+&lt;p&gt;I&#39;ll admit I&#39;m being selective about counting gifts received. I&#39;m not counting cash from the US (saves on shipping and I can pick out what I want), and I&#39;m also not counting the colored sugar-and-spice calendar given to both my wife and me. I will also admit that the 50-year-old male is not the easiest to pick out presents for. I probably wouldn&#39;t know what to get myself.&lt;/p&gt;
+&lt;p&gt;In the end my best and only present is a blue terry-cloth bathrobe. I already had a blue terry-cloth bathrobe, but it was 10 years old and my wife decided it was too ragged to look at anymore. The new robe is longer but not as warm. It will also be a constant reminder of how blessed I was this Christmas.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Good People and The Criminals</title>
+   <link href="http://www.papascott.de/archives/2012/12/18/the-good-people-and-the-criminals/"/>
+   <updated>2012-12-18T21:52:29+01:00</updated>
+   <id>http://www.papascott.de/archives/2012/12/18/the-good-people-and-the-criminals</id>
+   <content type="html">&lt;p&gt;In the wake of the awful shooting in Newtown, Connecticut last week I&#39;ve been searching for the perfect words to say. I still haven&#39;t found them, and I may never will, but my high school friend Beth posted her thoughts on Facebook. They are pretty much the most reasonable words I&#39;ve read so far, and with her permission I repeat them here...&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;There is something missing from the discussion about guns and violence and mass shootings going on this past week. The underlying assumptions about people. The &quot;guns don&#39;t kill people, people do&quot; folks assume there are two clear distinct groups of people: criminals and good people. If good people are armed, they can thwart the criminals. We can&#39;t &quot;punish&quot; the good people in our attempts to control criminals.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;I reject that view of the world. We are all just people. We are all capable of being loving and caring. We are all capable of being selfish and fearful. We can all be overwhelmed by grief, terror and yes, even rage. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;I readily confess to my darkness. I get pissed off while driving. I become too protective of the ones I love. I rage against the machine. I reach the end of my rope and become irrational. And when I do, the world is a safer place because I don&#39;t have a gun on my person. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;I enjoy shooting. I really really do. And I have pretty decent aim. But I think we are all safer for me not having a gun on my person at all times. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;When does a &quot;good person&quot; who deserves to have a gun become a &quot;criminal&quot; who we need guns to stop?&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;I maintain we are all a bit of both.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Blue Light Special</title>
+   <link href="http://www.papascott.de/archives/2012/12/05/blue-light-special/"/>
+   <updated>2012-12-05T19:06:08+01:00</updated>
+   <id>http://www.papascott.de/archives/2012/12/05/blue-light-special</id>
+   <content type="html">&lt;p&gt;&lt;img class=&quot;alignright size-medium wp-image-15491&quot; title=&quot;41HZsPbqVaL._SL500_&quot; src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/12/41HZsPbqVaL._SL500_-300x300.jpg&quot; alt=&quot;Blue Light Special&quot; width=&quot;300&quot; height=&quot;300&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We just bought one of &lt;a href=&quot;http://www.amazon.de/gp/product/B006K0PUKO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B006K0PUKO&amp;amp;linkCode=as2&amp;amp;tag=papascott-21&quot;&gt;these&lt;/a&gt; at Amazon to try out for our restaurants... if it works out we might buy 3 more. It&#39;s an battery-powered alarm clock with siren and flashing police light. Can anyone guess why we might want this? Hint: we&#39;re not waking up any sleepers.&lt;/p&gt;
+&lt;p&gt;Here&#39;s the German title at Amazon: &lt;a href=&quot;http://www.amazon.de/gp/product/B006K0PUKO/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B006K0PUKO&amp;amp;linkCode=as2&amp;amp;tag=papascott-21&quot;&gt;Signalwecker &#39;BLAULICHT&#39; mit Sirenenalarm - Tatütata... Aufstehen... Der bekommt jeden wach!&lt;/a&gt;&lt;img style=&quot;border: none !important; margin: 0px !important;&quot; src=&quot;http://www.assoc-amazon.de/e/ir?t=papascott-21&amp;amp;l=as2&amp;amp;o=3&amp;amp;a=B006K0PUKO&quot; alt=&quot;&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update 10 Dec 2012&lt;/strong&gt; Our product has arrived, and as you can see it&#39;s not half bad (although difficult to operate with one hand).&lt;/p&gt;
+&lt;p&gt;&lt;object style=&quot;height: 390px; width: 640px&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/wJ-hd4qz6w0?version=3&amp;amp;feature=player_detailpage&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;http://www.youtube.com/v/wJ-hd4qz6w0?version=3&amp;amp;feature=player_detailpage&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;480&quot; height=&quot;360&quot; /&gt;&lt;/object&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>London for Absolute Beginners</title>
+   <link href="http://www.papascott.de/archives/2012/11/30/london-for-absolute-beginners/"/>
+   <updated>2012-11-30T22:03:13+01:00</updated>
+   <id>http://www.papascott.de/archives/2012/11/30/london-for-absolute-beginners</id>
+   <content type="html">&lt;p&gt;Some random points from our &lt;a href=&quot;http://www.papascott.de/archives/2012/10/08/antalya-and-london/&quot;&gt;visit to London&lt;/a&gt; last month.&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/8231128036&quot; title=&quot;View &#39;IMG_1186&#39; on Flickr.com&quot;&gt;&lt;img style=&quot;float:right;&quot; border=&quot;0&quot; alt=&quot;IMG_1186&quot; width=&quot;240&quot; src=&quot;http://farm9.staticflickr.com/8067/8231128036_de59d8944c_m.jpg&quot; height=&quot;180&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Taking the cheap train from Gatwick to London makes a whole lot a stops and is probably not worth the trouble&lt;/li&gt;
+&lt;li&gt;If you are at all claustrophobic and get cold shivers from the elevator scenes in Speed, you certainly want to avoid the Covent Garden tube station at all costs. Only way out are crowded elevators or 193 steps.&lt;/li&gt;
+&lt;li&gt;If you&#39;re German by nature and get to Buckingham Palace 90 minutes before the Changing of the Guard, the friendly bobbies will make sure no late-coming tourists will cut in front of you.&lt;/li&gt;
+&lt;li&gt;The employment profile of the hospitality industry in London is dominated by Eastern Europeans. Pub food is, however, tastier and less expensive than we had been led to believe.&lt;/li&gt;
+&lt;p&gt;	&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/8229914155&quot; title=&quot;View &#39;IMG_1131&#39; on Flickr.com&quot;&gt;&lt;img style=&quot;float:right;&quot; border=&quot;0&quot; alt=&quot;IMG_1131&quot; width=&quot;240&quot; src=&quot;http://farm9.staticflickr.com/8057/8229914155_9158542d90_m.jpg&quot; height=&quot;180&quot; /&gt;&lt;/a&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.robroypub.co.uk/&quot;&gt;Rob Roy&lt;/a&gt; is a Scottish pub near Paddington where you can be served haggis, if your pipe-learning son is so inclined and you can wait for the cook to come in for the evening shift. &lt;/li&gt;
+&lt;li&gt;People in London are colorful in every sense of the word. Quite refreshing.&lt;/li&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/8232462575&quot; title=&quot;View &#39;IMG_0441&#39; on Flickr.com&quot;&gt;&lt;img style=&quot;float:right;&quot; border=&quot;0&quot; alt=&quot;IMG_0441&quot; width=&quot;179&quot; src=&quot;http://farm9.staticflickr.com/8480/8232462575_15f2d544d0_m.jpg&quot; height=&quot;240&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;The streets and train stations are impeccably clean, even by German standards.&lt;/li&gt;
+&lt;li&gt;The tube stations seem to have been planned to ensure the longest possible walk when changing lines.&lt;/li&gt;
+&lt;li&gt;Greenwich is a bit out of the way but a nice quiet base to stay. The DLR gets you to central London in 20 minutes, and Sainsbury&#39;s Local will meet all your basic food and drink needs. Plus you can head to the Royal Observatory and stand on the &lt;a href=&quot;http://en.wikipedia.org/wiki/Prime_Meridian_(Greenwich)&quot;&gt;Prime Meridian&lt;/a&gt;. &lt;/li&gt;
+&lt;li&gt;The &lt;a href=&quot;http://www.hrp.org.uk/TowerOfLondon/&quot;&gt;Tower of London&lt;/a&gt; lives up to the hype. The &lt;a href=&quot;http://www.wbstudiotour.co.uk/&quot;&gt;Making of Harry Potter studio tour&lt;/a&gt; is expensive, but worth it if you&#39;re into Harry Potter.&lt;/li&gt;
+&lt;li&gt;EasyJet is a cheap airline in every sense of the word. &lt;/li&gt;
+&lt;li&gt;We&#39;ll be back.&lt;/li&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/8231309776&quot; title=&quot;View &#39;IMG_1244&#39; on Flickr.com&quot;&gt;&lt;img style=&quot;float:right;&quot; border=&quot;0&quot; alt=&quot;IMG_1244&quot; width=&quot;180&quot; src=&quot;http://farm9.staticflickr.com/8070/8231309776_1a96e07907_m.jpg&quot; height=&quot;240&quot; /&gt;&lt;/a&gt; &lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/8230185471&quot; title=&quot;View &#39;IMG_1221&#39; on Flickr.com&quot;&gt;&lt;img style=&quot;float:left;&quot; border=&quot;0&quot; alt=&quot;IMG_1221&quot; width=&quot;180&quot; src=&quot;http://farm9.staticflickr.com/8340/8230185471_d1d56ceee5_m.jpg&quot; height=&quot;240&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Touch 'Em All</title>
+   <link href="http://www.papascott.de/archives/2012/10/25/touch-em-all/"/>
+   <updated>2012-10-25T23:53:42+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/10/25/touch-em-all</id>
+   <content type="html">&lt;p&gt;I was somewhat stunned to read that today is the &lt;a href=&quot;http://aarongleeman.com/2012/10/25/twins-notes-40-man-cuts-declining-capps-baker-talks-and-25-years-ago/&quot;&gt;25th anniversary of the Minnesota Twins winning the 1987 World Series&lt;/a&gt;. Given that I am now 50, that is half my life ago. And while a sports event certainly didn&#39;t play a direct role in our lives, it marked a milestone. 1987 was an important year for us that eventually brought us to Germany.&lt;/p&gt;
+&lt;p&gt;For one thing, we actually saw a lot a Twins games that year. We lived in south Minneapolis, we could easily bike to the Metrodome, and the bleacher seats in center field cost just $3. And they were the best seats in the house, since we were right behind the center fielder Kirby Puckett, and could see him make his spectacular catches. We watched at least a dozen games live, maybe even 20, but did not attend any playoff or World Series games.&lt;/p&gt;
+&lt;p&gt;For me, that fall of 1987 was the beginning of my PhD program at the University of Minnesota. But I was beginning to have my doubts as to whether I was cut out for an academic career, and the choices involved to get academic funding. As an Agricultural Economist, let&#39;s just say the locations for research are not among the metropolises of the world (Davis, Iowa City, Norman, College Station, etc.). So it was really the beginning of the end, and 6 months later I dropped out.&lt;/p&gt;
+&lt;p&gt;As for my wife, in the fall of 1987 her first boss was in the process of selling his McDonald&#39;s franchise in Minneapolis to move to Arizona. Her superior and many of her colleagues would move to Arizona too, and after a year of sticking it out with the new franchisee, we ended up moving to Arizona as well. We weren&#39;t able to find a place with her old boss in Arizona, but made the connections that brought us to Germany in 1990.&lt;/p&gt;
+&lt;p&gt;So October 1987 was a turning point in our lives, and it just happened that the Twins won the World Series that month. Was it really 25 years ago?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Antalya and London</title>
+   <link href="http://www.papascott.de/archives/2012/10/08/antalya-and-london/"/>
+   <updated>2012-10-08T07:56:01+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/10/08/antalya-and-london</id>
+   <content type="html">&lt;p&gt;Despite my attempt to &lt;a href=&quot;http://www.papascott.de/archives/2012/08/16/travel-blog/&quot;&gt;start a travel blog&lt;/a&gt; a couple of months ago, we don&#39;t actually get out and about that much. Owning a business and having a school-aged child just cramps our style somehow. So it&#39;s somewhat unusual that this month, we have not just one, but two (count &#39;em. two!) foreign trips planned.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/10/Hotel_100.jpg&quot; alt=&quot;Hotel 100&quot; border=&quot;0&quot; width=&quot;100&quot; height=&quot;75&quot; style=&quot;float:right;&quot; /&gt;The first is this week and actually a business trip. We all (we&#39;re taking number one son out of school for 3 days) fly to Antalya, Turkey, for the annual fall franchisee meeting at some luxury hotel built for Russian oligarchs. It will be warmer than home, though, and we are extending our stay by a night so we have all day Saturday to ourselves before flying back just in time for school and work on Monday.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/10/AlMdzRpCEAA3-f5.jpg&quot;&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/10/AlMdzRpCEAA3-f5-300x224.jpg&quot; alt=&quot;&quot; title=&quot;AlMdzRpCEAA3-f5.jpg&quot; width=&quot;300&quot; height=&quot;224&quot; class=&quot;alignright size-medium wp-image-4844&quot; /&gt;&lt;/a&gt;The second half of October our son as fall break from school, and I&#39;ll be cashing in &lt;a href=&quot;http://twitter.com/papascott/statuses/167510377884684288&quot;&gt;my birthday present&lt;/a&gt; from my family, a 5 night trip to London. Of course, &quot;birthday present&quot; means 1) the entire family comes along, and 2) they only come up with the idea and I get to do all the planning myself. Despite having lived in Europe for over 20 years, we&#39;ve never been to London so it will be all new to us. All I know about London is that it&#39;s wonderful and expensive, so we&#39;ll be staying in Greenwich and be taking the train a lot to see the sights.&lt;/p&gt;
+&lt;p&gt;After that we&#39;ll be all travelled out for while.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>They are all here for your anniversary, Miss Sophie</title>
+   <link href="http://www.papascott.de/archives/2012/09/06/they-are-all-here-for-your-anniversary-miss-sophie/"/>
+   <updated>2012-09-06T14:54:31+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/09/06/they-are-all-here-for-your-anniversary-miss-sophie</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/09/Hennepin_County_Government_Center.jpg&quot;&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/09/Hennepin_County_Government_Center-228x300.jpg&quot; alt=&quot;&quot; title=&quot;Hennepin_County_Government_Center.jpg&quot; width=&quot;228&quot; height=&quot;300&quot; class=&quot;size-medium wp-image-4822&quot; /&gt;&lt;/a&gt; Hennepin County Government Center - The Scene of the Crime&lt;/p&gt;
+&lt;p&gt;Twenty-nine years ago today was the &lt;a href=&quot;http://www.papascott.de/archives/2000/09/06/&quot;&gt;Tuesday after Labor Day&lt;/a&gt; when, as &lt;a href=&quot;http://brucespringsteen.net/songs/the-river&quot;&gt;Bruce Springsteen put it&lt;/a&gt;, &quot;the judge put it all to rest&quot;.&lt;/p&gt;
+&lt;p&gt;These days we can only joke about how long it has been. We can still quote the &lt;s&gt;English&lt;/s&gt; &lt;s&gt;German&lt;/s&gt; (whatever) TV classic &lt;a href=&quot;http://en.wikipedia.org/wiki/Dinner_for_One&quot;&gt;&quot;Dinner for One&quot;&lt;/a&gt; to one another: &quot;You look younger than ever, love! Younger than ever!&quot; Of course, the line may wear out someday. If someday this blog ceases to be updated and you hear about a particularly gory family drama* from northern Germany, you&#39;ll know I tried the line once too often.&lt;/p&gt;
+&lt;p&gt;*Family drama (&lt;em&gt;Familiendrama&lt;/em&gt;) is one of those phrases that in German means something completely different than in English. For us it might mean a TV show suitable to watch with your kids, or perhaps the &quot;discussion&quot; that ensues when a teenaged daughter tells her parents that she is pregnant. In German it refers to a murder (often a murder/suicide) within a family.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Travel Blog</title>
+   <link href="http://www.papascott.de/archives/2012/08/16/travel-blog/"/>
+   <updated>2012-08-16T19:05:05+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/08/16/travel-blog</id>
+   <content type="html">&lt;p&gt;We&#39;ve just returned from 2 weeks&#39; vacation. I&#39;ve heard that one can earn fame, fortune and lots of SEO love by writing travel blog posts, so I&#39;ll try my hand at it.&lt;/p&gt;
+&lt;p&gt;We visited my parents&#39; lake cabin in Minnesota. They bought the cabin when I was a kid, and my wife and I have been going there for 30 years, so we didn&#39;t really see anything new.&lt;/p&gt;
+&lt;p&gt;Insider tip for air travel: if you a German traveling to the US, make sure your &lt;a href=&quot;https://esta.cbp.dhs.gov/esta/&quot;&gt;ESTA&lt;/a&gt; is up to date. Otherwise you might have the joy of flying standby without your family the next day! Trust us, we know!&lt;/p&gt;
+&lt;p&gt;Since we stayed with my parents, we got a really good deal on lodging. You have to really be an insider to get that rate, though. No way to get it online.&lt;/p&gt;
+&lt;p&gt;We saved money by not renting a car, but having my parents take us from and to the airport. I doubt that they would do that for anybody else. We did spring for some gas.&lt;/p&gt;
+&lt;p&gt;As for the local cuisine, you have to catch it yourself from the lake. Or buy it yourself from the meat market. Either way, no one cooks it for you. That&#39;s what the gas grill is for.&lt;/p&gt;
+&lt;p&gt;As for local people and customs, we did have a mini family reunion the first Sunday we were they. Since I&#39;ve known my relatives all my life, I didn&#39;t really get any new insights on local life (although a couple of them did rag on me for not blogging often enough).&lt;/p&gt;
+&lt;p&gt;I hear that including a picture can increase the influence of travel blog posts. Here it is. My wife has several dozen more just like it.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/08/547851_339918369429164_1126097241_n.jpeg&quot;&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/08/547851_339918369429164_1126097241_n-300x225.jpeg&quot; alt=&quot;&quot; title=&quot;547851_339918369429164_1126097241_n.jpeg&quot; width=&quot;300&quot; height=&quot;225&quot; class=&quot;alignnone size-medium wp-image-4815&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I am not an Expat Blogger 8: Sexual Orientation</title>
+   <link href="http://www.papascott.de/archives/2012/07/27/i-am-not-an-expat-blogger-8-sexual-orientation/"/>
+   <updated>2012-07-27T18:05:41+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/27/i-am-not-an-expat-blogger-8-sexual-orientation</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;I am not gay.&lt;/strong&gt; Well, most expat bloggers aren&#39;t either, but there&#39;s a fair number who are. Must have something to do with the fact that you can marry who you want here.&lt;/p&gt;
+&lt;p&gt;(part of a &lt;a href=&quot;http://www.papascott.de/archives/category/not-an-expat-blogger/&quot;&gt;series&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I am not an Expat Blogger 7: Food</title>
+   <link href="http://www.papascott.de/archives/2012/07/27/i-am-not-an-expat-blogger-7-food/"/>
+   <updated>2012-07-27T10:55:09+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/27/i-am-not-an-expat-blogger-7-food</id>
+   <content type="html">&lt;p&gt;(Note: the name of the series has been updated to more accurately reflect the spirit in which it&#39;s intended.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I don&#39;t miss American food.&lt;/strong&gt; It seems every expat blogger goes through a phase where they&#39;re missing some type of food from home, usually something heavily processed and extremely unhealthy. Comfort food. Some expats never snap out of it.&lt;/p&gt;
+&lt;p&gt;Maybe it&#39;s because our business is food (my wife says to add that you&#39;re all welcome to buy all the comfort food you want from us!), or because I learned economics and understand supply and demand, but I was never all that emotionally attached to food from home. If there&#39;s something you miss, learn to make it (or a close approximation) yourself.&lt;/p&gt;
+&lt;p&gt;And you can find peanut butter and Oreos at pretty much any German supermarket these days.&lt;/p&gt;
+&lt;p&gt;(part of a &lt;a href=&quot;http://www.papascott.de/archives/category/not-an-expat-blogger/&quot;&gt;series&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I am not an Expat Blogger 6: Beer</title>
+   <link href="http://www.papascott.de/archives/2012/07/25/i-am-not-an-expat-6-beer/"/>
+   <updated>2012-07-25T08:03:34+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/25/i-am-not-an-expat-6-beer</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;I don&#39;t drink beer.&lt;/strong&gt; Well, not much anyway. We used to, but we&#39;ve now switched to wine.&lt;/p&gt;
+&lt;p&gt;(part of a &lt;a href=&quot;http://www.papascott.de/archives/category/not-an-expat/&quot;&gt;series&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I am not an Expat Blogger 5: Public Transportation</title>
+   <link href="http://www.papascott.de/archives/2012/07/24/i-am-not-an-expat-blogger-5-public-transportation/"/>
+   <updated>2012-07-24T07:27:45+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/24/i-am-not-an-expat-blogger-5-public-transportation</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;I don&#39;t use public transportation.&lt;/strong&gt; Most novice expats will gush about how in Germany they don&#39;t need a car at all, and with bike, bus, tram, subway, commuter train, or whatever, they can get everywhere they need to go.&lt;/p&gt;
+&lt;p&gt;We do have a public bus that stops in our village. During rush hour it stops every hour, during the day every two hours. That might be OK for commuting to school or work (the times are coordinated with trains to Hamburg), but it&#39;s not particularly convenient for daily life. And since there are no shops in our village at all, not even a bakery, we&#39;d be stuck without two cars.&lt;/p&gt;
+&lt;p&gt;That said, we do try to use public transportation to get to Hamburg when we can. But we drive a car to the station.&lt;/p&gt;
+&lt;p&gt;(This also reminds me of my favorite German joke: &lt;em&gt;Alle reden vom öffentlichen Verkehr, aber keiner traut sich!&lt;/em&gt; It can&#39;t really be translated, but &lt;em&gt;Verkehr&lt;/em&gt; can mean either transportation or intercourse, so think of public &lt;em&gt;Verkehr&lt;/em&gt;.)&lt;/p&gt;
+&lt;p&gt;(part of a &lt;a href=&quot;http://www.papascott.de/archives/category/not-an-expat/&quot;&gt;series&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I am not an Expat Blogger 4: Vacation</title>
+   <link href="http://www.papascott.de/archives/2012/07/23/i-am-not-an-expat-blogger-4-vacation/"/>
+   <updated>2012-07-23T10:29:42+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/23/i-am-not-an-expat-blogger-4-vacation</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;I don&#39;t get 5 weeks vacation.&lt;/strong&gt; Or 6. Or 4. In Germany there&#39;s a &lt;a href=&quot;http://de.wikipedia.org/wiki/Bundesurlaubsgesetz&quot;&gt;&lt;em&gt;Bundesurlaubsgesetz&lt;/em&gt;&lt;/a&gt; that regulates vacation time for employees. The legal minimum is 4 weeks per year, although most industries have contracts that call for more. Our employees get 5 to 6 weeks vacation, depending on longevity, as set in our &lt;a href=&quot;http://www.bundesverband-systemgastronomie.de/ueber-den-bds/tarifabschluss.html&quot;&gt;&lt;em&gt;Manteltarifvertrag&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But as a business owner you&#39;re on your own. And our business tends to be busiest when other people are enjoying themselves (weekends, school vacations and holidays). We tend to take a couple days off time and again rather than a bunch of days in one piece. The work is always waiting for us when we get back.&lt;/p&gt;
+&lt;p&gt;Next week, though, we are heading to Minnesota for a couple of weeks. The cell phones are staying home.&lt;/p&gt;
+&lt;p&gt;(part of a &lt;a href=&quot;http://www.papascott.de/archives/category/not-an-expat/&quot;&gt;series&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fire Camp</title>
+   <link href="http://www.papascott.de/archives/2012/07/21/fire-camp/"/>
+   <updated>2012-07-21T22:41:45+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/21/fire-camp</id>
+   <content type="html">&lt;p&gt;We interrupt the &quot;I&#39;m not an expat&quot; series (AKA &quot;expats don&#39;t understand me and noone else does either&quot;) for an important dispatch from the home front. Our village of Lüllau (population 500) is usually pretty quiet, but today the population expanded 4 times and the noise level as well. Our local volunteer fire department is playing host to the &lt;em&gt;Kreisjugendfeuerwehrzeltlager&lt;/em&gt; (literally &quot;county youth fire dept tent camp&quot;) with 1500 participants on a field just outside our quiet village.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/07/feld.png&quot; alt=&quot;Zeltlager vorher&quot; border=&quot;0&quot; width=&quot;450&quot; height=&quot;150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This empty field (where we celebrate the village Easter fire every year) is now covered with tents, a field kitchen, toilets and showers and everything to keep 1500 youth and adult volunteer fire fighters happy for eight days. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7617303796&quot; title=&quot;View &#39;IMG_0317&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_0317&quot; width=&quot;240&quot; src=&quot;http://farm9.staticflickr.com/8142/7617303796_bb438649f7_m.jpg&quot; height=&quot;179&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7617268292&quot; title=&quot;View &#39;IMG_0306&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_0306&quot; width=&quot;240&quot; src=&quot;http://farm8.staticflickr.com/7280/7617268292_57dd20c4b5_m.jpg&quot; height=&quot;179&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7617271638&quot; title=&quot;View &#39;IMG_0307&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_0307&quot; width=&quot;240&quot; src=&quot;http://farm9.staticflickr.com/8290/7617271638_14cd1b2a59_m.jpg&quot; height=&quot;179&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7617275752&quot; title=&quot;View &#39;IMG_0308&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_0308&quot; width=&quot;240&quot; src=&quot;http://farm9.staticflickr.com/8161/7617275752_96e82d7915_m.jpg&quot; height=&quot;179&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7617290470&quot; title=&quot;View &#39;IMG_0313&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_0313&quot; width=&quot;240&quot; src=&quot;http://farm9.staticflickr.com/8163/7617290470_126f0d5d14_m.jpg&quot; height=&quot;179&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7617285432&quot; title=&quot;View &#39;IMG_0311&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_0311&quot; width=&quot;240&quot; src=&quot;http://farm9.staticflickr.com/8287/7617285432_2a6a76cbc5_m.jpg&quot; height=&quot;179&quot; /&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7617287928&quot; title=&quot;View &#39;IMG_0312&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_0312&quot; width=&quot;240&quot; src=&quot;http://farm9.staticflickr.com/8159/7617287928_c7125432a2_m.jpg&quot; height=&quot;179&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7617278608&quot; title=&quot;View &#39;IMG_0309&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_0309&quot; width=&quot;240&quot; src=&quot;http://farm9.staticflickr.com/8166/7617278608_0313593420_m.jpg&quot; height=&quot;179&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And of course our son is roughing it just a couple hundred meters away from home!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7617261790&quot; title=&quot;View &#39;IMG_0305&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_0305&quot; width=&quot;500&quot; src=&quot;http://farm8.staticflickr.com/7249/7617261790_25fcdcf42b.jpg&quot; height=&quot;374&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;All in all, the camp might be a little loud, but our village of Lüllau will have the best fire protection in the whole county for the next week!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I am not an Expat Blogger 3: Experience</title>
+   <link href="http://www.papascott.de/archives/2012/07/20/i-am-not-an-expat-3-experience/"/>
+   <updated>2012-07-20T08:51:53+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/20/i-am-not-an-expat-3-experience</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;I had done this before.&lt;/strong&gt; You know the feeling of being alone in a strange culture, not knowing the language, coming to grips with customs you don&#39;t understand, and in the end coming to grips with everything and realizing that, yes, not only can you survive in a such an environment, you can thrive.&lt;/p&gt;
+&lt;p&gt;Been there, done that, and long before I came to Germany. At age 17 I was an exchange student in Fortaleza, in northeastern Brazil. While Germany can be strange and wonderful at times, it is nowhere as strange and wonderful as Brazil. For a boy from the American Midwest, I was most impressed the huge difference between rich and poor (not to mention the beaches, the caipirinhas, and the music).&lt;/p&gt;
+&lt;p&gt;But the main thing I picked up was self-confidence. I knew if I could make it there, I could make it anywhere. So moving to Germany was, emotionally speaking, a piece of cake.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Fortaleza&quot; title=&quot;Wikipedia - Fortaleza&quot;&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/07/Fortaleza_map.jpg&quot; alt=&quot;&quot; title=&quot;Fortaleza_map&quot; width=&quot;249&quot; height=&quot;245&quot; class=&quot;alignnone size-full wp-image-4783&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(part of a &lt;a href=&quot;http://www.papascott.de/archives/category/not-an-expat/&quot;&gt;series&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I am not an Expat Blogger 2: Soccer</title>
+   <link href="http://www.papascott.de/archives/2012/07/18/i-am-not-an-expat-2-soccer/"/>
+   <updated>2012-07-18T09:28:13+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/18/i-am-not-an-expat-2-soccer</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;I say soccer not football.&lt;/strong&gt; Because that&#39;s what it&#39;s called in my language. Nuff said.&lt;/p&gt;
+&lt;p&gt;(part of a &lt;a href=&quot;http://www.papascott.de/archives/category/not-an-expat/&quot;&gt;series&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>I am not an Expat Blogger 1: The Language</title>
+   <link href="http://www.papascott.de/archives/2012/07/17/i-am-not-an-expat-blogger-1-the-language/"/>
+   <updated>2012-07-17T19:10:24+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/17/i-am-not-an-expat-blogger-1-the-language</id>
+   <content type="html">&lt;p&gt;I&#39;ve always thought of myself as an &quot;expat blogger in Germany&quot;, but lately I&#39;m not so sure. Reading blog posts from my fellow expats usually results in shrugs or a WTF. Maybe I&#39;m becoming out of touch, or I&#39;m not a very typical expat… (the first of a &lt;a href=&quot;http://www.papascott.de/archives/category/not-an-expat/&quot;&gt;series&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I don&#39;t speak English.&lt;/strong&gt; In real life, outside the internet, I speak almost no English at all. We speak German at home (my wife and I made a deal to always speak the language of the country we&#39;re in to one another… we&#39;d be in big trouble if we ever moved to France!). My job (business) is all German. Other than the proprietor of our local Baja California restaurant, I know no native English speakers (and she&#39;s actually a US-born German).&lt;/p&gt;
+&lt;p&gt;Back in the &#39;90s I worked for an English-language publisher, where we had a mostly-English-speaking office (Brits slightly outnumbering Americans). These days, though, about the only English I speak is when I phone home to my family, or I&#39;m helping my son with his English homework from school.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mysterious Invitation</title>
+   <link href="http://www.papascott.de/archives/2012/07/06/mysterious-invitation/"/>
+   <updated>2012-07-06T08:32:36+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/07/06/mysterious-invitation</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7512939800&quot; title=&quot;View &#39;Einladung&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Einladung&quot; width=&quot;240&quot; src=&quot;https://farm9.staticflickr.com/8424/7512939800_39456f33f6_m.jpg&quot; height=&quot;128&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;Yes, we knew that July 1 was the &lt;a href=&quot;http://www.papascott.de/archives/2007/07/01/first-day-of-work/&quot;&gt;5th anniversary of our business&lt;/a&gt;, but we didn&#39;t pay any attention to it until we received a mysterious invitation in the (e)mail, to a &quot;Candle Light Dinner&quot; at our restaurant in Dibbersen.&lt;/p&gt;
+&lt;p&gt;We arrived to find a &lt;em&gt;maître d&#39;&lt;/em&gt; at the door, a table set in a quiet corner with candles, flowers and tablecloth, a printed menu, and a hostess ready to take our order.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7512684186&quot; title=&quot;View &#39;IMG_1714&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_1714&quot; width=&quot;320&quot; src=&quot;https://farm8.staticflickr.com/7119/7512684186_1bdf444c83_n.jpg&quot; height=&quot;239&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We chose to split the special of the day, the &lt;a href=&quot;http://www.mcdonalds.de/produkte/produktfinder.html#/steakhouse_classic&quot;&gt;Steakhouse Classic&lt;/a&gt; in the current promotion as a McMenu with 2 side salads, a side order of Chicken Sticks, and a vintage 2012 Cola Light (Cola Zero for me) to drink. We passed on desert, deciding instead on an Espresso Macchiato to round off the meal.&lt;/p&gt;
+&lt;p&gt;All in all it was a very nice gesture and great fun, and many thanks to our crew for the idea and the invitation. However, it got us thinking: maybe other guests would enjoy an exclusive, fun and special candlelight dinner at our McDonald&#39;s? Maybe it&#39;s something we could offer…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/51035717986@N01/7512686104&quot; title=&quot;View &#39;IMG_1716&#39; on Flickr.com&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;IMG_1716&quot; width=&quot;239&quot; src=&quot;https://farm8.staticflickr.com/7125/7512686104_087cf80a25_n.jpg&quot; height=&quot;320&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Brawl on the Highway</title>
+   <link href="http://www.papascott.de/archives/2012/06/30/brawl-on-the-highway/"/>
+   <updated>2012-06-30T17:01:26+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/06/30/brawl-on-the-highway</id>
+   <content type="html">&lt;p&gt;We always thought life in our sleepy little village was pretty quiet, but think again! Freely translated from the &lt;a href=&quot;http://kreiszeitung-wochenblatt.de/&quot;&gt;Nordheide Wochenblatt&lt;/a&gt; (30 June 2012):&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Brawl on the Highway: a driver goes bezerk over failure to yield&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;&lt;p&gt;When reason fails, some people rather trust their fists. That was the case last Thursday afternoon. The result: an injury and a whole list of charges. A driver from Buchholz (51) nearly cut off another driver (59) while pulling out of a driveway in Jesteburg. Both cars continued towards Lüllau when the older driver motioned for the first driver to stop. Both drivers get out of their cars, and the 59-yr-old driver swung a punch at the 51-yr-old. He was able to block the punch and threw one of his own, losing his cell phone in the process. The female companion of the 59-yr-old then picked up the cell phone and threw it onto a nearby field. Despite an intensive search, the cell phone was not found. A judge is scheduled to tell the two drivers what he thinks of their antics. &lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;(Our son&#39;s reaction: Which highway was that? I want to find that phone!)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Follow Me to Bubble Tea</title>
+   <link href="http://www.papascott.de/archives/2012/05/26/follow-me-to-bubble-tea/"/>
+   <updated>2012-05-26T11:30:55+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/05/26/follow-me-to-bubble-tea</id>
+   <content type="html">&lt;p&gt;Time for a business post! A couple days ago I &lt;a href=&quot;https://twitter.com/papascott/status/204798796243283969&quot; title=&quot;4 big changes coming to German McDonald&#39;s in the next 3 weeks! Never a dull day for us!&quot;&gt;teased on Twitter&lt;/a&gt; that big changes were coming to German McDonald&#39;s in the next couple of weeks. I was going to wait until the marketing started before going into detail, but now that the &lt;a href=&quot;http://www.handelsblatt.com/unternehmen/handel-dienstleister/neuheiten-bei-der-fastfood-kette-bei-mcdonalds-perlt-es-bald-seite-all/6674690-all.html&quot; title=&quot;Handelsblatt: Bei McDonald’s perlt es bald&quot;&gt;Handelsblatt newspaper has spilled the beans&lt;/a&gt;, it&#39;s OK to come out now.&lt;/p&gt;
+&lt;p&gt;The big one comes on June 11, when McDonald&#39;s starts selling bubble tea in McCafé. Bubble tea is a trend drink that originated in Taiwan and is fairly new in Europe. It&#39;s basically sweet tea with fruit syrup and tapioca &quot;boba&quot; pearls or flavored jellies. The bobas or jellies sink to the bottom of the cup and can be sucked up through the straw. With 2 sizes, 3 types of tea, 7 flavors, and 6 flavors of bobas and jellies, there are over 250 combinations possible. Bubble tea is sweet and certainly not low-calorie, but generally contains less sugar than soft drinks. There will be a coupon in the the June coupon booklet if you want to give it a try.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/05/Bubble-Tea-50.jpg&quot; alt=&quot;Bubble Tea&quot; border=&quot;0&quot; width=&quot;266&quot; height=&quot;354&quot; align=&quot;left&quot; /&gt;Bubble tea is the fastest growing segment of the fast food industry and is very popular for 13 to 20 year olds. Bubble tea shops generally import their ingredients. The jellies and bobas for McCafé Bubble Tea are produced in Germany especially for McDonald&#39;s and contain no additives. Bubble tea is a first for McDonald&#39;s in Europe (maybe worldwide?), and if it is successful here we&#39;re sure other countries will follow.&lt;/p&gt;
+&lt;p&gt;The second change is not so spectacular. Starting June 4 McDonald&#39;s will sell Brötchen for breakfast, three types of normal German Brötchen: Kaiser-, Korn and Laugenbrötchen, either with traditional condiments (butter, jam, honey, Nutella) or as a sandwich. Brötchen have been very successful for McDonald&#39;s Austria and we think they will be here, too. The marketing people call it &quot;local relevance&quot;. We just think that if you want to sell breakfast in Germany, you have to sell what Germans eat for breakfast, so it&#39;s a change we welcome.&lt;/p&gt;
+&lt;p&gt;The other changes are already out: a new &lt;a href=&quot;http://itunes.apple.com/de/app/mcdonalds-deutschland/id524943492&quot;&gt;McDonald&#39;s Deutschland iPhone app&lt;/a&gt; with in-app couponing (starting with the June booklet, not exactly cutting edge anymore but it&#39;s a start) and new lower price-point &lt;a href=&quot;http://www.mcdonalds.de/produkte/mcdeal.html&quot;&gt;&quot;McDeal&quot; menus&lt;/a&gt; that cost 3-something instead of 5- or 6-something like the &quot;McMenüs&quot;.&lt;/p&gt;
+&lt;p&gt;That&#39;s a whole lot to learn and train the next three weeks, but hey, if we wanted jobs where each day is just like the day before, we&#39;d be in a different business. :-)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Tale of Two Glasses</title>
+   <link href="http://www.papascott.de/archives/2012/05/16/a-tale-of-two-glasses/"/>
+   <updated>2012-05-16T10:16:29+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/05/16/a-tale-of-two-glasses</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/05/twoglasses.jpg&quot; alt=&quot;Two Glasses&quot; border=&quot;0&quot; width=&quot;500&quot; height=&quot;145&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;One of the joys of getting older is deteriorating eyesight. Having been near-sighted all my life, my near vision is now getting worse so that I&#39;m now in effect no-sighted.&lt;/p&gt;
+&lt;p&gt;I have experienced the joy of bifocals for the past couple of years, and have learned to unconsciously tilt my head to the appropriate angle for looking things near and far. Things in the middle (i.e. somewhat beyond arm&#39;s length) are problematic, since they are in the transition zone of the lens and one can only focus on a thin horizontal stripe at one time. That makes it difficult to look at a larger surface, like, say, a computer screen, without constantly bobbing one&#39;s head to continually adjust the angle.&lt;/p&gt;
+&lt;p&gt;But modern optometry has the solution: a separate set of computer glasses focused at the distance between your eyes and the monitor. Voilà! I could see the entire screen at once for the first time in ages! However, every medical wonder has a dark side. Or multiple dark sides. The first is having to keep track of two pairs of glasses. Given that one can only wear one pair at a time on one&#39;s face, the other pair is always someplace else, and that someplace else is never the same place where one needs them. (I have an app to ping my iPhone when I&#39;ve misplaced it. There is no such app to ping my glasses.)&lt;/p&gt;
+&lt;p&gt;Another new problem is that no matter which pair of glasses I have on, they always feel like the wrong pair. Even when they are the right pair. I was at least smart enough not to order identical frames for both glasses. The computer glasses have a ridge on the temples, so I can always feel with my fingers which pair I have on, because I can&#39;t tell just with my eyes.&lt;/p&gt;
+&lt;p&gt;The third problem is that one has to remember to switch glasses when leaving the computer. (Switching glasses when coming to the computer is easy to remember, since the first thing one notices is &quot;Oh, I cannot see the screen!&quot;) One cannot competently perform normal tasks when one can only see items exactly 20 inches from one&#39;s face. More than once I&#39;ve caught myself driving away from the house and realizing only then that I have the wrong glasses and cannot see past the windshield. Not good.&lt;/p&gt;
+&lt;p&gt;So computer glasses are both a blessing and a curse, and have made my life infinitely more complicated than before.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Space Filler</title>
+   <link href="http://www.papascott.de/archives/2012/04/30/space-filler/"/>
+   <updated>2012-04-30T17:51:52+02:00</updated>
+   <id>http://www.papascott.de/archives/2012/04/30/space-filler</id>
+   <content type="html">&lt;p&gt;This post is here only to put an A for April in the 2012 row of the archive list in the sidebar. That&#39;s all.&lt;/p&gt;
+&lt;p&gt;In the meantime I can offer this memory from a simpler time (at &lt;a href=&quot;http://holykaw.alltop.com/the-original-mcdonalds-menu&quot;&gt;Holy Kaw&lt;/a&gt; via &lt;a href=&quot;http://www.flickr.com/photos/sa_steve/2389459118/sizes/z/in/set-72157607044771700/&quot;&gt;sa-steve on Flickr&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/04/menu.jpg&quot; alt=&quot;Menu&quot; border=&quot;0&quot; width=&quot;420&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>MacMini Media Center</title>
+   <link href="http://www.papascott.de/archives/2012/03/18/macmini-media-center/"/>
+   <updated>2012-03-18T10:17:29+01:00</updated>
+   <id>http://www.papascott.de/archives/2012/03/18/macmini-media-center</id>
+   <content type="html">&lt;p&gt;For my 50th birthday, I decided to splurge a bit on my present. After all, you only turn 50 once (although admittedly one could say the same for 49 or 51). I decided to get myself a fancy DVD player.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.papascott.de/wordpress/wp-content/uploads/2012/03/macmini2011silver.jpg&quot; alt=&quot;Macmini2011silver&quot; border=&quot;0&quot; width=&quot;480&quot; height=&quot;270&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As you notice, it&#39;s not really a DVD player. For one thing, there&#39;s no place to insert a DVD. For another, it&#39;s actually a &lt;a href=&quot;http://www.apple.com/macmini/&quot;&gt;MacMini&lt;/a&gt; computer with full HDMI output.&lt;/p&gt;
+&lt;p&gt;I had made a couple of attempts before to attach a media player to our TV. The latest attempt was a WD TV Live, to which you attach an external hard disk or connect to network shares. The user interface leaves much to be desired, and networking for us (over a powerline interface) worked hit or miss at best.&lt;/p&gt;
+&lt;p&gt;The monkey wrench in the works is that we still have an analog TV, a 10-year-old 32&quot; Samsung I can barely lift. We&#39;re going to renovate our living room Real Soon Now™ (first intended for 2010, now possibly in 2014), and we&#39;ll get a new TV when we have that done. The Samsung has only 2 SCART inputs, which makes attaching multiple devices rather difficult. Given the analog TV, the HDMI output goes to waste (for now). All our video is standard definition, anyway, so attaching a &lt;a href=&quot;http://www.amazon.de/gp/product/B002CBN81S/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=papascott-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B002CBN81S&quot;&gt;HDMI-to-analog converter&lt;/a&gt; doesn&#39;t degrade anything.&lt;/p&gt;
+&lt;p&gt;A pleasant surprise with the Mac Mini is that networking over powerline works just fine. I can control it from my MacBookPro with &lt;a href=&quot;http://www.apple.com/remotedesktop/&quot;&gt;Remote Desktop&lt;/a&gt;, it can stream files from elsewhere on our home network just fine, I can rip DVDs to it from other computers or start &lt;a href=&quot;http://handbrake.fr/&quot;&gt;Handbrake&lt;/a&gt; on it to convert ripped DVDs to more useful formats. To start movies in the living room we&#39;ve got a &lt;a href=&quot;http://www.logitech.com/en-roeu/remotes/universal-remotes/devices/8717&quot;&gt;Harmony One&lt;/a&gt; remote that can be paired with the Mac Mini.&lt;/p&gt;
+&lt;p&gt;As for the software, I knew in advance I&#39;d be wanting &lt;a href=&quot;http://www.plexapp.com/&quot;&gt;Plex&lt;/a&gt;, which is so cool I&#39;ll be writing a whole separate post about that.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; There are a number of good tutorials on setting up a Mac Mini Meia Center. For me a good starting point was the &lt;a href=&quot;http://www.yousephtanha.com/blog/2011/02/09/mac-mini-media-center-project-part-1/&quot;&gt;Mac Mini Media Center Project&lt;/a&gt; series by &lt;a href=&quot;http://www.yousephtanha.com/blog/&quot;&gt;Youseph Tanha&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Our Adventure with the Bagpipe</title>
+   <link href="http://www.papascott.de/archives/2012/03/16/our-adventure-with-the-bagpipe/"/>
+   <updated>2012-03-16T23:38:08+01:00</updated>
+   <id>http://www.papascott.de/archives/2012/03/16/our-adventure-with-the-bagpipe</id>
+   <content type="html">&lt;p&gt;A few months ago our son announced he wanted to learn the bagpipe. The Scottish bagpipe. And wear a kilt. At first we thought it was just a phase, and we laughed it off. And ignored it.&lt;/p&gt;
+&lt;p&gt;But our son kept insisting. And looking up bagpipes on the internet. And kilts. So my wife and I decided to swallow our prejudices about bagpipes, and got him a &quot;starter kit&quot; for his birthday in December. It turns out to learn bagpipe you don&#39;t actually play a bagpipe for the first year or so, since it&#39;s rather complicated to keep the bag full of air and play music at the same time. You start out by learning the notes with a &quot;practice chanter&quot;, which resembles the fingering part of the bagpipe and has a similar reed. It looks like a recorder, but takes a whole lot more air to play, and at first it sounds like a duck call.&lt;/p&gt;
+&lt;p&gt;But after a few days with the chanter, the book, and the CD he started playing actual notes. And he kept at it. So we started to look around for someone to teach lessons. That&#39;s not quite as easy as with more common instruments, where you can sign up at the local music store. You have to do some looking around. At &lt;a href=&quot;http://www.dudelsackkurse.de/&quot;&gt;http://www.dudelsackkurse.de/&lt;/a&gt; we found Herbert Bartmann in Oldenburg who offers a day-long beginners course on weekends, and read that 12 is the perfect age to start learning. Oldenburg is an hour drive each way, somewhat impractical for weekly lessons, but I brought him in for the day course.&lt;/p&gt;
+&lt;p&gt;We found that we were on the right track for getting started. Our son could play the scale and read notes by now, and after 8 hours with Mr. Bartmann was even more excited to learn more. He helped us make contact with a teacher in Hamburg, and we&#39;ve had two lessons with him so far. It looks like our adventure will continue.&lt;/p&gt;
+&lt;p&gt;As a lay person listening in on the lessons, I&#39;ve found the bagpipe to be more interesting than I imagined, particularly how one works within the limitations of the instrument. Its range is limited (9 notes, a little more than an octave), has a constant volume (no way to play quietly), and has a constant, uninterrupted tone. All the music is in the fingering, with grace notes and doublings surrounding the individual notes.&lt;/p&gt;
+&lt;p&gt;Our son&#39;s goal is to play a bagpipe solo at his school&#39;s Christmas concert… this year would be a little soon, but 2013 is certainly an attainable goal. We&#39;ll see then if he&#39;s still serious about the kilt.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>End of the Century - 50% Loaded</title>
+   <link href="http://www.papascott.de/archives/2012/02/09/end-of-the-century-50-loaded/"/>
+   <updated>2012-02-09T05:39:46+01:00</updated>
+   <id>http://www.papascott.de/archives/2012/02/09/end-of-the-century-50-loaded</id>
+   <content type="html">&lt;p&gt;&lt;object style=&quot;height: 390px; width: 640px&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/kJizV-d3sEQ?version=3&amp;amp;feature=player_detailpage&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;http://www.youtube.com/v/kJizV-d3sEQ?version=3&amp;amp;feature=player_detailpage&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; width=&quot;480&quot; height=&quot;360&quot; /&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;Happy Birthday to me!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>It's Still Raining</title>
+   <link href="http://www.papascott.de/archives/2012/01/13/its-still-raining/"/>
+   <updated>2012-01-13T08:19:49+01:00</updated>
+   <id>http://www.papascott.de/archives/2012/01/13/its-still-raining</id>
+   <content type="html">&lt;p&gt;An inside joke in our house is that if I answer the phone and right after the &quot;Hello&quot; start discussing the weather, my wife knows my parents in Minnesota have called. Never mind the Caller ID and the fact I&#39;m speaking English are also dead giveaways.&lt;/p&gt;
+&lt;p&gt;Of course in Minnesota the weather is a valid topic for conversation. It&#39;s extreme! They&#39;ve got bitter cold, sweltering heat, massive thunderstorms, killer blizzards, and (insert your own adjective here) tornados! If you&#39;re not careful the weather can kill you! Drivers are advised to keep blankets and chocolate in their cars, since if they get stuck in the snow on a country road it could take a day or two or three before they can get out. My father was a highway engineer, responsible for keeping roads clear. He spent half his career watching the weather and planning accordingly. And in retirement, he hasn&#39;t quite gotten out of the habit. :-)&lt;/p&gt;
+&lt;p&gt;If Minnesota weather is worth a conversation, Hamburg weather is worth at best a grunt. Maritime climate. 130 days of rain per year. Moderate temperatures. Regular seasons. Sometimes wind. Hmmph.&lt;/p&gt;
+&lt;p&gt;(There are sometimes exceptions, of course, like in 2010 when we had snow and ice on the ground for 3 months: January, February and December. Those months stick out like sore thumbs on our business statements. It&#39;s not that it was so cold, but that the highway departments ran out of salt and couldn&#39;t clear the roads. They should have called my father for advice.)&lt;/p&gt;
+&lt;p&gt;For instance, the past 3 weeks we&#39;ve had rain and 4°C/40°F, broken up only by days with wind and rain. The damp cold seeps through your clothing and sticks to your skin. If you&#39;re prone to depression due to seasonal affective disorder, this is not the place to be. &lt;/p&gt;
+&lt;p&gt;So when my parents call and tell me about the latest extreme phenomenon they are experiencing, they always ask politely how the weather is here. My answer is pretty much always the same. It&#39;s still raining.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Alarm Clocks</title>
+   <link href="http://www.papascott.de/archives/2012/01/11/alarm-clocks/"/>
+   <updated>2012-01-11T07:35:56+01:00</updated>
+   <id>http://www.papascott.de/archives/2012/01/11/alarm-clocks</id>
+   <content type="html">&lt;p&gt;We&#39;ve gotten out of the habit of using alarm clocks. As a result, when I wake up I usually have no idea what the time is.&lt;/p&gt;
+&lt;p&gt;(No, this is not about how alarm clocks are obsolete in the 21st century and we use iPhones instead. iPhones as well as landline phones are banned from our bedroom. If you want to reach us in the middle of the night, you better bring the patience for us to hear the ringing from downstairs.)&lt;/p&gt;
+&lt;p&gt;It&#39;s not that we don&#39;t have an alarm clock in our bedroom. At last count we have four.&lt;/p&gt;
+&lt;p&gt;We have two matching digital alarms from that German coffee and gadget (and sports clothing and kitchen utensils and and and) shop &lt;a href=&quot;http://tchibo.de/&quot;&gt;Tchibo&lt;/a&gt;. On mine the buttons are very difficult so it goes unused. My wife&#39;s is face down on the headboard. The clock is so bright that even at the lowest setting it casts the entire room in an eerie yellow glow. It&#39;s like one of those pods from Matrix.&lt;/p&gt;
+&lt;p&gt;Number 3 is an iPod/iPhone speaker clock my wife gave me a couple of years ago. It somehow ended up on her side of the bed. It has way too many buttons and goes unused. Also, see above about iPhones being banned.&lt;/p&gt;
+&lt;p&gt;Number 4 is an analog radio-controlled clock from precision clock-maker &lt;a href=&quot;http://tchibo.de/&quot;&gt;Tchibo&lt;/a&gt;. It glows in the dark and shows the precise time. However, being analog, the alarm is not at all precise and can be set only at circa 10 minute intervals.&lt;/p&gt;
+&lt;p&gt;However, none of our collection of alarm clocks is particularly useful because from our bed we cannot see them. For one thing, our current bedroom furniture collection has no side tables but instead a headboard with wings, the surfaces of which are not visible from the pillows below. In addition, even if our eyes were equipped with periscope vision, we&#39;re both at the age that we cannot see much of anything without corrective lenses. For the purpose of telling time at night, any alarm clock for us is useless.&lt;/p&gt;
+&lt;p&gt;So if we awake in the middle of the night and want to know the time, we need to reach for respective clock (for my wife, her face-down eerie yellow-glowing Matrix digital, for me my little round radio-controlled analog) and hold it close enough to our face for us to read it. By this time, we&#39;re awake enough that we couldn&#39;t go back to sleep anyway.&lt;/p&gt;
+&lt;p&gt;I haven&#39;t yet even mentioned the most annoying alarm clock in the house… a TALKING clock from that electronic super-store &lt;a href=&quot;http://tchibo.de/&quot;&gt;Tchibo&lt;/a&gt;. I bought it on a whim, but found the voice so EVIL that I immediately intended to throw it out… but instead it ended up in our son&#39;s room. He sleeps in a high bed with no shelf for a clock, so he puts it in his bed against the sideboard. When he rolls over in the night, he rolls against the buttons and suddenly the clock starts speaking: &quot;THE TIME IS… TWO… FORTY-SEVEN!!!&quot; Our son sleeps through it, but the rest of us have to put up with random squawks of clock logic until one of us goes downstairs and extracts the talking clock from his bed.&lt;/p&gt;
+&lt;p&gt;That we then know exactly what the time is in the night is no solace.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
