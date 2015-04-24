@@ -22,6 +22,7 @@ author:
   email:             papascott@gmail.com
 
 ## Directories not to rebuild automatically
+exclude: [s3_website.yml]
 #exclude: [wordpress]
 #keep_files: [wordpress]
 
