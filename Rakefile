@@ -1,4 +1,5 @@
 # http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html
+# changed to use a local checkout of master and not use git --force
 # simply call 'rake publish' to compile and publish your web-site to GitHub Pages.
 require "rubygems"
 require "tmpdir"
@@ -23,7 +24,6 @@ end
 
 desc "Generate and publish blog to gh-pages"
 task :publish => [:generate] do
-  #Dir.mktmpdir do |tmp|
 
     pwd = Dir.pwd
     Dir.chdir MASTER
@@ -40,8 +40,8 @@ task :publish => [:generate] do
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.inspect}"
     #system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
-    #system "git push"
+    system "git push"
 
     Dir.chdir pwd
-  #end
+
 end

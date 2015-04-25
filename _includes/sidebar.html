@@ -26,7 +26,7 @@
     {% endfor %}
     
 <div class="sidebar-nav-item">Archives: 
-{% strip %}{% for archive in site.archives %}
+{% strip %}{% for archive in site.archives reversed %}
 {% if archive.type == "year" %}
 <a href="{{ archive.url }}">{{ archive.date | date: "%Y" }}</a>
 {% endif %}
