@@ -10,3 +10,6 @@ img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
 
 .post p img.alignright {max-width: 50%;}
 .post p img.alignleft {max-width: 50%;}
+
+/* Force the Twitter Widget to 100% width */
+iframe[id^='twitter-widget-']{ width:100% !important;}
