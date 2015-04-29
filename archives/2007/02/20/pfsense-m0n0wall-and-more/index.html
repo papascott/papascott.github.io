@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      pfSense: M0n0wall and more &middot; PapaScott
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="/public/css/ps.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed/index.xml">
+
+</head>
+
+
+  <body class="theme-base-08" >
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p><a href="/">PapaScott</a> is a personal weblog by Scott Hanson.</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about.html">About</a>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/search.html">Search</a>
+        
+      
+    
+      
+        
+      
+    
+    
+<div class="sidebar-nav-item">Archives: 
+
+<a href="/archives/2015/">2015</a>
+<a href="/archives/2014/">2014</a>
+<a href="/archives/2013/">2013</a>
+<a href="/archives/2012/">2012</a>
+<a href="/archives/2011/">2011</a>
+<a href="/archives/2010/">2010</a>
+<a href="/archives/2009/">2009</a>
+<a href="/archives/2008/">2008</a>
+<a href="/archives/2007/">2007</a>
+<a href="/archives/2006/">2006</a>
+<a href="/archives/2005/">2005</a>
+<a href="/archives/2004/">2004</a>
+<a href="/archives/2003/">2003</a>
+<a href="/archives/2002/">2002</a>
+<a href="/archives/2001/">2001</a>
+<a href="/archives/2000/">2000</a>
+<a href="/archives/1999/">1999</a>
+
+</div>
+    <a class="sidebar-nav-item" href="http://www.mcdonalds-nordheide.de/">McDonald's Nordheide-Harburg</a>
+
+
+    
+</nav>
+  <div class="sidebar-item">
+  <p>
+  	Powered by <a href="http://jekyllrb.com/">jekyll</a>, styled by <a href="http://lanyon.getpoole.com/">lanyon</a>, served by <a href="https://pages.github.com/">GitHub</a>
+  </p>
+    <p>
+      &copy; 2015. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">PapaScott</a>
+            <small>And you know what they said? Well, some of it was true!</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        
+
+        <div class="post">
+  <h1 class="post-title">pfSense: M0n0wall and more</h1>
+  <span class="post-date">20 Feb 2007</span>
+  <p>I've been a big fan of the FreeBSD-based firewall <a href="http://m0n0.ch/wall">M0n0wall</a> for some time. Yesterday I finally got around to trying out <a href="http://www.pfsense.com/">pfSense</a>, which is based on M0n0wall but which can take advantage of bigger hardware. It's only been a day, but I think I'm hooked.</p>
+<p>M0n0wall was developed for embedded devices, and can work with a minimum of CPU, memory and disk (or CF). That means that it doesn't have some features you might find handy in a firewall, like a login shell or a packet sniffer (<a href="http://www.xs4all.nl/~fredmol/m0n0/">they can be hacked in</a>, but still). M0n0wall does run on x86 hardware, but it's going to <a href="http://doc.m0n0.ch/handbook/faq-goals.html">remain focused on small hardware</a>. pfSense started as a friendly fork a couple of years ago to add features and a more recent FreeBSD for those with hardware to support them. We're not talking massive hardware here... <a href="http://www.pfsense.com/index.php?id=43">128MB RAM and CF</a> (as opposed to <a href="http://m0n0.ch/wall/hardware.php">64MB RAM and 8MB CF</a> for M0n0wall).</p>
+<p>pfSense released 1.0 last fall, but my M0n0walls at home and at work have been working well, so I never looked into it. We're now considering infrasructure changes at work, and it'd be nice to have <a href="http://openvpn.org/">OpenVPN</a> on the firewall. pfSense has it. I run the CD-ROM version of M0n0wall on an old PC at home, with settings saved on a floppy. I inserted the pfSense CD and rebooted. It took over the M0n0wall settings and just worked. Over the console I was able to copy the running system to hard disk, so I can now add packages and install updates.</p>
+<p>Just clicking through the interface I found a half dozen reasons to consider switching even running systems:</p>
+<ul>
+<li>SSH login with standard command-line tools (mmmm, <a href="http://en.wikipedia.org/wiki/Tcpdump">tcpdump</a>)</li>
+<li>OpenVPN on board</li>
+<li>Aliases for groups of hosts, networks and ports</li>
+<li>Add-in packages for <a href="http://insecure.org/nmap/">nmap</a> and <a href="http://www.ntop.org/">ntop</a></li>
+<li>NAT reflector (NAT addresses available from LAN, makes routing <em>much</em> simpler)</li>
+<li>Load Balancer</li>
+</ul>
+<p>The aliases should be real nice since I was raised on the object model in <a href="http://www.checkpoint.com/">CheckPoint</a>. One drawback of M0n0wall is that it's hard to keep the rules organized, the more intelligent aliases in pfSense should make the rules a bit more managable.</p>
+
+</div>
+<div>
+  
+    <span class="post-date">
+    Previous Post: <a href="/archives/2007/02/19/bandwagon/">Bandwagon</a></span>
+  
+  
+    <span class="post-date">
+    Next Post: <a href="/archives/2007/02/21/my-not-so-aching-back/">My Not So Aching Back</a></span>
+  
+</div>
+<div class="related">
+  <h2>Recent Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/archives/2015/04/23/transition/">
+            Transition
+            <small>23 Apr 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/archives/2015/04/20/confirmation/">
+            Confirmation
+            <small>20 Apr 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/archives/2015/02/10/how-i-punked-facebook/">
+            How I Punked Facebook
+            <small>10 Feb 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+        
+<!-- Add Disqus comments. -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+if(location.hostname.match('papascott')){
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'papascott'; // required: replace example with your forum shortname
+  var disqus_identifier = "/archives/2007/02/20/pfsense-m0n0wall-and-more/";
+
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+  }
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      I Not Heart Jabberd &middot; PapaScott
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/lanyon.css">
+  <link rel="stylesheet" href="/public/css/ps.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed/index.xml">
+
+</head>
+
+
+  <body class="theme-base-08" >
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p><a href="/">PapaScott</a> is a personal weblog by Scott Hanson.</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about.html">About</a>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/search.html">Search</a>
+        
+      
+    
+      
+        
+      
+    
+    
+<div class="sidebar-nav-item">Archives: 
+
+<a href="/archives/2015/">2015</a>
+<a href="/archives/2014/">2014</a>
+<a href="/archives/2013/">2013</a>
+<a href="/archives/2012/">2012</a>
+<a href="/archives/2011/">2011</a>
+<a href="/archives/2010/">2010</a>
+<a href="/archives/2009/">2009</a>
+<a href="/archives/2008/">2008</a>
+<a href="/archives/2007/">2007</a>
+<a href="/archives/2006/">2006</a>
+<a href="/archives/2005/">2005</a>
+<a href="/archives/2004/">2004</a>
+<a href="/archives/2003/">2003</a>
+<a href="/archives/2002/">2002</a>
+<a href="/archives/2001/">2001</a>
+<a href="/archives/2000/">2000</a>
+<a href="/archives/1999/">1999</a>
+
+</div>
+    <a class="sidebar-nav-item" href="http://www.mcdonalds-nordheide.de/">McDonald's Nordheide-Harburg</a>
+
+
+    
+</nav>
+  <div class="sidebar-item">
+  <p>
+  	Powered by <a href="http://jekyllrb.com/">jekyll</a>, styled by <a href="http://lanyon.getpoole.com/">lanyon</a>, served by <a href="https://pages.github.com/">GitHub</a>
+  </p>
+    <p>
+      &copy; 2015. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">PapaScott</a>
+            <small>And you know what they said? Well, some of it was true!</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        
+
+        <div class="post">
+  <h1 class="post-title">I Not Heart Jabberd</h1>
+  <span class="post-date">24 Oct 2005</span>
+  <p>When I started last winter at nu2m, our web sites ran on One Big Server For Everything (OBSFE). It's very difficult to upgrade or do maintenance on an OBSFE, since when it breaks, everything breaks, and people tend to get upset when that happens. So my job the past few months has been to network, cluster, cajole developers to get their apps to work in a cluster, and delete all references to 'localhost' from all configuration files. (In a cluster, localhost is not what you think it is, it's a black hole, so just forget it exists.) Late last week I was finally done. Nothing more was running on the OBSFE, all websites and databases were ported, and I was free to format and reinstall the OSBFE to become an upstanding member of our cluster.</p>
+<p>Except for one thing. The <a href="http://jabberd.jabberstudio.org/1.4/">jabberd</a> server. Our company depends on jabber for internal communication, and we had a jabberd on the OBSFE tied to an external IP address. Fine, I thought, just move the whole thing to a new server, put the address there, and it should work. It did, but only half way. Clients could connect, but servers could not and all transports (connections to AIM, ICQ, MSN, Yahoo!, etc.) were broken as well. OK, back to the drawing board. I ended up setting up everything from scratch, taking a day and a half for a job I thought would take a couple of hours (and I'm not done yet), and I came to hate the beast that is jabberd. Note that the following comments are completely subjective, and may have no basis in fact.</p>
+<ol>
+<li>The jabberd server consists only of a jabber server, which is fine if you only want to talk to yourself and other jabber servers. The transports to other services are what make jabber really useful and interesting, and they are all separate little projects. Good luck finding current and working versions for them. And don't confuse <a href="http://jabberd.jabberstudio.org/1.4/">jabberd</a> with <a href="http://jabberd.jabberstudio.org/2/">jabberd2</a>. They are completely separate projects and have nothing to do with one another.</li>
+<li>The host setup is somewhat arcane. Jabberd works fine out of the box if you have a single box with a public IP open to everyone. Now most of us in the real world have firewalls and NAT to protect our servers, with private IPs on the servers themselves, and divide the services for a domain among several servers. Through trial and error I found a setup that worked (main hostname uses a private name, public hostnames set up as additional hosts).</li>
+<li>The latest jabberd is 1.4.4, which contains major changes to the previous 1.4.3.1. The <a href="http://jabberd.jabberstudio.org/1.4/doc/adminguide">published installation instructions</a> no longer apply, and all previous transports will not compile correctly. The workaround is to complile the transports against the old versions and copy the .so files into the new version. This information seems only to be available in the mailing list archive, but is essential especially for <a href="http://aim-transport.jabberstudio.org/">AIM and ICQ</a> to work.</li>
+<li>The MSN transport requires a curl library with SSL certificates. The SuSE curl packages don't include the certificates, so the transport fails with strange error messages. The are also 2 different packages you can use, a msn-transport (which we have) and a <a href="http://msn-transport.jabberstudio.org/">pymsn</a>. I couldn't find a homepage or any current information for msn-transport.</li>
+<li>The current <a href="http://yahoo-transport-2.jabberstudio.org/">Yahoo! transport</a> contains the wrong hostname to connect to Yahoo! You have to know this, search the mailing lists for the proper hostname, and correct the configuration by hand.</li>
+</ol>
+<p>After a day and a half I'm to the point where everything seems to work from the outside and with any domain I point to the server (without using any external IPs, yay!). Now I just have to get it working for the internal network. Then I can finally get rid of the monster OBSFE!</p>
+
+</div>
+<div>
+  
+    <span class="post-date">
+    Previous Post: <a href="/archives/2005/10/22/dragon-hunters/">Dragon Hunters</a></span>
+  
+  
+    <span class="post-date">
+    Next Post: <a href="/archives/2005/10/24/slow-news-day-wilma/">Slow News Day, Wilma?</a></span>
+  
+</div>
+<div class="related">
+  <h2>Recent Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/archives/2015/04/23/transition/">
+            Transition
+            <small>23 Apr 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/archives/2015/04/20/confirmation/">
+            Confirmation
+            <small>20 Apr 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/archives/2015/02/10/how-i-punked-facebook/">
+            How I Punked Facebook
+            <small>10 Feb 2015</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+        
+<!-- Add Disqus comments. -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+if(location.hostname.match('papascott')){
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'papascott'; // required: replace example with your forum shortname
+  var disqus_identifier = "/archives/2005/10/24/i-not-heart-jabberd/";
+
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+  }
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>
