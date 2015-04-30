@@ -148,6 +148,43 @@ data-tweet-limit="5"
   
   <div class="post">
     <h1 class="post-title">
+      <a href="/archives/2015/04/30/see-what-sticks/">
+        See What Sticks
+      </a>
+    </h1>
+
+    <span class="post-date">30 Apr 2015</span>
+
+    <p>So now that I’ve <a href="/archives/2015/04/23/transition/">changed</a> my blogging platform, I have something to blog about: my new blogging platform!</p>
+
+<p>From the WordPress eXtended RSS file of the contents of my blog I found I had exported 3273 posts. Jekyll re-renders every post every time a change is made… on the default template it takes 3 minutes, but on the Lanyon template it ran over 20 minutes before I cancelled the build. That’s why I started with only a few dozen posts.</p>
+
+<p>I then changed my archive strategy, using yearly and monthly archives similar to what I had used with WordPress instead of the pagination used in Lanyon, and lo and behold the build took only 2.5 minutes. The disadvantage is that GitHub won’t run the <a href="https://github.com/jekyll/jekyll-archives">jekyll-archives</a> plugin for me, so I have to render the site locally and push the rendered HTML to GitHub. I can live with that.</p>
+
+<p>The next question was whether Google (and everyone else) could find the old links on the new site. Jekyll is able to use the same <code>archives/:year/:month/:day/:title/</code> permalink stucture I was using before. But were all my links the same as before? Do they all still work? Well, that eXtended RSS file contains all the permalinks that WordPress had generated…</p>
+
+<pre><code> &lt;link&gt;http://papasc.home/archives/1999/12/05/it-worked/&lt;/link&gt;
+ &lt;link&gt;http://papasc.home/archives/1999/12/06/week-37/&lt;/link&gt;
+ &lt;link&gt;http://papasc.home/archives/1999/12/07/ready-and-waiting/&lt;/link&gt;
+ &lt;link&gt;http://papasc.home/archives/1999/12/09/linux-fever/&lt;/link&gt;
+ ...
+</code></pre>
+
+<p>(Yes, that’s a fake URL. My hoster timed out producing the eXtended RSS file so I had to use a local install.) I then ran the links through a shell script I found on <a href="http://stackoverflow.com/questions/25135347/how-to-check-status-of-urls-from-text-file-using-bash-shell-script">Stack Exchange</a>:</p>
+
+<pre><code> #!/bin/bash
+ while read -ru 4 LINE; do
+     read -r REP &lt; &lt;(exec curl -IsS "$LINE" 2&gt;&amp;1)
+     echo "$LINE: $REP"
+ done 4&lt; "$1"
+</code></pre>
+
+<p>And, indeed, all the links work. Whether the content still makes sense is another question, but PapaScott is back online in its entirety!</p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
       <a href="/archives/2015/04/23/transition/">
         Transition
       </a>
@@ -213,20 +250,6 @@ Last week we bought a confirmation suit. Of course we went to <a href="http://po
 <p>We didn't realize it at the time, but our lives in November 1989 were "in between". In between jobs, in between continents, in between everything. We had just moved to Arizona, following her old boss who didn't have a job for her yet. I was working temp jobs hoping to find something permanent (one of them eventually did). We thought Arizona would become our home. We were in love with the desert, the sun, the lifestyle, everything.</p>
 <p>We had, however, picked a horrible time to move to Arizona. The savings and loan crisis had broken out, and the economy was already stagnant. And in the weeks and months that followed, the soon-to-be-reunified Germany became more attractive to us. We thought we could work there for a couple years and come back when the job climate in Arizona was better.</p>
 <p>But where was I when I heard the news? Today I have no idea. In my car listening to NPR? At home watching CNN? With my wife when she got a call from her Hungarian friend Gabi? I just know that less than 10 months later, we were here.</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/archives/2014/10/11/thank-you-to-everyone-for-everything/">
-        Thank you to everyone for everything
-      </a>
-    </h1>
-
-    <span class="post-date">11 Oct 2014</span>
-
-    <p>Thanks to everyone who sent condolences for my father, be it on PapaScott, Facebook, Twitter or even with written words on paper. I debated posting publically about my feelings, and now I'm glad I did.</p>
-<p>I'm currently "between the continents", so to speak. I returned yesterday from the US, and fly today to Dubrovnik for 4 days on business. I still have some thoughts on the past week, the funeral, the Midwestern traditions, and the hotdish. I'll share them once I get the chance.</p>
 
   </div>
   

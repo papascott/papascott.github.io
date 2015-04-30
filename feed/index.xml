@@ -7,6 +7,42 @@
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>See What Sticks</title>
+				        
+				
+					<description>&lt;p&gt;So now that I’ve &lt;a href=&quot;/archives/2015/04/23/transition/&quot;&gt;changed&lt;/a&gt; my blogging platform, I have something to blog about: my new blogging platform!&lt;/p&gt;
+
+&lt;p&gt;From the WordPress eXtended RSS file of the contents of my blog I found I had exported 3273 posts. Jekyll re-renders every post every time a change is made… on the default template it takes 3 minutes, but on the Lanyon template it ran over 20 minutes before I cancelled the build. That’s why I started with only a few dozen posts.&lt;/p&gt;
+
+&lt;p&gt;I then changed my archive strategy, using yearly and monthly archives similar to what I had used with WordPress instead of the pagination used in Lanyon, and lo and behold the build took only 2.5 minutes. The disadvantage is that GitHub won’t run the &lt;a href=&quot;https://github.com/jekyll/jekyll-archives&quot;&gt;jekyll-archives&lt;/a&gt; plugin for me, so I have to render the site locally and push the rendered HTML to GitHub. I can live with that.&lt;/p&gt;
+
+&lt;p&gt;The next question was whether Google (and everyone else) could find the old links on the new site. Jekyll is able to use the same &lt;code&gt;archives/:year/:month/:day/:title/&lt;/code&gt; permalink stucture I was using before. But were all my links the same as before? Do they all still work? Well, that eXtended RSS file contains all the permalinks that WordPress had generated…&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/05/it-worked/&amp;lt;/link&amp;gt;
+ &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/06/week-37/&amp;lt;/link&amp;gt;
+ &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/07/ready-and-waiting/&amp;lt;/link&amp;gt;
+ &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/09/linux-fever/&amp;lt;/link&amp;gt;
+ ...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(Yes, that’s a fake URL. My hoster timed out producing the eXtended RSS file so I had to use a local install.) I then ran the links through a shell script I found on &lt;a href=&quot;http://stackoverflow.com/questions/25135347/how-to-check-status-of-urls-from-text-file-using-bash-shell-script&quot;&gt;Stack Exchange&lt;/a&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; #!/bin/bash
+ while read -ru 4 LINE; do
+     read -r REP &amp;lt; &amp;lt;(exec curl -IsS &quot;$LINE&quot; 2&amp;gt;&amp;amp;1)
+     echo &quot;$LINE: $REP&quot;
+ done 4&amp;lt; &quot;$1&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And, indeed, all the links work. Whether the content still makes sense is another question, but PapaScott is back online in its entirety!&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 30 Apr 2015 00:00:00 +0200</pubDate>
+				<link>http://www.papascott.de/archives/2015/04/30/see-what-sticks/</link>
+				<guid isPermaLink="true">http://www.papascott.de/archives/2015/04/30/see-what-sticks/</guid>
+			</item>
+		
+			<item>
 				<title>Transition</title>
 				        
 				
@@ -142,22 +178,6 @@ Last week we bought a confirmation suit. Of course we went to &lt;a href=&quot;h
 				<pubDate>Sun, 09 Feb 2014 09:39:32 +0100</pubDate>
 				<link>http://www.papascott.de/archives/2014/02/09/b-52s/</link>
 				<guid isPermaLink="true">http://www.papascott.de/archives/2014/02/09/b-52s/</guid>
-			</item>
-		
-			<item>
-				<title>New Car</title>
-				        
-				
-					<description>&lt;p&gt;&lt;img src=&quot;/wordpress/wp-content/uploads/2014/01/NewImage.png&quot; alt=&quot;NewImage&quot; title=&quot;NewImage.png&quot; border=&quot;0&quot; width=&quot;429&quot; height=&quot;262&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Three years have gone by, the lease has expired on our Volkswagen Sharan mini-van, and it&#39;s time for something new. The Sharan was way too big for us. We thought we could use the extra space for our business, but in the 3 years we transported 8 passengers exactly one time. In that same time had to replace bumpers 3 times (twice my fault, once my wife&#39;s) because the Sharan so damn wide you&#39;re scraping something before you know it. In that sense, good riddance. &lt;/p&gt;
-&lt;p&gt;We&#39;re on good terms with our local Volkswagen dealer, and we decided to downsize to the newest member of the VW line, the &lt;a href=&quot;http://www.caranddriver.com/reviews/2015-volkswagen-sportwagen-golf-variant-first-drive-review&quot;&gt;Golf Variant&lt;/a&gt;, a station wagon. It was released in September, we ordered right away, and took delivery at the end of January (that is, today). &lt;/p&gt;
-&lt;p&gt;Now, my wife gets a lot more excited about cars than I. She&#39;ll study the web sites and the specs to find exactly what she wants. For me, a car is simply a vehicle to take me from A to B. She&#39;s excited about the new car and what it can do. I&#39;m just happy that it&#39;s smaller and we&#39;re less likely to tear off a bumper.&lt;/p&gt;
-&lt;p&gt;And I hope that choice is right because the lease is for another three years.&lt;/p&gt;
-</description>
-				
-				<pubDate>Tue, 28 Jan 2014 22:01:58 +0100</pubDate>
-				<link>http://www.papascott.de/archives/2014/01/28/new-car/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2014/01/28/new-car/</guid>
 			</item>
 		
 	</channel>
