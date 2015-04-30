@@ -28,6 +28,7 @@ exclude: [s3_website.yml, Rakefile, LICENSE.md, README.md]
 
 gems:
   - jekyll-archives
+  - jekyll-redirect-from
 
 jekyll-archives:
   enabled: [year, month]
