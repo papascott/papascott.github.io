@@ -42,79 +42,7 @@
   <div class="sidebar-item">
     <p><a href="/">PapaScott</a> is a personal weblog by Scott Hanson.</p>
   </div>
-
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="/">Home</a>
-
-    
-
-    
-    
-      
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/about.html">About</a>
-        
-      
-    
-      
-    
-      
-    
-      
-    
-      
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/search.html">Search</a>
-        
-      
-    
-      
-        
-      
-    
-    
-<div class="sidebar-nav-item">Archives: 
-
-<a href="/archives/2015/">2015</a>
-<a href="/archives/2014/">2014</a>
-<a href="/archives/2013/">2013</a>
-<a href="/archives/2012/">2012</a>
-<a href="/archives/2011/">2011</a>
-<a href="/archives/2010/">2010</a>
-<a href="/archives/2009/">2009</a>
-<a href="/archives/2008/">2008</a>
-<a href="/archives/2007/">2007</a>
-<a href="/archives/2006/">2006</a>
-<a href="/archives/2005/">2005</a>
-<a href="/archives/2004/">2004</a>
-<a href="/archives/2003/">2003</a>
-<a href="/archives/2002/">2002</a>
-<a href="/archives/2001/">2001</a>
-<a href="/archives/2000/">2000</a>
-<a href="/archives/1999/">1999</a>
-
-</div>
-    <a class="sidebar-nav-item" href="http://www.mcdonalds-nordheide.de/">McDonald's Nordheide-Harburg</a>
-
-
-    
-</nav>
-  <div class="sidebar-item">
-  <p>
-  	Powered by <a href="http://jekyllrb.com/">jekyll</a>, styled by <a href="http://lanyon.getpoole.com/">lanyon</a>, served by <a href="https://pages.github.com/">GitHub</a>
-  </p>
-    <p>
-      &copy; 2015. All rights reserved.
-    </p>
-  </div>
+<!-- Jquery loads content of sidebar div, see default.html -->
 </div>
 
 
@@ -152,38 +80,8 @@
     Next Post: <a href="/archives/2005/07/01/no-confidence/">No Confidence</a></span>
   
 </div>
-<div class="related">
-  <h2>Recent Posts</h2>
-  <ul class="related-posts">
-    
-      <li>
-        <h3>
-          <a href="/archives/2015/04/30/see-what-sticks/">
-            See What Sticks
-            <small>30 Apr 2015</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/archives/2015/04/23/transition/">
-            Transition
-            <small>23 Apr 2015</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/archives/2015/04/20/confirmation/">
-            Confirmation
-            <small>20 Apr 2015</small>
-          </a>
-        </h3>
-      </li>
-    
-  </ul>
+<div class="related" id="related">
+<!-- Jquery loads content of related div, see default.html -->
 </div>
 
         
@@ -210,6 +108,11 @@ if(location.hostname.match('papascott')){
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>
+      $( "#sidebar" ).load( "/includes/sidebar.html" );
+      $( "#related" ).load( "/includes/related.html" );
+    </script>
 
     <script>
       (function(document) {

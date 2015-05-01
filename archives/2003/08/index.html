@@ -42,59 +42,7 @@
   <div class="sidebar-item">
     <p><a href="/">PapaScott</a> is a personal weblog by Scott Hanson.</p>
   </div>
-
-  <nav class="sidebar-nav">
-    <a class="sidebar-nav-item" href="/">Home</a>
-
-    
-
-    
-    
-      
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/about.html">About</a>
-        
-      
-    
-      
-    
-      
-    
-      
-        
-      
-    
-      
-        
-          <a class="sidebar-nav-item" href="/search.html">Search</a>
-        
-      
-    
-      
-        
-      
-    
-    
-<div class="sidebar-nav-item">Archives: 
-
-</div>
-    <a class="sidebar-nav-item" href="http://www.mcdonalds-nordheide.de/">McDonald's Nordheide-Harburg</a>
-
-
-    
-</nav>
-  <div class="sidebar-item">
-  <p>
-  	Powered by <a href="http://jekyllrb.com/">jekyll</a>, styled by <a href="http://lanyon.getpoole.com/">lanyon</a>, served by <a href="https://pages.github.com/">GitHub</a>
-  </p>
-    <p>
-      &copy; 2015. All rights reserved.
-    </p>
-  </div>
+<!-- Jquery loads content of sidebar div, see default.html -->
 </div>
 
 
@@ -493,6 +441,11 @@
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>
+      $( "#sidebar" ).load( "/includes/sidebar.html" );
+      
+    </script>
 
     <script>
       (function(document) {
