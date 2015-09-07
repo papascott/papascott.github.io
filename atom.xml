@@ -4,13 +4,26 @@
  <title>PapaScott</title>
  <link href="http://www.papascott.de/atom.xml" rel="self"/>
  <link href="http://www.papascott.de/"/>
- <updated>2015-09-01T18:18:52+02:00</updated>
+ <updated>2015-09-07T17:04:44+02:00</updated>
  <id>http://www.papascott.de</id>
  <author>
    <name>Scott Hanson</name>
    <email>papascott@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Anniversary</title>
+   <link href="http://www.papascott.de/archives/2015/09/06/anniversary/"/>
+   <updated>2015-09-06T00:00:00+02:00</updated>
+   <id>http://www.papascott.de/archives/2015/09/06/anniversary</id>
+   <content type="html">&lt;p&gt;I used to write a blog post for our anniversary each year. Nowadays I just use &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10153422228986281&amp;amp;set=a.10150156329816281.333920.666521280&amp;amp;type=1&amp;amp;theater&quot;&gt;Facebook&lt;/a&gt; and Twitter.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;32 years together and still going strong! &lt;a href=&quot;http://t.co/aWQZ5emsuy&quot;&gt;pic.twitter.com/aWQZ5emsuy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Scott Hanson (@papascott) &lt;a href=&quot;https://twitter.com/papascott/status/640436611323424768&quot;&gt;September 6, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>25 Years</title>
