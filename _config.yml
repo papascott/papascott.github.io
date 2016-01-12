@@ -3,7 +3,7 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 #permalink:           pretty
 permalink:           archives/:year/:month/:day/:title/
-relative_permalinks: true
+#relative_permalinks: true
 
 #markdown:    rdiscount
 
@@ -12,7 +12,7 @@ title:               PapaScott
 tagline:             'And you know what they said? Well, some of it was true!'
 description:         '<a href="/">PapaScott</a> is a personal weblog by Scott Hanson.'
 url:                 http://www.papascott.de
-baseurl:            '' 
+baseurl:            ''
 #paginate:            5
 comments:            true
 # About/contact
@@ -23,7 +23,7 @@ author:
 
 ## Directories not to rebuild automatically
 exclude: [s3_website.yml, Rakefile, LICENSE.md, README.md]
-#exclude: [wordpress]
+#exclude: [_posts/older]
 #keep_files: [wordpress]
 
 gems:
