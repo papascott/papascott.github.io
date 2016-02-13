@@ -4,13 +4,24 @@
  <title>PapaScott</title>
  <link href="http://www.papascott.de/atom.xml" rel="self"/>
  <link href="http://www.papascott.de/"/>
- <updated>2016-01-13T19:34:35+01:00</updated>
+ <updated>2016-02-13T10:17:23+01:00</updated>
  <id>http://www.papascott.de</id>
  <author>
    <name>Scott Hanson</name>
    <email>papascott@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Will You Still Love Me When I'm Fifty-Four?</title>
+   <link href="http://www.papascott.de/archives/2016/02/13/will-you-still-love-me-when-im-fiftyfour/"/>
+   <updated>2016-02-13T09:45:19+01:00</updated>
+   <id>http://www.papascott.de/archives/2016/02/13/will-you-still-love-me-when-im-fiftyfour</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/fifty-four-130216.jpg&quot; alt=&quot;Aged 54 years&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I guess the answer is yes!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Anniversary</title>
