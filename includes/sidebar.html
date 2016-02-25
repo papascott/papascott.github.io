@@ -23,12 +23,23 @@ permalink: /includes/sidebar.html
     {% endfor %}
 
 <div class="sidebar-nav-item">Archives:
+{% assign last_year = site.archives.last.date | date: "%Y" %}
+{% for year in (1999..last_year) reversed %}
+<a href="/archives/{{ year }}/">{{ year }}</a>
+{% endfor %}
+</div>
+
+{% comment %}
+// old archive code, without exclude
+<div class="sidebar-nav-item">Archives:
 {% for archive in site.archives reversed %}
 {% if archive.type == "year" %}
 <a href="{{ archive.url }}">{{ archive.date | date: "%Y" }}</a>
 {% endif %}
 {% endfor %}
 </div>
+{% endcomment %}
+
     <a class="sidebar-nav-item" href="http://www.mcdonalds-nordheide.de/">McDonald's Nordheide-Harburg</a>
 
 
