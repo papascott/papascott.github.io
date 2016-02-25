@@ -1,19 +1,10 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-#permalink:           pretty
-permalink:           archives/:year/:month/:day/:title/
-#relative_permalinks: true
-
-#markdown:    rdiscount
-
 # Setup
 title:               PapaScott
 tagline:             'And you know what they said? Well, some of it was true!'
 description:         '<a href="/">PapaScott</a> is a personal weblog by Scott Hanson.'
 url:                 http://www.papascott.de
 baseurl:            ''
-#paginate:            5
+permalink:           archives/:year/:month/:day/:title/
 comments:            true
 # About/contact
 author:
@@ -23,8 +14,11 @@ author:
 
 ## Directories not to rebuild automatically
 exclude: [s3_website.yml, Rakefile, LICENSE.md, README.md]
-#exclude: [_posts/older]
 #keep_files: [wordpress]
+
+## Do not re-render old posts
+exclude: [_posts/older]
+keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012 ]
 
 gems:
   - jekyll-archives
@@ -41,11 +35,8 @@ jekyll-archives:
   layouts:
     year: year-archive
     month: month-archive
-    day: day-archive
-    tag: tag-archive-layout
-
-# Custom vars
-#version:             1.0.0
+    #day: day-archive
+    #tag: tag-archive-layout
 
 defaults:
   -
