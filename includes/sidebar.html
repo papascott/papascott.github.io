@@ -29,17 +29,6 @@ permalink: /includes/sidebar.html
 {% endfor %}
 </div>
 
-{% comment %}
-// old archive code, without exclude
-<div class="sidebar-nav-item">Archives:
-{% for archive in site.archives reversed %}
-{% if archive.type == "year" %}
-<a href="{{ archive.url }}">{{ archive.date | date: "%Y" }}</a>
-{% endif %}
-{% endfor %}
-</div>
-{% endcomment %}
-
     <a class="sidebar-nav-item" href="http://www.mcdonalds-nordheide.de/">McDonald's Nordheide-Harburg</a>
 
 
