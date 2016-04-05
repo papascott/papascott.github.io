@@ -15,6 +15,11 @@ MASTER = "/Users/shanson/Sites/jekyll/master"
 
 desc "Generate blog files"
 task :generate do
+  # Jekyll::Site.new(Jekyll.configuration({
+  #   "source"      => ".",
+  #   "destination" => "_site"
+  # })).process
+  system "jekyll b"
 end
 
 
