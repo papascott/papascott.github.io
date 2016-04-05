@@ -15,15 +15,11 @@ MASTER = "/Users/shanson/Sites/jekyll/master"
 
 desc "Generate blog files"
 task :generate do
-  Jekyll::Site.new(Jekyll.configuration({
-    "source"      => ".",
-    "destination" => "_site"
-  })).process
 end
 
 
 desc "Generate and publish blog to gh-pages"
-task :publish => do
+task :publish => [:generate] do
 
     pwd = Dir.pwd
     Dir.chdir MASTER
