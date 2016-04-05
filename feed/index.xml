@@ -7,6 +7,20 @@
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Gliding</title>
+				        
+				
+					<description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;6&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/BDvxkgOo_e-/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Great shot by my flight instructor @simon_bacher 42 minutes in blue thermals and lots of spinning 😰😅 #segelfliegen #gliding #soaring #thermik #blauthermik #thermals #900m #wenzendorf #ask13 #d8964 #segelflugzeug #glider #sailplane #gopro #gopropilots_ #sobock #soobock&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by Christopher Hanson (@fseddh) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2016-04-03T17:27:53+00:00&quot;&gt;Apr 3, 2016 at 10:27am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+</description>
+				
+				<pubDate>Tue, 05 Apr 2016 08:43:17 +0200</pubDate>
+				<link>http://www.papascott.de/archives/2016/04/05/gliding/</link>
+				<guid isPermaLink="true">http://www.papascott.de/archives/2016/04/05/gliding/</guid>
+			</item>
+		
+			<item>
 				<title>Where and For Whom to Vote</title>
 				        
 				
@@ -112,23 +126,25 @@
 
 &lt;p&gt;I then changed my archive strategy, using yearly and monthly archives similar to what I had used with WordPress instead of the pagination used in Lanyon, and lo and behold the build took only 2.5 minutes. The disadvantage is that GitHub won’t run the &lt;a href=&quot;https://github.com/jekyll/jekyll-archives&quot;&gt;jekyll-archives&lt;/a&gt; plugin for me, so I have to render the site locally and push the rendered HTML to GitHub. I can live with that.&lt;/p&gt;
 
-&lt;p&gt;The next question was whether Google (and everyone else) could find the old links on the new site. Jekyll is able to use the same &lt;code&gt;archives/:year/:month/:day/:title/&lt;/code&gt; permalink stucture I was using before. But were all my links the same as before? Do they all still work? Well, that eXtended RSS file contains all the permalinks that WordPress had generated…&lt;/p&gt;
+&lt;p&gt;The next question was whether Google (and everyone else) could find the old links on the new site. Jekyll is able to use the same &lt;code class=&quot;highlighter-rouge&quot;&gt;archives/:year/:month/:day/:title/&lt;/code&gt; permalink stucture I was using before. But were all my links the same as before? Do they all still work? Well, that eXtended RSS file contains all the permalinks that WordPress had generated…&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt; &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/05/it-worked/&amp;lt;/link&amp;gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/05/it-worked/&amp;lt;/link&amp;gt;
  &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/06/week-37/&amp;lt;/link&amp;gt;
  &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/07/ready-and-waiting/&amp;lt;/link&amp;gt;
  &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/09/linux-fever/&amp;lt;/link&amp;gt;
  ...
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;(Yes, that’s a fake URL. My hoster timed out producing the eXtended RSS file so I had to use a local install.) I then ran the links through a shell script I found on &lt;a href=&quot;http://stackoverflow.com/questions/25135347/how-to-check-status-of-urls-from-text-file-using-bash-shell-script&quot;&gt;Stack Exchange&lt;/a&gt;:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt; #!/bin/bash
- while read -ru 4 LINE; do
-     read -r REP &amp;lt; &amp;lt;(exec curl -IsS &quot;$LINE&quot; 2&amp;gt;&amp;amp;1)
-     echo &quot;$LINE: $REP&quot;
- done 4&amp;lt; &quot;$1&quot;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;c&quot;&gt;#!/bin/bash&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;while &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;read&lt;/span&gt; -ru 4 LINE; &lt;span class=&quot;k&quot;&gt;do
+     &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;read&lt;/span&gt; -r REP &amp;lt; &amp;lt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;curl -IsS &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$LINE&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; 2&amp;gt;&amp;amp;1&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+     &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$LINE&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$REP&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+ &lt;span class=&quot;k&quot;&gt;done &lt;/span&gt;4&amp;lt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$1&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;And, indeed, all the links work. Whether the content still makes sense is another question, but PapaScott is back online in its entirety!&lt;/p&gt;
 </description>
@@ -142,11 +158,11 @@
 				<title>Transition</title>
 				        
 				
-					<description>&lt;p&gt;So maybe you noticed, maybe you didn’t, but this blog looks a little bit different than a week ago. Behind the scenes it looks a &lt;em&gt;lot&lt;/em&gt; different. After over a decade of blogging on WordPress (I actually started using its predecessor &lt;a href=&quot;http://cafelog.com/&quot;&gt;B2&lt;/a&gt; in 2002), I’m now on the static site generator jekyll. My posts have been exported to text files. No more mysql database, no PHP, no more web interface. &lt;/p&gt;
+					<description>&lt;p&gt;So maybe you noticed, maybe you didn’t, but this blog looks a little bit different than a week ago. Behind the scenes it looks a &lt;em&gt;lot&lt;/em&gt; different. After over a decade of blogging on WordPress (I actually started using its predecessor &lt;a href=&quot;http://cafelog.com/&quot;&gt;B2&lt;/a&gt; in 2002), I’m now on the static site generator jekyll. My posts have been exported to text files. No more mysql database, no PHP, no more web interface.&lt;/p&gt;
 
 &lt;p&gt;So everything is new and things are still broken. I don’t have all posts imported yet, I’m only back to 2012 and not 1999 when this thing started. There are a lot a worthless one-line posts from the olden days, since back then we didn’t have Twitter and Facebook yet for worthless posts. So I have some work to do. But I’m looking forward to it.&lt;/p&gt;
 
-&lt;p&gt;The design, however, is absolutely fabulous, even on mobile, and for that I can take absolutely no credit. It’s the &lt;a href=&quot;http://lanyon.getpoole.com/&quot;&gt;lanyon&lt;/a&gt; theme for jekyll by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;, who co-wrote (Twitter) &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;, and I thank him for making his work available to us mere mortals. &lt;/p&gt;
+&lt;p&gt;The design, however, is absolutely fabulous, even on mobile, and for that I can take absolutely no credit. It’s the &lt;a href=&quot;http://lanyon.getpoole.com/&quot;&gt;lanyon&lt;/a&gt; theme for jekyll by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;, who co-wrote (Twitter) &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;, and I thank him for making his work available to us mere mortals.&lt;/p&gt;
 </description>
 				
 				<pubDate>Thu, 23 Apr 2015 00:00:00 +0200</pubDate>
@@ -159,9 +175,9 @@
 				        
 				
 					<description>&lt;p&gt;&lt;a href=&quot;http://policke1.p2-men.de/&quot;&gt;&lt;img src=&quot;/assets/policke-200415.jpg&quot; alt=&quot;Policke&quot; class=&quot;alignright&quot; /&gt;&lt;/a&gt;
-Last week we bought a confirmation suit. Of course we went to &lt;a href=&quot;http://policke1.p2-men.de/&quot;&gt;Policke&lt;/a&gt; in Hamburg. It’s the perfect place for young (or older) men to shop. It has the feel of a 1920s haberdasher, full of dark little rooms connected by narrow halls and staircases. You’re met at the front door by the head sizer, who determines your size with a glance and with a slight movement of his eyes directs you to the room where your size is stocked. Once there, you nod at the salesman (they’re all men), who from your nod determines the style and price range you want. You’re in and out in 10 minutes. No words are necessary at any time. &lt;/p&gt;
+Last week we bought a confirmation suit. Of course we went to &lt;a href=&quot;http://policke1.p2-men.de/&quot;&gt;Policke&lt;/a&gt; in Hamburg. It’s the perfect place for young (or older) men to shop. It has the feel of a 1920s haberdasher, full of dark little rooms connected by narrow halls and staircases. You’re met at the front door by the head sizer, who determines your size with a glance and with a slight movement of his eyes directs you to the room where your size is stocked. Once there, you nod at the salesman (they’re all men), who from your nod determines the style and price range you want. You’re in and out in 10 minutes. No words are necessary at any time.&lt;/p&gt;
 
-&lt;p&gt;Well, maybe not quite. :-) &lt;/p&gt;
+&lt;p&gt;Well, maybe not quite. :-)&lt;/p&gt;
 
 &lt;p&gt;The confirmation will be at the end of May, on Pentecost Sunday. My mother will be flying in from the US. My father won’t be there, of course.  He made a huge impression on his grandson, though, despite living an ocean and thousands of miles away. He thought of his grandfather when he chose his confirmation verse*. We also legally added his grandfather’s name as an additional middle name for him. He will carry his grandfather’s name the rest of his life, and he will be confirmed with it next month.&lt;/p&gt;
 
@@ -187,21 +203,6 @@ Last week we bought a confirmation suit. Of course we went to &lt;a href=&quot;h
 				<pubDate>Tue, 10 Feb 2015 07:13:25 +0100</pubDate>
 				<link>http://www.papascott.de/archives/2015/02/10/how-i-punked-facebook/</link>
 				<guid isPermaLink="true">http://www.papascott.de/archives/2015/02/10/how-i-punked-facebook/</guid>
-			</item>
-		
-			<item>
-				<title>Where Were You?</title>
-				        
-				
-					<description>&lt;p&gt;Where was I 25 years ago as the Berlin Wall fell? I must confess, I don&#39;t remember exactly. If I had known the news would radically change our lives, I might have paid more attention.&lt;/p&gt;
-&lt;p&gt;We didn&#39;t realize it at the time, but our lives in November 1989 were &quot;in between&quot;. In between jobs, in between continents, in between everything. We had just moved to Arizona, following her old boss who didn&#39;t have a job for her yet. I was working temp jobs hoping to find something permanent (one of them eventually did). We thought Arizona would become our home. We were in love with the desert, the sun, the lifestyle, everything.&lt;/p&gt;
-&lt;p&gt;We had, however, picked a horrible time to move to Arizona. The savings and loan crisis had broken out, and the economy was already stagnant. And in the weeks and months that followed, the soon-to-be-reunified Germany became more attractive to us. We thought we could work there for a couple years and come back when the job climate in Arizona was better.&lt;/p&gt;
-&lt;p&gt;But where was I when I heard the news? Today I have no idea. In my car listening to NPR? At home watching CNN? With my wife when she got a call from her Hungarian friend Gabi? I just know that less than 10 months later, we were here.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 09 Nov 2014 17:59:03 +0100</pubDate>
-				<link>http://www.papascott.de/archives/2014/11/09/where-were-you/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2014/11/09/where-were-you/</guid>
 			</item>
 		
 	</channel>
