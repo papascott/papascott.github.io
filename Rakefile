@@ -19,7 +19,6 @@ task :generate do
   #   "source"      => ".",
   #   "destination" => "_site"
   # })).process
-  system "jekyll b"
 end
 
 
