@@ -7,6 +7,28 @@
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Prince</title>
+				        
+				
+					<description>&lt;p&gt;I was dreamin’ when I wrote this, forgive me if it goes astray…&lt;/p&gt;
+
+&lt;p&gt;When I lived in Minneapolis, I used to think we were cooler than everyone else because we had our own resident musical genius. That’s not true of course, but he &lt;a href=&quot;http://www.startribune.com/prince-was-one-of-our-own-and-he-made-minnesota-seem-cool/376798251/&quot;&gt;made us seem cool&lt;/a&gt;. And even after he was rich and famous, he stayed in Minnesota. Most of the time, anyway.&lt;/p&gt;
+
+&lt;p&gt;And now in Europe, even before last week I could say I’m from Minnesota “where Prince is from”, and for a few moments I’m hip and cool. At least until we change the subject.&lt;/p&gt;
+
+&lt;p&gt;And maybe, even though I was just a casual fan, that’s why his death has saddened me. I’ve lost a piece of home. &lt;em&gt;Ich habe ein Stück Heimat verloren.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To this day, I keep a copy of Dirty Mind (1980) on my current mobile device. It was my first Prince record. It’s an imperfect album. It’s sparsely produced, it almost sounds like a demo. And the lyrics, well, Prince was the artist for whom the term “explicit content” was invented, and they distract from the music. But it’s tight. Every note, every beat, on every track hits. Just listen to the 2nd side (this was back when albums had sides), with Uptown-Head-Sister-Partyup, beginning to end. It still blows me away.&lt;/p&gt;
+
+&lt;p&gt;(My favorite track, though, is on the first side, &lt;a href=&quot;https://en.wikipedia.org/wiki/When_You_Were_Mine_(Prince_song)&quot;&gt;When You Were Mine&lt;/a&gt;. Mr. LoveSexy turns into a bat-shit-crazy ex. Both funny and sexy as hell.)&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 23 Apr 2016 23:03:58 +0200</pubDate>
+				<link>http://www.papascott.de/archives/2016/04/23/prince/</link>
+				<guid isPermaLink="true">http://www.papascott.de/archives/2016/04/23/prince/</guid>
+			</item>
+		
+			<item>
 				<title>The Ants</title>
 				        
 				
@@ -190,22 +212,6 @@
 				<pubDate>Thu, 30 Apr 2015 00:00:00 +0200</pubDate>
 				<link>http://www.papascott.de/archives/2015/04/30/see-what-sticks/</link>
 				<guid isPermaLink="true">http://www.papascott.de/archives/2015/04/30/see-what-sticks/</guid>
-			</item>
-		
-			<item>
-				<title>Transition</title>
-				        
-				
-					<description>&lt;p&gt;So maybe you noticed, maybe you didn’t, but this blog looks a little bit different than a week ago. Behind the scenes it looks a &lt;em&gt;lot&lt;/em&gt; different. After over a decade of blogging on WordPress (I actually started using its predecessor &lt;a href=&quot;http://cafelog.com/&quot;&gt;B2&lt;/a&gt; in 2002), I’m now on the static site generator jekyll. My posts have been exported to text files. No more mysql database, no PHP, no more web interface.&lt;/p&gt;
-
-&lt;p&gt;So everything is new and things are still broken. I don’t have all posts imported yet, I’m only back to 2012 and not 1999 when this thing started. There are a lot a worthless one-line posts from the olden days, since back then we didn’t have Twitter and Facebook yet for worthless posts. So I have some work to do. But I’m looking forward to it.&lt;/p&gt;
-
-&lt;p&gt;The design, however, is absolutely fabulous, even on mobile, and for that I can take absolutely no credit. It’s the &lt;a href=&quot;http://lanyon.getpoole.com/&quot;&gt;lanyon&lt;/a&gt; theme for jekyll by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;, who co-wrote (Twitter) &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;, and I thank him for making his work available to us mere mortals.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 23 Apr 2015 00:00:00 +0200</pubDate>
-				<link>http://www.papascott.de/archives/2015/04/23/transition/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2015/04/23/transition/</guid>
 			</item>
 		
 	</channel>
