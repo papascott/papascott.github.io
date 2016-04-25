@@ -77,13 +77,13 @@
 
     <span class="post-date">25 Apr 2016</span>
 
-    <p>Last year I converted my Wordpress blog to <a href="\&quot;http://jekyllrb.com/\&quot;">Jekyll</a>. My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I <a href="\&quot;http://www.papascott.de/archives/2015/04/30/see-what-sticks/\&quot;">mentioned then</a> that I took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.</p>
+    <p>Last year I converted my Wordpress blog to <a href="http://jekyllrb.com/">Jekyll</a>. My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I <a href="http://www.papascott.de/archives/2015/04/30/see-what-sticks/">mentioned then</a> that it took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.</p>
 
 <p>Actually, the latest version of Jekyll improved build times considerably. It can now build my 3000 pages in about a minute. But when making changes, that’s still too long to wait.</p>
 
 <p>However, using a trick, I can now build those 3000 pages in 4 seconds. The trick seems pretty obvious to me, but I’ve not seen it written up anyplace, so hence this post.</p>
 
-<p>The trick, of course, is to <em>not</em> build all 3000 pages. For older posts use <a href="\&quot;https://jquery.com/\&quot;">jquery</a> to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:</p>
+<p>The trick, of course, is to <em>not</em> build all 3000 pages. For older posts use <a href="https://jquery.com/">jquery</a> to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:</p>
 
 <p><code class="highlighter-rouge">
 $( "#sidebar" ).load( "/includes/sidebar.html" );
@@ -95,7 +95,7 @@ $( "#sidebar" ).load( "/includes/sidebar.html" );
 exclude: [_posts/older]
 </code></p>
 
-<p>On the HTML side, ever since I started blogging, even way-back-when with <a href="\&quot;http://scripting.com/davenet/1999/12/08/editthispagecom.html\&quot;">EditThisPage</a>, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)</p>
+<p>On the HTML side, ever since I started blogging, even way-back-when with <a href="http://scripting.com/davenet/1999/12/08/editthispagecom.html">EditThisPage</a>, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)</p>
 
 <p><code class="highlighter-rouge">
 keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]

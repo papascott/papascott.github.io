@@ -10,13 +10,13 @@
 				<title>How to build 3000 pages in Jekyll in less than 4 seconds</title>
 				        
 				
-					<description>&lt;p&gt;Last year I converted my Wordpress blog to &lt;a href=&quot;\&amp;quot;http://jekyllrb.com/\&amp;quot;&quot;&gt;Jekyll&lt;/a&gt;. My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I &lt;a href=&quot;\&amp;quot;http://www.papascott.de/archives/2015/04/30/see-what-sticks/\&amp;quot;&quot;&gt;mentioned then&lt;/a&gt; that I took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.&lt;/p&gt;
+					<description>&lt;p&gt;Last year I converted my Wordpress blog to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I &lt;a href=&quot;http://www.papascott.de/archives/2015/04/30/see-what-sticks/&quot;&gt;mentioned then&lt;/a&gt; that it took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.&lt;/p&gt;
 
 &lt;p&gt;Actually, the latest version of Jekyll improved build times considerably. It can now build my 3000 pages in about a minute. But when making changes, that’s still too long to wait.&lt;/p&gt;
 
 &lt;p&gt;However, using a trick, I can now build those 3000 pages in 4 seconds. The trick seems pretty obvious to me, but I’ve not seen it written up anyplace, so hence this post.&lt;/p&gt;
 
-&lt;p&gt;The trick, of course, is to &lt;em&gt;not&lt;/em&gt; build all 3000 pages. For older posts use &lt;a href=&quot;\&amp;quot;https://jquery.com/\&amp;quot;&quot;&gt;jquery&lt;/a&gt; to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:&lt;/p&gt;
+&lt;p&gt;The trick, of course, is to &lt;em&gt;not&lt;/em&gt; build all 3000 pages. For older posts use &lt;a href=&quot;https://jquery.com/&quot;&gt;jquery&lt;/a&gt; to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
 $( &quot;#sidebar&quot; ).load( &quot;/includes/sidebar.html&quot; );
@@ -28,7 +28,7 @@ $( &quot;#sidebar&quot; ).load( &quot;/includes/sidebar.html&quot; );
 exclude: [_posts/older]
 &lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;On the HTML side, ever since I started blogging, even way-back-when with &lt;a href=&quot;\&amp;quot;http://scripting.com/davenet/1999/12/08/editthispagecom.html\&amp;quot;&quot;&gt;EditThisPage&lt;/a&gt;, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)&lt;/p&gt;
+&lt;p&gt;On the HTML side, ever since I started blogging, even way-back-when with &lt;a href=&quot;http://scripting.com/davenet/1999/12/08/editthispagecom.html&quot;&gt;EditThisPage&lt;/a&gt;, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
 keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
