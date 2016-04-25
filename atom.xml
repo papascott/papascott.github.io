@@ -4,7 +4,7 @@
  <title>PapaScott</title>
  <link href="http://www.papascott.de/atom.xml" rel="self"/>
  <link href="http://www.papascott.de/"/>
- <updated>2016-04-25T09:41:56+02:00</updated>
+ <updated>2016-04-25T10:41:13+02:00</updated>
  <id>http://www.papascott.de</id>
  <author>
    <name>Scott Hanson</name>
@@ -29,7 +29,7 @@
 $( &quot;#sidebar&quot; ).load( &quot;/includes/sidebar.html&quot; );
 &lt;/code&gt;&lt;/p&gt;
 
-&lt;p&gt;Right now, on the Jekyll side I don’t want it to rebuild posts from before 2015. I’ve put all those ins a _posts/older subdirectory and added an exclude: directive in my _config.yml:&lt;/p&gt;
+&lt;p&gt;Right now, on the Jekyll side I don’t want it to rebuild posts from before 2015. I’ve put all those in a _posts/older subdirectory and added an exclude: directive in my _config.yml:&lt;/p&gt;
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
 exclude: [_posts/older]
