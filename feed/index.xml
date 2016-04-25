@@ -7,6 +7,44 @@
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>How to build 3000 pages in Jekyll in less than 4 seconds</title>
+				        
+				
+					<description>&lt;p&gt;Last year I converted my Wordpress blog to &lt;a href=&quot;\&amp;quot;http://jekyllrb.com/\&amp;quot;&quot;&gt;Jekyll&lt;/a&gt;. My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I &lt;a href=&quot;\&amp;quot;http://www.papascott.de/archives/2015/04/30/see-what-sticks/\&amp;quot;&quot;&gt;mentioned then&lt;/a&gt; that I took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.&lt;/p&gt;
+
+&lt;p&gt;Actually, the latest version of Jekyll improved build times considerably. It can now build my 3000 pages in about a minute. But when making changes, that’s still too long to wait.&lt;/p&gt;
+
+&lt;p&gt;However, using a trick, I can now build those 3000 pages in 4 seconds. The trick seems pretty obvious to me, but I’ve not seen it written up anyplace, so hence this post.&lt;/p&gt;
+
+&lt;p&gt;The trick, of course, is to &lt;em&gt;not&lt;/em&gt; build all 3000 pages. For older posts use &lt;a href=&quot;\&amp;quot;https://jquery.com/\&amp;quot;&quot;&gt;jquery&lt;/a&gt; to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+$( &quot;#sidebar&quot; ).load( &quot;/includes/sidebar.html&quot; );
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Right now, on the Jekyll side I don’t want it to rebuild posts from before 2015. I’ve put all those ins a _posts/older subdirectory and added an exclude: directive in my _config.yml:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+exclude: [_posts/older]
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;On the HTML side, ever since I started blogging, even way-back-when with &lt;a href=&quot;\&amp;quot;http://scripting.com/davenet/1999/12/08/editthispagecom.html\&amp;quot;&quot;&gt;EditThisPage&lt;/a&gt;, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;At least “archives/200” covers an entire decade in one entry. :-)&lt;/p&gt;
+
+&lt;p&gt;And that’s it. When I do want to rebuild to entire site, I can comment out those two directives and let ‘er rip. And being hosted at GitHub, you can see all my gory source files in the source branch at &lt;a href=&quot;https://github.com/papascott/papascott.github.io&quot;&gt;https://github.com/papascott/papascott.github.io&lt;/a&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 25 Apr 2016 09:24:47 +0200</pubDate>
+				<link>http://www.papascott.de/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds/</link>
+				<guid isPermaLink="true">http://www.papascott.de/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds/</guid>
+			</item>
+		
+			<item>
 				<title>Prince</title>
 				        
 				
@@ -174,44 +212,6 @@
 				<pubDate>Mon, 25 May 2015 00:00:00 +0200</pubDate>
 				<link>http://www.papascott.de/archives/2015/05/25/taking-your-place/</link>
 				<guid isPermaLink="true">http://www.papascott.de/archives/2015/05/25/taking-your-place/</guid>
-			</item>
-		
-			<item>
-				<title>See What Sticks</title>
-				        
-				
-					<description>&lt;p&gt;So now that I’ve &lt;a href=&quot;/archives/2015/04/23/transition/&quot;&gt;changed&lt;/a&gt; my blogging platform, I have something to blog about: my new blogging platform!&lt;/p&gt;
-
-&lt;p&gt;From the WordPress eXtended RSS file of the contents of my blog I found I had exported 3273 posts. Jekyll re-renders every post every time a change is made… on the default template it takes 3 minutes, but on the Lanyon template it ran over 20 minutes before I cancelled the build. That’s why I started with only a few dozen posts.&lt;/p&gt;
-
-&lt;p&gt;I then changed my archive strategy, using yearly and monthly archives similar to what I had used with WordPress instead of the pagination used in Lanyon, and lo and behold the build took only 2.5 minutes. The disadvantage is that GitHub won’t run the &lt;a href=&quot;https://github.com/jekyll/jekyll-archives&quot;&gt;jekyll-archives&lt;/a&gt; plugin for me, so I have to render the site locally and push the rendered HTML to GitHub. I can live with that.&lt;/p&gt;
-
-&lt;p&gt;The next question was whether Google (and everyone else) could find the old links on the new site. Jekyll is able to use the same &lt;code class=&quot;highlighter-rouge&quot;&gt;archives/:year/:month/:day/:title/&lt;/code&gt; permalink stucture I was using before. But were all my links the same as before? Do they all still work? Well, that eXtended RSS file contains all the permalinks that WordPress had generated…&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/05/it-worked/&amp;lt;/link&amp;gt;
- &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/06/week-37/&amp;lt;/link&amp;gt;
- &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/07/ready-and-waiting/&amp;lt;/link&amp;gt;
- &amp;lt;link&amp;gt;http://papasc.home/archives/1999/12/09/linux-fever/&amp;lt;/link&amp;gt;
- ...
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;(Yes, that’s a fake URL. My hoster timed out producing the eXtended RSS file so I had to use a local install.) I then ran the links through a shell script I found on &lt;a href=&quot;http://stackoverflow.com/questions/25135347/how-to-check-status-of-urls-from-text-file-using-bash-shell-script&quot;&gt;Stack Exchange&lt;/a&gt;:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; &lt;span class=&quot;c&quot;&gt;#!/bin/bash&lt;/span&gt;
- &lt;span class=&quot;k&quot;&gt;while &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;read&lt;/span&gt; -ru 4 LINE; &lt;span class=&quot;k&quot;&gt;do
-     &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;read&lt;/span&gt; -r REP &amp;lt; &amp;lt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;curl -IsS &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$LINE&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt; 2&amp;gt;&amp;amp;1&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
-     &lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$LINE&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;: &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$REP&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
- &lt;span class=&quot;k&quot;&gt;done &lt;/span&gt;4&amp;lt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;$1&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;And, indeed, all the links work. Whether the content still makes sense is another question, but PapaScott is back online in its entirety!&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 30 Apr 2015 00:00:00 +0200</pubDate>
-				<link>http://www.papascott.de/archives/2015/04/30/see-what-sticks/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2015/04/30/see-what-sticks/</guid>
 			</item>
 		
 	</channel>
