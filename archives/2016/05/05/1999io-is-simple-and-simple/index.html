@@ -11,7 +11,7 @@
 
   <title>
     
-      Gliding 2 &middot; PapaScott
+      1999.io is simple.  And simple. &middot; PapaScott
     
   </title>
 
@@ -62,21 +62,26 @@
 
 
         <div class="post">
-  <h1 class="post-title">Gliding 2</h1>
-  <span class="post-date">27 Apr 2016</span>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nsF-UrqqkSQ" frameborder="0" allowfullscreen=""></iframe>
+  <h1 class="post-title">1999.io is simple.  And simple.</h1>
+  <span class="post-date">05 May 2016</span>
+  <p>The past few weeks I’ve been trying out <a href="http://scripting.com/2016/05/04/1238.html">1999.io</a>, the new blogging software by Dave Winer. You can either try it out at his site <a href="http://my.1999.io">my.1999.io</a> (you just need a Twitter ID to log in) or you can <a href="https://github.com/scripting/1999-project/blob/master/docs/setup.md">install the server</a> on any system that can run Node. Being a server guy I of course installed my own (on a cheap 3.50€‚/mo VPS), and used it to write my last few blog posts. </p>
 
-<p>This is how our son stays out of trouble on weekends. At 16 in Germany he can fly solo, but yet not drive a car. :-)</p>
+<p>I like it because because it’s simple. And simple. Simple to write with, simple to work with.</p>
+
+<p>It’s simple to write with. You just open the editor page and type. To update your text, you just click on it and type. There are some simple formatting options, but nothing that gets in the way. When you update, though WebSocket magic anyone reading your post immediately gets the update.</p>
+
+<p>And on the server it’s <a href="http://my.1999.io/users/1999io/2016/04/11/0004.html">simple to work with</a>. There’s no database, just files in open formats readable as text, JSON, OPML, RSS, HTML. Formats you can use for other purposes if you are so inclined. Even the HTML files for each post contain the JSON for the post, which I first thought was redundant but now see is brilliant. It’s like the web page contains it’s own DNA and can re-create itself. </p>
+
+<p>These open formats allow one to do things with the output that go beyond the server. For instance, I copy the output of my server to an S3 bucket at <a href="http://1999.papascott.de">1999.papascott.de</a>, which can probably handle load better than my cheap VPS. :-) It’s not yet coupled to my main blog on Jekyll (right now I’m using copy and paste), but I imagine it wouldn’t too much cleverness to achieve that.</p>
+
+<p>I hope someday to be able to use 1999.io as a blogging central, with the ability to send my posts to my blog, or Twitter, or Facebook, or Medium, or wherever, but keeping my original posts for myself. I’ll let those big silos show my work, but not own it.</p>
 
 </div>
 <div>
   
     <span class="post-date">
-    Previous Post: <a href="/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds/">How to build 3000 pages in Jekyll in less than 4 seconds</a></span>
+    Previous Post: <a href="/archives/2016/04/27/gliding-2/">Gliding 2</a></span>
   
-  
-    <span class="post-date">
-    Next Post: <a href="/archives/2016/05/05/1999io-is-simple-and-simple/">1999.io is simple.  And simple.</a></span>
   
 </div>
 <div class="related" id="related">
@@ -90,7 +95,7 @@
 if(location.hostname.match('papascott')){
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var disqus_shortname = 'papascott'; // required: replace example with your forum shortname
-  var disqus_identifier = "/archives/2016/04/27/gliding-2/";
+  var disqus_identifier = "/archives/2016/05/05/1999io-is-simple-and-simple/";
 
   /* * * DON'T EDIT BELOW THIS LINE * * */
   (function() {

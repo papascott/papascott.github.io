@@ -7,6 +7,28 @@
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>1999.io is simple.  And simple.</title>
+				        
+				
+					<description>&lt;p&gt;The past few weeks I’ve been trying out &lt;a href=&quot;http://scripting.com/2016/05/04/1238.html&quot;&gt;1999.io&lt;/a&gt;, the new blogging software by Dave Winer. You can either try it out at his site &lt;a href=&quot;http://my.1999.io&quot;&gt;my.1999.io&lt;/a&gt; (you just need a Twitter ID to log in) or you can &lt;a href=&quot;https://github.com/scripting/1999-project/blob/master/docs/setup.md&quot;&gt;install the server&lt;/a&gt; on any system that can run Node. Being a server guy I of course installed my own (on a cheap 3.50€‚/mo VPS), and used it to write my last few blog posts. &lt;/p&gt;
+
+&lt;p&gt;I like it because because it’s simple. And simple. Simple to write with, simple to work with.&lt;/p&gt;
+
+&lt;p&gt;It’s simple to write with. You just open the editor page and type. To update your text, you just click on it and type. There are some simple formatting options, but nothing that gets in the way. When you update, though WebSocket magic anyone reading your post immediately gets the update.&lt;/p&gt;
+
+&lt;p&gt;And on the server it’s &lt;a href=&quot;http://my.1999.io/users/1999io/2016/04/11/0004.html&quot;&gt;simple to work with&lt;/a&gt;. There’s no database, just files in open formats readable as text, JSON, OPML, RSS, HTML. Formats you can use for other purposes if you are so inclined. Even the HTML files for each post contain the JSON for the post, which I first thought was redundant but now see is brilliant. It’s like the web page contains it’s own DNA and can re-create itself. &lt;/p&gt;
+
+&lt;p&gt;These open formats allow one to do things with the output that go beyond the server. For instance, I copy the output of my server to an S3 bucket at &lt;a href=&quot;http://1999.papascott.de&quot;&gt;1999.papascott.de&lt;/a&gt;, which can probably handle load better than my cheap VPS. :-) It’s not yet coupled to my main blog on Jekyll (right now I’m using copy and paste), but I imagine it wouldn’t too much cleverness to achieve that.&lt;/p&gt;
+
+&lt;p&gt;I hope someday to be able to use 1999.io as a blogging central, with the ability to send my posts to my blog, or Twitter, or Facebook, or Medium, or wherever, but keeping my original posts for myself. I’ll let those big silos show my work, but not own it.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 05 May 2016 10:43:01 +0200</pubDate>
+				<link>http://www.papascott.de/archives/2016/05/05/1999io-is-simple-and-simple/</link>
+				<guid isPermaLink="true">http://www.papascott.de/archives/2016/05/05/1999io-is-simple-and-simple/</guid>
+			</item>
+		
+			<item>
 				<title>Gliding 2</title>
 				        
 				
@@ -184,24 +206,6 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 				<pubDate>Sun, 06 Sep 2015 00:00:00 +0200</pubDate>
 				<link>http://www.papascott.de/archives/2015/09/06/anniversary/</link>
 				<guid isPermaLink="true">http://www.papascott.de/archives/2015/09/06/anniversary/</guid>
-			</item>
-		
-			<item>
-				<title>25 Years</title>
-				        
-				
-					<description>&lt;p&gt;Another half decade, another milestone. Just five years ago I was waxing poetic about &lt;a href=&quot;/archives/2010/09/01/it-was-twenty-years-ago-today/&quot;&gt;how we had already been in Germany for 20 years&lt;/a&gt;, and now it’s already been 25 years. Strangely enough my passport from then bears no entry stamp for 1 September 1990.&lt;/p&gt;
-
-&lt;p&gt;At the time our entry into Germany was uncertain. Reunification was in the air, everyone knew it was coming, but the details were still being negotiated behind closed doors. We boarded our plane to Frankfurt on 31 August without knowing our fate. Luckily for us, while our plane was in the air, the “Einigungsvertrag” was signed by BRD Interior Minister Wolfgang Schäuble and DDR State Secretary Günter Krause, clearing the way for our entry into the soon-to-be unified Germany the next day.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.bundesfinanzministerium.de/Content/DE/Bilder/Bildstrecken/Mediathek/Bildergalerien/Bewegte_Zeiten/Galerie01_11.html&quot;&gt;&lt;img src=&quot;http://www.bundesfinanzministerium.de/Content/DE/Bilder/Bildstrecken/Mediathek/Bildergalerien/Bewegte_Zeiten/Galerie01_11.jpg?__blob=normal&amp;amp;v=4&quot; alt=&quot;Einigungsvertrag 31-Aug-1990&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;That document did however leave several details open. It never was determined whether our cats would remain American citizens or whether they would obtain German citizenship.&lt;/p&gt;
-</description>
-				
-				<pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
-				<link>http://www.papascott.de/archives/2015/09/01/25-years/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2015/09/01/25-years/</guid>
 			</item>
 		
 	</channel>
