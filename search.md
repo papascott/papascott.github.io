@@ -2,7 +2,7 @@
 layout: page
 title: Search
 ---
-Search www.papascott.de using Google custom search. A lot of pages will be missing while we're still in [transition](/archives/2015/04/23/transition/).
+Search www.papascott.de using Google custom search.
 
 <div id='cse' style='width: 100%;'>Loading</div>
 <script src='//www.google.com/jsapi' type='text/javascript'></script>
@@ -21,4 +21,3 @@ google.setOnLoadCallback(function() {
   customSearchControl.draw('cse', options);
 }, true);
 </script>
-
