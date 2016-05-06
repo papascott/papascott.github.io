@@ -21,6 +21,7 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 
 
 gems:
+  - jemoji
   - jekyll-archives
   - jekyll-redirect-from
 
