@@ -31,9 +31,11 @@
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.4/zepto.min.js"></script>
+    {% if page.title == "Home" %}<script src='/public/js/twitterFetcher_min.js'></script>{% endif %}
     <script>
       $( "#sidebar" ).load( "/includes/sidebar.html" );
       {% if page.path contains '_posts' %}$( "#related" ).load( "/includes/related.html" );{% endif %}
+      {% if page.title == "Home" %}twitterFetcher.fetch({"id": '336416654936379392',"domId": 'twitter-news', "maxTweets": 3, "enableLinks": true, "showPermalinks": true, "showUser": false, "showRetweet": false, "showInteraction": false});{% endif %}
     </script>
 
     <script>

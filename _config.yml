@@ -2,6 +2,7 @@
 title:               PapaScott
 tagline:             'And you know what they said? Well, some of it was true!'
 description:         '<a href="/">PapaScott</a> is a personal weblog by Scott Hanson.'
+descriptiontext:    'A personal weblog by Scott Hanson'
 url:                 http://www.papascott.de
 baseurl:            ''
 permalink:           archives/:year/:month/:day/:title/
