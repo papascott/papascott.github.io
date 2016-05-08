@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
- <title>PapaScott</title>
- <link href="http://www.papascott.de/atom.xml" rel="self"/>
- <link href="http://www.papascott.de/"/>
- <updated>2016-05-08T11:26:52+02:00</updated>
- <id>http://www.papascott.de</id>
- <author>
-   <name>Scott Hanson</name>
-   <email>papascott@gmail.com</email>
- </author>
-
- 
- <entry>
-   <title>1999.io is simple.  And simple.</title>
-   <link href="http://www.papascott.de/archives/2016/05/05/1999io-is-simple-and-simple/"/>
-   <updated>2016-05-05T10:43:01+02:00</updated>
-   <id>http://www.papascott.de/archives/2016/05/05/1999io-is-simple-and-simple</id>
-   <content type="html">&lt;p&gt;The past few weeks I’ve been trying out &lt;a href=&quot;http://scripting.com/2016/05/04/1238.html&quot;&gt;1999.io&lt;/a&gt;, the new blogging software by Dave Winer. You can either try it out at his site &lt;a href=&quot;http://my.1999.io&quot;&gt;my.1999.io&lt;/a&gt; (you just need a Twitter ID to log in) or you can &lt;a href=&quot;https://github.com/scripting/1999-project/blob/master/docs/setup.md&quot;&gt;install the server&lt;/a&gt; on any system that can run Node. Being a server guy I of course installed my own (on a cheap 3.50€‚/mo VPS), and used it to write my last few blog posts. &lt;/p&gt;
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PapaScott<</title>
+    <link>http://www.papascott.de/</link>
+    <atom:link href="http://www.papascott.de/rss.xml" rel="self" type="application/rss+xml" />
+    <description>A personal weblog by Scott Hanson</description>
+    <language>en-us</language>
+    <pubDate>Sun, 08 May 2016 11:26:52 +0200</pubDate>
+    <lastBuildDate>Sun, 08 May 2016 11:26:52 +0200</lastBuildDate>
+    
+    <item>
+      <title>1999.io is simple.  And simple.</title>
+      <link>http://www.papascott.de/archives/2016/05/05/1999io-is-simple-and-simple/</link>
+      <pubDate>Thu, 05 May 2016 10:43:01 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2016/05/05/1999io-is-simple-and-simple/</guid>
+      <description>&lt;p&gt;The past few weeks I’ve been trying out &lt;a href=&quot;http://scripting.com/2016/05/04/1238.html&quot;&gt;1999.io&lt;/a&gt;, the new blogging software by Dave Winer. You can either try it out at his site &lt;a href=&quot;http://my.1999.io&quot;&gt;my.1999.io&lt;/a&gt; (you just need a Twitter ID to log in) or you can &lt;a href=&quot;https://github.com/scripting/1999-project/blob/master/docs/setup.md&quot;&gt;install the server&lt;/a&gt; on any system that can run Node. Being a server guy I of course installed my own (on a cheap 3.50€‚/mo VPS), and used it to write my last few blog posts. &lt;/p&gt;
 
 &lt;p&gt;I like it because because it’s simple. And simple. Simple to write with, simple to work with.&lt;/p&gt;
 
@@ -28,26 +25,26 @@
 &lt;p&gt;These open formats allow one to do things with the output that go beyond the server. For instance, I copy the output of my server to an S3 bucket at &lt;a href=&quot;http://1999.papascott.de&quot;&gt;1999.papascott.de&lt;/a&gt;, which can probably handle load better than my cheap VPS :smile:. It’s not yet coupled to my main blog on Jekyll (right now I’m using copy and paste), but I imagine it wouldn’t too much cleverness to achieve that.&lt;/p&gt;
 
 &lt;p&gt;I hope someday to be able to use 1999.io as a blogging central, with the ability to send my posts to my blog, or Twitter, or Facebook, or Medium, or wherever, but keeping my original posts for myself. I’ll let those big silos show my work, but not own it.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Gliding 2</title>
-   <link href="http://www.papascott.de/archives/2016/04/27/gliding-2/"/>
-   <updated>2016-04-27T18:38:59+02:00</updated>
-   <id>http://www.papascott.de/archives/2016/04/27/gliding-2</id>
-   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nsF-UrqqkSQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gliding 2</title>
+      <link>http://www.papascott.de/archives/2016/04/27/gliding-2/</link>
+      <pubDate>Wed, 27 Apr 2016 18:38:59 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2016/04/27/gliding-2/</guid>
+      <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nsF-UrqqkSQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;This is how our son stays out of trouble on weekends. At 16 in Germany he can fly solo, but yet not drive a car. :-)&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>How to build 3000 pages in Jekyll in less than 4 seconds</title>
-   <link href="http://www.papascott.de/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds/"/>
-   <updated>2016-04-25T09:24:47+02:00</updated>
-   <id>http://www.papascott.de/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds</id>
-   <content type="html">&lt;p&gt;Last year I converted my Wordpress blog to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I &lt;a href=&quot;http://www.papascott.de/archives/2015/04/30/see-what-sticks/&quot;&gt;mentioned then&lt;/a&gt; that it took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to build 3000 pages in Jekyll in less than 4 seconds</title>
+      <link>http://www.papascott.de/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds/</link>
+      <pubDate>Mon, 25 Apr 2016 09:24:47 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds/</guid>
+      <description>&lt;p&gt;Last year I converted my Wordpress blog to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I &lt;a href=&quot;http://www.papascott.de/archives/2015/04/30/see-what-sticks/&quot;&gt;mentioned then&lt;/a&gt; that it took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.&lt;/p&gt;
 
 &lt;p&gt;Actually, the latest version of Jekyll improved build times considerably. It can now build my 3000 pages in about a minute. But when making changes, that’s still too long to wait.&lt;/p&gt;
 
@@ -74,15 +71,15 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 &lt;p&gt;At least “archives/200” covers an entire decade in one entry. :-)&lt;/p&gt;
 
 &lt;p&gt;And that’s it. When I do want to rebuild to entire site, I can comment out those two directives and let ‘er rip. And being hosted at GitHub, you can see all my gory source files in the source branch at &lt;a href=&quot;https://github.com/papascott/papascott.github.io&quot;&gt;https://github.com/papascott/papascott.github.io&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Prince</title>
-   <link href="http://www.papascott.de/archives/2016/04/23/prince/"/>
-   <updated>2016-04-23T23:03:58+02:00</updated>
-   <id>http://www.papascott.de/archives/2016/04/23/prince</id>
-   <content type="html">&lt;p&gt;I was dreamin’ when I wrote this, forgive me if it goes astray…&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prince</title>
+      <link>http://www.papascott.de/archives/2016/04/23/prince/</link>
+      <pubDate>Sat, 23 Apr 2016 23:03:58 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2016/04/23/prince/</guid>
+      <description>&lt;p&gt;I was dreamin’ when I wrote this, forgive me if it goes astray…&lt;/p&gt;
 
 &lt;p&gt;When I lived in Minneapolis, I used to think we were cooler than everyone else because we had our own resident musical genius. That’s not true of course, but he &lt;a href=&quot;http://www.startribune.com/prince-was-one-of-our-own-and-he-made-minnesota-seem-cool/376798251/&quot;&gt;made us seem cool&lt;/a&gt;. And even after he was rich and famous, he stayed in Minnesota. Most of the time, anyway.&lt;/p&gt;
 
@@ -93,15 +90,15 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 &lt;p&gt;To this day, I keep a copy of Dirty Mind (1980) on my current mobile device. It was my first Prince record. It’s an imperfect album. It’s sparsely produced, it almost sounds like a demo. And the lyrics, well, Prince was the artist for whom the term “explicit content” was invented, and they distract from the music. But it’s tight. Every note, every beat, on every track hits. Just listen to the 2nd side (this was back when albums had sides), with Uptown-Head-Sister-Partyup, beginning to end. It still blows me away.&lt;/p&gt;
 
 &lt;p&gt;(My favorite track, though, is on the first side, &lt;a href=&quot;https://en.wikipedia.org/wiki/When_You_Were_Mine_(Prince_song)&quot;&gt;When You Were Mine&lt;/a&gt;. Mr. LoveSexy turns into a bat-shit-crazy ex. Both funny and sexy as hell.)&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>The Ants</title>
-   <link href="http://www.papascott.de/archives/2016/04/18/the-ants/"/>
-   <updated>2016-04-18T17:40:38+02:00</updated>
-   <id>http://www.papascott.de/archives/2016/04/18/the-ants</id>
-   <content type="html">&lt;p&gt;Our house turns 20 years old this year. And every spring the same thing happens. The ants come into the kitchen for a few weeks. Then they disappear.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Ants</title>
+      <link>http://www.papascott.de/archives/2016/04/18/the-ants/</link>
+      <pubDate>Mon, 18 Apr 2016 17:40:38 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2016/04/18/the-ants/</guid>
+      <description>&lt;p&gt;Our house turns 20 years old this year. And every spring the same thing happens. The ants come into the kitchen for a few weeks. Then they disappear.&lt;/p&gt;
 
 &lt;p&gt;Ours is a good, solid German house, made of brick. But we live out in the country, and out in the country one has to deal with critters and creepy-crawly things. The doors and windows are tight, but there is obviously a crack in the outside wall to the kitchen. Every spring the ants wake up, get hungry, come inside the wall, and then maybe behind the cabinets, and find an entry to the kitchen.&lt;/p&gt;
 
@@ -114,37 +111,37 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 &lt;p&gt;Here is this year’s point of entry, and our weapon of choice. We’re planning on renovating our kitchen this year. Maybe we’ll find that crack in the wall and get it patched.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/ants-180416.jpg&quot; alt=&quot;The Ants&quot; /&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Student Exchange</title>
-   <link href="http://www.papascott.de/archives/2016/04/05/student-exchange/"/>
-   <updated>2016-04-05T19:50:38+02:00</updated>
-   <id>http://www.papascott.de/archives/2016/04/05/student-exchange</id>
-   <content type="html">&lt;p&gt;We have an exchange student from Italy with us this week (his family hosted our son for a week last fall). We were a bit worried about how to keep him occupied, since we’re out in the country and far from the school. We needn’t have worried. The students (hosts and guests) hang out in Lüneburg after school and they only come home to sleep.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Exchange</title>
+      <link>http://www.papascott.de/archives/2016/04/05/student-exchange/</link>
+      <pubDate>Tue, 05 Apr 2016 19:50:38 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2016/04/05/student-exchange/</guid>
+      <description>&lt;p&gt;We have an exchange student from Italy with us this week (his family hosted our son for a week last fall). We were a bit worried about how to keep him occupied, since we’re out in the country and far from the school. We needn’t have worried. The students (hosts and guests) hang out in Lüneburg after school and they only come home to sleep.&lt;/p&gt;
 
 &lt;p&gt;BTW, German is cool in that it was a different word for grade and high school students &lt;em&gt;(Schüler)&lt;/em&gt; than for college students &lt;em&gt;(Studenten)&lt;/em&gt;. We’re talking about &lt;em&gt;Schüler&lt;/em&gt; here. And that my wife and I met when she was an &lt;a href=&quot;http://www.papascott.de/archives/2009/11/17/and-i-saw-her-standing-there/&quot;&gt;exchange student&lt;/a&gt; &lt;em&gt;(Schüler)&lt;/em&gt; in Minnesota is totally beside the point!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Gliding</title>
-   <link href="http://www.papascott.de/archives/2016/04/05/gliding/"/>
-   <updated>2016-04-05T08:43:17+02:00</updated>
-   <id>http://www.papascott.de/archives/2016/04/05/gliding</id>
-   <content type="html">&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;6&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/BDvxkgOo_e-/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Great shot by my flight instructor @simon_bacher 42 minutes in blue thermals and lots of spinning 😰😅 #segelfliegen #gliding #soaring #thermik #blauthermik #thermals #900m #wenzendorf #ask13 #d8964 #segelflugzeug #glider #sailplane #gopro #gopropilots_ #sobock #soobock&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by Christopher Hanson (@fseddh) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2016-04-03T17:27:53+00:00&quot;&gt;Apr 3, 2016 at 10:27am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gliding</title>
+      <link>http://www.papascott.de/archives/2016/04/05/gliding/</link>
+      <pubDate>Tue, 05 Apr 2016 08:43:17 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2016/04/05/gliding/</guid>
+      <description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-version=&quot;6&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/BDvxkgOo_e-/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Great shot by my flight instructor @simon_bacher 42 minutes in blue thermals and lots of spinning 😰😅 #segelfliegen #gliding #soaring #thermik #blauthermik #thermals #900m #wenzendorf #ask13 #d8964 #segelflugzeug #glider #sailplane #gopro #gopropilots_ #sobock #soobock&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A photo posted by Christopher Hanson (@fseddh) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2016-04-03T17:27:53+00:00&quot;&gt;Apr 3, 2016 at 10:27am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>Where and For Whom to Vote</title>
-   <link href="http://www.papascott.de/archives/2016/02/19/where-and-for-whom-to-vote/"/>
-   <updated>2016-02-19T17:48:02+01:00</updated>
-   <id>http://www.papascott.de/archives/2016/02/19/where-and-for-whom-to-vote</id>
-   <content type="html">&lt;p&gt;Like &lt;a href=&quot;https://en.wikipedia.org/wiki/Will_Rogers&quot;&gt;Will Rogers&lt;/a&gt;, I am proud to not be a member of any organized political party. I am a Democrat.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Where and For Whom to Vote</title>
+      <link>http://www.papascott.de/archives/2016/02/19/where-and-for-whom-to-vote/</link>
+      <pubDate>Fri, 19 Feb 2016 17:48:02 +0100</pubDate>
+      <guid>http://www.papascott.de/archives/2016/02/19/where-and-for-whom-to-vote/</guid>
+      <description>&lt;p&gt;Like &lt;a href=&quot;https://en.wikipedia.org/wiki/Will_Rogers&quot;&gt;Will Rogers&lt;/a&gt;, I am proud to not be a member of any organized political party. I am a Democrat.&lt;/p&gt;
 
 &lt;p&gt;And true to that spirit, as a Democrat living outside the United States, for the current presidential campaign I not only have to decide for whom to vote, but also where. (For my foreign readers following the US election, yes the process is complicated, and my description will make the impression that it is even more complicated. That is deliberate on my part.)&lt;/p&gt;
 
@@ -157,54 +154,54 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 &lt;p&gt;So now I know where I will vote. Now I just have to decide for whom.&lt;/p&gt;
 
 &lt;p&gt;(In all fairness, there is also an organization for &lt;a href=&quot;https://www.facebook.com/republicansoverseas/&quot;&gt;Republicans abroad&lt;/a&gt;, but you guys don’t get a primary. You’re not even officially part of the Republican party. Sorry.)&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Will You Still Love Me When I'm Fifty-Four?</title>
-   <link href="http://www.papascott.de/archives/2016/02/13/will-you-still-love-me-when-im-fiftyfour/"/>
-   <updated>2016-02-13T09:45:19+01:00</updated>
-   <id>http://www.papascott.de/archives/2016/02/13/will-you-still-love-me-when-im-fiftyfour</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/fifty-four-130216.jpg&quot; alt=&quot;Aged 54 years&quot; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Will You Still Love Me When I'm Fifty-Four?</title>
+      <link>http://www.papascott.de/archives/2016/02/13/will-you-still-love-me-when-im-fiftyfour/</link>
+      <pubDate>Sat, 13 Feb 2016 09:45:19 +0100</pubDate>
+      <guid>http://www.papascott.de/archives/2016/02/13/will-you-still-love-me-when-im-fiftyfour/</guid>
+      <description>&lt;p&gt;&lt;img src=&quot;/assets/fifty-four-130216.jpg&quot; alt=&quot;Aged 54 years&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I guess the answer is yes!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Anniversary</title>
-   <link href="http://www.papascott.de/archives/2015/09/06/anniversary/"/>
-   <updated>2015-09-06T00:00:00+02:00</updated>
-   <id>http://www.papascott.de/archives/2015/09/06/anniversary</id>
-   <content type="html">&lt;p&gt;I used to write a blog post for our anniversary each year. Nowadays I just use &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10153422228986281&amp;amp;set=a.10150156329816281.333920.666521280&amp;amp;type=1&amp;amp;theater&quot;&gt;Facebook&lt;/a&gt; and Twitter.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anniversary</title>
+      <link>http://www.papascott.de/archives/2015/09/06/anniversary/</link>
+      <pubDate>Sun, 06 Sep 2015 00:00:00 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2015/09/06/anniversary/</guid>
+      <description>&lt;p&gt;I used to write a blog post for our anniversary each year. Nowadays I just use &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10153422228986281&amp;amp;set=a.10150156329816281.333920.666521280&amp;amp;type=1&amp;amp;theater&quot;&gt;Facebook&lt;/a&gt; and Twitter.&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;32 years together and still going strong! &lt;a href=&quot;http://t.co/aWQZ5emsuy&quot;&gt;pic.twitter.com/aWQZ5emsuy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Scott Hanson (@papascott) &lt;a href=&quot;https://twitter.com/papascott/status/640436611323424768&quot;&gt;September 6, 2015&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-</content>
- </entry>
- 
- <entry>
-   <title>25 Years</title>
-   <link href="http://www.papascott.de/archives/2015/09/01/25-years/"/>
-   <updated>2015-09-01T00:00:00+02:00</updated>
-   <id>http://www.papascott.de/archives/2015/09/01/25-years</id>
-   <content type="html">&lt;p&gt;Another half decade, another milestone. Just five years ago I was waxing poetic about &lt;a href=&quot;/archives/2010/09/01/it-was-twenty-years-ago-today/&quot;&gt;how we had already been in Germany for 20 years&lt;/a&gt;, and now it’s already been 25 years. Strangely enough my passport from then bears no entry stamp for 1 September 1990.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>25 Years</title>
+      <link>http://www.papascott.de/archives/2015/09/01/25-years/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2015/09/01/25-years/</guid>
+      <description>&lt;p&gt;Another half decade, another milestone. Just five years ago I was waxing poetic about &lt;a href=&quot;/archives/2010/09/01/it-was-twenty-years-ago-today/&quot;&gt;how we had already been in Germany for 20 years&lt;/a&gt;, and now it’s already been 25 years. Strangely enough my passport from then bears no entry stamp for 1 September 1990.&lt;/p&gt;
 
 &lt;p&gt;At the time our entry into Germany was uncertain. Reunification was in the air, everyone knew it was coming, but the details were still being negotiated behind closed doors. We boarded our plane to Frankfurt on 31 August without knowing our fate. Luckily for us, while our plane was in the air, the “Einigungsvertrag” was signed by BRD Interior Minister Wolfgang Schäuble and DDR State Secretary Günter Krause, clearing the way for our entry into the soon-to-be unified Germany the next day.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.bundesfinanzministerium.de/Content/DE/Bilder/Bildstrecken/Mediathek/Bildergalerien/Bewegte_Zeiten/Galerie01_11.html&quot;&gt;&lt;img src=&quot;http://www.bundesfinanzministerium.de/Content/DE/Bilder/Bildstrecken/Mediathek/Bildergalerien/Bewegte_Zeiten/Galerie01_11.jpg?__blob=normal&amp;amp;v=4&quot; alt=&quot;Einigungsvertrag 31-Aug-1990&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;That document did however leave several details open. It never was determined whether our cats would remain American citizens or whether they would obtain German citizenship.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Taking your Place</title>
-   <link href="http://www.papascott.de/archives/2015/05/25/taking-your-place/"/>
-   <updated>2015-05-25T00:00:00+02:00</updated>
-   <id>http://www.papascott.de/archives/2015/05/25/taking-your-place</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;For our son’s Confirmation yesterday I gave a toast that went quite well. It sums up pretty well how I feel right now about our son and parenting, so I’ve modified it a bit and posted it. I wrote it in English so my mother could follow along, but I gave it in German, translating on my feet.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taking your Place</title>
+      <link>http://www.papascott.de/archives/2015/05/25/taking-your-place/</link>
+      <pubDate>Mon, 25 May 2015 00:00:00 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2015/05/25/taking-your-place/</guid>
+      <description>&lt;p&gt;&lt;em&gt;For our son’s Confirmation yesterday I gave a toast that went quite well. It sums up pretty well how I feel right now about our son and parenting, so I’ve modified it a bit and posted it. I wrote it in English so my mother could follow along, but I gave it in German, translating on my feet.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;I’d like to take this chance to talk directly to you, my son. This is one of the few chances that I know you’ll be listening. At church the pastor talked about how Confirmation is a decision, an active decision, that you make. It is also an positive action… you are finding and &lt;em&gt;taking your place&lt;/em&gt;.&lt;/p&gt;
 
@@ -217,15 +214,15 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 &lt;p&gt;Finally, you are &lt;em&gt;taking your place in world&lt;/em&gt;. Unlike in our town, in reality becoming an adult is not a solid line to be crossed. It’s a process that you have now started, and maybe never ends, and process that you are now taking over for yourself. For your parents it means that we have taught you pretty much even thing we can, we cannot “raise” you anymore. We can’t tell you anything anymore, as you remind us when we try to say something you disagree with. We have to start letting go, to stop setting rules and instead give advice and let you make your own mistakes. We are very happy and very proud for what you are and what you will become. I am certain that you have the qualities for success, in every sense of the word. Your self-confidence, your sense of fairness, your intelligence and stubbornness… a positive stubbornness, I should point out. It’s OK to dream big, that’s the only way big dreams can come true, just have a flight plan filed, just in case. As pilots say, flying is the second most exciting thing in life. The most exciting thing is landing.&lt;/p&gt;
 
 &lt;p&gt;Today is your day. Cheers, &lt;em&gt;Prost&lt;/em&gt;, &lt;em&gt;auf Dich&lt;/em&gt;!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>See What Sticks</title>
-   <link href="http://www.papascott.de/archives/2015/04/30/see-what-sticks/"/>
-   <updated>2015-04-30T00:00:00+02:00</updated>
-   <id>http://www.papascott.de/archives/2015/04/30/see-what-sticks</id>
-   <content type="html">&lt;p&gt;So now that I’ve &lt;a href=&quot;/archives/2015/04/23/transition/&quot;&gt;changed&lt;/a&gt; my blogging platform, I have something to blog about: my new blogging platform!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>See What Sticks</title>
+      <link>http://www.papascott.de/archives/2015/04/30/see-what-sticks/</link>
+      <pubDate>Thu, 30 Apr 2015 00:00:00 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2015/04/30/see-what-sticks/</guid>
+      <description>&lt;p&gt;So now that I’ve &lt;a href=&quot;/archives/2015/04/23/transition/&quot;&gt;changed&lt;/a&gt; my blogging platform, I have something to blog about: my new blogging platform!&lt;/p&gt;
 
 &lt;p&gt;From the WordPress eXtended RSS file of the contents of my blog I found I had exported 3273 posts. Jekyll re-renders every post every time a change is made… on the default template it takes 3 minutes, but on the Lanyon template it ran over 20 minutes before I cancelled the build. That’s why I started with only a few dozen posts.&lt;/p&gt;
 
@@ -252,28 +249,28 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 &lt;/div&gt;
 
 &lt;p&gt;And, indeed, all the links work. Whether the content still makes sense is another question, but PapaScott is back online in its entirety!&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Transition</title>
-   <link href="http://www.papascott.de/archives/2015/04/23/transition/"/>
-   <updated>2015-04-23T00:00:00+02:00</updated>
-   <id>http://www.papascott.de/archives/2015/04/23/transition</id>
-   <content type="html">&lt;p&gt;So maybe you noticed, maybe you didn’t, but this blog looks a little bit different than a week ago. Behind the scenes it looks a &lt;em&gt;lot&lt;/em&gt; different. After over a decade of blogging on WordPress (I actually started using its predecessor &lt;a href=&quot;http://cafelog.com/&quot;&gt;B2&lt;/a&gt; in 2002), I’m now on the static site generator jekyll. My posts have been exported to text files. No more mysql database, no PHP, no more web interface.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transition</title>
+      <link>http://www.papascott.de/archives/2015/04/23/transition/</link>
+      <pubDate>Thu, 23 Apr 2015 00:00:00 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2015/04/23/transition/</guid>
+      <description>&lt;p&gt;So maybe you noticed, maybe you didn’t, but this blog looks a little bit different than a week ago. Behind the scenes it looks a &lt;em&gt;lot&lt;/em&gt; different. After over a decade of blogging on WordPress (I actually started using its predecessor &lt;a href=&quot;http://cafelog.com/&quot;&gt;B2&lt;/a&gt; in 2002), I’m now on the static site generator jekyll. My posts have been exported to text files. No more mysql database, no PHP, no more web interface.&lt;/p&gt;
 
 &lt;p&gt;So everything is new and things are still broken. I don’t have all posts imported yet, I’m only back to 2012 and not 1999 when this thing started. There are a lot a worthless one-line posts from the olden days, since back then we didn’t have Twitter and Facebook yet for worthless posts. So I have some work to do. But I’m looking forward to it.&lt;/p&gt;
 
 &lt;p&gt;The design, however, is absolutely fabulous, even on mobile, and for that I can take absolutely no credit. It’s the &lt;a href=&quot;http://lanyon.getpoole.com/&quot;&gt;lanyon&lt;/a&gt; theme for jekyll by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;, who co-wrote (Twitter) &lt;a href=&quot;http://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;, and I thank him for making his work available to us mere mortals.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Confirmation</title>
-   <link href="http://www.papascott.de/archives/2015/04/20/confirmation/"/>
-   <updated>2015-04-20T00:00:00+02:00</updated>
-   <id>http://www.papascott.de/archives/2015/04/20/confirmation</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://policke1.p2-men.de/&quot;&gt;&lt;img src=&quot;/assets/policke-200415.jpg&quot; alt=&quot;Policke&quot; class=&quot;alignright&quot; /&gt;&lt;/a&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Confirmation</title>
+      <link>http://www.papascott.de/archives/2015/04/20/confirmation/</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0200</pubDate>
+      <guid>http://www.papascott.de/archives/2015/04/20/confirmation/</guid>
+      <description>&lt;p&gt;&lt;a href=&quot;http://policke1.p2-men.de/&quot;&gt;&lt;img src=&quot;/assets/policke-200415.jpg&quot; alt=&quot;Policke&quot; class=&quot;alignright&quot; /&gt;&lt;/a&gt;
 Last week we bought a confirmation suit. Of course we went to &lt;a href=&quot;http://policke1.p2-men.de/&quot;&gt;Policke&lt;/a&gt; in Hamburg. It’s the perfect place for young (or older) men to shop. It has the feel of a 1920s haberdasher, full of dark little rooms connected by narrow halls and staircases. You’re met at the front door by the head sizer, who determines your size with a glance and with a slight movement of his eyes directs you to the room where your size is stocked. Once there, you nod at the salesman (they’re all men), who from your nod determines the style and price range you want. You’re in and out in 10 minutes. No words are necessary at any time.&lt;/p&gt;
 
 &lt;p&gt;Well, maybe not quite. :-)&lt;/p&gt;
@@ -283,19 +280,19 @@ Last week we bought a confirmation suit. Of course we went to &lt;a href=&quot;h
 &lt;p&gt;So I guess my father will be there after all.&lt;/p&gt;
 
 &lt;p&gt;*Matthew 7:7 “Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you.”&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>How I Punked Facebook</title>
-   <link href="http://www.papascott.de/archives/2015/02/10/how-i-punked-facebook/"/>
-   <updated>2015-02-10T07:13:25+01:00</updated>
-   <id>http://www.papascott.de/archives/2015/02/10/how-i-punked-facebook</id>
-   <content type="html">&lt;p&gt;It took me nearly two years, but I finally did it. I was able to get the better of Facebook. Yesterday I was able to celebrate my birthday without a single greeting on social media, even if my wife very nearly &lt;a href=&quot;https://www.facebook.com/papascott/posts/10152947844446281y&quot;&gt;gave me away&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How I Punked Facebook</title>
+      <link>http://www.papascott.de/archives/2015/02/10/how-i-punked-facebook/</link>
+      <pubDate>Tue, 10 Feb 2015 07:13:25 +0100</pubDate>
+      <guid>http://www.papascott.de/archives/2015/02/10/how-i-punked-facebook/</guid>
+      <description>&lt;p&gt;It took me nearly two years, but I finally did it. I was able to get the better of Facebook. Yesterday I was able to celebrate my birthday without a single greeting on social media, even if my wife very nearly &lt;a href=&quot;https://www.facebook.com/papascott/posts/10152947844446281y&quot;&gt;gave me away&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It was heaven! It was bliss! I was living free of the distractions of the digital world, if only for one day. My day! For me, me alone!&lt;/p&gt;
 &lt;p&gt;I hope your day was a good one too.&lt;/p&gt;
-</content>
- </entry>
- 
-
-</feed>
+</description>
+    </item>
+    
+  </channel>
+</rss>

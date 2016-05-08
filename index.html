@@ -60,8 +60,9 @@
 
       <div class="container content">
 
-<div class="post">
-  <p><a href="https://twitter.com/papascott">Tweets by @papascott</a></p>
+<div class="post" id="twitterWrapper">
+  <p class="twitter-header"><a href="https://twitter.com/papascott">Tweets by @papascott</a></p>
+  <div id="twitter-news"></div>
 </div>
 
 
@@ -208,9 +209,11 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.4/zepto.min.js"></script>
+    <script src="/public/js/twitterFetcher_min.js"></script>
     <script>
       $( "#sidebar" ).load( "/includes/sidebar.html" );
       
+      twitterFetcher.fetch({"id": '336416654936379392',"domId": 'twitter-news', "maxTweets": 3, "enableLinks": true, "showPermalinks": true, "showUser": false, "showRetweet": false, "showInteraction": false});
     </script>
 
     <script>
