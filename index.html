@@ -71,6 +71,27 @@
   
   <div class="post">
     <h1 class="post-title">
+      <a href="/archives/2016/08/05/million-euro-overdraft/">
+        Million Euro Overdraft
+      </a>
+    </h1>
+
+    <span class="post-date">05 Aug 2016</span>
+
+    <p>This happened over 9 years ago, I think it’s safe to tell the story now.</p>
+
+<p>When my wife bought our first restaurant, she set up a corporation (GmbH) for the new business. However, our lawyer was lazy, or slow, or something, and for our start of business the registration of the GmbH had not yet been approved by the local court. No registration, no firm, no business loan could be paid out. With a 7-figure purchase price due that day.</p>
+
+<p>No problem, says the bank, we’ll book the purchase from your private account, even though our account balance was more like 3 figures and not 7. We’ll increase your overdraft limit until the GmbH gets registered. No problem.</p>
+
+<p>So to this day I have a screenshot of electronic banking with an balance that day of minus one million Euros.</p>
+
+<p>We thought that was pretty funny until we tried to buy groceries and our bank card got denied. We had to call the bank again to increase our limit a bit more so we could eat.</p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
       <a href="/archives/2016/05/05/1999io-is-simple-and-simple/">
         1999.io is simple.  And simple.
       </a>
@@ -124,21 +145,24 @@
 
 <p>The trick, of course, is to <em>not</em> build all 3000 pages. For older posts use <a href="https://jquery.com/">jquery</a> to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:</p>
 
-<p><code class="highlighter-rouge">
-$( "#sidebar" ).load( "/includes/sidebar.html" );
-</code></p>
+<div class="highlighter-rouge">
+<pre class="highlight"><code>$( "#sidebar" ).load( "/includes/sidebar.html" );
+</code></pre>
+</div>
 
 <p>Right now, on the Jekyll side I don’t want it to rebuild posts from before 2015. I’ve put all those in a _posts/older subdirectory and added an exclude: directive in my _config.yml:</p>
 
-<p><code class="highlighter-rouge">
-exclude: [_posts/older]
-</code></p>
+<div class="highlighter-rouge">
+<pre class="highlight"><code>exclude: [_posts/older]
+</code></pre>
+</div>
 
 <p>On the HTML side, ever since I started blogging, even way-back-when with <a href="http://scripting.com/davenet/1999/12/08/editthispagecom.html">EditThisPage</a>, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)</p>
 
-<p><code class="highlighter-rouge">
-keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
-</code></p>
+<div class="highlighter-rouge">
+<pre class="highlight"><code>keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
+</code></pre>
+</div>
 
 <p>At least “archives/200” covers an entire decade in one entry. :-)</p>
 
@@ -166,31 +190,6 @@ keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives
 <p>To this day, I keep a copy of Dirty Mind (1980) on my current mobile device. It was my first Prince record. It’s an imperfect album. It’s sparsely produced, it almost sounds like a demo. And the lyrics, well, Prince was the artist for whom the term “explicit content” was invented, and they distract from the music. But it’s tight. Every note, every beat, on every track hits. Just listen to the 2nd side (this was back when albums had sides), with Uptown-Head-Sister-Partyup, beginning to end. It still blows me away.</p>
 
 <p>(My favorite track, though, is on the first side, <a href="https://en.wikipedia.org/wiki/When_You_Were_Mine_(Prince_song)">When You Were Mine</a>. Mr. LoveSexy turns into a bat-shit-crazy ex. Both funny and sexy as hell.)</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/archives/2016/04/18/the-ants/">
-        The Ants
-      </a>
-    </h1>
-
-    <span class="post-date">18 Apr 2016</span>
-
-    <p>Our house turns 20 years old this year. And every spring the same thing happens. The ants come into the kitchen for a few weeks. Then they disappear.</p>
-
-<p>Ours is a good, solid German house, made of brick. But we live out in the country, and out in the country one has to deal with critters and creepy-crawly things. The doors and windows are tight, but there is obviously a crack in the outside wall to the kitchen. Every spring the ants wake up, get hungry, come inside the wall, and then maybe behind the cabinets, and find an entry to the kitchen.</p>
-
-<p>Every year they find a <em>new</em> entry. I’ve heard that ants have collective intelligence, and that it’s probably passed down from generation to generation. They are probably more intelligent than we, since every year we forget that the ants are coming. And then it takes us several days to find their point of entry.</p>
-
-<p>Since we can’t think like ants, we have to wait until a whole bunch of them have come in so we can see their trail. Then we get out the ant spray, secure the entry, and wait a few days see if they find a new entry and come back.</p>
-
-<p>They usually don’t. The spring weather gets warmer, and I presume the ants then find it easier to find their food outside rather than risk encountering ant spray inside. But they have the knowledge of how to get into our kitchen, and their offspring will use that knowledge next year, to find a new entry.</p>
-
-<p>Here is this year’s point of entry, and our weapon of choice. We’re planning on renovating our kitchen this year. Maybe we’ll find that crack in the wall and get it patched.</p>
-
-<p><img src="/assets/ants-180416.jpg" alt="The Ants"></p>
 
   </div>
   

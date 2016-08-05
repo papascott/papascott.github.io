@@ -4,13 +4,30 @@
  <title>PapaScott</title>
  <link href="http://www.papascott.de/atom.xml" rel="self"/>
  <link href="http://www.papascott.de/"/>
- <updated>2016-05-08T11:26:52+02:00</updated>
+ <updated>2016-08-05T18:58:31+02:00</updated>
  <id>http://www.papascott.de</id>
  <author>
    <name>Scott Hanson</name>
    <email>papascott@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Million Euro Overdraft</title>
+   <link href="http://www.papascott.de/archives/2016/08/05/million-euro-overdraft/"/>
+   <updated>2016-08-05T18:56:33+02:00</updated>
+   <id>http://www.papascott.de/archives/2016/08/05/million-euro-overdraft</id>
+   <content type="html">&lt;p&gt;This happened over 9 years ago, I think it’s safe to tell the story now.&lt;/p&gt;
+
+&lt;p&gt;When my wife bought our first restaurant, she set up a corporation (GmbH) for the new business. However, our lawyer was lazy, or slow, or something, and for our start of business the registration of the GmbH had not yet been approved by the local court. No registration, no firm, no business loan could be paid out. With a 7-figure purchase price due that day.&lt;/p&gt;
+
+&lt;p&gt;No problem, says the bank, we’ll book the purchase from your private account, even though our account balance was more like 3 figures and not 7. We’ll increase your overdraft limit until the GmbH gets registered. No problem.&lt;/p&gt;
+
+&lt;p&gt;So to this day I have a screenshot of electronic banking with an balance that day of minus one million Euros.&lt;/p&gt;
+
+&lt;p&gt;We thought that was pretty funny until we tried to buy groceries and our bank card got denied. We had to call the bank again to increase our limit a bit more so we could eat.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>1999.io is simple.  And simple.</title>
@@ -55,21 +72,21 @@
 
 &lt;p&gt;The trick, of course, is to &lt;em&gt;not&lt;/em&gt; build all 3000 pages. For older posts use &lt;a href=&quot;https://jquery.com/&quot;&gt;jquery&lt;/a&gt; to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
-$( &quot;#sidebar&quot; ).load( &quot;/includes/sidebar.html&quot; );
-&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$( &quot;#sidebar&quot; ).load( &quot;/includes/sidebar.html&quot; );
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Right now, on the Jekyll side I don’t want it to rebuild posts from before 2015. I’ve put all those in a _posts/older subdirectory and added an exclude: directive in my _config.yml:&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
-exclude: [_posts/older]
-&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exclude: [_posts/older]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;On the HTML side, ever since I started blogging, even way-back-when with &lt;a href=&quot;http://scripting.com/davenet/1999/12/08/editthispagecom.html&quot;&gt;EditThisPage&lt;/a&gt;, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
-keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
-&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;At least “archives/200” covers an entire decade in one entry. :-)&lt;/p&gt;
 
