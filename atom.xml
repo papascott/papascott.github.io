@@ -4,13 +4,22 @@
  <title>PapaScott</title>
  <link href="http://www.papascott.de/atom.xml" rel="self"/>
  <link href="http://www.papascott.de/"/>
- <updated>2016-08-05T18:58:31+02:00</updated>
+ <updated>2016-09-08T09:50:56+02:00</updated>
  <id>http://www.papascott.de</id>
  <author>
    <name>Scott Hanson</name>
    <email>papascott@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Vinyl Anniversary</title>
+   <link href="http://www.papascott.de/archives/2016/09/06/vinyl-anniversary/"/>
+   <updated>2016-09-06T09:47:05+02:00</updated>
+   <id>http://www.papascott.de/archives/2016/09/06/vinyl-anniversary</id>
+   <content type="html">&lt;p&gt;Today is our 33rd anniversary. In 4 months it will be 33-1/3. Then it will be a LP record.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Million Euro Overdraft</title>
