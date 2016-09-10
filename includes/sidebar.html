@@ -3,11 +3,12 @@ permalink: /includes/sidebar.html
 ---
   {% strip %}<div class="sidebar-item">
     <p>{{ site.description }}</p>
+    <p>Twitter: <a href="https://twitter.com/papascott">@papascott</a><br/>
+    Facebook: <a href="https://www.facebook.com/papascott">papascott</a><br/>
+    GitHub: <a href="http://github.com/papascott">papascott</a></p>
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -37,12 +38,14 @@ permalink: /includes/sidebar.html
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     {% endcomment %}
-</nav>
-  <div class="sidebar-item">
-  <p>
+
+  <div class="sidebar-nav-item">
   	Powered by <a href="http://jekyllrb.com/">jekyll</a>, styled by <a href="http://lanyon.getpoole.com/">lanyon</a>, served by <a href="https://pages.github.com/">GitHub</a>
-  </p>
-    <p>
+
+
+  <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
-  </div>{% endstrip %}
+  </div>
+</nav>
+{% endstrip %}
