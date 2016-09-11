@@ -71,6 +71,27 @@
   
   <div class="post">
     <h1 class="post-title">
+      <a href="/archives/2016/09/11/fifteen-years-on/">
+        Fifteen Years On
+      </a>
+    </h1>
+
+    <span class="post-date">11 Sep 2016</span>
+
+    <p><a href="http://scripting.com/images/nyTimesHomeBombing7AM2.gif"><img src="/assets/nyt-110916.gif" alt="New York Times Screenshot 9-11-2001 via scripting.com "></a></p>
+
+<p>This screenshot from <a href="http://scripting.com/images/nyTimesHomeBombing7AM2.gif">scripting.com</a> is pretty much how I first learned the the 9/11 attacks. A low-res picture on a news website from my office in Hamburg. 3 in the afternoon. The next day I was able to put my <a href="http://www.papascott.de/archives/2001/09/12/the-day-the-earth-stood-still/">thoughts into words</a>. More or less.</p>
+
+<p>And next day came the headline in the Hamburg newspaper <a href="http://www.papascott.de/archives/2001/09/13/were-in-this-together/">“Americans! We are with you!”</a>, and at the same time, the first clue that the attackers came from Hamburg. All I knew then was that my country and world would never be the same again. I was far away, and grateful for the internet where I could at least try to fathom how the country I had left a few years before was changing. Without me.</p>
+
+<p>And today. My son who <a href="http://www.papascott.de/archives/2001/09/16/sunday-at-home/">was an infant then</a> is now 16, nearly an adult. My country started two wars in revenge that solved nothing, made everything worse, and haven’t really ended. Mission not accomplished. The current round of politics and presidential candidates don’t seem to offer much hope of any improvement.</p>
+
+<p>So I think I’ll just listen to <a href="http://brucespringsteen.net/albums/the-rising">The Rising</a> a couple times through to remind of me of how I felt and how things could have become better. But didn’t.</p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
       <a href="/archives/2016/09/06/vinyl-anniversary/">
         Vinyl Anniversary
       </a>
@@ -138,48 +159,6 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/nsF-UrqqkSQ" frameborder="0" allowfullscreen=""></iframe>
 
 <p>This is how our son stays out of trouble on weekends. At 16 in Germany he can fly solo, but yet not drive a car. :-)</p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds/">
-        How to build 3000 pages in Jekyll in less than 4 seconds
-      </a>
-    </h1>
-
-    <span class="post-date">25 Apr 2016</span>
-
-    <p>Last year I converted my Wordpress blog to <a href="http://jekyllrb.com/">Jekyll</a>. My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I <a href="http://www.papascott.de/archives/2015/04/30/see-what-sticks/">mentioned then</a> that it took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.</p>
-
-<p>Actually, the latest version of Jekyll improved build times considerably. It can now build my 3000 pages in about a minute. But when making changes, that’s still too long to wait.</p>
-
-<p>However, using a trick, I can now build those 3000 pages in 4 seconds. The trick seems pretty obvious to me, but I’ve not seen it written up anyplace, so hence this post.</p>
-
-<p>The trick, of course, is to <em>not</em> build all 3000 pages. For older posts use <a href="https://jquery.com/">jquery</a> to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:</p>
-
-<div class="highlighter-rouge">
-<pre class="highlight"><code>$( "#sidebar" ).load( "/includes/sidebar.html" );
-</code></pre>
-</div>
-
-<p>Right now, on the Jekyll side I don’t want it to rebuild posts from before 2015. I’ve put all those in a _posts/older subdirectory and added an exclude: directive in my _config.yml:</p>
-
-<div class="highlighter-rouge">
-<pre class="highlight"><code>exclude: [_posts/older]
-</code></pre>
-</div>
-
-<p>On the HTML side, ever since I started blogging, even way-back-when with <a href="http://scripting.com/davenet/1999/12/08/editthispagecom.html">EditThisPage</a>, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)</p>
-
-<div class="highlighter-rouge">
-<pre class="highlight"><code>keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
-</code></pre>
-</div>
-
-<p>At least “archives/200” covers an entire decade in one entry. :-)</p>
-
-<p>And that’s it. When I do want to rebuild to entire site, I can comment out those two directives and let ‘er rip. And being hosted at GitHub, you can see all my gory source files in the source branch at <a href="https://github.com/papascott/papascott.github.io">https://github.com/papascott/papascott.github.io</a></p>
 
   </div>
   
