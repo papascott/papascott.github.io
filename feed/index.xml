@@ -7,6 +7,36 @@
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The Future Is Now</title>
+				        
+				
+					<description>&lt;p&gt;We were closed 11 days for construction, but now our restaurant in Dibbersen has been opened for 3 days as a “Restaurant of the Future” and so far we are very happy with it!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/rdz-kiosks-061116.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; class=&quot;alignright&quot; /&gt; The first thing you notice as a guest is the brighter, more spacious lobby, as well as the self-service terminals, or kiosks. There you can enter your order and pay by either card or cash. Of course you can still go to the cashier and verbally give your order just as before.&lt;/p&gt;
+
+&lt;p&gt;The second thing you notice is that the cashier does not then go to assemble your order. There is a separate station for that, and you can either go there to pick up your order, or you can choose table service. You pick up a chip, find a table, and thanks to the magic of bluetooth we can find your table and bring your order to you.&lt;/p&gt;
+
+&lt;p&gt;The third thing you notice is that all burgers are made fresh to order. This “Made For You” system has been running for years in the US, but is new in Germany. The heated bin&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; where products could be kept for 10 minutes is now history. Our products are now made one at time instead of an entire tray at a time.&lt;/p&gt;
+
+&lt;p&gt;We were wondering how quickly we could adjust to the new system, but the first 3 days went very well. The kitchen is more organized and less hectic, and even it gets full we can recover quite quickly. In service our people enjoy that they now have time and opportunity to talk to our guests, and with our new look and new system they have plenty to talk about.&lt;/p&gt;
+
+&lt;p&gt;And even I learned enough about the new system that I can help out in the kitchen without messing everything up. :-)&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Funny how in US English a bin is where you put things to keep, but in UK English a bin is where you put things to throw away. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+				
+				<pubDate>Mon, 07 Nov 2016 07:03:55 +0100</pubDate>
+				<link>http://www.papascott.de/archives/2016/11/07/the-future-is-now/</link>
+				<guid isPermaLink="true">http://www.papascott.de/archives/2016/11/07/the-future-is-now/</guid>
+			</item>
+		
+			<item>
 				<title>If Clinton Wins</title>
 				        
 				
@@ -181,44 +211,6 @@
 				<pubDate>Wed, 27 Apr 2016 18:38:59 +0200</pubDate>
 				<link>http://www.papascott.de/archives/2016/04/27/gliding-2/</link>
 				<guid isPermaLink="true">http://www.papascott.de/archives/2016/04/27/gliding-2/</guid>
-			</item>
-		
-			<item>
-				<title>How to build 3000 pages in Jekyll in less than 4 seconds</title>
-				        
-				
-					<description>&lt;p&gt;Last year I converted my Wordpress blog to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. My 16 years of blogging are now saved as text files which Jekyll renders into static HTML, which I then push to GitHub where the blog is now hosted. I &lt;a href=&quot;http://www.papascott.de/archives/2015/04/30/see-what-sticks/&quot;&gt;mentioned then&lt;/a&gt; that it took Jekyll some 3 minutes to render my 3000 or so blog posts, which is kind of a drag since the default is to rebuild the entire site every time even a small change is made.&lt;/p&gt;
-
-&lt;p&gt;Actually, the latest version of Jekyll improved build times considerably. It can now build my 3000 pages in about a minute. But when making changes, that’s still too long to wait.&lt;/p&gt;
-
-&lt;p&gt;However, using a trick, I can now build those 3000 pages in 4 seconds. The trick seems pretty obvious to me, but I’ve not seen it written up anyplace, so hence this post.&lt;/p&gt;
-
-&lt;p&gt;The trick, of course, is to &lt;em&gt;not&lt;/em&gt; build all 3000 pages. For older posts use &lt;a href=&quot;https://jquery.com/&quot;&gt;jquery&lt;/a&gt; to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$( &quot;#sidebar&quot; ).load( &quot;/includes/sidebar.html&quot; );
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Right now, on the Jekyll side I don’t want it to rebuild posts from before 2015. I’ve put all those in a _posts/older subdirectory and added an exclude: directive in my _config.yml:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;exclude: [_posts/older]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;On the HTML side, ever since I started blogging, even way-back-when with &lt;a href=&quot;http://scripting.com/davenet/1999/12/08/editthispagecom.html&quot;&gt;EditThisPage&lt;/a&gt;, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;At least “archives/200” covers an entire decade in one entry. :-)&lt;/p&gt;
-
-&lt;p&gt;And that’s it. When I do want to rebuild to entire site, I can comment out those two directives and let ‘er rip. And being hosted at GitHub, you can see all my gory source files in the source branch at &lt;a href=&quot;https://github.com/papascott/papascott.github.io&quot;&gt;https://github.com/papascott/papascott.github.io&lt;/a&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Mon, 25 Apr 2016 09:24:47 +0200</pubDate>
-				<link>http://www.papascott.de/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/04/25/how-to-build-3000-pages-in-jekyll-in-less-than-4-seconds/</guid>
 			</item>
 		
 	</channel>
