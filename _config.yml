@@ -18,7 +18,7 @@ author:
 
 ## Do not re-render old posts
 exclude: [s3_website.yml, Rakefile, LICENSE.md, README.md, _posts/older]
-keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014]
+keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014, archives/2015]
 
 gems:
   - jemoji
