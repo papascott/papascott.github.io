@@ -2,6 +2,7 @@
 layout: post
 title: "The Future Part 2"
 date: "2017-02-26 10:03:24 +0100"
+image: "rgallery/rdz-win-fb.jpg"
 images:
   - image_path: /assets/gallery/rdz-win3.jpg
     title: Kiosks
@@ -15,7 +16,7 @@ images:
 <ul class="photo-gallery">
   {% for image in page.images%}
     <li>
-      <a href="{{ image.image_path }}">
+      <a href="{{ image.image_path }}" data-lightbox="1" title="{{ image.title }}">
         <img src="{{ image.image_path }}" alt="{{ image.title }}">
       </a>
     </li>
