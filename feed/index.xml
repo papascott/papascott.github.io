@@ -7,6 +7,52 @@
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>The Future Part 2</title>
+				        
+				
+					<description>&lt;ul class=&quot;photo-gallery&quot;&gt;
+  
+    &lt;li&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win3.jpg&quot;&gt;
+        &lt;img src=&quot;/assets/gallery/rdz-win3.jpg&quot; alt=&quot;Kiosks&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+  
+    &lt;li&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win1.jpg&quot;&gt;
+        &lt;img src=&quot;/assets/gallery/rdz-win1.jpg&quot; alt=&quot;Front Counter and McCafé&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+  
+    &lt;li&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win2.jpg&quot;&gt;
+        &lt;img src=&quot;/assets/gallery/rdz-win2.jpg&quot; alt=&quot;McCafé Lounge with 'Broken' Logo&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+  
+    &lt;li&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win4.jpg&quot;&gt;
+        &lt;img src=&quot;/assets/gallery/rdz-win4.jpg&quot; alt=&quot;Front Counter&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/li&gt;
+  
+&lt;/ul&gt;
+
+&lt;p&gt;Last fall we converted our restaurant in Dibbersen into a &lt;a href=&quot;/archives/2016/11/07/the-future-is-now/&quot;&gt;Restaurant of the Future&lt;/a&gt;. Now we’ve remodeled our Hamburg, Winsener Straße restaurant so now we have doubled the future!&lt;/p&gt;
+
+&lt;p&gt;The lobby here has a more urban theme that fits our gritty part of Hamburg. I was worried it would be too dark, but the spots of color make it look brighter live than it appears in the photos.&lt;/p&gt;
+
+&lt;p&gt;It of course has all the innovations in Dibbersen, plus we now serve “Barista Quality” coffee at the front counter, meaning that the espresso drinks are made with the &lt;a href=&quot;http://www.wmf-espresso.de/index_en.php#coffee-machine-section&quot;&gt;portafilter machine&lt;/a&gt; in McCafé.&lt;/p&gt;
+
+&lt;p&gt;With all this future we need to take time to catch our breaths. Our 3rd drive-thru restaurant on the Autobahn A1 at Rade will join the future in early 2018.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 26 Feb 2017 10:03:24 +0100</pubDate>
+				<link>http://www.papascott.de/archives/2017/02/26/the-future-part-2/</link>
+				<guid isPermaLink="true">http://www.papascott.de/archives/2017/02/26/the-future-part-2/</guid>
+			</item>
+		
+			<item>
 				<title>Song of the Day: I Can't Drive 55</title>
 				        
 				
@@ -192,28 +238,6 @@ This isn’t for me, despite the title, but I’ll take it. :-)&lt;/p&gt;
 				<pubDate>Fri, 05 Aug 2016 18:56:33 +0200</pubDate>
 				<link>http://www.papascott.de/archives/2016/08/05/million-euro-overdraft/</link>
 				<guid isPermaLink="true">http://www.papascott.de/archives/2016/08/05/million-euro-overdraft/</guid>
-			</item>
-		
-			<item>
-				<title>1999.io is simple.  And simple.</title>
-				        
-				
-					<description>&lt;p&gt;The past few weeks I’ve been trying out &lt;a href=&quot;http://scripting.com/2016/05/04/1238.html&quot;&gt;1999.io&lt;/a&gt;, the new blogging software by Dave Winer. You can either try it out at his site &lt;a href=&quot;http://my.1999.io&quot;&gt;my.1999.io&lt;/a&gt; (you just need a Twitter ID to log in) or you can &lt;a href=&quot;https://github.com/scripting/1999-project/blob/master/docs/setup.md&quot;&gt;install the server&lt;/a&gt; on any system that can run Node. Being a server guy I of course installed my own (on a cheap 3.50€‚/mo VPS), and used it to write my last few blog posts. &lt;/p&gt;
-
-&lt;p&gt;I like it because because it’s simple. And simple. Simple to write with, simple to work with.&lt;/p&gt;
-
-&lt;p&gt;It’s simple to write with. You just open the editor page and type. To update your text, you just click on it and type. There are some simple formatting options, but nothing that gets in the way. When you update, though WebSocket magic anyone reading your post immediately gets the update.&lt;/p&gt;
-
-&lt;p&gt;And on the server it’s &lt;a href=&quot;http://my.1999.io/users/1999io/2016/04/11/0004.html&quot;&gt;simple to work with&lt;/a&gt;. There’s no database, just files in open formats readable as text, JSON, OPML, RSS, HTML. Formats you can use for other purposes if you are so inclined. Even the HTML files for each post contain the JSON for the post, which I first thought was redundant but now see is brilliant. It’s like the web page contains it’s own DNA and can re-create itself. &lt;/p&gt;
-
-&lt;p&gt;These open formats allow one to do things with the output that go beyond the server. For instance, I copy the output of my server to an S3 bucket at &lt;a href=&quot;http://1999.papascott.de&quot;&gt;1999.papascott.de&lt;/a&gt;, which can probably handle load better than my cheap VPS :smile:. It’s not yet coupled to my main blog on Jekyll (right now I’m using copy and paste), but I imagine it wouldn’t too much cleverness to achieve that.&lt;/p&gt;
-
-&lt;p&gt;I hope someday to be able to use 1999.io as a blogging central, with the ability to send my posts to my blog, or Twitter, or Facebook, or Medium, or wherever, but keeping my original posts for myself. I’ll let those big silos show my work, but not own it.&lt;/p&gt;
-</description>
-				
-				<pubDate>Thu, 05 May 2016 10:43:01 +0200</pubDate>
-				<link>http://www.papascott.de/archives/2016/05/05/1999io-is-simple-and-simple/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/05/05/1999io-is-simple-and-simple/</guid>
 			</item>
 		
 	</channel>
