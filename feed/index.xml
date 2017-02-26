@@ -13,25 +13,25 @@
 					<description>&lt;ul class=&quot;photo-gallery&quot;&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win3.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win3.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Kiosks&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win3.jpg&quot; alt=&quot;Kiosks&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win1.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win1.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Front Counter and McCafé&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win1.jpg&quot; alt=&quot;Front Counter and McCafé&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win2.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win2.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;McCafé Lounge with 'Broken' Logo&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win2.jpg&quot; alt=&quot;McCafé Lounge with 'Broken' Logo&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win4.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win4.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Front Counter&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win4.jpg&quot; alt=&quot;Front Counter&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;

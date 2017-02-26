@@ -6,8 +6,8 @@
     <atom:link href="http://www.papascott.de/rss.xml" rel="self" type="application/rss+xml" />
     <description>A personal weblog by Scott Hanson</description>
     <language>en-us</language>
-    <pubDate>Sun, 26 Feb 2017 16:54:55 +0100</pubDate>
-    <lastBuildDate>Sun, 26 Feb 2017 16:54:55 +0100</lastBuildDate>
+    <pubDate>Sun, 26 Feb 2017 20:16:07 +0100</pubDate>
+    <lastBuildDate>Sun, 26 Feb 2017 20:16:07 +0100</lastBuildDate>
     
     <item>
       <title>The Future Part 2</title>
@@ -17,25 +17,25 @@
       <description>&lt;ul class=&quot;photo-gallery&quot;&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win3.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win3.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Kiosks&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win3.jpg&quot; alt=&quot;Kiosks&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win1.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win1.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Front Counter and McCafé&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win1.jpg&quot; alt=&quot;Front Counter and McCafé&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win2.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win2.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;McCafé Lounge with 'Broken' Logo&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win2.jpg&quot; alt=&quot;McCafé Lounge with 'Broken' Logo&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win4.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win4.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Front Counter&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win4.jpg&quot; alt=&quot;Front Counter&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;

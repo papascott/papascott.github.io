@@ -19,15 +19,15 @@
   <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
   <link rel="stylesheet" href="/public/css/lanyon.css">
-  <link rel="stylesheet" href="/public/css/ps.css">
-  <link rel="stylesheet" href="/public/css/gallery.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.9.0/css/lightbox.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="/public/css/ps.css">
 
   <!-- Icons -->
   <link rel="shortcut icon" href="/public/favicon.ico">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed/index.xml">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.papascott.de/feed/index.xml">
 
   
 
@@ -84,25 +84,25 @@
     <ul class="photo-gallery">
   
     <li>
-      <a href="/assets/gallery/rdz-win3.jpg">
+      <a href="/assets/gallery/rdz-win3.jpg" data-lightbox="1" title="Kiosks">
         <img src="/assets/gallery/rdz-win3.jpg" alt="Kiosks" />
       </a>
     </li>
   
     <li>
-      <a href="/assets/gallery/rdz-win1.jpg">
+      <a href="/assets/gallery/rdz-win1.jpg" data-lightbox="1" title="Front Counter and McCafé">
         <img src="/assets/gallery/rdz-win1.jpg" alt="Front Counter and McCafé" />
       </a>
     </li>
   
     <li>
-      <a href="/assets/gallery/rdz-win2.jpg">
+      <a href="/assets/gallery/rdz-win2.jpg" data-lightbox="1" title="McCafé Lounge with 'Broken' Logo">
         <img src="/assets/gallery/rdz-win2.jpg" alt="McCafé Lounge with 'Broken' Logo" />
       </a>
     </li>
   
     <li>
-      <a href="/assets/gallery/rdz-win4.jpg">
+      <a href="/assets/gallery/rdz-win4.jpg" data-lightbox="1" title="Front Counter">
         <img src="/assets/gallery/rdz-win4.jpg" alt="Front Counter" />
       </a>
     </li>
@@ -228,7 +228,8 @@ This isn’t for me, despite the title, but I’ll take it. :-)</p>
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.4/zepto.min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.1.4/zepto.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.9.0/js/lightbox-plus-jquery.js"></script>
     <script src='/public/js/twitterFetcher_min.js'></script>
     <script>
       $( "#sidebar" ).load( "/includes/sidebar.html" );

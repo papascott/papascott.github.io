@@ -4,7 +4,7 @@
  <title>PapaScott</title>
  <link href="http://www.papascott.de/atom.xml" rel="self"/>
  <link href="http://www.papascott.de/"/>
- <updated>2017-02-26T16:54:55+01:00</updated>
+ <updated>2017-02-26T20:16:07+01:00</updated>
  <id>http://www.papascott.de</id>
  <author>
    <name>Scott Hanson</name>
@@ -20,25 +20,25 @@
    <content type="html">&lt;ul class=&quot;photo-gallery&quot;&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win3.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win3.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Kiosks&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win3.jpg&quot; alt=&quot;Kiosks&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win1.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win1.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Front Counter and McCafé&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win1.jpg&quot; alt=&quot;Front Counter and McCafé&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win2.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win2.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;McCafé Lounge with 'Broken' Logo&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win2.jpg&quot; alt=&quot;McCafé Lounge with 'Broken' Logo&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
   
     &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win4.jpg&quot;&gt;
+      &lt;a href=&quot;/assets/gallery/rdz-win4.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Front Counter&quot;&gt;
         &lt;img src=&quot;/assets/gallery/rdz-win4.jpg&quot; alt=&quot;Front Counter&quot; /&gt;
       &lt;/a&gt;
     &lt;/li&gt;
