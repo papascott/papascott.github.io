@@ -24,7 +24,7 @@ author:
   last_name: User
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
-redirect_from: "/archives/2011/06/13/pngstbaumpanzen-pentecost-trees/"  
+# redirect_from: "/archives/2011/06/13/pngstbaumpanzen-pentecost-trees/"  
 ---
 <p><a href="http://www.papascott.de/wordpress/wp-content/uploads/2011/06/Pfingstbaumfplanzen.pdf" title="Pfingstbaumfplanzen.pdf" alt="Pfingstbaumfplanzen"><img src="http://www.papascott.de/wordpress/wp-content/uploads/2011/06/pfingsbaumplanzen.png" alt="Pfingsbaumplanzen" border="0" width="150" height="228" align="right" /></a> I've mentioned the <a href="http://www.papascott.de/archives/2005/05/18/pfingstbaum/">Pentecost traditions</a> in our village in previous years. This year there seems to be a revitalized interest in village activities, for example the <em>Dorffest</em> was newly organized and was a huge success with 10x the turnout of previous years. Last week a brochure <a href="http://www.papascott.de/wordpress/wp-content/uploads/2011/06/Pfingstbaumfplanzen.pdf" title="Pfingstbaumfplanzen.pdf" alt="Pfingstbaumfplanzen">(<em>Pfingstbaumfplanzen</em> as PDF)</a> was distributed to all houses explaining the tradition of planting Pentecost trees, which in our area is unique to our village. Here is my attempt at a translation.</p>
 <blockquote><p>
