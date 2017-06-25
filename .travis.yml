@@ -1,3 +1,4 @@
+# comment to trigger build
 language: ruby
 rvm:
 - 2.3.3
@@ -12,8 +13,7 @@ script: ./script/cibuild
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - gh-pages     # test the gh-pages branch
-  - /pages-(.*)/ # test every branch which starts with "pages-"
+  - source
 
 env:
   global:
