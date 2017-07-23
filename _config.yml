@@ -15,7 +15,7 @@ author:
 
 
 ## Directories not to rebuild automatically
-exclude: [vendor, s3_website.yml, Rakefile, LICENSE.md, README.md]
+exclude: [vendor, s3_website.yml, Rakefile, LICENSE.md, README.md, script, Gemfile, Gemfile.lock]
 
 ## Do not re-render old posts
 # exclude: [vendor, s3_website.yml, Rakefile, LICENSE.md, README.md, _posts/older]
