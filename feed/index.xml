@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>PapaScott</title>
-		<description>I don't claim to succeed at all this</description>		
+		<description>I don't claim to succeed at all this!</description>		
 		<link>http://www.papascott.de</link>
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -88,7 +88,7 @@ This isn’t for me, despite the title, but I’ll take it. :-)&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Funny how in US English a bin is where you put things to keep, but in UK English a bin is where you put things to throw away. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Funny how in US English a bin is where you put things to keep, but in UK English a bin is where you put things to throw away.&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
