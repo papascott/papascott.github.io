@@ -4,13 +4,23 @@
  <title>PapaScott</title>
  <link href="http://www.papascott.de/atom.xml" rel="self"/>
  <link href="http://www.papascott.de/"/>
- <updated>2017-07-23T07:53:15+00:00</updated>
+ <updated>2017-07-23T12:16:47+00:00</updated>
  <id>http://www.papascott.de</id>
  <author>
    <name>Scott Hanson</name>
    <email>papascott@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Travis CI</title>
+   <link href="http://www.papascott.de/archives/2017/07/23/travis-ci/"/>
+   <updated>2017-07-23T12:07:20+00:00</updated>
+   <id>http://www.papascott.de/archives/2017/07/23/travis-ci</id>
+   <content type="html">&lt;p&gt;So, yeah, I figured out how to use &lt;a href=&quot;https://travis-ci.org/&quot; title=&quot;Travis CI - Test and Deploy Your Code with Confidence&quot;&gt;Travis CI&lt;/a&gt; to &lt;a href=&quot;http://pauldambra.github.io/using-travis-to-build-jekyll.html&quot; title=&quot;Using Travis CI to build a Jekyll site&quot;&gt;build my Jekyll blog&lt;/a&gt; and push it to &lt;a href=&quot;https://pages.github.com/&quot; title=&quot;Websites for you and your projects&quot;&gt;GitHub Pages&lt;/a&gt;, and figured that I would actually write something for it to build rather than just fiddle with scripts and yaml files in the background.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>The Future Part 2</title>

@@ -7,6 +7,19 @@
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Travis CI</title>
+				        
+				
+					<description>&lt;p&gt;So, yeah, I figured out how to use &lt;a href=&quot;https://travis-ci.org/&quot; title=&quot;Travis CI - Test and Deploy Your Code with Confidence&quot;&gt;Travis CI&lt;/a&gt; to &lt;a href=&quot;http://pauldambra.github.io/using-travis-to-build-jekyll.html&quot; title=&quot;Using Travis CI to build a Jekyll site&quot;&gt;build my Jekyll blog&lt;/a&gt; and push it to &lt;a href=&quot;https://pages.github.com/&quot; title=&quot;Websites for you and your projects&quot;&gt;GitHub Pages&lt;/a&gt;, and figured that I would actually write something for it to build rather than just fiddle with scripts and yaml files in the background.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 23 Jul 2017 12:07:20 +0000</pubDate>
+				<link>http://www.papascott.de/archives/2017/07/23/travis-ci/</link>
+				<guid isPermaLink="true">http://www.papascott.de/archives/2017/07/23/travis-ci/</guid>
+			</item>
+		
+			<item>
 				<title>The Future Part 2</title>
 				        
 				
@@ -218,26 +231,6 @@ This isn’t for me, despite the title, but I’ll take it. :-)&lt;/p&gt;
 				<pubDate>Tue, 06 Sep 2016 07:47:05 +0000</pubDate>
 				<link>http://www.papascott.de/archives/2016/09/06/vinyl-anniversary/</link>
 				<guid isPermaLink="true">http://www.papascott.de/archives/2016/09/06/vinyl-anniversary/</guid>
-			</item>
-		
-			<item>
-				<title>Million Euro Overdraft</title>
-				        
-				
-					<description>&lt;p&gt;This happened over 9 years ago, I think it’s safe to tell the story now.&lt;/p&gt;
-
-&lt;p&gt;When my wife bought our first restaurant, she set up a corporation (GmbH) for the new business. However, our lawyer was lazy, or slow, or something, and for our start of business the registration of the GmbH had not yet been approved by the local court. No registration, no firm, no business loan could be paid out. With a 7-figure purchase price due that day.&lt;/p&gt;
-
-&lt;p&gt;No problem, says the bank, we’ll book the purchase from your private account, even though our account balance was more like 3 figures and not 7. We’ll increase your overdraft limit until the GmbH gets registered. No problem.&lt;/p&gt;
-
-&lt;p&gt;So to this day I have a screenshot of electronic banking with an balance that day of minus one million Euros.&lt;/p&gt;
-
-&lt;p&gt;We thought that was pretty funny until we tried to buy groceries and our bank card got denied. We had to call the bank again to increase our limit a bit more so we could eat.&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 05 Aug 2016 16:56:33 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2016/08/05/million-euro-overdraft/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/08/05/million-euro-overdraft/</guid>
 			</item>
 		
 	</channel>
