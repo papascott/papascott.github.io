@@ -10,7 +10,7 @@ My gmail address is fairly generic, and apparently there are other people who wo
 * my reservation for one week at a mobile home park in Georgia
 * advertising from a car dealer in Argentina
 * an appeal in French to donate (or sell, I can't tell) my blood plasma to a clinic in Paris
-* invitation of regular lunches of ex-military folks from a bellsouth in Tennessee
+* invitation of regular lunches of ex-military folks in Tennessee
 * regular notices of transactions (with scans of receipts) from my Well Fargo bank account in Georgia
 
 And I'm not even looking in my spam folder. I have enough keeping track of my own schedule without having to worry items for total strangers!
