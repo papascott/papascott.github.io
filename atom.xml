@@ -4,13 +4,34 @@
  <title>PapaScott</title>
  <link href="http://www.papascott.de/atom.xml" rel="self"/>
  <link href="http://www.papascott.de/"/>
- <updated>2017-07-24T09:42:26+00:00</updated>
+ <updated>2017-08-12T08:59:57+00:00</updated>
  <id>http://www.papascott.de</id>
  <author>
    <name>Scott Hanson</name>
    <email>papascott@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tee Time For Two</title>
+   <link href="http://www.papascott.de/archives/2017/08/12/tee-time-for-two/"/>
+   <updated>2017-08-12T08:39:08+00:00</updated>
+   <id>http://www.papascott.de/archives/2017/08/12/tee-time-for-two</id>
+   <content type="html">&lt;p&gt;My gmail address is fairly generic, and apparently there are other people who would like to be PapaScott but can’t. So I get a fair amount of mail intended for other PapaScotts, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;confirmation for my tee time at a golf club in Pennsylvania&lt;/li&gt;
+  &lt;li&gt;notice of automatic deposit of my salary from the State of Tennessee&lt;/li&gt;
+  &lt;li&gt;my reservation for one week at a mobile home park in Georgia&lt;/li&gt;
+  &lt;li&gt;advertising from a car dealer in Argentina&lt;/li&gt;
+  &lt;li&gt;an appeal in French to donate (or sell, I can’t tell) my blood plasma to a clinic in Paris&lt;/li&gt;
+  &lt;li&gt;invitation of regular lunches of ex-military folks from a bellsouth in Tennessee&lt;/li&gt;
+  &lt;li&gt;regular notices of transactions (with scans of receipts) from my Well Fargo bank account in Georgia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And I’m not even looking in my spam folder. I have enough keeping track of my own schedule without having to worry items for total strangers!&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Travis CI</title>
