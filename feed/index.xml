@@ -2,9 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>PapaScott</title>
-		<description>I don't claim to succeed at all this!</description>		
+		<description>I'm married to a German and I like it!</description>		
 		<link>http://www.papascott.de</link>
 		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Katchi</title>
+				        
+				
+					<description>&lt;p&gt;It’s time to start blogging again, and I can think of no better way to start than these lyrics from Nick Waterhouse…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Doo wop a doo wop, shoopi doobi doo wop &lt;br /&gt;
+Doo wop a doo wop, shoopi doobi doo wop &lt;br /&gt;
+Doo wop a doo wop, shoopi doobi doo wop &lt;br /&gt;
+Doo wop a doo wop, shoopi doobi doo wop…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although shouldn’t that “shoopi” actually be a “shooby”?&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Ycg5oOSdpPQ&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+				
+				<pubDate>Thu, 04 Jan 2018 09:40:45 +0000</pubDate>
+				<link>http://www.papascott.de/archives/2018/01/04/katchi/</link>
+				<guid isPermaLink="true">http://www.papascott.de/archives/2018/01/04/katchi/</guid>
+			</item>
 		
 			<item>
 				<title>Tee Time For Two</title>
@@ -223,26 +246,6 @@ This isn’t for me, despite the title, but I’ll take it. :-)&lt;/p&gt;
 				<pubDate>Fri, 23 Sep 2016 19:23:55 +0000</pubDate>
 				<link>http://www.papascott.de/archives/2016/09/23/the-stupid-majority/</link>
 				<guid isPermaLink="true">http://www.papascott.de/archives/2016/09/23/the-stupid-majority/</guid>
-			</item>
-		
-			<item>
-				<title>Fifteen Years On</title>
-				        
-				
-					<description>&lt;p&gt;&lt;a href=&quot;http://scripting.com/images/nyTimesHomeBombing7AM2.gif&quot;&gt;&lt;img src=&quot;/assets/nyt-110916.gif&quot; alt=&quot;New York Times Screenshot 9-11-2001 via scripting.com &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This screenshot from &lt;a href=&quot;http://scripting.com/images/nyTimesHomeBombing7AM2.gif&quot;&gt;scripting.com&lt;/a&gt; is pretty much how I first learned the the 9/11 attacks. A low-res picture on a news website from my office in Hamburg. 3 in the afternoon. The next day I was able to put my &lt;a href=&quot;http://www.papascott.de/archives/2001/09/12/the-day-the-earth-stood-still/&quot;&gt;thoughts into words&lt;/a&gt;. More or less.&lt;/p&gt;
-
-&lt;p&gt;And next day came the headline in the Hamburg newspaper &lt;a href=&quot;http://www.papascott.de/archives/2001/09/13/were-in-this-together/&quot;&gt;“Americans! We are with you!”&lt;/a&gt;, and at the same time, the first clue that the attackers came from Hamburg. All I knew then was that my country and world would never be the same again. I was far away, and grateful for the internet where I could at least try to fathom how the country I had left a few years before was changing. Without me.&lt;/p&gt;
-
-&lt;p&gt;And today. My son who &lt;a href=&quot;http://www.papascott.de/archives/2001/09/16/sunday-at-home/&quot;&gt;was an 1 year old then&lt;/a&gt; is now 16, nearly an adult. My country started two wars in revenge that solved nothing, made everything worse, and haven’t really yet ended. Mission not accomplished. The current round of politics and presidential candidates don’t seem to offer much hope of any improvement.&lt;/p&gt;
-
-&lt;p&gt;So I think I’ll just listen to &lt;a href=&quot;http://brucespringsteen.net/albums/the-rising&quot;&gt;The Rising&lt;/a&gt; a couple times through to remind of me of how I felt and how things could have become better. But didn’t.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 11 Sep 2016 19:02:52 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2016/09/11/fifteen-years-on/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/09/11/fifteen-years-on/</guid>
 			</item>
 		
 	</channel>
