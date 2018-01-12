@@ -75,23 +75,21 @@
 
 <p>The next question was whether Google (and everyone else) could find the old links on the new site. Jekyll is able to use the same <code class="highlighter-rouge">archives/:year/:month/:day/:title/</code> permalink stucture I was using before. But were all my links the same as before? Do they all still work? Well, that eXtended RSS file contains all the permalinks that WordPress had generated…</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code> &lt;link&gt;http://papasc.home/archives/1999/12/05/it-worked/&lt;/link&gt;
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> &lt;link&gt;http://papasc.home/archives/1999/12/05/it-worked/&lt;/link&gt;
  &lt;link&gt;http://papasc.home/archives/1999/12/06/week-37/&lt;/link&gt;
  &lt;link&gt;http://papasc.home/archives/1999/12/07/ready-and-waiting/&lt;/link&gt;
  &lt;link&gt;http://papasc.home/archives/1999/12/09/linux-fever/&lt;/link&gt;
  ...
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>(Yes, that’s a fake URL. My hoster timed out producing the eXtended RSS file so I had to use a local install.) I then ran the links through a shell script I found on <a href="http://stackoverflow.com/questions/25135347/how-to-check-status-of-urls-from-text-file-using-bash-shell-script">Stack Exchange</a>:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code> <span class="c">#!/bin/bash</span>
- <span class="k">while </span><span class="nb">read</span> -ru 4 LINE; <span class="k">do
-     </span><span class="nb">read</span> -r REP &lt; &lt;<span class="o">(</span><span class="nb">exec </span>curl -IsS <span class="s2">"</span><span class="nv">$LINE</span><span class="s2">"</span> 2&gt;&amp;1<span class="o">)</span>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="c">#!/bin/bash</span>
+ <span class="k">while </span><span class="nb">read</span> <span class="nt">-ru</span> 4 LINE<span class="p">;</span> <span class="k">do
+     </span><span class="nb">read</span> <span class="nt">-r</span> REP &lt; &lt;<span class="o">(</span><span class="nb">exec </span>curl <span class="nt">-IsS</span> <span class="s2">"</span><span class="nv">$LINE</span><span class="s2">"</span> 2&gt;&amp;1<span class="o">)</span>
      <span class="nb">echo</span> <span class="s2">"</span><span class="nv">$LINE</span><span class="s2">: </span><span class="nv">$REP</span><span class="s2">"</span>
  <span class="k">done </span>4&lt; <span class="s2">"</span><span class="nv">$1</span><span class="s2">"</span>
-</code></pre>
-</div>
+</code></pre></div></div>
 
 <p>And, indeed, all the links work. Whether the content still makes sense is another question, but PapaScott is back online in its entirety!</p>
 

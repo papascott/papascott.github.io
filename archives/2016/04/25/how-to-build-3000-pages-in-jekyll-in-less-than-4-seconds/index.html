@@ -75,21 +75,18 @@
 
 <p>The trick, of course, is to <em>not</em> build all 3000 pages. For older posts use <a href="https://jquery.com/">jquery</a> to load in parts of the layout that might change, but leave the HTML file alone. For me, those parts are the sidebar and the recent posts. I build HTML snippets for those divs and load them in like:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>$( "#sidebar" ).load( "/includes/sidebar.html" );
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$( "#sidebar" ).load( "/includes/sidebar.html" );
+</code></pre></div></div>
 
 <p>Right now, on the Jekyll side I don’t want it to rebuild posts from before 2015. I’ve put all those in a _posts/older subdirectory and added an exclude: directive in my _config.yml:</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>exclude: [_posts/older]
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>exclude: [_posts/older]
+</code></pre></div></div>
 
 <p>On the HTML side, ever since I started blogging, even way-back-when with <a href="http://scripting.com/davenet/1999/12/08/editthispagecom.html">EditThisPage</a>, my posts have been sorted by date. I need to tell Jekyll not to erase the pages I’ve chosen not to rebuild (and it’s too bad _config.yml doesn’t understand wild cards)</p>
 
-<div class="highlighter-rouge"><pre class="highlight"><code>keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
-</code></pre>
-</div>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014 ]
+</code></pre></div></div>
 
 <p>At least “archives/200” covers an entire decade in one entry. :-)</p>
 
