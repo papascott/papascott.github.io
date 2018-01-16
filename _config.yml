@@ -3,7 +3,7 @@ title:               PapaScott
 tagline:             "I'm married to a German and I like it!"
 description:         '<a href="/">PapaScott</a> is a personal weblog by Scott Hanson.'
 descriptiontext:    'A personal weblog by Scott Hanson'
-url:                 http://www.papascott.de
+url:                 https://www.papascott.de
 baseurl:            ''
 permalink:           archives/:year/:month/:day/:title/
 comments:            true
