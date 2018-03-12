@@ -2,17 +2,7 @@
 layout: page
 title: Search
 ---
-Search www.papascott.de using Google custom search.
+Search www.papascott.de using DuckDuckGo custom search.
 
-<script>
-  (function() {
-    var cx = '011916326726869206188:5coruiwx_6s';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
+<iframe src="https://duckduckgo.com/search.html?width=400&duck=yes&prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:533px;height:60px;" frameborder="0"></iframe>
+
