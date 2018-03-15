@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PapaScott<</title>
+    <title>PapaScott</title>
     <link>https://www.papascott.de/</link>
     <atom:link href="https://www.papascott.de/rss.xml" rel="self" type="application/rss+xml" />
     <description>A personal weblog by Scott Hanson</description>
     <language>en-us</language>
-    <pubDate>Thu, 15 Mar 2018 08:07:36 +0000</pubDate>
-    <lastBuildDate>Thu, 15 Mar 2018 08:07:36 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Mar 2018 10:08:22 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Mar 2018 10:08:22 +0000</lastBuildDate>
     
     <item>
       <title>Netlify</title>
