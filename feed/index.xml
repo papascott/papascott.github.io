@@ -7,6 +7,24 @@
 		<atom:link href="https://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Netlify</title>
+				        
+				
+					<description>&lt;p&gt;I didn’t mention it when I moved from&lt;a href=&quot;https://pages.github.com/&quot;&gt; GitHub Pages&lt;/a&gt;, but for the past couple of months this blog has been hosted at &lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;, a platform for building and hosting static websites.&lt;/p&gt;
+
+&lt;p&gt;It works very well with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt;, the software that generates this blog, and means I no longer need to build the site on my own machine to publish it. I just push my changes to my &lt;a href=&quot;https://github.com/papascott/papascott.github.io&quot;&gt;repository at GitHub&lt;/a&gt;, which Netlify continuously monitors for changes, and the blog it automatically updated, usually within a minute.&lt;/p&gt;
+
+&lt;p&gt;It also offers free one-click managed SSL, a global CDN, and is &lt;a href=&quot;https://www.netlify.com/pricing/&quot;&gt;free for unlimited single-user sites,&lt;/a&gt; whether commercial or personal.&lt;/p&gt;
+
+&lt;p&gt;And combined with &lt;a href=&quot;https://www.netlifycms.org/&quot;&gt;Netlify CMS&lt;/a&gt;, I can edit and post directly from GitHub and don’t need a local jekyll installation at all. But that’s a subject for another post…&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 15 Mar 2018 07:13:18 +0000</pubDate>
+				<link>https://www.papascott.de/archives/2018/03/15/hosting-at-netlify/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2018/03/15/hosting-at-netlify/</guid>
+			</item>
+		
+			<item>
 				<title>Block E</title>
 				        
 				
@@ -197,23 +215,6 @@ Doo wop a doo wop, shoopi doobi doo wop…&lt;/p&gt;
 				<pubDate>Sun, 26 Feb 2017 09:03:24 +0000</pubDate>
 				<link>https://www.papascott.de/archives/2017/02/26/the-future-part-2/</link>
 				<guid isPermaLink="true">https://www.papascott.de/archives/2017/02/26/the-future-part-2/</guid>
-			</item>
-		
-			<item>
-				<title>Song of the Day: I Can't Drive 55</title>
-				        
-				
-					<description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RvV3nn_de2k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt;  &lt;br /&gt;
-This isn’t for me, despite the title, but I’ll take it. :-)&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KUEW9Fr0Xbs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description>
-				
-				<pubDate>Thu, 09 Feb 2017 05:37:21 +0000</pubDate>
-				<link>https://www.papascott.de/archives/2017/02/09/song-of-the-day-i-cant-drive-55/</link>
-				<guid isPermaLink="true">https://www.papascott.de/archives/2017/02/09/song-of-the-day-i-cant-drive-55/</guid>
 			</item>
 		
 	</channel>

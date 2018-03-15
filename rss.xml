@@ -6,8 +6,23 @@
     <atom:link href="https://www.papascott.de/rss.xml" rel="self" type="application/rss+xml" />
     <description>A personal weblog by Scott Hanson</description>
     <language>en-us</language>
-    <pubDate>Mon, 12 Mar 2018 19:15:49 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Mar 2018 19:15:49 +0000</lastBuildDate>
+    <pubDate>Thu, 15 Mar 2018 08:07:36 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Mar 2018 08:07:36 +0000</lastBuildDate>
+    
+    <item>
+      <title>Netlify</title>
+      <link>https://www.papascott.de/archives/2018/03/15/hosting-at-netlify/</link>
+      <pubDate>Thu, 15 Mar 2018 07:13:18 +0000</pubDate>
+      <guid>https://www.papascott.de/archives/2018/03/15/hosting-at-netlify/</guid>
+      <description>&lt;p&gt;I didn’t mention it when I moved from&lt;a href=&quot;https://pages.github.com/&quot;&gt; GitHub Pages&lt;/a&gt;, but for the past couple of months this blog has been hosted at &lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;, a platform for building and hosting static websites.&lt;/p&gt;
+
+&lt;p&gt;It works very well with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt;, the software that generates this blog, and means I no longer need to build the site on my own machine to publish it. I just push my changes to my &lt;a href=&quot;https://github.com/papascott/papascott.github.io&quot;&gt;repository at GitHub&lt;/a&gt;, which Netlify continuously monitors for changes, and the blog it automatically updated, usually within a minute.&lt;/p&gt;
+
+&lt;p&gt;It also offers free one-click managed SSL, a global CDN, and is &lt;a href=&quot;https://www.netlify.com/pricing/&quot;&gt;free for unlimited single-user sites,&lt;/a&gt; whether commercial or personal.&lt;/p&gt;
+
+&lt;p&gt;And combined with &lt;a href=&quot;https://www.netlifycms.org/&quot;&gt;Netlify CMS&lt;/a&gt;, I can edit and post directly from GitHub and don’t need a local jekyll installation at all. But that’s a subject for another post…&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Block E</title>

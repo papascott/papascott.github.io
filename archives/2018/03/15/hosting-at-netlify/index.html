@@ -11,7 +11,7 @@
 
   <title>
     
-       &middot; PapaScott
+      Netlify &middot; PapaScott
     
   </title>
 
@@ -64,47 +64,49 @@
       <div class="container content">
 
 
-        <h1>2018 Archives</h1>
+        <div class="post">
+  <h1 class="post-title">Netlify</h1>
+  <span class="post-date">15 Mar 2018</span>
+  <p>I didn’t mention it when I moved from<a href="https://pages.github.com/"> GitHub Pages</a>, but for the past couple of months this blog has been hosted at <a href="https://www.netlify.com/">Netlify</a>, a platform for building and hosting static websites.</p>
 
-<ul class="posts">
+<p>It works very well with <a href="https://jekyllrb.com/">jekyll</a>, the software that generates this blog, and means I no longer need to build the site on my own machine to publish it. I just push my changes to my <a href="https://github.com/papascott/papascott.github.io">repository at GitHub</a>, which Netlify continuously monitors for changes, and the blog it automatically updated, usually within a minute.</p>
 
-  <li>
-    <span class="post-date">15 Mar 2018
-    <a href="/archives/2018/03/15/hosting-at-netlify/">Netlify</a></span>
-  </li>
+<p>It also offers free one-click managed SSL, a global CDN, and is <a href="https://www.netlify.com/pricing/">free for unlimited single-user sites,</a> whether commercial or personal.</p>
 
-  <li>
-    <span class="post-date">19 Jan 2018
-    <a href="/archives/2018/01/19/block-e/">Block E</a></span>
-  </li>
+<p>And combined with <a href="https://www.netlifycms.org/">Netlify CMS</a>, I can edit and post directly from GitHub and don’t need a local jekyll installation at all. But that’s a subject for another post…</p>
 
-  <li>
-    <span class="post-date">17 Jan 2018
-    <a href="/archives/2018/01/17/hard-to-get/">Hard to Get</a></span>
-  </li>
+</div>
+<div>
+  
+    <span class="post-date">
+    Previous Post: <a href="/archives/2018/01/19/block-e/">Block E</a></span>
+  
+  
+</div>
+<div class="related" id="related">
+<!-- Jquery loads content of related div, see default.html -->
+</div>
 
-  <li>
-    <span class="post-date">12 Jan 2018
-    <a href="/archives/2018/01/12/winter-workshop/">Winter Workshop</a></span>
-  </li>
-
-  <li>
-    <span class="post-date">05 Jan 2018
-    <a href="/archives/2018/01/05/new-screen-saver/">New Screen Saver</a></span>
-  </li>
-
-  <li>
-    <span class="post-date">04 Jan 2018
-    <a href="/archives/2018/01/04/spam-filter/">Spam Filter</a></span>
-  </li>
-
-  <li>
-    <span class="post-date">04 Jan 2018
-    <a href="/archives/2018/01/04/katchi/">Katchi</a></span>
-  </li>
-
-</ul>
         
+<!-- Add Disqus comments. -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+if(location.hostname.match('papascott')){
+  /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+  var disqus_shortname = 'papascott'; // required: replace example with your forum shortname
+  var disqus_identifier = "/archives/2018/03/15/hosting-at-netlify/";
+
+  /* * * DON'T EDIT BELOW THIS LINE * * */
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+  }
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
       </div>
     </div>
 
@@ -114,7 +116,7 @@
     
     <script>
       $( "#sidebar" ).load( "/includes/sidebar.html" );
-      
+      $( "#related" ).load( "/includes/related.html" );
       
     </script>
 
