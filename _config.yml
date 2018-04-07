@@ -1,9 +1,9 @@
 # Setup
-title:               PapaScott
-tagline:             "I like big blogs and I cannot lie! 🐘"
+title:               🤷‍♂️🏴󠁧󠁢󠁳󠁣󠁴󠁿💩
+tagline:             "🐘"
 description:         '<a href="/">PapaScott</a> is a personal weblog by Scott Hanson.'
 descriptiontext:    'A personal weblog by Scott Hanson'
-url:                 https://www.papascott.de
+url:                 http://www.papascott.de
 baseurl:            ''
 permalink:           archives/:year/:month/:day/:title/
 comments:            true
@@ -22,7 +22,7 @@ exclude: [vendor, s3_website.yml, Rakefile, LICENSE.md, README.md, script, Gemfi
 # keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014, archives/2015]
 
 plugins:
-  - jemoji
+  #- jemoji
   - jekyll-archives
   - jekyll-redirect-from
   # - jekyll-admin
