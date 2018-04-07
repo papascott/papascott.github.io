@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Grünkohl Turkey Day'
 date: 2009-11-26 17:27:21.000000000 +01:00
 categories:
 - expat
