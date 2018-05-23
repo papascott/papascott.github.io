@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: kleinschreiben ist ausländerfeindlich!
 date: 2006-12-29 08:48:26.000000000 +01:00
 categories:
 - blogging
