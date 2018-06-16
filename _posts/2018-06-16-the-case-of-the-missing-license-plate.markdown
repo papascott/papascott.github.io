@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2018-06-16T09:59:31+02:00'
+date: '2018-06-16T10:59:31+02:00'
 title: The Mystery of the Missing License Plate
 ---
 Our son got his drivers license in February, and it's been a life-changer… for him and for us! No more getting up at 6 in the morning to get him to the bus stop (we live in the country so we have to drive to the bus stop, at least the one to get him to his school). No more driving back and forth to the airfield on weekends so he can partake in his chosen hobby. Our side-job as taxi drivers was over.
