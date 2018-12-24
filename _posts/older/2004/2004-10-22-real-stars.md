@@ -18,4 +18,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/fotos/IMG_0814.JPG" border="0" height="162" width="240" alt="star stickers" align="right" />Thanks to <a href="http://revirement.de/weblog/" title="mensch m&uuml;sste man sein... vasilis tage- und n&auml;chtebuch v2.0">vasili</a>, we now have some real gold <a href="http://www.papascott.de/archives/2004/09/27/stars/">star</a> stickers for Christopher. As you see, we've already used all the big ones. They glitter so much, they are nearly impossible to scan or photograph.</p>
+<p><img src="https://www.papascott.de/fotos/IMG_0814.JPG" border="0" height="162" width="240" alt="star stickers" align="right" />Thanks to <a href="http://revirement.de/weblog/" title="mensch m&uuml;sste man sein... vasilis tage- und n&auml;chtebuch v2.0">vasili</a>, we now have some real gold <a href="https://www.papascott.de/archives/2004/09/27/stars/">star</a> stickers for Christopher. As you see, we've already used all the big ones. They glitter so much, they are nearly impossible to scan or photograph.</p>

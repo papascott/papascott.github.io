@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="iloveberlin.png" src="http://www.papascott.de/wordpress/wp-content/uploads/2005/06/iloveberlin.png" width="209" height="89" /></p>
+<p><img alt="iloveberlin.png" src="https://www.papascott.de/wordpress/wp-content/uploads/2005/06/iloveberlin.png" width="209" height="89" /></p>
 <p>Maybe if I get in early, I can also get out early...</p>

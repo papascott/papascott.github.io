@@ -19,7 +19,7 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crhostern02.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2002/04/crhostern02.jpg" width="325" height="158" border="0" /></p>
+<p><img alt="crhostern02.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/04/crhostern02.jpg" width="325" height="158" border="0" /></p>
 <p>Here's Christopher with his Easter Rabbit he got from Oma. It's made of bread, so he's having it for breakfast.</p>
 <p>Since we didn't get around to searching for Easter eggs yesterday, we did it this morning. Christopher didn't see the point of hard boiled eggs at first, but finding a chocolate bunny made the adventure worthwhile. We've still got 2 packages of Kinder chocolate that he got as presents for Easter. We'll have to try to parcel them out as slowly as we can.  </p>
 <p>Otherwise, the weather was gorgeous. Christopher was able to spend the whole day outside. With Bobby Car races with neighbor Carolin, a bike ride to the playground, "helping" Mama in the garden, he kept busy all day too.</p>

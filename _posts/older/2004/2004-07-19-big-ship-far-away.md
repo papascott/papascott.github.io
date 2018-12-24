@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2004/07/bigship.jpg" alt="Big ship far away... QM2 in Hamburg" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/07/bigship.jpg" alt="Big ship far away... QM2 in Hamburg" /></p>
 <p>Queen Mary 2 in Hamburg <a href="http://www.hebig.com/queen_mary_2/">(Heiko has better pictures)</a></p>

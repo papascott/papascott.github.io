@@ -18,5 +18,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2006/04//basecamp2.jpg" border="0" height="192" width="450" alt="basecamp.jpg" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/04//basecamp2.jpg" border="0" height="192" width="450" alt="basecamp.jpg" /></p>
 <p>I hadn't realized that Nico had entered my job description in <a href="http://www.basecamphq.com/">Basecamp</a>.</p>

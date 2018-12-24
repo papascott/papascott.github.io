@@ -19,6 +19,6 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a title="Golden October 2003" href="http://papascott.typepad.com/photos/golden_october_2003/"><img alt="crh_tree.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2003/10/crh_tree.jpg" width="325" height="244" border="0" /></a></p>
+<p><a title="Golden October 2003" href="http://papascott.typepad.com/photos/golden_october_2003/"><img alt="crh_tree.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/10/crh_tree.jpg" width="325" height="244" border="0" /></a></p>
 <p>Last Sunday was a gorgeous sunny day, and we took <a title="Golden October 2003" href="http://papascott.typepad.com/photos/golden_october_2003/">a little walk</a><br />
 around the neighborhood. Christopher jumped on a lot of trees.</p>

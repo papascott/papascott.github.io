@@ -8,9 +8,9 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+    {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+    {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
 
@@ -30,7 +30,7 @@
 
   {% if page.image %}
   <!-- Open Graph -->
-  <meta content="http://www.papascott.de/assets/{{ page.image }}" property="og:image">
+  <meta content="https://www.papascott.de/assets/{{ page.image }}" property="og:image">
   {% endif %}
 
 </head>

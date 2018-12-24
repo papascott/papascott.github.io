@@ -18,4 +18,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a title="Godzilla versus PapaScott" href="http://bunnyherolabs.com/dhtml/monster.php?ref=http://www.papascott.de">Godzilla versus PapaScott</a> I fought the monsters, and the monsters won. <a href="http://couchblog.de/webpropaganda/">(via nico b)</a></p>
+<p><a title="Godzilla versus PapaScott" href="http://bunnyherolabs.com/dhtml/monster.php?ref=https://www.papascott.de">Godzilla versus PapaScott</a> I fought the monsters, and the monsters won. <a href="http://couchblog.de/webpropaganda/">(via nico b)</a></p>

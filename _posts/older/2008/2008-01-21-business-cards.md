@@ -18,5 +18,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2008/01/visitenkarte.jpg" alt="visitenkarte.jpg" border="0" width="500" height="295" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/01/visitenkarte.jpg" alt="visitenkarte.jpg" border="0" width="500" height="295" /></p>
 <p>I finally got around to ordering business cards.</p>

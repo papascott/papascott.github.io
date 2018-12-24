@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://arrog.antville.org/stories/831784/"><img src="http://www.papascott.de/wordpress/wp-content/uploads/2004/06/forhousewives.jpg" alt="" border="0" /></a></p>
+<p><a href="http://arrog.antville.org/stories/831784/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/06/forhousewives.jpg" alt="" border="0" /></a></p>
 <p>Mobile computing anno 1967, at <a href="http://arrog.antville.org/stories/831784/">sofa</a></p>

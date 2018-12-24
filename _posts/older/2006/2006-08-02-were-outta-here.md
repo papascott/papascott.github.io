@@ -22,5 +22,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p>We're almost gone. We have a 6 am flight out of Hamburg in the morning, so we have to set the alarm for 3:30 or so. But with only one connection (our bet that <a href="http://www.papascott.de/archives/2006/05/04/northwest-pilots-agree-wage-cuts/">NWA would keep flying</a> paid off), we get to Minneapolis at 11:45 am, so we'll have the whole day in front of us, so to speak.</p>
+<p>We're almost gone. We have a 6 am flight out of Hamburg in the morning, so we have to set the alarm for 3:30 or so. But with only one connection (our bet that <a href="https://www.papascott.de/archives/2006/05/04/northwest-pilots-agree-wage-cuts/">NWA would keep flying</a> paid off), we get to Minneapolis at 11:45 am, so we'll have the whole day in front of us, so to speak.</p>
 <p>Like last year, we'll be at the lake with my parents. No landline, no cell coverage, no DSL, 1 TV channel. There are neighbors with open WLANs, so maybe we can sneak online once in a while. Or maybe not.</p>

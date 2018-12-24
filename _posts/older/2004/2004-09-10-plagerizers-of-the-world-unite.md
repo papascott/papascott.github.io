@@ -18,4 +18,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p>Since I misspellt the permalink, this post is now <a href="http://www.papascott.de/archives/2004/09/10/plagiarizers-of-the-world-unite/">here</a>.</p>
+<p>Since I misspellt the permalink, this post is now <a href="https://www.papascott.de/archives/2004/09/10/plagiarizers-of-the-world-unite/">here</a>.</p>

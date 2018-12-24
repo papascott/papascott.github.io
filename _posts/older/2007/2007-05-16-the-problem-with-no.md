@@ -26,7 +26,7 @@ excerpt: !ruby/object:Hpricot::Doc
 <blockquote><p>
   For example, it is considered crude to say "no" directly, therefore something else will be said that every Anglo-Saxon will understand as "no", but does not use the word "no".
 </p></blockquote>
-<p>I was bitten by this a couple of weeks ago. A couple days before the May Day <a href="http://www.papascott.de/archives/2007/04/28/bridge-days/">bridge day</a>, MamaMaus was on the phone with her sister-in-law and they thought it would be a great idea to invite their kids to visit Christopher that day, even though I had to work. I didn't think of much of MamaMaus volunteering my time as a babysitter, and would have much rather taken Christopher to the park or a movie or something, so I told her "no" as directly as I could:</p>
+<p>I was bitten by this a couple of weeks ago. A couple days before the May Day <a href="https://www.papascott.de/archives/2007/04/28/bridge-days/">bridge day</a>, MamaMaus was on the phone with her sister-in-law and they thought it would be a great idea to invite their kids to visit Christopher that day, even though I had to work. I didn't think of much of MamaMaus volunteering my time as a babysitter, and would have much rather taken Christopher to the park or a movie or something, so I told her "no" as directly as I could:</p>
 <blockquote><p>
   I really don't know what I would do with them.
 </p></blockquote>

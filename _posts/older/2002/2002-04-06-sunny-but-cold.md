@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="fphpatio.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2002/04/fphpatio.jpg" width="350" height="263" border="0" /></p>
-<p><img alt="crhpipe2.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2002/04/crhpipe2.jpg" width="350" height="263" border="0" /></p>
+<p><img alt="fphpatio.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/04/fphpatio.jpg" width="350" height="263" border="0" /></p>
+<p><img alt="crhpipe2.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/04/crhpipe2.jpg" width="350" height="263" border="0" /></p>

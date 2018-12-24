@@ -22,6 +22,6 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2006/09/santana_on_the_mound.jpg" alt="santana on the mound" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/09/santana_on_the_mound.jpg" alt="santana on the mound" /></p>
 <p>10 strikeouts for Johan Santana. It'd be nice if the score holds up... but watching the Twins live from my dining room table in Germany. Isn't the Internet grand? Too bad they don't play more afternoon games, the 7 hour time difference makes night games somewhat unpractical... :-)</p>
 <p>Update: They held the lead... 12-1 the final.</p>

@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crh_bridge.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2004/03/crh_bridge.jpg" width="320" height="240" border="0" /></p>
+<p><img alt="crh_bridge.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2004/03/crh_bridge.jpg" width="320" height="240" border="0" /></p>
 <p>He has them from Grandpa.</p>

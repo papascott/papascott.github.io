@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crh23062002.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2002/06/crh23062002.jpg" width="350" height="262" border="0" /></p>
+<p><img alt="crh23062002.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/06/crh23062002.jpg" width="350" height="262" border="0" /></p>
 <p>Christopher Ryan, hero of the wooden railroad!</p>

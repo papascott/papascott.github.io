@@ -19,7 +19,7 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.bild.de/"><img alt="Headline from the newspaper Bild: Ami Go Home!" src="http://www.papascott.de/wordpress/wp-content/uploads/2002/06/bildamirudi-thumb.jpg" width="125" height="129" border="0" align="right" /></a><br />
+<p><a href="http://www.bild.de/"><img alt="Headline from the newspaper Bild: Ami Go Home!" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/06/bildamirudi-thumb.jpg" width="125" height="129" border="0" align="right" /></a><br />
 Today is a day where I can't lose. As an American living in Germany, I'll be happy whichever side wins.  The flip side is that I  know one of my sides is going to lose as well.</p>
 <p>This Cup has been very unkind to favorites who expect to win. That will the key for Germany. If they go in looking past the US, they are in trouble.  If their heads are in the right place and are at the top of their game, the US cannot stop them. Their heads have been in the right place up until now.</p>
 <p>As for the US, they have to come up with something more inspired than the 'stay back and wait for a fast break' that worked against Mexico. Germany has the patience and the physicalness that Mexico lacked, and could make the US look like Saudi Arabia, who tried a similar strategy. The anti-US Korean crowd could also be a factor, not against the Americans (who are used to it by now), but for the Germans (who are usually the bad guys away from home).</p>

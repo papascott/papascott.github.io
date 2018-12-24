@@ -18,4 +18,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/images/crhmama1102.jpg" border="0" alt="Christopher and Mama shopping on ebay" title="Christopher and Mama shopping on ebay" /></p>
+<p><img src="https://www.papascott.de/images/crhmama1102.jpg" border="0" alt="Christopher and Mama shopping on ebay" title="Christopher and Mama shopping on ebay" /></p>

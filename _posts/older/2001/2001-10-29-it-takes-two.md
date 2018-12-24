@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2001/10/crhtower.jpg" height="225" width="300" border="0" alt="crhtower.jpg: " /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/10/crhtower.jpg" height="225" width="300" border="0" alt="crhtower.jpg: " /></p>
 <p>Have you heard about the remake of the Indiana Jones series, with a  forensic entomologist in the title role? Yes, it's <a href="http://iowa.weblogger.com/2001/10/29">Iowa Jones and the Mosquito of Doom</a>!</p>

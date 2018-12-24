@@ -18,4 +18,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p>Tomorrow is Christopher's <a title="PapaScott : Otitis Media" href="http://www.papascott.de/2004/01/06/2791.php">adenoidectomy</a>. Wish us well!</p>
+<p>Tomorrow is Christopher's <a title="PapaScott : Otitis Media" href="https://www.papascott.de/2004/01/06/2791.php">adenoidectomy</a>. Wish us well!</p>

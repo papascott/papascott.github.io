@@ -11,7 +11,7 @@ published: true
 meta:
   aktt_notify_twitter: 'yes'
   enclosure: |
-    http://www.papascott.de/wordpress/wp-content/uploads/2006/04/curly1.wav
+    https://www.papascott.de/wordpress/wp-content/uploads/2006/04/curly1.wav
     30320
     audio/wav
 author:
@@ -23,4 +23,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.papascott.de/wordpress/wp-content/uploads/2006/04/curly1.wav" title="I'm trying to think but nothing happens!"><img src="http://www.papascott.de/wordpress/wp-content/uploads/2006/04/curly.gif" align="right" border="0" /></a> My current attitude about blogging is best summed up by <a href="http://glossary.userland.com/$1" title="UserLand Global Shortcuts: Page 1 of 13">UserLand Shortcut No. 22:</a> (for those of you who remember or maybe even still use Frontier): entitled "curly". <a href="http://www.papascott.de/wordpress/wp-content/uploads/2006/04/curly1.wav" title="I'm trying to think but nothing happens!">Click</a> to listen. </p>
+<p><a href="https://www.papascott.de/wordpress/wp-content/uploads/2006/04/curly1.wav" title="I'm trying to think but nothing happens!"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/04/curly.gif" align="right" border="0" /></a> My current attitude about blogging is best summed up by <a href="http://glossary.userland.com/$1" title="UserLand Global Shortcuts: Page 1 of 13">UserLand Shortcut No. 22:</a> (for those of you who remember or maybe even still use Frontier): entitled "curly". <a href="https://www.papascott.de/wordpress/wp-content/uploads/2006/04/curly1.wav" title="I'm trying to think but nothing happens!">Click</a> to listen. </p>

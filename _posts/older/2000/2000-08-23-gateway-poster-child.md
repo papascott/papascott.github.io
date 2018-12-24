@@ -19,4 +19,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2000/08/poster.jpg" height="350" width="279" border="0" alt="gateway.jpg: " /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/08/poster.jpg" height="350" width="279" border="0" alt="gateway.jpg: " /></p>

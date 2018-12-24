@@ -19,6 +19,6 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="windmill.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2003/09/windmill.jpg" width="325" height="208" border="0" /></p>
+<p><img alt="windmill.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/09/windmill.jpg" width="325" height="208" border="0" /></p>
 <p>This is the view from our bedroom window, with an artist's conception of a wind generator that has been proposed for our village.</p>
 <p>How fast can you say <acronym title="citizen's action group" style="border-bottom: dotted 1px;  font-style: italic;">"Bürgerinitiative"</acronym>?</p>

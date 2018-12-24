@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="wperror.png" src="http://www.papascott.de/wordpress/wp-content/uploads/2004/05/wperror.png" width="320" height="222" border="0" /></p>
+<p><img alt="wperror.png" src="https://www.papascott.de/wordpress/wp-content/uploads/2004/05/wperror.png" width="320" height="222" border="0" /></p>
 <p>If your database craps out, your entire site is unreadable.</p>

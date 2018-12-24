@@ -22,5 +22,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.hamburgwiki.de/wiki/Bild:Der_Pudel.jpg"><img style="margin-left:auto;margin-right:auto" src="http://www.papascott.de/wordpress/wp-content/uploads/2010/09/Der_Pudel.jpg" alt="Der_Pudel.jpg" border="0" width="449" height="599" /></a></p>
+<p><a href="http://www.hamburgwiki.de/wiki/Bild:Der_Pudel.jpg"><img style="margin-left:auto;margin-right:auto" src="https://www.papascott.de/wordpress/wp-content/uploads/2010/09/Der_Pudel.jpg" alt="Der_Pudel.jpg" border="0" width="449" height="599" /></a></p>
 <p>Sculpture atop the <a href="http://www.hamburgwiki.de/wiki/Laeiszhof">Laeiszhof in Hamburg</a>. Explanation will follow. (Source: <a href="http://www.hamburgwiki.de/wiki/Bild:Der_Pudel.jpg">StadtWiki Hamburg</a>  &copy; H. Bergmann)</p>

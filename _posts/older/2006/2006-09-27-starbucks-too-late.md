@@ -22,5 +22,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2006/09/starbucks_rathausmarkt_hh.jpg" alt="Starbucks Rathausmarkt HH" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/09/starbucks_rathausmarkt_hh.jpg" alt="Starbucks Rathausmarkt HH" /></p>
 <p>Starbucks has <a href="http://www.ankegroener.de/?p=1688">finally arrived in Hamburg</a>, about a decade too late (photo stolen from Anke Gröner, I hope she doesn't mind... it's not like I ever get to downtown anymore).</p>

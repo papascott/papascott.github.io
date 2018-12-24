@@ -18,4 +18,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p>As a service to myself, I've added a <a hef="javascript:window.sidebar.addPanel('papascott panel', 'http://www.papascott.de/sidebar.php','')">link</a> to create a Mozilla sidebar for my blogroll. It's the beginning of a personal blog reader and aggregator which I can use in whatever copy of Mozilla I happen to be using.</p>
+<p>As a service to myself, I've added a <a hef="javascript:window.sidebar.addPanel('papascott panel', 'https://www.papascott.de/sidebar.php','')">link</a> to create a Mozilla sidebar for my blogroll. It's the beginning of a personal blog reader and aggregator which I can use in whatever copy of Mozilla I happen to be using.</p>

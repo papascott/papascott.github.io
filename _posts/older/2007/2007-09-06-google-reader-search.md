@@ -22,5 +22,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2007/09/gsearch.jpg" alt="gsearch.jpg" border="0" width="485" height="337" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/09/gsearch.jpg" alt="gsearch.jpg" border="0" width="485" height="337" /></p>
 <p>Cool! Google has now implemented <a href="http://feeds.feedburner.com/~r/blogspot/dtKx/~3/152805315/we-found-it.html">search in Google Reader</a>, so you can now find <a href="http://www.google.com/search?q=d&ouml;nerstag+site:lumma.de">important stuff</a> you know you saw once in one of your feeds.</p>

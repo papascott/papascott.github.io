@@ -7,7 +7,7 @@ author:
   display_name: PapaScott
   login: root
   email: papascott@gmail.com
-  url: http://www.papascott.de/
+  url: https://www.papascott.de/
 ---
 
 I used to write a blog post for our anniversary each year. Nowadays I just use [Facebook](https://www.facebook.com/photo.php?fbid=10153422228986281&set=a.10150156329816281.333920.666521280&type=1&theater) and Twitter.

@@ -24,12 +24,12 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-![Greencard](http://www.papascott.de/wordpress/wp-content/uploads/2011/
+![Greencard](https://www.papascott.de/wordpress/wp-content/uploads/2011/
 03/greencard.jpg){: class="alignright"}My wife had incredibly bad luck with her [green
 card](http://www.uscis.gov/greencard).
 
 You may
-[recall](http://www.papascott.de/archives/2002/09/09/young-dumb-and-
+[recall](https://www.papascott.de/archives/2002/09/09/young-dumb-and-
 excited/) that she arrived in the US with a fiancée visa which, once the
 fiancée bit is consummated, so to speak, entitles one to permanent
 residence and a green card. The physical card was the problem. The INS
@@ -37,7 +37,7 @@ managed to misspell her name on the card three times before finally
 getting it right, several months later.
 
 Easy come, easy go. A couple of weeks after [we moved to Germany in
-1990](http://www.papascott.de/archives/2009/11/09/as-the-wall-fell/), we
+1990](https://www.papascott.de/archives/2009/11/09/as-the-wall-fell/), we
 took a day trip to Berlin to see what all the fuss was about. We got
 completely lost in the Friedrichstraße S-Bahn station (where the
 passport control for Westerners used to be, the maze of hallways were

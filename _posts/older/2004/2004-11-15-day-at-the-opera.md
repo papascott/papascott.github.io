@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2004/11/opera.jpg" border="0" height="240" width="320" alt="opera.jpg" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/11/opera.jpg" border="0" height="240" width="320" alt="opera.jpg" /></p>
 <p>My wife went to Sydney for 10 days, and all I got was this digital image. She got back yesterday, at least physically. Her brain is still catching up.</p>

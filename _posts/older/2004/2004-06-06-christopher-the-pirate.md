@@ -19,4 +19,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2004/06/crh_ahoy.jpg" alt="Christopher the pirate" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/06/crh_ahoy.jpg" alt="Christopher the pirate" /></p>

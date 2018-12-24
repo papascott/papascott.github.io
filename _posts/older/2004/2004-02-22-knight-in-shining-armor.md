@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crh_knight.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2004/02/crh_knight.jpg" width="320" height="269" border="0" /></p>
+<p><img alt="crh_knight.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2004/02/crh_knight.jpg" width="320" height="269" border="0" /></p>
 <p>Christopher is set for his <em>Fasching</em> party tomorrow.</p>

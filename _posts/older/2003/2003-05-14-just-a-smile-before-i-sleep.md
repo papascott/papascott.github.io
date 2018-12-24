@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crh0503smile.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2003/05/crh0503smile.jpg" width="250" height="349" border="0" /></p>
+<p><img alt="crh0503smile.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/05/crh0503smile.jpg" width="250" height="349" border="0" /></p>
 <p>Christopher says this picture is for Grandpa.</p>

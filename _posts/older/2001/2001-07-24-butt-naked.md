@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2001/07/crhsprinkler.jpg" height="225" width="300" border="0" alt="crhsprinkler.jpg: " /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/07/crhsprinkler.jpg" height="225" width="300" border="0" alt="crhsprinkler.jpg: " /></p>
 <p>We have some pictures of Mama's trip to <a href="http://www.shcon.com/index.php?album=2001%2F20010724-berlin&dispsize=512&start=0">Berlin</a> today, and of <a href="http://www.shcon.com/index.php?album=2001%2F20010724-crh&dispsize=512&start=0">Christopher</a> in the backyard after she got home.</p>

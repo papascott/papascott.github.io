@@ -18,4 +18,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a title="Mama's company car was recalled by BMW" href="http://www.papascott.de/2003/11/29/2726.php">Mystery of the Registered Letter solved</a></p>
+<p><a title="Mama's company car was recalled by BMW" href="https://www.papascott.de/2003/11/29/2726.php">Mystery of the Registered Letter solved</a></p>

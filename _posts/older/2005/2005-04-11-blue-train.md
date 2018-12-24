@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="bluetain.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2005/04/bluetain.jpg" width="320" height="176" /></p>
+<p><img alt="bluetain.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2005/04/bluetain.jpg" width="320" height="176" /></p>
 <p>That's Mama, Papa and Christopher riding there in the back. I'm not sure about the 4th circle.</p>

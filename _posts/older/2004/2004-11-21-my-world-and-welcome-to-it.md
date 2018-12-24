@@ -18,4 +18,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="screen.jpg" src="http://www.papascott.de/archives/fotos/screen.jpg" width="576" height="384" /></p>
+<p><img alt="screen.jpg" src="https://www.papascott.de/archives/fotos/screen.jpg" width="576" height="384" /></p>

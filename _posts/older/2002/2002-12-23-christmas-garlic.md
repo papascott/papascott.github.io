@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crhgarlic1202.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2002/12/crhgarlic1202.jpg" width="325" height="244" border="0" /></p>
+<p><img alt="crhgarlic1202.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/12/crhgarlic1202.jpg" width="325" height="244" border="0" /></p>
 <p>Mama is making muffins, but Christopher is more interested in the garlic press. In the interest of all concerned, Papa did not give Christopher any real garlic, but instead created play garlic with flour and water.</p>

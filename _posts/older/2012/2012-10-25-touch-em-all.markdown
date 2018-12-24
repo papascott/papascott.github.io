@@ -7,12 +7,12 @@ author:
   display_name: PapaScott
   login: root
   email: papascott@gmail.com
-  url: http://www.papascott.de/
+  url: https://www.papascott.de/
 author_login: root
 author_email: papascott@gmail.com
-author_url: http://www.papascott.de/
+author_url: https://www.papascott.de/
 wordpress_id: 4850
-wordpress_url: http://www.papascott.de/?p=4850
+wordpress_url: https://www.papascott.de/?p=4850
 date: '2012-10-25 23:53:42 +0200'
 date_gmt: '2012-10-25 21:53:42 +0200'
 ---

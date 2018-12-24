@@ -20,4 +20,4 @@ excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
 <p>I now have one foot in the realm of evil... I'm blogging this on a 500 MHz 15" G4 PowerBook, obtained on eBay, running OS X 10.3.3. Mind-altering Mac user Kool-Aid was <em>not</em> included.</p>
-<p><img alt="g4_firstpost.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2004/05/g4_firstpost.jpg" width="320" height="240" border="0" /></p>
+<p><img alt="g4_firstpost.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2004/05/g4_firstpost.jpg" width="320" height="240" border="0" /></p>

@@ -22,6 +22,6 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.amazon.de/Rock-n-Roll-High-School/dp/B000077VOC"><img src="http://www.papascott.de/wordpress/wp-content/uploads/2007/04/ihre-dvd-wurde-verschickt.jpg" alt="Ihre DVD wurde verschickt" /></a></p>
+<p><a href="http://www.amazon.de/Rock-n-Roll-High-School/dp/B000077VOC"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/04/ihre-dvd-wurde-verschickt.jpg" alt="Ihre DVD wurde verschickt" /></a></p>
 <p>Gabba gabba hey, now here's a classic film. I'm old enough that I actually saw this in a theatre!</p>
 <p>Hmm, judging from the <a href="http://www.amazon.de/Rock-n-Roll-High-School/dp/B000077VOC">price at Amazon</a> it might have been cheaper to buy than to rent.</p>

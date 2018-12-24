@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2004/12/crh_boxes.jpg" border="0" height="240" width="320" alt="crh_boxes.jpg" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/12/crh_boxes.jpg" border="0" height="240" width="320" alt="crh_boxes.jpg" /></p>
 <p>Papa was late coming home this afternoon, so he had to build a cardboard train for Christopher to make up for it. That white styrofoam thing is supposed to be a smokestack.</p>

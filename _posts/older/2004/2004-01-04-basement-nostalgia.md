@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crh_carseat.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2004/01/crh_carseat.jpg" width="268" height="320" border="0" /></p>
+<p><img alt="crh_carseat.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2004/01/crh_carseat.jpg" width="268" height="320" border="0" /></p>
 <p>Christopher no longer fits in his baby car seat.</p>

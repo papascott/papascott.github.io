@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.campus-germany.de/"><img src="http://www.papascott.de/wordpress/wp-content/uploads/2004/07/spomsored.gif" border="0" alt="spomsored by" /></a></p>
+<p><a href="http://www.campus-germany.de/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/07/spomsored.gif" border="0" alt="spomsored by" /></a></p>
 <p>The dangers of <em>neudeutsch</em>, as demonstrated by the German Ministry of Education, no less. <a href="http://www.worldwideklein.de/index.php?/weblog/spomsored-by/">(via Very Large Orange)</a></p>

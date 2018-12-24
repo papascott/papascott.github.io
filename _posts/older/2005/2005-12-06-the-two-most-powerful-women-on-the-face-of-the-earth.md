@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img src="http://www.papascott.de/wordpress/wp-content/uploads/2005/12/merkelrice.jpg" border="0" height="287" width="420" alt="merkelrice.jpg" /></p>
+<p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2005/12/merkelrice.jpg" border="0" height="287" width="420" alt="merkelrice.jpg" /></p>
 <p>In the middle must be <a href="http://clinton.senate.gov/">Hillary's</a> shadow... (photo from <a href="http://www.spiegel.de/politik/deutschland/0,1518,grossbild-551176-388942,00.html">Spiegel Online</a>)</p>

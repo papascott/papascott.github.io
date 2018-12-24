@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.kiesow.de/"><img alt="Advertising for a auto junkyard seen on a garbage truck near the Reeperbahn in Hamburg." title="Selber machen ist geil - Doing it yourself is cool" src="http://www.papascott.de/wordpress/wp-content/uploads/2003/06/kiesow.jpg" width="300" height="247" border="0" /></a></p>
+<p><a href="http://www.kiesow.de/"><img alt="Advertising for a auto junkyard seen on a garbage truck near the Reeperbahn in Hamburg." title="Selber machen ist geil - Doing it yourself is cool" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/06/kiesow.jpg" width="300" height="247" border="0" /></a></p>
 <p>Advertising for an auto junkyard seen on a garbage truck near the Reeperbahn in Hamburg.</p>

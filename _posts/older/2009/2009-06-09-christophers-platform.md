@@ -32,4 +32,4 @@ excerpt: !ruby/object:Hpricot::Doc
 <li>Abolish war</li>
 </ol>
 <p>Sounds like a solid platform, but the devil is going to be in the details.</p>
-<p>*Yes, we realize he previously <a href="http://www.papascott.de/archives/2008/11/05/yes-we-can-in-2036/">announced his candidacy for the US Presidency</a>. We'll issue a statement when we know which is correct.</p>
+<p>*Yes, we realize he previously <a href="https://www.papascott.de/archives/2008/11/05/yes-we-can-in-2036/">announced his candidacy for the US Presidency</a>. We'll issue a statement when we know which is correct.</p>

@@ -19,4 +19,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crhpelican.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2003/05/crhpelican.jpg" width="244" height="323" border="0" /></p>
+<p><img alt="crhpelican.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/05/crhpelican.jpg" width="244" height="323" border="0" /></p>

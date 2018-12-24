@@ -19,6 +19,6 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crh040802.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2002/08/crh040802.jpg" width="350" height="262" border="0" /></p>
+<p><img alt="crh040802.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/08/crh040802.jpg" width="350" height="262" border="0" /></p>
 <p>We've been very negligent on the photo front lately. Here's Christopher this evening, exhausted after a hard <i>Sommerfest</i> with his pals from day care. But not too tired to set up his Duplo train.</p>
-<p><img alt="crhtrain040802.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2002/08/crhtrain040802.jpg" width="350" height="262" border="0" /></p>
+<p><img alt="crhtrain040802.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/08/crhtrain040802.jpg" width="350" height="262" border="0" /></p>

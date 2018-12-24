@@ -18,4 +18,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p>If <a href="http://www.dashes.com/anil/" title="Search: anil dash">Anil</a> can do a revolutionary redesign of his blog, then <a href="http://www.papascott.de/bl.php">so can I</a>.</p>
+<p>If <a href="http://www.dashes.com/anil/" title="Search: anil dash">Anil</a> can do a revolutionary redesign of his blog, then <a href="https://www.papascott.de/bl.php">so can I</a>.</p>

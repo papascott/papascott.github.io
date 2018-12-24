@@ -19,4 +19,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crh_hallue.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2003/10/crh_hallue.jpg" width="325" height="244" border="0" /></p>
+<p><img alt="crh_hallue.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/10/crh_hallue.jpg" width="325" height="244" border="0" /></p>

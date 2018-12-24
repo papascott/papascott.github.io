@@ -19,5 +19,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="crhbdaym1.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2002/12/crhbdaym1.jpg" width="325" height="253" border="0" /></p>
+<p><img alt="crhbdaym1.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/12/crhbdaym1.jpg" width="325" height="253" border="0" /></p>
 <p>Chiristopher would like to remind everyone that, while Christmas is a grand holiday, the <em>real</em> festivities <a href="/1999/12/26">begin</a> <a href="/1999/12/27">tomorrow</a>.</p>

@@ -7,7 +7,7 @@ author:
   display_name: PapaScott
   login: root
   email: papascott@gmail.com
-  url: http://www.papascott.de/
+  url: https://www.papascott.de/
 ---
 So now that I've [changed]({% post_url /older/2015/2015-04-23-transition %}) my blogging platform, I have something to blog about: my new blogging platform!
 

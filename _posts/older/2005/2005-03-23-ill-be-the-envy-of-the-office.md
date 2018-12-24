@@ -19,6 +19,6 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><img alt="bl_shirt.jpg" src="http://www.papascott.de/wordpress/wp-content/uploads/2005/03/bl_shirt.jpg" width="320" height="232" /></p>
+<p><img alt="bl_shirt.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2005/03/bl_shirt.jpg" width="320" height="232" /></p>
 <p>in my <a href="http://www.bloglines.com/">Bloglines</a> T-Shirt.</p>
 <p>And yes, that is a camera growing out of my ear.</p>
