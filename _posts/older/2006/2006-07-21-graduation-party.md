@@ -20,5 +20,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/papascott/194638931/" title="Photo Sharing"><img src="http://static.flickr.com/61/194638931_74b770e16e.jpg" width="500" height="375" alt="21072006059" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/194638931/" title="Photo Sharing"><img src="https://static.flickr.com/61/194638931_74b770e16e.jpg" width="500" height="375" alt="21072006059" /></a></p>
 <p>Christopher's graduation party.</p>

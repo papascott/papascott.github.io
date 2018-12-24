@@ -20,6 +20,6 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/papascott/69774443/" title="Photo Sharing"><img src="http://static.flickr.com/18/69774443_56087807df.jpg" width="500" height="375" alt="IMG_0473" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/69774443/" title="Photo Sharing"><img src="https://static.flickr.com/18/69774443_56087807df.jpg" width="500" height="375" alt="IMG_0473" /></a></p>
 <p>An Advent scene created by Christopher.</p>
-<p><a href="http://www.flickr.com/photos/papascott/69774834/" title="Photo Sharing"><img src="http://static.flickr.com/9/69774834_6cd10b493f.jpg" width="500" height="375" alt="IMG_0472" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/69774834/" title="Photo Sharing"><img src="https://static.flickr.com/9/69774834_6cd10b493f.jpg" width="500" height="375" alt="IMG_0472" /></a></p>

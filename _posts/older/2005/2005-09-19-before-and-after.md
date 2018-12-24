@@ -20,7 +20,7 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/papascott/44734334/"><img src="http://static.flickr.com/24/44734334_fffbc1e6f1.jpg" width="500" height="375" alt="Before" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/44734334/"><img src="https://static.flickr.com/24/44734334_fffbc1e6f1.jpg" width="500" height="375" alt="Before" /></a></p>
 <p>Before</p>
-<p><a href="http://www.flickr.com/photos/papascott/44734604/"><img src="http://static.flickr.com/31/44734604_b022c6b0ef.jpg" width="500" height="375" alt="After" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/44734604/"><img src="https://static.flickr.com/31/44734604_b022c6b0ef.jpg" width="500" height="375" alt="After" /></a></p>
 <p>After</p>

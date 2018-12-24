@@ -20,4 +20,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/papascott/80140541/" title="Photo Sharing"><img src="http://static.flickr.com/41/80140541_8c83424fb6.jpg" width="500" height="378" alt="IM000418" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/80140541/" title="Photo Sharing"><img src="https://static.flickr.com/41/80140541_8c83424fb6.jpg" width="500" height="378" alt="IM000418" /></a></p>
