@@ -2,7 +2,7 @@
 <html lang="en-us">
 
   <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <link href="https://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -11,7 +11,7 @@
 
   <title>
     
-      Really Stupid Atom Support &middot; PapaScott
+    Really Stupid Atom Support &middot; PapaScott
     
   </title>
 
@@ -32,7 +32,6 @@
   
 
 </head>
-
 
   <body class="theme-base-08" >
 
@@ -56,7 +55,7 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="/" title="Home">PapaScott</a>
-            <small>I don't claim to succeed at all this!</small>
+            <small>I like big blogs and I cannot lie! 🐘</small>
           </h3>
         </div>
       </div>
@@ -68,8 +67,8 @@
   <h1 class="post-title">Really Stupid Atom Support</h1>
   <span class="post-date">03 Jan 2004</span>
   <p>(for <a href="http://magpierss.sourceforge.net/">Magpie RSS 0.52</a> and <a href="http://minutillo.com/steve/feedonfeeds/">Feed on Feeds 0.1.1</a>).  Many blogs are already sporting Atom 0.3 feeds, and <a href="http://www.diveintomark.org/">some</a> have even declared their RSS to be deprecated. So I decided to try to bolt Atom support onto my aggregator of choice. It turned out to be pretty easy, requiring patching just 2 files. </p>
-<p>However, my approach is very simplistic, simply representing Atom items in Magpie such that FoF can understand and display them. I'm sure that Kellan and Steve will eventually fully support Atom feeds. But until they do, here is the <a href="http://www.papascott.de/wordpress/wp-content/uploads/2004/01/rsas.patch.gz">patch to init.php and parse_rss.inc</a>. I thought about calling it 'Really Stupid Support for Atom', but the acronym 'RSS for Atom' would have confusing to say the least.</p>
-<p>Disclaimer: this works for me, at least for the <a href="http://www.papascott.de/atom.xml">three</a> <a href="http://diveintomark.org/xml/atom.xml">Atom</a> <a href="http://www.ahawkins.org/atom.xml">feeds</a> I've tried. It may not work for you.<br />
+<p>However, my approach is very simplistic, simply representing Atom items in Magpie such that FoF can understand and display them. I'm sure that Kellan and Steve will eventually fully support Atom feeds. But until they do, here is the <a href="https://www.papascott.de/wordpress/wp-content/uploads/2004/01/rsas.patch.gz">patch to init.php and parse_rss.inc</a>. I thought about calling it 'Really Stupid Support for Atom', but the acronym 'RSS for Atom' would have confusing to say the least.</p>
+<p>Disclaimer: this works for me, at least for the <a href="https://www.papascott.de/atom.xml">three</a> <a href="http://diveintomark.org/xml/atom.xml">Atom</a> <a href="http://www.ahawkins.org/atom.xml">feeds</a> I've tried. It may not work for you.<br />
 <!--more--><br />
 If you're interested in the gory details, I basically made 3 changes:</p>
 <ol>
@@ -100,7 +99,7 @@ If you're interested in the gory details, I basically made 3 changes:</p>
 if(location.hostname.match('papascott')){
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var disqus_shortname = 'papascott'; // required: replace example with your forum shortname
-  var disqus_identifier = "/archives/2004/01/03/really-stupid-atom-support/";
+  /* var disqus_identifier = "/archives/2004/01/03/really-stupid-atom-support/"; */
 
   /* * * DON'T EDIT BELOW THIS LINE * * */
   (function() {
@@ -112,6 +111,7 @@ if(location.hostname.match('papascott')){
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 
       </div>
     </div>

@@ -2,7 +2,7 @@
 <html lang="en-us">
 
   <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <link href="https://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -11,7 +11,7 @@
 
   <title>
     
-      Slash My Permalinks &middot; PapaScott
+    Slash My Permalinks &middot; PapaScott
     
   </title>
 
@@ -32,7 +32,6 @@
   
 
 </head>
-
 
   <body class="theme-base-08" >
 
@@ -56,7 +55,7 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="/" title="Home">PapaScott</a>
-            <small>I don't claim to succeed at all this!</small>
+            <small>I like big blogs and I cannot lie! 🐘</small>
           </h3>
         </div>
       </div>
@@ -67,7 +66,7 @@
         <div class="post">
   <h1 class="post-title">Slash My Permalinks</h1>
   <span class="post-date">08 Oct 2004</span>
-  <p>One of the puzzles I needed to solve when <a href="http://www.papascott.de/archives/2004/10/06/new-motor/">switching back to Movable Type</a> was how to keep my permalinks. Actually, most of the permalink was easy, thanks to <a href="http://diveintomark.org/archives/2003/08/15/slugs" title="Cruft-free URLs in Movable Type [dive into mark]">Mark Pilgrim's cruft-free URLs</a>. The problem was the slash at the end. </p>
+  <p>One of the puzzles I needed to solve when <a href="https://www.papascott.de/archives/2004/10/06/new-motor/">switching back to Movable Type</a> was how to keep my permalinks. Actually, most of the permalink was easy, thanks to <a href="http://diveintomark.org/archives/2003/08/15/slugs" title="Cruft-free URLs in Movable Type [dive into mark]">Mark Pilgrim's cruft-free URLs</a>. The problem was the slash at the end. </p>
 <p>I've forgotten where, but somewhere I read that cool links end with a slash, since the URI is then a directory and it doesn't matter what filetype (if there is indeed a file at all) contains the page, the URI won't change. However, MT doesn't differentiate between the permalink and the filename that it saves. If you try to set MTEntryPermalink to a directory, MT tries to write to the directory instead of a file, which of course fails.</p>
 <p>One approach is to set MTEntryPermalink to blah-blah/index.html, and write a one-line <a href="http://www.movabletype.org/docs/mtmanual_programmatic.html#plugins" title="add_global_filter(slashify=&gt;sub{my $s=$_[0];$s=~s!index.[\w]*$!!g;$s;});">global filter plugin</a> to delete the filename from every instance of MTEntryPermalink in all templates. I tried it, but it's a pain to add an attribute to all those instances, and the trackback data was still wrong.</p>
 <p>A better approach is <a href="http://www.dribin.org/dave/blog/archives/2003/09/24/permalink_urls/" title="Dave Dribin's blog: Fixing Movable Type's Permalink URLs">Dave Dribin's patch to MT.pm</a> so you can set MTEntryPermalink to a directory, and have MT save the template to a file index.html (or index.whatever). That's what I'm doing now, but of course the problem with a patch is that it's a patch, and you have to remember to re-apply it when MT 4.0 or 3.2 or 3.112384 is released. But maybe the same thing can be accomplished with the new plugin architecture in MT3. Stay tuned.</p>
@@ -94,7 +93,7 @@
 if(location.hostname.match('papascott')){
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var disqus_shortname = 'papascott'; // required: replace example with your forum shortname
-  var disqus_identifier = "/archives/2004/10/08/slash-my-permalinks/";
+  /* var disqus_identifier = "/archives/2004/10/08/slash-my-permalinks/"; */
 
   /* * * DON'T EDIT BELOW THIS LINE * * */
   (function() {
@@ -106,6 +105,7 @@ if(location.hostname.match('papascott')){
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 
       </div>
     </div>

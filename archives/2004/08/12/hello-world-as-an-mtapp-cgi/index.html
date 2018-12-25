@@ -2,7 +2,7 @@
 <html lang="en-us">
 
   <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <link href="https://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -11,7 +11,7 @@
 
   <title>
     
-      Hello World as an MT::App CGI &middot; PapaScott
+    Hello World as an MT::App CGI &middot; PapaScott
     
   </title>
 
@@ -32,7 +32,6 @@
   
 
 </head>
-
 
   <body class="theme-base-08" >
 
@@ -56,7 +55,7 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="/" title="Home">PapaScott</a>
-            <small>I don't claim to succeed at all this!</small>
+            <small>I like big blogs and I cannot lie! 🐘</small>
           </h3>
         </div>
       </div>
@@ -83,7 +82,7 @@ my $about = {
   name =&gt; 'MT-Hello',
   config_link =&gt; '../mt-hello.cgi',
   description =&gt; 'Say hello to the world in a unique way.',
-  doc_link =&gt; 'http://www.papascott.de/archives/2004/08/12/hello-world-as-an-mtapp-cgi/'
+  doc_link =&gt; 'https://www.papascott.de/archives/2004/08/12/hello-world-as-an-mtapp-cgi/'
 }; 
 MT-&gt;add_plugin(new MT::Plugin($about));</pre>
 <p>Next comes the CGI itself in <code>MT_DIR/mt-hello.cgi</code>, which does nothing but call my subclass of MT::App. Most plugin CGIs look exactly like this.</p>
@@ -112,7 +111,7 @@ if ($@) {
   print "Content-Type: text/htmlnn";
   print "An error occurred: $@";
 }</pre>
-<p>Now we get to the meat and potatoes in <code>MT_DIR/extlib/shanson/hello.pm</code>, where I say that all I really want my <code>$app</code> to do is print some text. I require a login only so I get a pretty header on the page. <strong>Update:</strong> I've incorporated <a href="http://www.papascott.de/archives/2004/08/12/hello-world-as-an-mtapp-cgi/#comment-1501">Phil Ringalda's suggestions</a>. The sub uri is so the pretty header links back to the proper mt.cgi instead of mt-hello.</p>
+<p>Now we get to the meat and potatoes in <code>MT_DIR/extlib/shanson/hello.pm</code>, where I say that all I really want my <code>$app</code> to do is print some text. I require a login only so I get a pretty header on the page. <strong>Update:</strong> I've incorporated <a href="https://www.papascott.de/archives/2004/08/12/hello-world-as-an-mtapp-cgi/#comment-1501">Phil Ringalda's suggestions</a>. The sub uri is so the pretty header links back to the proper mt.cgi instead of mt-hello.</p>
 <pre>package shanson::hello;
 use strict;
 use MT::App::CMS;
@@ -142,8 +141,8 @@ sub hello {
 Hello, world!
 &lt;tmpl_include NAME="footer.tmpl"&gt;</pre>
 <p>And no description of a web application is complete without a couple of screenshots:</p>
-<p>Main screen:<a href="http://www.papascott.de/wordpress/wp-content/uploads/2004/08/hello_main.gif"><img src="http://www.papascott.de/wordpress/wp-content/uploads/2004/08/hello_mainthumb.gif" alt="Main screen" border="0" /></a></p>
-<p>CGI screen:<a href="http://www.papascott.de/wordpress/wp-content/uploads/2004/08/hello_cgi.gif"><img src="http://www.papascott.de/wordpress/wp-content/uploads/2004/08/hello_cgithumb.gif" alt="CGI screen" border="0" /></a></p>
+<p>Main screen:<a href="https://www.papascott.de/wordpress/wp-content/uploads/2004/08/hello_main.gif"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/08/hello_mainthumb.gif" alt="Main screen" border="0" /></a></p>
+<p>CGI screen:<a href="https://www.papascott.de/wordpress/wp-content/uploads/2004/08/hello_cgi.gif"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/08/hello_cgithumb.gif" alt="CGI screen" border="0" /></a></p>
 <p>Now I just have to write a CGI that actually does something, like, ummm, what did I want to do again? Oh yes, set a couple of configuration variables for my plugin.</p>
 <p><strong>Update 28 Oct 2004:</strong> David Jacobs noticed some missing backslashes, which I'm guessing went missing when I reimported all my blog entries into Movable Type. Sorry about that!</p>
 <p><strong>18 Mar 2005</strong> MySQL ate my blackslashes again! Crucial backslashes were missing in <code>$app-&gt;add_methods (hello =&gt; &amp;hello);</code> and <code>$app-&gt;build_page('hello.tmpl', %param);</code>. Thanks to the ProNet mailing list for pointing this out in February and to Nathanial Irons for reminding me that I hadn't yet corrected this page.</p>
@@ -170,7 +169,7 @@ Hello, world!
 if(location.hostname.match('papascott')){
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var disqus_shortname = 'papascott'; // required: replace example with your forum shortname
-  var disqus_identifier = "/archives/2004/08/12/hello-world-as-an-mtapp-cgi/";
+  /* var disqus_identifier = "/archives/2004/08/12/hello-world-as-an-mtapp-cgi/"; */
 
   /* * * DON'T EDIT BELOW THIS LINE * * */
   (function() {
@@ -182,6 +181,7 @@ if(location.hostname.match('papascott')){
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 
       </div>
     </div>

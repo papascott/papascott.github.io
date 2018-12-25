@@ -2,7 +2,7 @@
 <html lang="en-us">
 
   <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <link href="https://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -11,7 +11,7 @@
 
   <title>
     
-      Export from WordPress &middot; PapaScott
+    Export from WordPress &middot; PapaScott
     
   </title>
 
@@ -32,7 +32,6 @@
   
 
 </head>
-
 
   <body class="theme-base-08" >
 
@@ -56,7 +55,7 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="/" title="Home">PapaScott</a>
-            <small>I don't claim to succeed at all this!</small>
+            <small>I like big blogs and I cannot lie! 🐘</small>
           </h3>
         </div>
       </div>
@@ -68,7 +67,7 @@
   <h1 class="post-title">Export from WordPress</h1>
   <span class="post-date">01 Sep 2004</span>
   <p><strong>Update 5 May 2005</strong>: A lot of people seem to be using this script. Since I'm not using WordPress right now, I haven't really been maintaining it. A better alternative might be the <a href="http://epierce.blog.usf.edu/?p=15" title="Eric Pierce: WPexport 0.2">WPexport</a> plugin by Eric Pierce, since, unlike me, he regularly exports WordPress blogs (for students at the University of South Florida).</p>
-<p>To <a href="http://www.intertwingly.net/blog/2004/06/15/Archive-Restore">paraphrase Sam Ruby</a>, a weblog software is only as good as its export function. So <a href="http://weblog.burningbird.net/archives/2004/08/26/exit-door/">inspired</a> <a href="http://weblog.burningbird.net/archives/2004/08/22/mt-and-wp-there-and-back-again/">by</a> Shelley, starting from a <a href="http://www.billgrady.com/mt/archives/000064.php">b2 export script by Bill Grady</a>, and to <a href="http://www.sixapart.com/log/2004/08/launched_movabl.shtml">celebrate the release of Movable Type 3.1</a>, I've just made WordPress a hell of a lot better. I humbly present Version 0.1 of an <a href="http://www.papascott.de/examples/export_wp.phps">export script for WordPress</a> for the Movable Type import format.</p>
+<p>To <a href="http://www.intertwingly.net/blog/2004/06/15/Archive-Restore">paraphrase Sam Ruby</a>, a weblog software is only as good as its export function. So <a href="http://weblog.burningbird.net/archives/2004/08/26/exit-door/">inspired</a> <a href="http://weblog.burningbird.net/archives/2004/08/22/mt-and-wp-there-and-back-again/">by</a> Shelley, starting from a <a href="http://www.billgrady.com/mt/archives/000064.php">b2 export script by Bill Grady</a>, and to <a href="http://www.sixapart.com/log/2004/08/launched_movabl.shtml">celebrate the release of Movable Type 3.1</a>, I've just made WordPress a hell of a lot better. I humbly present Version 0.1 of an <a href="https://www.papascott.de/examples/export_wp.phps">export script for WordPress</a> for the Movable Type import format.</p>
 <p>A few caveats, apart from the usual it-works-for-me, your-mileage-may-vary and backup-your-data-first. </p>
 <p>1. It does not deal (yet) with entries with multiple categories. I don't use multiple categories, so I don't need this, but it could be done by adding yet another JOIN statement to the SQL and some fiddling with the output logic.<br />
 2. There are a few settings that I've chosen not to read from WordPress, but instead to set explicitly in the script. If you look in the print_post function, you'll see<br />
@@ -105,7 +104,7 @@ echo ("ALLOW PINGS: 0&#47;n");</code><br />
 if(location.hostname.match('papascott')){
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var disqus_shortname = 'papascott'; // required: replace example with your forum shortname
-  var disqus_identifier = "/archives/2004/09/01/export-from-wordpress/";
+  /* var disqus_identifier = "/archives/2004/09/01/export-from-wordpress/"; */
 
   /* * * DON'T EDIT BELOW THIS LINE * * */
   (function() {
@@ -117,6 +116,7 @@ if(location.hostname.match('papascott')){
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 
       </div>
     </div>

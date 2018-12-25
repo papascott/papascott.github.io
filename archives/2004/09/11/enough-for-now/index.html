@@ -2,7 +2,7 @@
 <html lang="en-us">
 
   <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <link href="https://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -11,7 +11,7 @@
 
   <title>
     
-      Enough For Now &middot; PapaScott
+    Enough For Now &middot; PapaScott
     
   </title>
 
@@ -32,7 +32,6 @@
   
 
 </head>
-
 
   <body class="theme-base-08" >
 
@@ -56,7 +55,7 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="/" title="Home">PapaScott</a>
-            <small>I don't claim to succeed at all this!</small>
+            <small>I like big blogs and I cannot lie! 🐘</small>
           </h3>
         </div>
       </div>
@@ -67,7 +66,7 @@
         <div class="post">
   <h1 class="post-title">Enough For Now</h1>
   <span class="post-date">11 Sep 2004</span>
-  <p>That's enough of the <a href="http://www.papascott.de/bl.php">Bloglines layout</a> for now. It might come back some day, though. I find the layout very functional, and I may work out actual templates with a sidebar and more weblog-like features.</p>
+  <p>That's enough of the <a href="https://www.papascott.de/bl.php">Bloglines layout</a> for now. It might come back some day, though. I find the layout very functional, and I may work out actual templates with a sidebar and more weblog-like features.</p>
 <p>The trick yesterday was to use wget to get the public copy of my blog from bloglines, insert a &lt;base href...&gt; in the html header so the relative links worked correctly, and add bl.php to the beginning of the DirectoryIndex line in my .htaccess to make it the default page. </p>
 <p>This was all powered by an hourly cron job, since bloglines reads my blog only once per hour. It's not a script, but a one-liner with sed. If I put the long bloglines URL into a tinyurl, it looks like:</p>
 <p><code>/usr/local/bin/wget -O - 'http://tinyurl.com/5zekr' | sed -e 's/&lt;title&gt;/&lt;base href="http:&#92;/&#92;/www.bloglines.com&#92;/"&gt;&lt;title&gt;PapaScott/' &gt; /usr/local/www/data/bl.php</code></p>
@@ -94,7 +93,7 @@
 if(location.hostname.match('papascott')){
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var disqus_shortname = 'papascott'; // required: replace example with your forum shortname
-  var disqus_identifier = "/archives/2004/09/11/enough-for-now/";
+  /* var disqus_identifier = "/archives/2004/09/11/enough-for-now/"; */
 
   /* * * DON'T EDIT BELOW THIS LINE * * */
   (function() {
@@ -106,6 +105,7 @@ if(location.hostname.match('papascott')){
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 
       </div>
     </div>

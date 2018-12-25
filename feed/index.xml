@@ -2,9 +2,163 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>PapaScott</title>
-		<description>I don't claim to succeed at all this!</description>		
-		<link>http://www.papascott.de</link>
-		<atom:link href="http://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
+		<description>I like big blogs and I cannot lie! 🐘</description>		
+		<link>https://www.papascott.de</link>
+		<atom:link href="https://www.papascott.de/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>The Mystery of the Missing License Plate</title>
+				        
+				
+					<description>&lt;p&gt;Our son got his drivers license in February, and it’s been a life-changer… for him and for us! No more getting up at 6 in the morning to get him to the bus stop (we live in the country so we have to drive to the bus stop, at least the one to get him to his school). No more driving back and forth to the airfield on weekends so he can partake in his chosen hobby. Our side-job as taxi drivers was over.&lt;/p&gt;
+
+&lt;p&gt;Coincidentally (or not) in February I also got a car of my own, so (counting the E-Up as half a car) we have 2-1/2 cars available for 3 drivers. That works out fine. In kind of reverse pecking order, our son usually takes our biggest car (Renault Kadjar, a compact SUV which just barely makes the grade compared to other parents’ vehicles when picking up kids from private school) since he’s usually pulling a trailer with a glider (which he organized for a few months as kind of a time-share). That’s fine, we just have to plan our trips to Ikea for days when the big car is actually here.&lt;/p&gt;
+
+&lt;p&gt;His Abitur exams started in April, so between and after exams he’s been driving off to gliding competitions throughout Lower Saxony for days at a time. They camp out on the airfield, and when a glider has to make a field landing someone has drive out in the field with a trailer to pick them up, so the car gets pretty dirty both inside and out. But after one particular trip the car was not only dirty, but was missing the front license plate.&lt;/p&gt;
+
+&lt;p&gt;Of course our son had no idea what happened. His first thought was cool, we can drive through photo radar traps without being caught! The plate was in a clip-frame, which I noticed was broken in one corner, and not knowing what kind of roads (or non-roads) he was driving I figured the plate had simply shaken loose and fallen off.&lt;/p&gt;
+
+&lt;p&gt;Driving a car with a missing license plate is illegal, of course, so first we had to report the missing plate to the police. The officer was quite nice, and didn’t bat an eye when I said it could have fallen off anywhere between Lüchow, Helmstedt and Porta Westfalica. We would have to apply for new plates, and a new number, since our lovingly chosen number would now be invalid for 5 years. We had a copy of the police report in the glove compartment in case we got pulled over. I even made a fake plate with Magic Marker on cardboard and taped it to the front bumper.&lt;/p&gt;
+
+&lt;p&gt;The car is leased, so we don’t have the original papers. They have to be sent to the DMV by the leasing company which should take 2 or 3 days but actually took 2 weeks. (After one failed trip to the DMV we found out you can call to check if the papers are in without standing in line.) But finally this week after 100€ in costs and a new frame we have a new lovingly chosen number for our Kadjar.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile our son is busy with a 4-week internship at a local metal shop (required for his chosen college major, aerospace engineering), so we have the Kadjar for ourselves. But just the other day, my wife came home with the admission that she had dented the new license plate! But is the frame OK, I asked, since that’s how we lost the old plate! To which our son replied, I know, I broke the frame on the Kadjar back in March, but the frame did hold up for two months after that, didn’t it?&lt;/p&gt;
+
+&lt;p&gt;Which solved the Mystery of the Missing License Plate.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 16 Jun 2018 10:59:31 +0200</pubDate>
+				<link>https://www.papascott.de/archives/2018/06/16/the-case-of-the-missing-license-plate/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2018/06/16/the-case-of-the-missing-license-plate/</guid>
+			</item>
+		
+			<item>
+				<title>Netlify</title>
+				        
+				
+					<description>&lt;p&gt;I didn’t mention it when I moved from&lt;a href=&quot;https://pages.github.com/&quot;&gt; GitHub Pages&lt;/a&gt;, but for the past couple of months this blog has been hosted at &lt;a href=&quot;https://www.netlify.com/&quot;&gt;Netlify&lt;/a&gt;, a platform for building and hosting static websites.&lt;/p&gt;
+
+&lt;p&gt;It works very well with &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt;, the software that generates this blog, and means I no longer need to build the site on my own machine to publish it. I just push my changes to my &lt;a href=&quot;https://github.com/papascott/papascott.github.io&quot;&gt;repository at GitHub&lt;/a&gt;, which Netlify continuously monitors for changes, and the blog it automatically updated, usually within a minute.&lt;/p&gt;
+
+&lt;p&gt;It also offers free one-click managed SSL, a global CDN, and is &lt;a href=&quot;https://www.netlify.com/pricing/&quot;&gt;free for unlimited single-user sites,&lt;/a&gt; whether commercial or personal.&lt;/p&gt;
+
+&lt;p&gt;And combined with &lt;a href=&quot;https://www.netlifycms.org/&quot;&gt;Netlify CMS&lt;/a&gt;, I can edit and post directly from GitHub and don’t need a local jekyll installation at all. But that’s a subject for another post…&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 15 Mar 2018 08:13:18 +0100</pubDate>
+				<link>https://www.papascott.de/archives/2018/03/15/hosting-at-netlify/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2018/03/15/hosting-at-netlify/</guid>
+			</item>
+		
+			<item>
+				<title>Block E</title>
+				        
+				
+					<description>&lt;iframe src=&quot;https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Foldmpls%2Fphotos%2Fa.119636488056535.13615.119633278056856%2F1658991434121025%2F%3Ftype%3D3&amp;amp;width=500&quot; width=&quot;500&quot; height=&quot;613&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I’ve been asked about my profile photo. Wikipedia has this to say about &lt;a href=&quot;https://en.wikipedia.org/wiki/Mayo_Clinic_Square&quot;&gt;Block E&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;After 1950… lower Hennepin Avenue became known as a place for drunks, crime, and prostitution. Block E was the center of the squalor. The 620 Club in 1971 gave way to Moby Dick’s, and became known as one of the city’s most seedy bars. Unsavory establishments, including rough bars, flophouses, and an adult movie theater settled in on Block E in the 1970s and 1980s…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By the 1980s, the block was one of the choice places in Minneapolis for punks to hang out and it became a creative breeding ground for the local punk music scene. Block E was also known for its cheap rent, drawing such establishments as Rifle Sport Gallery. From the mid-1980s forward, the Minneapolis police had a constant presence in the area; it was normal to see squad cars or a police van parked between the northbound traffic lanes and contraflow bus lane.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Block E looked pretty much like this when I started college in Minneapolis in 1980. The owner-operator of the McDonald’s was my wife’s first boss, she  worked at the City Center location across the street.&lt;/p&gt;
+
+&lt;p&gt;Block E was demolished in 1988 and became a parking lot.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 19 Jan 2018 11:47:06 +0100</pubDate>
+				<link>https://www.papascott.de/archives/2018/01/19/block-e/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2018/01/19/block-e/</guid>
+			</item>
+		
+			<item>
+				<title>Hard to Get</title>
+				        
+				
+					<description>&lt;p&gt;You’d think in the current German coalition talks that the SPD could at least &lt;strong&gt;play&lt;/strong&gt; hard to get.&lt;/p&gt;
+
+&lt;p&gt;Now I know German politics is a strange beast, but I would think that the SPD side more has more pull here. The Union is the side that needs desperately to form a coalition with Merkel in charge. The SPD never wanted a new grand coalition (so they claim), you’d think they could take or leave it, and demand a high price to take it.&lt;/p&gt;
+
+&lt;p&gt;Then again, what do I know?&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 17 Jan 2018 11:26:29 +0100</pubDate>
+				<link>https://www.papascott.de/archives/2018/01/17/hard-to-get/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2018/01/17/hard-to-get/</guid>
+			</item>
+		
+			<item>
+				<title>Winter Workshop</title>
+				        
+				
+					<description>&lt;p&gt;How our son spent his Christmas vacation (at least when he wasn’t studying for his preliminary “Vorabi” exams):&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/Bd0XQYgn3ce/&quot; data-instgrm-version=&quot;8&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/Bd0XQYgn3ce/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Winterarbeit Diesen Winter bin ich der Flugzeugbetreuer unseres Astir CS Jeans in Wenzendorf und so hab ich die Gelegenheit genutzt, meine neuerworbenen Fähigkeiten und Kenntnisse als Zellenwart in FVK-Bauweise anzuwenden, indem ich ein neues Lüftungsgitter einlaminiert habe. Es heißt ja &amp;#34;Asche zu Asche, Harz zu Harz&amp;#34; oder so ähnlich 🤔😄 Mit dem Gesamtergebnis bin ich sehr zufrieden und wertet den Harzklumpen mit dem neulackierten I-Brett optisch zu mindestens ein bissel auf :D (Auf dem letzten Bild sieht man das I-Brett in der alten Lacke - so hässlich sah der Rest auch etwa aus) #winter #winterarbeit #flugpause #astir #grob #flugzeugwart #zellenwart #laminieren #harzen #gfk #harz #ichundmeinharz #glasfaser #köpergewebe #segelfliegen #gliding #soaring #segelflugzeug #glider #sailplane #wenzendorf #hfbfluggemeinschaft #lxnav #s80&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A post shared by &lt;a href=&quot;https://www.instagram.com/gliding_aviation/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;&quot; target=&quot;_blank&quot;&gt; Christopher Hanson&lt;/a&gt; (@gliding_aviation) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2018-01-11T17:50:24+00:00&quot;&gt;Jan 11, 2018 at 9:50am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+</description>
+				
+				<pubDate>Fri, 12 Jan 2018 08:29:40 +0100</pubDate>
+				<link>https://www.papascott.de/archives/2018/01/12/winter-workshop/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2018/01/12/winter-workshop/</guid>
+			</item>
+		
+			<item>
+				<title>New Screen Saver</title>
+				        
+				
+					<description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/Bdkuv93HRzz/&quot; data-instgrm-version=&quot;8&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/Bdkuv93HRzz/&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;How stunning is this? A perspective that will never get old... 😍 ___ Photo by @rudanmanuel. If you want your photo to be chosen as #picoftheweek, tag it with #Elbphilharmonie and follow @elbphilharmonie on Instagram.&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;A post shared by &lt;a href=&quot;https://www.instagram.com/elbphilharmonie/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;&quot; target=&quot;_blank&quot;&gt; Elbphilharmonie Hamburg&lt;/a&gt; (@elbphilharmonie) on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2018-01-05T16:07:50+00:00&quot;&gt;Jan 5, 2018 at 8:07am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+</description>
+				
+				<pubDate>Fri, 05 Jan 2018 18:07:46 +0100</pubDate>
+				<link>https://www.papascott.de/archives/2018/01/05/new-screen-saver/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2018/01/05/new-screen-saver/</guid>
+			</item>
+		
+			<item>
+				<title>Spam Filter</title>
+				        
+				
+					<description>&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BdibaGpFw4k/&quot; data-instgrm-version=&quot;8&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BdibaGpFw4k/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Scott Hanson (@papascott62)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2018-01-04T18:40:21+00:00&quot;&gt;Jan 4, 2018 at 10:40am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//platform.instagram.com/en_US/embeds.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;When wiring our addition we also installed an integrated spam filter. I’ve exposed part of it here. Internet comes in through the yellow cable and spam flows out through the tube to the municipal waste water system.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 04 Jan 2018 22:19:45 +0100</pubDate>
+				<link>https://www.papascott.de/archives/2018/01/04/spam-filter/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2018/01/04/spam-filter/</guid>
+			</item>
+		
+			<item>
+				<title>Katchi</title>
+				        
+				
+					<description>&lt;p&gt;It’s time to start blogging again, and I can think of no better way to start than these lyrics from Nick Waterhouse…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Doo wop a doo wop, shoopi doobi doo wop &lt;br /&gt;
+Doo wop a doo wop, shoopi doobi doo wop &lt;br /&gt;
+Doo wop a doo wop, shoopi doobi doo wop &lt;br /&gt;
+Doo wop a doo wop, shoopi doobi doo wop…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although shouldn’t that “shoopi” actually be a “shooby”?&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Ycg5oOSdpPQ&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+				
+				<pubDate>Thu, 04 Jan 2018 10:40:45 +0100</pubDate>
+				<link>https://www.papascott.de/archives/2018/01/04/katchi/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2018/01/04/katchi/</guid>
+			</item>
 		
 			<item>
 				<title>Tee Time For Two</title>
@@ -25,9 +179,9 @@
 &lt;p&gt;And I’m not even looking in my spam folder. I have enough keeping track of my own schedule without having to worry items for total strangers!&lt;/p&gt;
 </description>
 				
-				<pubDate>Sat, 12 Aug 2017 08:39:08 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2017/08/12/tee-time-for-two/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2017/08/12/tee-time-for-two/</guid>
+				<pubDate>Sat, 12 Aug 2017 10:39:08 +0200</pubDate>
+				<link>https://www.papascott.de/archives/2017/08/12/tee-time-for-two/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2017/08/12/tee-time-for-two/</guid>
 			</item>
 		
 			<item>
@@ -38,211 +192,9 @@
 
 </description>
 				
-				<pubDate>Sun, 23 Jul 2017 12:07:20 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2017/07/23/travis-ci/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2017/07/23/travis-ci/</guid>
-			</item>
-		
-			<item>
-				<title>The Future Part 2</title>
-				        
-				
-					<description>&lt;ul class=&quot;photo-gallery&quot;&gt;
-  
-    &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win3.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Kiosks&quot;&gt;
-        &lt;img src=&quot;/assets/gallery/rdz-win3.jpg&quot; alt=&quot;Kiosks&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/li&gt;
-  
-    &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win1.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Front Counter and McCafé&quot;&gt;
-        &lt;img src=&quot;/assets/gallery/rdz-win1.jpg&quot; alt=&quot;Front Counter and McCafé&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/li&gt;
-  
-    &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win2.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;McCafé Lounge with 'Broken' Logo&quot;&gt;
-        &lt;img src=&quot;/assets/gallery/rdz-win2.jpg&quot; alt=&quot;McCafé Lounge with 'Broken' Logo&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/li&gt;
-  
-    &lt;li&gt;
-      &lt;a href=&quot;/assets/gallery/rdz-win4.jpg&quot; data-lightbox=&quot;1&quot; title=&quot;Front Counter&quot;&gt;
-        &lt;img src=&quot;/assets/gallery/rdz-win4.jpg&quot; alt=&quot;Front Counter&quot; /&gt;
-      &lt;/a&gt;
-    &lt;/li&gt;
-  
-&lt;/ul&gt;
-
-&lt;p&gt;Last fall we converted our restaurant in Dibbersen into a &lt;a href=&quot;/archives/2016/11/07/the-future-is-now/&quot;&gt;Restaurant of the Future&lt;/a&gt;. Now we’ve remodeled our Hamburg, Winsener Straße restaurant so now we have doubled the future!&lt;/p&gt;
-
-&lt;p&gt;The lobby here has a more urban theme that fits our gritty part of Hamburg. I was worried it would be too dark, but the spots of color make it look brighter live than it appears in the photos.&lt;/p&gt;
-
-&lt;p&gt;It of course has all the innovations in Dibbersen, plus we now serve “Barista Quality” coffee at the front counter, meaning that the espresso drinks are made with the &lt;a href=&quot;http://www.wmf-espresso.de/index_en.php#coffee-machine-section&quot;&gt;portafilter machine&lt;/a&gt; in McCafé.&lt;/p&gt;
-
-&lt;p&gt;With all this future we need to take time to catch our breaths. Our 3rd drive-thru restaurant on the Autobahn A1 at Rade will join the future in early 2018.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 26 Feb 2017 09:03:24 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2017/02/26/the-future-part-2/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2017/02/26/the-future-part-2/</guid>
-			</item>
-		
-			<item>
-				<title>Song of the Day: I Can't Drive 55</title>
-				        
-				
-					<description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RvV3nn_de2k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt;  &lt;br /&gt;
-This isn’t for me, despite the title, but I’ll take it. :-)&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KUEW9Fr0Xbs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-</description>
-				
-				<pubDate>Thu, 09 Feb 2017 05:37:21 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2017/02/09/song-of-the-day-i-cant-drive-55/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2017/02/09/song-of-the-day-i-cant-drive-55/</guid>
-			</item>
-		
-			<item>
-				<title>The Future Is Now</title>
-				        
-				
-					<description>&lt;p&gt;We were closed 11 days for construction, but now our restaurant in Dibbersen has been opened for 3 days as a “Restaurant of the Future” and so far we are very happy with it!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/rdz-kiosks-061116.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; class=&quot;alignright&quot; /&gt; The first thing you notice as a guest is the brighter, more spacious lobby, as well as the self-service terminals, or kiosks. There you can enter your order and pay by either card or cash. Of course you can still go to the cashier and verbally give your order just as before.&lt;/p&gt;
-
-&lt;p&gt;The second thing you notice is that the cashier does not then go to assemble your order. There is a separate station for that, and you can either go there to pick up your order, or you can choose table service. You pick up a chip, find a table, and thanks to the magic of bluetooth we can find your table and bring your order to you.&lt;/p&gt;
-
-&lt;p&gt;The third thing you notice is that all burgers are made fresh to order. This “Made For You” system has been running for years in the US, but is new in Germany. The heated bin&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; where products could be kept for 10 minutes is now history. Our products are now made one at time instead of an entire tray at a time.&lt;/p&gt;
-
-&lt;p&gt;We were wondering how quickly we could adjust to the new system, but the first 3 days went very well. The kitchen is more organized and less hectic, and even it gets full we can recover quite quickly. In service our people enjoy that they now have time and opportunity to talk to our guests, and with our new look and new system they have plenty to talk about.&lt;/p&gt;
-
-&lt;p&gt;And even I learned enough about the new system that I can help out in the kitchen without messing everything up. :-)&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Funny how in US English a bin is where you put things to keep, but in UK English a bin is where you put things to throw away.&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-				
-				<pubDate>Mon, 07 Nov 2016 06:03:55 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2016/11/07/the-future-is-now/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/11/07/the-future-is-now/</guid>
-			</item>
-		
-			<item>
-				<title>If Clinton Wins</title>
-				        
-				
-					<description>&lt;p&gt;A couple of days ago Dave Winer wrote a piece about &lt;a href=&quot;http://scripting.com/2016/10/30/imOkayWithTrumpWinning.html&quot;&gt;Trump winning&lt;/a&gt;. So what if Clinton wins?&lt;/p&gt;
-
-&lt;p&gt;It will be like the status quo only worse.&lt;/p&gt;
-
-&lt;p&gt;The large group of Trump who feel estranged from the system will still feel estranged. This estrangement is certainly not exclusively American, see Brexit, the &lt;em&gt;Front National&lt;/em&gt;, or the &lt;em&gt;Alternativ für Deutschland&lt;/em&gt;. This group will remain and I doubt that Clinton is the type of leader that can win them back.&lt;/p&gt;
-
-&lt;p&gt;The Republican party will remain dysfunctional, maybe even to the point that no Supreme Court justices will be confirmed at all. Look forward to more standstill and government shutdowns. The “Lock Her Up” faction will not become silent, they’ll probably become louder.&lt;/p&gt;
-
-&lt;p&gt;Abroad, relations with Russia will continue to worsen and the conflicts of the world will continue, with new ones arising.&lt;/p&gt;
-
-&lt;p&gt;All in all, though, we’ll be pretty happy with it, because &lt;em&gt;&lt;a href=&quot;http://scripting.com/2016/10/30/imOkayWithTrumpWinning.html&quot;&gt;it could have been much worse!&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-				
-				<pubDate>Wed, 02 Nov 2016 10:10:52 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2016/11/02/if-clinton-wins/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/11/02/if-clinton-wins/</guid>
-			</item>
-		
-			<item>
-				<title>Expecting</title>
-				        
-				
-					<description>&lt;p&gt;On this All Saints’ Day we are happy and proud to announce that we are expecting!&lt;/p&gt;
-
-&lt;p&gt;Wait, no, that’s not right… damn you auto-correct, we’re too old for that. No, we are happy and proud to announce that we are &lt;em&gt;expanding&lt;/em&gt;, in Hamburg-Harburg!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/phxarc-011116.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On December 1st we will be purchasing the existing McDonald’s restaurants in Phoenix Center and Harburg Arcaden. They are so-called satellites, located in shopping centers with a limited menu and low volume (about 1/3 the sales of a free-standing restaurant).&lt;/p&gt;
-
-&lt;p&gt;We already own the Marktkauf Center satellite in Harburg, and all three stores are just a couple hundred meters apart. Our store manager there will now have her hands full with triplets!&lt;/p&gt;
-
-&lt;p&gt;And as we are right now converting our restaurant in Dibbersen to Restaurant of the Future (re-opening on Friday!) with Winsener Straße to follow in February, Frauke and I have our hands full too! :-)&lt;/p&gt;
-</description>
-				
-				<pubDate>Tue, 01 Nov 2016 09:56:32 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2016/11/01/expecting/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/11/01/expecting/</guid>
-			</item>
-		
-			<item>
-				<title>Done!</title>
-				        
-				
-					<description>&lt;p&gt;It took 10 years to build and is 10 times over budget, but the Hamburg’s new concert hall &lt;a href=&quot;https://www.elbphilharmonie.de/en/elbphilharmonie&quot;&gt;Elbphilharmonie&lt;/a&gt; in the HafenCity is complete. The first concert is in January, but the builders handed it over to the city today.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Live from &lt;a href=&quot;https://twitter.com/hashtag/Hamburg?src=hash&quot;&gt;#Hamburg&lt;/a&gt;: &lt;a href=&quot;https://twitter.com/hashtag/Elbphilharmonie?src=hash&quot;&gt;#Elbphilharmonie&lt;/a&gt; is ready for opening (window lighting reads &amp;#39;DONE&amp;#39; in German: FERTIG) &lt;a href=&quot;https://t.co/l5pLLaBSkS&quot;&gt;pic.twitter.com/l5pLLaBSkS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Thomas Michael G. (@ThomasMichaelGe) &lt;a href=&quot;https://twitter.com/ThomasMichaelGe/status/793127825909878785&quot;&gt;October 31, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;During the day it looks more like this.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;de&quot; dir=&quot;ltr&quot;&gt;Hoffentlich schwindelfrei ;) Fensterputzer an der &lt;a href=&quot;https://twitter.com/hashtag/Elbphilharmonie?src=hash&quot;&gt;#Elbphilharmonie&lt;/a&gt; &lt;a href=&quot;https://t.co/RX3IYSu8XU&quot;&gt;https://t.co/RX3IYSu8XU&lt;/a&gt;&lt;br /&gt;Bild: Marek Santen &lt;a href=&quot;https://t.co/v5Mc6sLJal&quot;&gt;pic.twitter.com/v5Mc6sLJal&lt;/a&gt;&lt;/p&gt;&amp;mdash; hamburg.de (@hamburg_de) &lt;a href=&quot;https://twitter.com/hamburg_de/status/793082218545635328&quot;&gt;October 31, 2016&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-</description>
-				
-				<pubDate>Mon, 31 Oct 2016 17:14:14 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2016/10/31/done/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/10/31/done/</guid>
-			</item>
-		
-			<item>
-				<title>The Stupid Majority</title>
-				        
-				
-					<description>&lt;p&gt;This election is a good reminder of the basic principles of democracy: stupid people vote. Not only that, any democracy is ruled by a stupid majority.&lt;/p&gt;
-
-&lt;p&gt;Think about it. If you believe that you are of above-average intelligence, and who of us doesn’t, then by definition there is a majority of voters more stupid than you. And since stupid people generally don’t recognize their own stupidity, almost every one of us is faced with a stupid majority.&lt;/p&gt;
-
-&lt;p&gt;However, if you are stupid, and you know it, you can rest assured that there is a smart majority out there to make the decisions for you.&lt;/p&gt;
-
-&lt;p&gt;But the average person, of average intelligence, the average person has a great responsibility. They have the deciding vote. They decide whether the majority is smart or stupid. Our fate rests in their hands. May they choose wisely!&lt;/p&gt;
-
-&lt;p&gt;But they can’t. They are only of average intelligence.&lt;/p&gt;
-
-&lt;p&gt;So we are doomed to be ruled by a stupid majority. But that is not altogether a bad thing. All the political systems where only smart people make decisions have failed very badly. It is the stupid people who save us from ourselves.&lt;/p&gt;
-
-&lt;p&gt;(And I bet you thought a post with this title would be about Trump supporters. Or Clinton supporters. Fooled you!)&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 23 Sep 2016 19:23:55 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2016/09/23/the-stupid-majority/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/09/23/the-stupid-majority/</guid>
-			</item>
-		
-			<item>
-				<title>Fifteen Years On</title>
-				        
-				
-					<description>&lt;p&gt;&lt;a href=&quot;http://scripting.com/images/nyTimesHomeBombing7AM2.gif&quot;&gt;&lt;img src=&quot;/assets/nyt-110916.gif&quot; alt=&quot;New York Times Screenshot 9-11-2001 via scripting.com &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This screenshot from &lt;a href=&quot;http://scripting.com/images/nyTimesHomeBombing7AM2.gif&quot;&gt;scripting.com&lt;/a&gt; is pretty much how I first learned the the 9/11 attacks. A low-res picture on a news website from my office in Hamburg. 3 in the afternoon. The next day I was able to put my &lt;a href=&quot;http://www.papascott.de/archives/2001/09/12/the-day-the-earth-stood-still/&quot;&gt;thoughts into words&lt;/a&gt;. More or less.&lt;/p&gt;
-
-&lt;p&gt;And next day came the headline in the Hamburg newspaper &lt;a href=&quot;http://www.papascott.de/archives/2001/09/13/were-in-this-together/&quot;&gt;“Americans! We are with you!”&lt;/a&gt;, and at the same time, the first clue that the attackers came from Hamburg. All I knew then was that my country and world would never be the same again. I was far away, and grateful for the internet where I could at least try to fathom how the country I had left a few years before was changing. Without me.&lt;/p&gt;
-
-&lt;p&gt;And today. My son who &lt;a href=&quot;http://www.papascott.de/archives/2001/09/16/sunday-at-home/&quot;&gt;was an 1 year old then&lt;/a&gt; is now 16, nearly an adult. My country started two wars in revenge that solved nothing, made everything worse, and haven’t really yet ended. Mission not accomplished. The current round of politics and presidential candidates don’t seem to offer much hope of any improvement.&lt;/p&gt;
-
-&lt;p&gt;So I think I’ll just listen to &lt;a href=&quot;http://brucespringsteen.net/albums/the-rising&quot;&gt;The Rising&lt;/a&gt; a couple times through to remind of me of how I felt and how things could have become better. But didn’t.&lt;/p&gt;
-</description>
-				
-				<pubDate>Sun, 11 Sep 2016 19:02:52 +0000</pubDate>
-				<link>http://www.papascott.de/archives/2016/09/11/fifteen-years-on/</link>
-				<guid isPermaLink="true">http://www.papascott.de/archives/2016/09/11/fifteen-years-on/</guid>
+				<pubDate>Sun, 23 Jul 2017 14:07:20 +0200</pubDate>
+				<link>https://www.papascott.de/archives/2017/07/23/travis-ci/</link>
+				<guid isPermaLink="true">https://www.papascott.de/archives/2017/07/23/travis-ci/</guid>
 			</item>
 		
 	</channel>
