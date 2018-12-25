@@ -20,7 +20,7 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/papascott/458505383/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/211/458505383_869cae7c37.jpg" width="500" height="375" alt="IMG_1964" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/458505383/" title="Photo Sharing"><img src="1.static.flickr.com/211/458505383_869cae7c37.jpg" width="500" height="375" alt="IMG_1964" /></a></p>
 <p>As you can see, we've started setting up our business. </p>
 <p>In the upper left you can see the two founders. They are stubborn as donkeys, and have already dressed warm (*haben sich warm angezogen*) in preparation for the tough times ahead. Between them is a crystal ball with a vision of the future.</p>
 <p>To their right is a device for cutting costs. If twisted just right it can also be used to cut corners. On the shelf beneath them we are trying to bring light into the darkness. </p>

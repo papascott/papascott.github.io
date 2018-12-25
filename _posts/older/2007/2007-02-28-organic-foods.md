@@ -20,5 +20,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/papascott/405607265/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/178/405607265_ca466deb83.jpg" width="500" height="375" alt="28022007073" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/405607265/" title="Photo Sharing"><img src="1.static.flickr.com/178/405607265_ca466deb83.jpg" width="500" height="375" alt="28022007073" /></a></p>
 <p>These days *Bio* or organic food is very much in trend in Germany, but this is one item I was happy to see not to be "all natural". Chocolate lamb pellets from the island of Sylt.</p>

@@ -20,5 +20,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/51035717986@N01/2127838175" title="View 'CIMG0410' on Flickr.com"><img src="http://farm3.static.flickr.com/2111/2127838175_9c64d12414.jpg" alt="CIMG0410" border="0" width="500" height="375" /></a></p>
+<p><a href="http://www.flickr.com/photos/51035717986@N01/2127838175" title="View 'CIMG0410' on Flickr.com"><img src="3.static.flickr.com/2111/2127838175_9c64d12414.jpg" alt="CIMG0410" border="0" width="500" height="375" /></a></p>
 <p>Christopher is teaching Mama to play chess this morning.</p>

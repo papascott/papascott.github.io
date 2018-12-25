@@ -20,5 +20,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/51035717986@N01/1804882782" title="View 'CIMG0303.JPG' on Flickr.com"><img src="http://farm3.static.flickr.com/2285/1804882782_f985eeb9be.jpg" alt="CIMG0303.JPG" border="0" width="375" height="500" /></a></p>
+<p><a href="http://www.flickr.com/photos/51035717986@N01/1804882782" title="View 'CIMG0303.JPG' on Flickr.com"><img src="3.static.flickr.com/2285/1804882782_f985eeb9be.jpg" alt="CIMG0303.JPG" border="0" width="375" height="500" /></a></p>
 <p>With the proper tools, we'll have these pumpkins ground to a pulp in no time.</p>

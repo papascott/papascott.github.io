@@ -20,5 +20,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/papascott/917670366/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1304/917670366_1152e8a4e0.jpg" width="500" height="375" alt="IM000563" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/917670366/" title="Photo Sharing"><img src="2.static.flickr.com/1304/917670366_1152e8a4e0.jpg" width="500" height="375" alt="IM000563" /></a></p>
 <p>The first thing we did when we arrived was to give Christopher a proper Minnesota haircut. </p>

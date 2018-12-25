@@ -21,4 +21,4 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/51035717986@N01/3050322133" title="View 'Snowman' on Flickr.com"><img src="http://farm4.static.flickr.com/3225/3050322133_e34c9e8f9a.jpg" alt="Snowman" border="0" width="375" height="500" /></a></p>
+<p><a href="http://www.flickr.com/photos/51035717986@N01/3050322133" title="View 'Snowman' on Flickr.com"><img src="4.static.flickr.com/3225/3050322133_e34c9e8f9a.jpg" alt="Snowman" border="0" width="375" height="500" /></a></p>

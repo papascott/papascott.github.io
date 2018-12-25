@@ -20,5 +20,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/51035717986@N01/2220668240" title="View 'Fwd: Sheriff Christopher' on Flickr.com"><img src="http://farm3.static.flickr.com/2071/2220668240_0639805c06.jpg" alt="Fwd: Sheriff Christopher" border="0" width="375" height="500" /></a></p>
+<p><a href="http://www.flickr.com/photos/51035717986@N01/2220668240" title="View 'Fwd: Sheriff Christopher' on Flickr.com"><img src="3.static.flickr.com/2071/2220668240_0639805c06.jpg" alt="Fwd: Sheriff Christopher" border="0" width="375" height="500" /></a></p>
 <p>Nice to see Christopher is keeping busy while I'm away.</p>

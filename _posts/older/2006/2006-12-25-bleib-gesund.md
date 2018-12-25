@@ -20,5 +20,5 @@ author:
 excerpt: !ruby/object:Hpricot::Doc
   options: {}
 ---
-<p><a href="http://www.flickr.com/photos/papascott/332744642/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/128/332744642_f3a52f2ca6.jpg" width="500" height="361" alt="bleibgesund" /></a></p>
+<p><a href="http://www.flickr.com/photos/papascott/332744642/" title="Photo Sharing"><img src="1.static.flickr.com/128/332744642_f3a52f2ca6.jpg" width="500" height="361" alt="bleibgesund" /></a></p>
 <p>Christopher drew this card for Santa (known in Germany as *Der Weihnachtsmann*): "Christopher wishes that you stay healthy". That wish applies from us to all our readers as well.</p>
