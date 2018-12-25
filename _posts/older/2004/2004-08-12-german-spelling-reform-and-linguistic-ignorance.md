@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Since I'm collecting English links on the German spelling reform, here's another: <a href="http://fistfulofeuros.net/archives/000759.php">A Fistful of Euros: Sprach und Sommertheater - German spelling reform and linguistic ignorance</a></p>

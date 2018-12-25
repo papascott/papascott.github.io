@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/images/smhtree1202.jpg" border="0" alt="Tree Killer" /></p>
 <p>I was hoping to have been able to tell the entire story of harvesting a Christmas tree from our front yard, but alas, our tree stand is too small, so we'll have to wait until Monday to bring the tree inside. </p>

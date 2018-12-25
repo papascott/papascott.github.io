@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Better Living Through Software" href="http://www.netcrucible.com/blog/2002/12/22.html#a264">Josh Allen</a> mentions all the German cars he noticed when visiting China, and <a title="The Scobleizer Weblog" href="http://radio.weblogs.com/0001011/2002/12/22.html#a1928">Scoble</a> comments on it as well. I'm no Asian business expert, but I do pay attention to the news, and can point out a few random facts.</p>
 <p>The <a title="Ostasiatischer Verein e.V." href="http://www.oav.de/index.php3?t=e">German Asia-Pacific Business Association</a> is based in Hamburg and is extremely active developing business contacts in China and elsewhere in Asia. It was founded in 1900. Business relations with China are not a new thing in Germany.</p>

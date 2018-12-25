@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.couchblog.de/couchblog/">Nico</a> recently trashed his Movable Type database. He had a backup, but it was old (from October), so he was missing about 200 entries. Knowing that I had trashed my database once or twice, he asked me for advice. </p>
 <p>200 entries is a bit too much to copy and paste, so I came up with a little perl script to create a <a href="http://www.movabletype.org/docs/mtimport.html">MT import file</a> from the HTML files of his individual entries. It's customized for Nico's template, but it might be a useful starting point for others stuck in the same situation.<br />

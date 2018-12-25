@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <blockquote>
   There is nothing wrong with wanting to make money; that's just not why most people use communication tools.

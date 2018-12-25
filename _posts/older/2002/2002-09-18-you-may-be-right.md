@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I noticed that Brent's weblogs <a href="http://inessential.com/">inessential.com</a> and <a href="http://ranchero.com/">ranchero.com</a> weren't showing up on my blogroll, and asked Brent whether he was still pinging weblogs.com. He replied that he's not (inadvertantly), and that weblogs.com may have outlived its usefulness anyway.</p>
 <p>To paraphrase William Joel, 'you may be right'.  I'm finding a number of sites that I'd like to follow don't ping or ping irregularly, and that a number of pings are false alarms. But is maintaining local copies of 50 RSS feeds over dialup really a better alternative?</p>

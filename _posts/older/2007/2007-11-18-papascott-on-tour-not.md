@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I had really hoped to make it to the <a href="http://www.jbittner.com/germany/2007/08/3rd-whiney-expat-blogger-in-germany.html">Whiney Expat Blogger in Germany Meet-Up</a> in Dresden this weekend. I cleared my own schedule and have the weekend off, but alas my time depends on two other schedules as well. I couldn't leave Christopher alone with Frauke on the weekend our construction starts getting serious, so we agreed that I would stay at home.</p>
 <p>Too bad. I haven't been to Dresden since 1995, and I'm sure a lot has changed since then. And now that they've build the A14 Autobahn between Magdeburg and Dresden, it's a lot easier to get to. Google Maps says it's a 4:20 drive, and Google forgets that Germany has no speed limit.</p>

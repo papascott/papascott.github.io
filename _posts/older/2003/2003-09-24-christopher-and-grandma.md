@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="crh_grandma.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/09/crh_grandma.jpg" width="325" height="244" border="0" /></p>
 <p>They're both ready for bed. Or at least she is.</p>

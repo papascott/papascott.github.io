@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="57% said (Bush's remark) was irresponsible" href="http://www.calpundit.com/archives/001648.html">CalPundit: Bring 'Em On</a></p>

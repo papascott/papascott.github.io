@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/foBRr-wjung" /><embed src="http://www.youtube.com/v/foBRr-wjung" type="application/x-shockwave-flash" width="425" height="350" /></object></p>
 <p>Christopher fishing with Grandpa on his first day in Minnesota (<a href="http://www.youtube.com/watch?v=foBRr-wjung">direct link</a>).</p>

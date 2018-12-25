@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>New Page <a href="http://shanson.editthispage.com/discuss/msgReader$111">Pictures of Christopher</a>: a list of links for those who can't get enough</p>
 <p>John VanDyk, <a href="http://vfih.editthispage.com/2000/01/23">Those dumb farmers</a>: In school, you had the townies and the farm kids. The townies may have had the edge when it came to spelling or math, but the farm kids had the claim to practicality....on the whole, the farm kids had more common sense. <i>Sounds like where I grew up. I was a town kid.</i></p>

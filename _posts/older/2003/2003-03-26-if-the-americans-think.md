@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I know this CNN screenshot is old, but it's been months since Mama (Codename Voldemort, as in she-who-must-not-be-named) has submitted anything for the website, I've posted it just for her. I'm not sure who wrote the accompanying text. I've translated just some of it.</p>
 <p><img alt="cnnmap.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/03/cnnmap.jpg" width="325" height="229" border="0" /></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'the designer of Berkeley Unix' is just 48" href="http://news.com.com/2100-1012_3-5073205.html?tag=fd_top">Co-founder Joy to leave Sun</a></p>

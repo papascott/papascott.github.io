@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This is perl one-liner to strip comments from a text file (found in the documentation for <a href="http://www.openfusion.com.au/labs/mod_auth_tkt/">mod&#95;auth&#95;tkt</a>). I'm posting it here so I can google for "strip comments" when I need it.</p>
 <p><code>perl -ne 'print if /^\s*[^#\s]/'</code></p>

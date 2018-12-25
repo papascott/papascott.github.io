@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Advice to anyone upgrading a Debian box to potato remotely. Open a couple of extra ssh (you're not really using telnet to do this, are you?) sessions in case your main session gets stuck. I didn't, and I got burned! They don't call it unstable for nothing. Watch out for new config formats for bind and exim. </p>
 <p>Too many phone calls and visitors today! All 3 of us are pooped! And I get to start work again tomorrow. Oh joy. And school vacation is over, and there's road construction blocking one of the tubes of the Elbtunnel, so traffic will be even worse than usual for a Monday. Oh double joy.</p>

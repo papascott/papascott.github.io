@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Nest week we start a new remodelling project... the satellite in Marktkauf Center. The design hasn't changed since it opened nearly 8 years ago:</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3444266848" title="View 'Presentation existing' on Flickr.com"><img src="4.static.flickr.com/3566/3444266848_102e3cdeab.jpg" alt="Presentation existing" border="0" width="500" height="354" /></a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="[Süd mit »ü«]" href="http://schockwellenreiter.server-wg.de/blog/2085">Via Der Schockwellenreiter</a>: <a title="Does it work in IE? Should we care?" href="http://www.süddeutsche.de/">http://www.süddeutsche.de</a>, with an umlaut in the URL</p>

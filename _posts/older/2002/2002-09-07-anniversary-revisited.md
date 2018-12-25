@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The anniversary of the Olympic Massacre did not go unnoticed here, as a <a href="http://www.nj.com/newsflash/international/index.ssf?/cgi-free/getstory_ssf.cgi?a0842_BC_Germany-MunichRemembe&&news&newsflash-international">memorial service</a> was held yesterday at Fürstenfeldbruck air base. However  <a href="http://news.bbc.co.uk/1/hi/world/europe/2240455.stm">scheduling</a> the service for Rosh Hashanah wasn't particularly sensitive to the victims' families.</p>

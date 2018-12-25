@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If you bike through our village, you'll see the following warning as you come into to town...</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3597017799" title="View 'Buzzard Attack' on Flickr.com"><img src="https://farm4.static.flickr.com/3661/3597017799_4a69a273ab.jpg" alt="Buzzard Attack" border="0" width="375" height="500" /></a></p>

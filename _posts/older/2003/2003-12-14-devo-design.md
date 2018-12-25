@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If you're observant, you'll have noticed that the design of this site has been simplified (as if it weren't simple before), inspired by recent changes at <a title="Scripting News: 12/11/2003" href="http://archive.scripting.com/2003/12/11#readersAggregatorsLinkblogsAndAnotherApproach">Scripting News</a> and <a title="The Scobleizer Weblog" href="http://scoble.weblogs.com/">Scobleizer</a>. I've integrated the Quick Links into the main blog and simplified the permalinks (junking the 'Posted by Blah Blah Blah' bit). The Quick Links now have permalinks of their own and take comments.<br />
 <!--more--><br />

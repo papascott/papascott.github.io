@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Garret P. Vreeland has some <a href="http://www.dangerousmeta.com/?p=10398">heat beating tips</a> from New Mexico that are applicable to the current German heat wave as well.</p>
 <ol>

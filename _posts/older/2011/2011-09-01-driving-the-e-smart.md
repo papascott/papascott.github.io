@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/5925452164" title="View 'https://farm7.static.flickr.com/6002/5925452164_d61e983360.jpg' on Flickr.com"><img style="float:right;" border="0" alt="https://farm7.static.flickr.com/6002/5925452164_d61e983360.jpg" width="500" src="https://farm7.static.flickr.com/6002/5925452164_d61e983360.jpg" height="375" /></a></p>
 <p>We've had our E-Smart (officially Smart Fortwo Electric Drive Cabriolet) for two months now, long enough to have had some experience with it. In short, we like it even more than we thought we would.</p>

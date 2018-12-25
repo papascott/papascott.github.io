@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Killer app! Killer app!" href="http://philringnalda.com/blog/2004/05/bloglines_worms_its_way_into_mozilla.php">Bloglines extension for Mozilla</a></p>

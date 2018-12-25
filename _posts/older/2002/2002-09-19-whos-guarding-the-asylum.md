@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Let's scroll down the stories this evening at <a href="http://www.spiegel.de/">Spiegel Online...</a></p>
 <p><a href="http://www.spiegel.de/politik/debatte/0,1518,214836,00.html">Top story</a>. Edmund Stoiber, answering a question from the audience in a TV interview. saied that as Chancellor he wouldn't allow use of American bases in Germany for a unilateral US attack on Iraq. Either he left his brain in the make-up room, or he's decided to out-Schröder Schröder, who has been careful not even to hint denying German airspace to US forces.</p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Dave Winer wants us to <a href="http://subhonker2.userland.com/weblogMonitor/categories">classify</a> ourselves by <a href="http://subhonker2.userland.com/weblogMonitor/categories/Geography">geography</a>. "Where is Lüllau?" </p>
 <p>Here's the first step:</p>

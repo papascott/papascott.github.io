@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://news.bbc.co.uk/2/hi/europe/3791965.stm">BBC: German 'bomb blast' injures many</a> Cologne Turkish neighborhood of Mülheim, thousands of nails found at scene, at least 17 injured</p>

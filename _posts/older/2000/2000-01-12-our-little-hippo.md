@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/crh0112.jpg" height="400" width="300" border="0" alt="crh0112.jpg: " /></p>
 <p>We've started calling Christopher our "Nilpferd" (Hippopatomus, but it sounds better in German) because of all the interesting sounds he makes. The grunts, snorts and wheezes sound mostly happy.</p>

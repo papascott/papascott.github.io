@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>More bilingualism: Today we'd say "Auto" to Christopher, and he'd answer sometimes with "car". And sometimes with "Auto". And sometimes he'd just laugh. (Maybe we should try out the official German word for car: <a href="http://www-zr.statistik-bund.de/zeitreih/def/def0918.htm">Personenkraftwagen</a>.)</p>
 <p><a href="http://www.2020hindsight.org/2001/10/02.html">"Won't cat lovers revolt? Act now!"</a> and more palindromes today at <a href="http://www.2020hindsight.org/">2020 Hindsight</a>.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><i>It took me a long time to start writing this story. Participating in the birth was more difficult psychologically than I ever imagined. I saw my wife suffering so badly at a fairly early stage of labor, and I knew the pain would only get worse before it would get better. I had no idea how to comfort her, much less how to deal with it myself!</i></p>
 <p>With Mama due on the 27th, we made sure not to make any fixed plans<br />

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.onezblog.de/item/250">Soeren asked me</a> what I would consider the best albums of all time or most important to me. I decided both "best" and "important" were uninteresting (and <a href="http://www.rollingstone.com/500albums">best</a> has already been done). I decided to list "favorite" instead, albums I like and listen to, even though they may not be the best, and maybe next week my list would be different. I did limit myself to one pick per artist. In order:</p>
 <ul>

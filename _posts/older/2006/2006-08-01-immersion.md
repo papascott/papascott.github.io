@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're getting ready for our trip to the States, and given that it was 103°F (with humidity to match) at the lake on Sunday (where it's supposed to be cooler than in town), we'll be packing very light. Good thing the weather broke on Monday... it should be down to 85°F by the time we're there.</p>
 <p>I'm wondering whether this would be a good time to start speaking English with Christopher again. When Christopher was born, we tried splitting languages with him, MamaMaus speaking German, I speaking English, but I must admit I was not very consistent. We've spoken German at home since we came to Germany (at first to help me learn German) that I had a hard time switching back and forth, especially with a child too young to answer back. Then Christopher's speech problems emerged, and we (I) got gun-shy and stopped English altogether.</p>

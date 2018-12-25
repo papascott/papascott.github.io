@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Twins pitcher and Minnesota native Pat Neshek has been keeping a <a href="http://patneshek.com/">weblog</a> since he was in the minors. It's now spring training and Pat will be starting his second full year in the major leagues. The Twins now figure that Pat is well known enough to star in his own <a href="http://www.youtube.com/watch?v=Fv6pYVNxJQI">TV ad</a> for the team. Well, maybe he's not as well known as they thought...</p>
 <p><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/Fv6pYVNxJQI&hl=en" /><param name="wmode" value="transparent" /><embed src="http://www.youtube.com/v/Fv6pYVNxJQI&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p>

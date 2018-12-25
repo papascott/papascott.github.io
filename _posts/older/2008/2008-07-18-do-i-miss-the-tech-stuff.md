@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>While chatting via email with Shelley, one of my <a href="http://burningbird.net/">favorite bloggers</a>, she asked first about the business and then about me...</p>
 <p>"Do you ever miss the tech stuff?"</p>

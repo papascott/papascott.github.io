@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><font color="#006600">Rock, rock, Rocaway Beach<br />
 Rock, rock, Rockaway Beach<br />

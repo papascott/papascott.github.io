@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="CNN.com Election 2004 - U.S. President" href="http://www.cnn.com/ELECTION/2004/pages/results/president/"><img alt="cnnturkey.gif" src="https://www.papascott.de/archives/fotos/cnnturkey.gif" width="327" height="243" border="0" /></a></p>
 <p>What's CNN trying to tell me here? That the turkey won?</p>

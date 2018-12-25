@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After running 5K in the Buchholzer Stadtlauf last year, MamaMaus has been looking forward to running 10K this year. The big race was today, her firm was a main sponsor and she started together with a dozen colleagues. The weather was warm, but a a breeze kept things from getting too hot.</p>
 <p><a href="http://www.flickr.com/photos/papascott/179975788/" title="Photo Sharing"><img src="https://static.flickr.com/75/179975788_90da32fd62.jpg" width="500" height="375" alt="IMG 1535" /></a></p>

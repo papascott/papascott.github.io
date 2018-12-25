@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Mama's company car was recalled by BMW" href="https://www.papascott.de/2003/11/29/2726.php">Mystery of the Registered Letter solved</a></p>

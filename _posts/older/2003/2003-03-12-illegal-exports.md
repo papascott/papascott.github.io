@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Amiland" href="http://amiland.blogspot.com/2003_03_09_amiland_archive.html#90560880">Amiland</a> cites a <a href="http://www.welt.de/data/2003/03/12/51035.html">story</a>  from <em>Die Welt</em> on illegal exports by German firms to Iraq. But he draws the wrong conclusion. This does not support the den Beste <a href="http://denbeste.nu/cd_log_entries/2003/01/Supposetherewastreachery.shtml">speculation</a> that covering up illegal exports might be a motive for  German opposition to the war.</p>
 <p>The dozens of cases of illegal exports have been uncovered by German prosecutors. If the German government is trying to cover up these exports, why haven't the prosecutors been muzzled. They are, after all, very sensitive to political pressure, as was shown in the case of Helmut Kohl and the "black suitcase". </p>

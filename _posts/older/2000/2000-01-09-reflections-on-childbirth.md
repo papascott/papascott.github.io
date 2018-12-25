@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><i>An article in progress</i></p>
 <p>In the moment that Christopher was given to my wife, time seemed to stand still. I'm sure that there must have been a lot of activity in the delivery room, after the cord was cut, the placenta was expelled and examined, and the episiotomy was sewn shut. I don't remember much of that. I just remember holding as best I could my wife and Christopher.</p>

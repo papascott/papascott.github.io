@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>To push the launch of the new breakfast, our McDonald's North German region held a contest over the past 2 months for all 225 restaurants in northern Germany. Cash awards were given in three categories</p>
 <p>* Top 10 stores with the best breakfast sales increase<br />

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/114771320/" title="Photo Sharing"><img src="https://static.flickr.com/48/114771320_dd01bb48c8.jpg" width="375" height="500" alt="pixoh_8mo4s3otl" /></a></p>
 <p>Christopher and I went to see the new film <a href="http://www.german-cinema.de/archive/film_view.php?film_id=1377">The Robber Hotzenplotz</a> today, and now he has a new role model.</p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>You know the weather's cold when the best thing you can say about is <a href="http://accordionguy.blogware.com/blog/_archives/2007/2/9/2721696.html">"it could be worse, we could be in Winnipeg"</a>. Or when you can point out the little used fact that "-40 is where the Celsius and Fahrenheit scales meet".</p>
 <p>Considering that cities have a <a href="http://en.wikipedia.org/wiki/Heat_island">heat island</a> that raises the temperature by about 5°C, it's even colder than it sounds. The coldest I've experienced was -31°F on a sunny day in Minneapolis. (Minnesotans often brag about the wind chill, but I'm talking about actual temperature.)</p>

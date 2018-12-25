@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today was an extra day home with Christopher.  I was able to get some work done, mostly because I was up at 5 and Christopher slept in until 10:30.</p>
 <p>Today was also Mama's meeting with her new Überboss, the meeting she has been preparing for the past three weeks. She thought that he would have doubts about putting a young mother in a position of responsibility, but the meeting went well. And all the signals she is receiving this week are positive. And, most importantly, she wants the responsibility and is confident that she can handle it.</p>

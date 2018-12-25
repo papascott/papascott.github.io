@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Some blogs (<a title="BuzzMachine... by Jeff Jarvis" href="http://www.buzzmachine.com/archives/2003_04.html#003598">BuzzMachine</a>, <a title="The Command Post - Iraq - German PM Schröder regrets words that hit U.S.-German ties" href="http://www.command-post.org/archives/005913.html">The Command Post</a>, <a title="USS Clueless - Schroeder apologizes" href="http://denbeste.nu/cd_log_entries/2003/04/Schroederapologizes.shtml">USS Clueless</a>) have cited a <a href="http://abcnews.go.com/wire/World/reuters20030419_155.html" title="Schroeder Regrets Words That Hit U.S.-German Ties">Reuters report</a> of a <a title="Kanzler: 'Dann lasst uns streiten!' - DER SPIEGEL - SPIEGEL ONLINE" href="http://www.spiegel.de/spiegel/0,1518,245358,00.html">Spiegel interview</a>. The Reuters article reports that the interview "is the furthest Schroeder has gone in trying to mend fences with the U.S.":</p>
 <blockquote><p>"I deeply regret there were exaggerated comments -- also from cabinet members of my previous government," Schroeder told Der Spiegel magazine when asked if there were "grounds for self-criticism" for damage he caused to U.S.-German relations.<br />

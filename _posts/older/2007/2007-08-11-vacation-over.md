@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher and I arrived home yesterday after two weeks in Minnesota.</p>
 <p>* I only gained two pounds after two weeks of American food and relative inactivity. I was thrilled to be able to buy size 36 pants from Lands End after years of wearing size 38.</p>

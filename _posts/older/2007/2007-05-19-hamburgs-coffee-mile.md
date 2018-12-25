@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today's Abendblatt has an article on <a href="http://www.abendblatt.de/daten/2007/05/19/742340.html">Hamburg's Coffee Mile</a> on Grindelalle near the University, where 18 coffee shops are located on a 700 meter stretch. None of them are Starbucks. (None of them is a McCafé, either.)</p>
 <p>The largest shop seems to be <a href="http://www.balzaccoffee.com/">Balzac Coffee</a>, which has 15 coffee shops in Hamburg, and according the Abendblatt they are planning on opening 15 more this year. Vanessa Kullmann, the founder of Balzac, has just written a book <a href="http://www.amazon.de/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.de%2Fdp%2F3453131118%2F&amp;site-redirect=de&amp;tag=papascott-21&amp;linkCode=ur2&amp;camp=1638&amp;creative=6742">"Keine große Sache"</a> telling how she started up. MamaMaus received it as a gift as an inspiration for her new business.</p>

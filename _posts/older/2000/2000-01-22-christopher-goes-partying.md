@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/crh0122.jpg" height="400" width="300" border="0" alt="crh0122.jpg: " /></p>
 <p>Note the wardrobe composed in primary colors so that color-blind Papa can recognize his son's clothes.</p>

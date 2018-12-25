@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Back in April 2002, I converted my Manila weblog at editthispage.com to Movable Type using XML files exported from Manila and a simple Perl script (using XML::Twig).</p>
 <p>This month (2 weeks <em>before</em> the weblogs.com outage), Susan Kitchens found my old script and asked me about converting her Manila site <a href="http://www.2020hindsight.org">http://www.2020hindsight.org</a> (after she had painstakingly extracted her site into XML). I thought that the <a href="http://www.movabletype.org/docs/mtimport.html">Movable Type Import Format</a> would be a good target, since it can be imported into many different weblogging systems.</p>

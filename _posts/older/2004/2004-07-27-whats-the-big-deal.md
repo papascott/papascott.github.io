@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Matthew asks <a href="http://www.silent-penguin.com/archives/001900.html" title="The Silent Penguin: DNC - more than just Kerry?">What's the big deal about the Democratic convention?</a> "I mean Kerry is set to be nominated, so that would take like half an hour. Then they could release the balloons, have a speech and be back on the road by midday.What else?"</p>
 <p>Well, technically the convention is like a German <em>Parteitag</em>, with delegates voting on personel, resolutions and positions for the campaign. But in reality it's a scripted media circus... but it's an important circus nonetheless. Being able to put on a good circus is an essential quality for a president. For 4 days the Democrats have the party have the media stage to themselves and on their terms. Americans have had 4 years to form an impression of the incumbant, but only a few months to get to know the challenger. If he can't make a good impression now, he never will.</p>

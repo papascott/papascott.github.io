@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://aycu14.webshots.com/image/5573/2003730079647446857_rs.jpg"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/11/bild_hamburg_page_6.jpg" alt="bild hamburg page 6" title="Bild Hamburg Page 6" align="right" /></a> Continuing her <a href="https://www.papascott.de/archives/2006/11/16/mama-in-the-news/">series of mentions in the media</a>, MamaMaus has made it to the pages of today's Bild Zeitung (Hamburg Edition). In a list of companies with job openings in Hamburg, <a href="http://aycu14.webshots.com/image/5573/2003730079647446857_rs.jpg">her photo is in the top row</a>... and she has the most jobs to offer.</p>

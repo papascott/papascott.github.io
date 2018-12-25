@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We've returned from our getaway on Tegernsee, which seems to be the Munich equivalent of the Alster, with the same high real estate prices, except that it's outside the city, not right in it. Very poor traffic planning, there were always traffic jams. Lots of private clinics though. It must be the dream of every German doctor to open a private clinic on Tegernsee.</p>
 <p>This is the first time I've spent any time in Bavaria (outside of Munich, which according to the Munichers I know is not part of Bavaria at all, despite being the Bavarian capital). Maybe it's just the north German prejudices that I've picked up, but it didn't feel very German at all. It felt more like Austria.</p>

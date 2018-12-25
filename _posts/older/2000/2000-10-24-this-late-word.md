@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher's fever is gone. His appetite his back but not yet normal. The doctors are concerned with his blood gas... it's too alkaline, but may not be directly related to the pneumonia. They're taking urine samples to check his kidney function.</p>
 <p>No word yet on when he might be able to come home. They said 10 days when he was admitted, so that means next Tuesday.</p>

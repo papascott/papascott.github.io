@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/images/crhmama1102.jpg" border="0" alt="Christopher and Mama shopping on ebay" title="Christopher and Mama shopping on ebay" /></p>

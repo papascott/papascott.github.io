@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Are we about to see Ryan Soft?" href="http://www.oreillynet.com/pub/wlg/3579">Open Source Flying</a></p>

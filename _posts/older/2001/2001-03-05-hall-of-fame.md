@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My folks sent an E-Mail from Florida via my cousin, who "joined us on Friday just in time to go to the Twins game.  They lost,<br />
 but Kirby was there and was recognized for being in the Baseball Hall Of Fame." Whoa. We we no idea. We were preoccupied with Christopher in January, and the news didn't make the German Tagesschau. 17 Jan 2001, CNNSI: <a href="http://sportsillustrated.cnn.com/baseball/mlb/news/2001/01/17/hall_puckett_ap/">Puckett gets highest honor in the game he loves</a>.</p>

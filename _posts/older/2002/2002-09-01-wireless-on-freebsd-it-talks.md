@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After <a href="https://www.papascott.de/2002/06/23/1781.php#001781">being</a> very <a href="https://www.papascott.de/2002/07/08/1798.php#001798">frustrated</a> trying getting WiFi to work with a FreeBSD notebook and my Linux router a few weeks ago, yesterday I decided to try it again, being unhappy with the difficulty of Mandrake current and last week half-heartedly installing Debian.</p>
 <p>The trick was that there is no trick. Even though the Linux router is not a an access point, it's not in demo adhoc mode, but rather in IBSS mode. The FreeBSD defaults for the <a href="http://www.freebsd.org/cgi/man.cgi?query=wi&amp;apropos=0&amp;sektion=0&amp;manpath=FreeBSD+4.6-RELEASE&amp;format=html">wi </a> device work out of the box. I set the network name and off she goes.</p>

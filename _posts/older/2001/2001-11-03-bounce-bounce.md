@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This will be a loud and busy weekend, since we are having parquet flooring installed in the living room. Canadian maple. First we have to clear out the toys and furniture.</p>
 <p>I don't have time to write up a description this evening, but here is my adaption of Adam Curry's blogrolling macro: <a href="http://shanson.editthispage.com/stories/storyReader$778">Blogrolling with PHP alone</a></p>

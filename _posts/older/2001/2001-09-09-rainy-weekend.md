@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It's been raining cats and dogs all weekend. Must have been fun in Hamburg with 150,000 people out for the Schlager Move (a 70's revival version of the Love Parade) and the open air (open mud?) concert by Depeche Mode (an 80's revival version of, er, Depeche Mode).</p>
 <p>Has anyone thought of putting the <a href="http://static.userland.com/weblogMonitor/">XML data</a> for <a href="http://www.weblogs.com">weblogs.com</a> into a SQL database?</p>

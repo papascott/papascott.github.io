@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher woke us up at 2am, thirsty and with fever. He's been healthy for so long (except while we were in Minnesota; in Germany he hasn't missed any daycare in over a year), we've almost forgotten what it's like for him to be sick. For the first time, he wanted to come to our bed. We let him fall asleep there, then brought him back down. We don't want to start anything.  </p>
 <p>Of course, by the time I got back to sleep it was time to get up already, so I could have just as well skipped it.</p>

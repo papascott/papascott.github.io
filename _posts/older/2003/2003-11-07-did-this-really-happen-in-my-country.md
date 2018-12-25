@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Pay particular attention to the way the NYPD and INS treats people." href="http://iowa.weblogger.com/2003/11/07">Did this really happen in my country?</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>For those keeping score of Christopher's accomplishments, he's now able to crawl up a complete flight of stairs. I'm not sure if he can crawl all the way down yet; he did manage half a staircase crawling backwards. This is all, of course, under close adult supervision. </p>
 <p>I'm under the weather with a cold and sore throat, and rather than fight it I got a yellow slip from the doctor to stay home from work until Thursday. Mama is out-of-town until late tomorrow, though, and the yellow slip doesn't excuse me from Christopher duty mornings and evenings.</p>

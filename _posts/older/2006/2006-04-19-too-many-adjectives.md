@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If you've been in Germany too long, sometimes you forget to notice the problems that the mainstream German press has reporting about race. <a href="http://raskal.typepad.com/raskal_trippin/2006/04/who_ist_deutsch.html" title="raskal trippin: Ernyas M. / Hatun S&uuml;r&uuml;c&uuml;">raskal trippin</a> noted the reporting on <a href="http://www.dw-world.de/dw/article/0,2144,1972821,00.html" title="German Man Close to Death After Racist Attack | Germany | Deutsche Welle | 18.04.2006">a racist beating</a> in Potsdam.</p>
 <blockquote><p>from the 4 sentence description on the news in Brandenburg (Berliner Zeitung):<br />

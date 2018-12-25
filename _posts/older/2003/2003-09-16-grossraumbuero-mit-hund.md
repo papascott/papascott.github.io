@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Heiko bei Lyssa" href="http://lyssaslounge.diaryland.com/030915_36.html">Großraumbüro mit Hund</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It turned out the <a href="https://www.papascott.de/archives/2005/08/09/bad-tickets/" title="PapaScott &raquo; Blog Archive &raquo; Bad Tickets">luxury lounge HSV tickets</a> for the match against Bayern weren't so bad after all. We did have seats outside, so we didn't have to stay in the lounge. And the home team <a href="http://sportsillustrated.cnn.com/2005/soccer/wires/09/24/2080.ap.eu.spt.soc.german.roundup/index.html" title="SI.com - Hamburg ends Bayern's record streak with 2-0 win">ended up winning</a>, beating Bayern for the first time since 1996.</p>
 <p>It was my first HSV match <a href="https://www.papascott.de/archives/2004/11/25/monkey-noises/">since 1990</a>. I was very impressed by the atmosphere in the AOL Arena this time, and I'll probably go again (even without the luxury business lounge).</p>

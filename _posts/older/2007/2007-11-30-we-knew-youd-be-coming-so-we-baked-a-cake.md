@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/11/mccafe-gutschein.jpg" alt="mccafe_gutschein.jpg" border="0" width="403" height="275" /></p>
 <p>A coupon for a free piece of apple or cherry-yoghurt cake with purchase of a tall cappuccino good until 31 January. </p>

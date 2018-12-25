@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In December, the clock seems to be running at double-time, as if the year were trying to make up for time lost during the dog days of summer. Is it possible to have a moment for oneself? Or is every free minute already booked until next year?</p>
 <p>Unlike <a href="http://andrea.editthispage.com/2000/12/11">Andrea</a>, we've managed to avoid having to shop on an Advent Saturday (which the German equivalent of 'hell on earth'). Well, almost. Mama was convinced that I needed a new suit for her company Christmas party next weekend (her first formal appearance after maternity leave, although she officially starts on January 2). My main criteria in choosing a profession was to avoid wearing suits. I hate buying clothes, but it's even worse to discuss or even argue about buying clothes, so I kept my mouth shut (well, nearly shut) and went along with Mama and Christopher to Hamburg early on Saturday.</p>

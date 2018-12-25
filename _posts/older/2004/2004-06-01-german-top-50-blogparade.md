@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The Germano-blogo-philes in the audience might be interested in the <a href="http://www.m-e-x.de/blog/archive/001909.html">German Blogparade</a> that <a href="http://www.m-e-x.de/blog/">M-E-X</a> has extracted from <a href="http://www.technorati.com/">Technorati</a>. You'll probably find something new.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Zen master versus the engineer" href="http://www.docuverse.com/blog/donpark/2003/07/03.html#a676">Don Park: Filters in News Aggregators</a></p>

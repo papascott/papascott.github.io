@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Congratulations to Dave, <a href="http://www.oeskovic.com/index.php?m=200501#335" title="Daily Dose of Dave">newly employed expat blogger</a> in Hamburg!</p>

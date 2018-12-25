@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Noon</b><br />
 Christopher has a fat lip. He slipped from the couch and landed with his lip on the corner of Mama's old doll house. There was some blood at first as two teeth cut into his lip, but he's eating and drinking just fine. He just looks like a battered boxer.</p>

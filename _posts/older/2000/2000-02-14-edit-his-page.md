@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It's Valentine's Day. Mama and I just remembered... we first noticed each another 20 years ago today! (Actually, it was the first or second weekend in February 1980, which would be the 3rd or the 10th. But Valentine's Day is easier to remember.) It was a gathering of <a href="http://www.afs.org">AFS</a> exchange students. I had just returned from Brazil, she was spending a year in Minnesota.</p>
 <p>Wired: <a href="http://www.wired.com/news/business/0,1367,34308,00.html"><br />

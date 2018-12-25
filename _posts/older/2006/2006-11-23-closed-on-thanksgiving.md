@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If there's one thing you can say that applies to all Americans, it's that you can't say anything that applies to all Americans.</p>
 <p>Today is Thanksgiving in the States, but it's not a holiday that I particularly miss. Yes, as a child we celebrated Thanksgiving with a turkey dinner like everyone does, and no, I had no particularly traumatic experiences associated with Thanksgiving. But for me, Christmas was always the highlight of the year. Thanksgiving was more of a <abbr title="White Anglo-Saxon Protestant">WASP</abbr> thing, and as Scandinavians, we came a couple of centuries late to the party.</p>

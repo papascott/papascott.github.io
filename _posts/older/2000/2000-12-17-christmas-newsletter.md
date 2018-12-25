@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Christmas 2000: The news from Lüllau</b></p>
 <p>Once again it's time to summarize the past year onto a single sheet of paper suitable for mailing. (Those of you reading this on PapaScott get to see it sooner and without killing any trees.) </p>

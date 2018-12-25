@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The past few weeks I've noticed sporadic outages in the database for PapaScott. A few times a week the database, and thus the blog,  has been slow and unavailable for a few minutes. Since <a href="http://www.hetzner.de/">Hetzner</a>, a hoster in Germany that has a very good reputation, is having a <a href="http://www.hetzner.de/news.html">Christmas special</a>, I decided to move PapaScott there (onto simple webspace, not a dedicated server) from its old home in California and see if things are any better. We've been there since yesterday morning, and except for funny characters in one of the sidebar ads, so far so good.</p>

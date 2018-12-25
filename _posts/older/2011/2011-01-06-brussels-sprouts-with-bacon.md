@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>OK, it's not really bacon, just low-fat diced ham, but this recipe from our <a href="http://www.myline24.de/">My Line fitness program</a> has become our favorite way to eat Brussels sprouts, even as a main dish! The original recipe is metric, the American equivalents are approximate.</p>
 <p>500 g (1 lb) Brussels sprouts<br />

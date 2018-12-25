@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>5:50 am The first day of the rest of our lives. We're both awake and ready to go! Christopher gets to sleep in until 6:30.</p>

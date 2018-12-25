@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>German has word to describe all things foreign that cannot really be translated directly into English. <i>Ausland.</i> Out of land. Out of space, out of mind, out of time. There, as opposed to here. Someplace else, someplace different.</p>
 <p>That makes me, since I'm not German, an <i>Ausländer.</i> Being German is somethi to which you are born and cannot become (as opposed to being American, which you can become if you stay in the US long enough and watch enough televsion), so as long as I am in Germany I will always be an <i>Ausländer</i>.</p>

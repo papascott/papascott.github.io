@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Between all the flood pictures on TV and watching ships at Cuxhaven last weekend and Lübeck on Wednesday, Christopher's latest craze is boats. Mama and I are taking a couple of days off together, and today we took Christopher on a harbor tour. Lots of boats there. Tomorrow we'll hit the beach at Lübeck again. Papa wasn't along last time.</p>
 <p>We were both somewhat consternated by the disappearance of our digital camera a couple of weeks ago, just before my parents arrived. We were at the point of accusing one another of losing it, or leaving it at the playground. This evening it showed up.  Christopher found it in his Lego box. Now we know who is really to blame.</p>

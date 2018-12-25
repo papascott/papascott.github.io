@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Four months ago it looked like Chancellor Schröder was on the ropes, and would soon be down and out. The economy and the budget were in ruins, he was battered  in local elections, he had a vocal but pointless policy on Iraq, he was caught between election promises and political realities, he faced dissent in his own ranks and a united opposition fully in charge of the Bundesrat. </p>
 <p>These days it all looks different. Actually, all of those conditions still hold, except now it's the Union that is in tatters, not the SPD. An <a title="Im Chor der Union stimmt kaum noch ein Ton" href="http://www.abendblatt.de/daten/2003/06/21/178931.html">editorial</a> (in German) in Saturday's Abendblatt describes the cacophony (a word Schröder was using 4 months ago to chastise his own party) in the Union.</p>

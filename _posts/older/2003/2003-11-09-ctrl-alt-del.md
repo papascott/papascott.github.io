@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Just so you know, on the new BMW 500 series the on-board computer monitors the tire pressure for you. But if you ever change the tires (for example, for winter), you have to re-initialize the system. Otherwise the computer will warn you of a flat tire when you have none. That can be very disquieting when doing 200 on the Autobahn. Just so you know.</p>

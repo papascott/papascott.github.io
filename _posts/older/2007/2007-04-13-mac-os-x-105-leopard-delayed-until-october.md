@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Apple <strike>Computer</strike>: <a href="http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&amp;STORY=/www/story/04-12-2007/0004564657&amp;EDATE=">Leopard delayed</a>. The funny thing is at work we were actually planning Mac OS X Server implementations based on Leopard being out by summer. At the meeting I was muttering "Vapor, vapor, vapor" under my breath. I wish I had muttered it out loud so I could tell everyone I told you so. (via <a href="http://vowe.net/archives/008361.html">vowe</a>)</p>

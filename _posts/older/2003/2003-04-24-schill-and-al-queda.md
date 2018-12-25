@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In a new comment to an old post on <a title="PapaScott: Water Cannons Continued" href="https://www.papascott.de/2003/03/26/2135.php">water cannons</a> (used by Hamburg policeon schoolchildren), narciso asks about Interior Senator Schill:</p>
 <blockquote><p>Isn't that where Atta's Al Queda cell was. Isn't the discovery of said cell, a key to Schill's victory. Doesn't that have something to do with it.</p></blockquote>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It's a men's weekend at home. Mama is off to the Alps until Monday for a 'team building' ski holiday organized by her boss, although given her injured ankle and weak knee, the only winter sports she'll be participating in willbe those that require the butt to be firmly planted on the ground. Can one start aprés ski at noon?</p>
 <p>Meanwhile, Christopher and I are home alone. Maybe I can slip him off on Oma for a couple of hours on Sunday. </p>

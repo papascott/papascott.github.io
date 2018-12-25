@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Heh, because it's there" href="http://blackholebrain.editthispage.com/2003/06/29">blackholebrain: But here I am still dumping mindless crap on the web for no apparent reason</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Ding dong, the witch is dead!" href="http://193.97.251.30/ndr/regional/hh/20030819/wellinghausen.html">Hamburg: von Beust fires Schill</a></p>

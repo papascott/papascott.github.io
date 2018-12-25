@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Frauke has the sometimes annoying characteristic of using her accelerator as a stress-relief device. If, for whatever reason, she become angry or frustrated while driving, she steps on the accelerator and drives faster. In certain situations this can be counter-productive, for example, when she's having trouble finding her destination. She can't find the place she's looking for, she gets mad, steps on the gas, and drives right on past.</p>
 <p>When this happens, I've learned through experience that it's best not to say anything, since in these situations Frauke is not very receptive to suggestions.</p>

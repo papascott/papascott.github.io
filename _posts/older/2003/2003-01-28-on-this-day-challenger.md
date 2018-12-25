@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>BBC On This Day: <a href="http://news.bbc.co.uk/onthisday/hi/dates/stories/january/28/newsid_2506000/2506161.stm">1986: Seven dead in space shuttle disaster</a>. I still know exactly where I was (a bitter-cold parking lot at the U of M in St. Paul) when I heard the news, and I never regained my taste for space travel or science fiction. Thanks to <a title="blog.hebig.org" href="http://www.hebig.org/blogs/archives/main/000805.php">hebig.org</a>  for the reminder.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Grow me a capitalist" href="http://www.smalla.net/infofeed/2003/05/05/bionomics_the_inevitability_of_capitalis.shtml">Stefan Smalla reviews Bionomics: Economy As Ecosystem</a></p>

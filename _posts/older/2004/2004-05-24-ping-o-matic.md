@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="One Ping to Rule Them" href="http://pingomatic.com/blog/archives/2004/05/20/metapinging/">Ping-o-Matic; MetaPinging at http://rpc.pingomatic.com/</a></p>

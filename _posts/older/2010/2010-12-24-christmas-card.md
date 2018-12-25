@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As usual, I prepared our Christmas greetings for our friends and relatives in the US at <a href="http://www.cardstore.com/">CardStore</a>, which lets us upload pictures and prepare a text and saves us the trouble of filling out envelopes and paying international postage. Also as usual, PapaScott readers get the inside scoop first...</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2010/12/crh_dez_2010.jpg" alt="crh, Dez. 2010" border="0" width="450" height="600" /></p>

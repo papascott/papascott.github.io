@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Not here, there ain't enough of 'em" href="http://fistfulofeuros.net/archives/000038.php">Euroanglo Culture</a></p>

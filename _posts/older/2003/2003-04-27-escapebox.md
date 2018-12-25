@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Instant FreeBSD Root Servers" href="https://www.escapebox.net/">EscapeBox: Secure Managed On-Demand UNIX Servers</a></p>

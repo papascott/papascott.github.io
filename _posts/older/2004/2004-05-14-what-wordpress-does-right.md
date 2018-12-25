@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="In case anyone is interested..." href="http://www.laurenwood.org/anyway/index.php?p=20">Anyway - What WordPress Does Right</a></p>

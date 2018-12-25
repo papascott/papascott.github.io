@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We just called Grandma at home in Minnesota to wish her a happy birthday, but I thought we'd repeat the wish here for all to see! </p>
 <p>Our cats have been complaining that Christopher has been getting too much face time on this website. In order to keep peace in the household, here they are. We've had all three for over 10 years now, since we were in Minneapolis.</p>

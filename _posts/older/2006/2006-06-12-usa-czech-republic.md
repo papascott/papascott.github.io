@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>So, the real World Cup started at 6 pm today, but the USA is being outclassed by the Czech Republic. The US can control the ball, but it looks like they've made the mistake of bringing stiletto knives to an axe fight. They're trailing 2:0 at halftime. At least they've mastered the offside trap, which the Germans still need to work on.</p>
 <p>Germans have this thing about complicated football (er, soccer) pools, so you can see how badly I've predicted at <a href="http://www.kicktipp.de/blogtipp/tippuebersicht">Blogtipp</a>. I did pick the Czech Republic to win the Cup, based on two simulations I read about. One was a video game, the other a beer competition in Stern. Good enough for me.</p>

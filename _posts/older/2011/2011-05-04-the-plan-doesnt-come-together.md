@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Over Easter vacation our son flew to the US for the first time alone to visit his grandparents. It was only for a week, we drove him to Amsterdam (5 hours each way) so he'd be able to fly non-stop and not sit in a strange airport by himself. Turned out he loved it, one week was way too short, and he'd fly by himself again anytime. His grandparents are willing to host him anytime (of course).</p>
 <p>Since we have <a href="https://www.papascott.de/archives/2011/04/30/groundbreak/">big plans</a> for the summer, we won't be able to take a family vacation, so we're thinking that maybe he can fly back to the States for a couple weeks before school starts, and so that his grandparents (my parents) won't forget what their son (me) looks like, I could fly in for a few days to pick him up. So I started looking at <a href="http://kayak.com/">Kayak</a> for flight prices, and suffered a sudden attack of sticker shock. Four-figure sticker shock.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="what, no pictures?" href="http://nacktbloggen.twoday.net/">Nacktbloggen - naked blogging. The way to beat the European heat wave.</a></p>

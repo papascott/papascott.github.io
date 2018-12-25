@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>(My apologies for the German posting, but this joke made the rounds on our office E-Mail this morning, and it's better than most. My attempt at a translation is <a href="/2003/02/21/2105.php#more">here</a>.)</p>
 <p><b>Ein Ratespiel im Flugzeug</b></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="But even an 8-track tape would work on more than 3 tape players" href="http://www.macobserver.com/columns/devilsadvocate/2003/20030430.shtml">The Mac Observer: Apple Music Store: The New 8-Track Tape</a></p>

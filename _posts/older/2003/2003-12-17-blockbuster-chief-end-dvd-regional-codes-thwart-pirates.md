@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Nemo? We don't have any Nemo..." href="http://hometheater.about.com/gi/dynamic/offsite.htm?site=http://www.hollywoodreporter.com/thr/home_video/brief_display.jsp%3Fvnu_content_id=2047010">Blockbuster chief: End DVD regional codes, thwart pirates</a></p>

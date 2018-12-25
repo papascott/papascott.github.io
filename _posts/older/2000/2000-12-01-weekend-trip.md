@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/12/Travel.jpg" height="467" width="350" border="0" alt="Travel: " /></p>
 <p>PapaScott, MamaMaus and Christopher are all packed up for their trip to Munich.</p>

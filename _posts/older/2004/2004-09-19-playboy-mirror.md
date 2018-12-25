@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://photomatt.net/2004/09/18/apache-playboy/">Via Photo Matt</a>: Open Source projects like Apache and FreeBSD are <a href="http://mirrors.playboy.com/">mirrored by Playboy Enterprises</a>. Yes, <em>that</em> Playboy.</p>

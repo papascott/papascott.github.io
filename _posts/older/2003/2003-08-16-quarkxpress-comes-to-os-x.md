@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I would have killed for this 5 years ago. Now I neither use Quark nor Macs." href="http://www.macdevcenter.com/pub/a/mac/2003/08/12/quark6.htm">QuarkXPress Comes to OS X</a></p>

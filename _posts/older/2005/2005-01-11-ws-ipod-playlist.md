@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.wonkette.com/politics/media/index.php#ws-ipod-playlist-029455" title="Wonkette : Archive for Media">Wonkette: W's iPod Playlist</a> Rock the Casbah!</p>

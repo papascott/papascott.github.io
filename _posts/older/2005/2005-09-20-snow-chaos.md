@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/45073688/" title="Photo Sharing"><img src="https://static.flickr.com/30/45073688_f69334f7c3.jpg" width="500" height="375" alt="IMG_0409" /></a></p>
 <p>Since the <a href="https://www.papascott.de/archives/2005/09/19/before-and-after/">tooth fairy paid a visit</a> to Christopher last night, today he was able to purchase the top item on his wish list: a <a href="http://www.siku.de/">Siku</a> snowplow. This morning his speech therapist suggested that shaving cream would be the perfect material for a snowplow to, well, plow, so of course he had to try that out this evening <a href="http://www.flickr.com/photos/papascott/sets/985240/show/">(slideshow)</a>.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If you're female, <a href="http://www.washingtonmonthly.com/archives/individual/2005_07/006730.php" title="The Washington Monthly">giving birth to a child will ruin your resum&eacute;</a> for upper-management jobs.</p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The Second Whiney Expat Bloggers in Germany Meet Up <a href="http://www.jbittner.com/germany/2006/07/second-whiney-expat-bloggers-in.html">will take place in Bonn on 18 &amp; 19 November 2006</a>.</p>
 <p>I'll try to be there, and I'll bring recordings of Christopher in a bad mood so I don't have to do any whining myself.</p>

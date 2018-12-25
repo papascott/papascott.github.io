@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I haven't blogged much about this year's presidential campaign. But I'm going to put my money where my mouth is.</p>
 <p>I've just donated one month's advertising proceeds from PapaScott to the <a href="http://www.barackobama.com/">Obama</a> campaign. My Text Link Ads are fully booked, so it's not an insignificant amount.</p>

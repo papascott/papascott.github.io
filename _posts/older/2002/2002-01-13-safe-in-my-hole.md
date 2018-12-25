@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Moving Day, Final Phase. PC and Desk are now downstairs, reassembled and running. It's amazing how much hardware on my desk wasn't actually connected to anything anymore. </p>
 <p><a href="https://www.papascott.de">papascott.de</a>: <a href="/2002/01/13/index.php#000102">Foreigners Must Wait Here!</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Since we didn't actually talk that much about press freedom at the discussion, I didn't get a chance to use the line I came up with. So I'll have to give it here.</p>
 <p>If we're talking about press freedom in a place where it can really make a difference, we're talking about a place that doesn't have it yet. And a government interested in controlling the press is going to be controlling the internet was well. The internet runs over wires and cables, and a poor country is not going to have that many cables coming in. And big IT companies like Sun, Cisco and IBM are going to be more than happy to sell the the equipment and know-how to control everything going in and out.</p>

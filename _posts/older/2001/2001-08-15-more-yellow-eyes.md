@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After I thought I was over it, my eyes this evening have taken a turn for the worse. I'll be seeing the doctor tomorrow morning, but in the meantime, I'll be staying away from the computer. I can't clearly see the monitor, my eyes are so glazed over.</p>

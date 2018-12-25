@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Ass. Fact checked." href="http://www.guardian.co.uk/corrections/story/0,3604,971436,00.html">The Guardian corrects Wolfowitz 'sea of oil' article</a></p>

@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.blutspende-nstob.de/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/09/logo-blutspendedienste.gif" alt="Logo Blutspendedienste" /></a> The <a href="http://www.blutspende-nstob.de/">Red Cross Bloodmobile</a> will be at our restaurant in Dibbersen on 18 September from 14:00 to 20:00, for those who prefer to give blood without playing rugby.</p>

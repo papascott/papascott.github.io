@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/11/crhknife.jpg" height="262" width="350" border="0" alt="crhknife.jpg: " /></p>
 <p>We wanted to show Christopher eating in continental fashion with fork and knife, but by the time we got the camera out, he was eating in pirate fashion with just a knife.</p>

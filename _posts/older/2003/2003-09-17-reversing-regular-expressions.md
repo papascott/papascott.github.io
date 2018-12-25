@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If you find things in the last place you look, shouldn't you look there first?" href="http://traumwind.de/blog/?detail=2003-09-17_10-16">Reversing Regular Expressions</a></p>

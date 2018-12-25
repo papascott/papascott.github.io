@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If even my mother says that my blog hasn't been updated for a while, it must be time to write something. Here are the headlines from the past couple of weeks.</p>
 <p>* My birthday (48) came and went. Another year older and deeper in debt.</p>

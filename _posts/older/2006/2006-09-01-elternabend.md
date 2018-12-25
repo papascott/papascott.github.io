@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This school stuff is starting to get serious. We had our first *Elternabend* (parent's evening) at the school in Jesteburg last night in preparation for the *Einschulung* (start of first grade) on Saturday. (*Einschulung* is a big deal... more on that later.) This is my first experience with the German school system, and here are a few things that struck me.</p>
 <p>* Classes are referred to by number... Christopher is in the class 1C. As I recall our classes were referred to by name, which can be confusing if Miss Crabtree becomes Mrs. Fletcher in the middle of the school year.</p>

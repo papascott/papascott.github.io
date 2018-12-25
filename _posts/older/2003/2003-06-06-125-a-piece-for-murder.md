@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'A horrific story from one of my old neighborhoods'" href="http://www.paradox1x.org/weblog/kmartino/archives/003005.shtml#003005">paradox1x: $125 a piece for murder</a></p>

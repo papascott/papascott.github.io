@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Greetings from Lake Minnewaska! Whoever has the WiFi still has it turned on, so I have Internet as long as I sit outside.</p>
 <p>The weather is pretty much perfect.... 85° and clear. Christopher gets a whole hide-a-bed to himself, so he likes that. It's Waterama weekend, so Glenwood is full. We found a swim mask and snorkel on special for $7, so Christopher can now explore the bottom of the lake. He found 6 golf balls at the end of the dock.... Grandma thinks an angry wife must have dumped them there. The hot water heater is burned out, so no hot showers until we can pick up a part on Monday. </p>

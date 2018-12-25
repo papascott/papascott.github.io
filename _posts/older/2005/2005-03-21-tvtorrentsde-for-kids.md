@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm so 20th century. Is there a torrent site like <a href="http://www.btefnet.net/">http://www.btefnet.net/</a> for German TV? Where I can get children's programs? I would win a lot of points with Christopher if I could download yesterday's <a href="http://www.wdrmaus.de/">Sendung Mit Der Maus</a> as easily as I can download <a href="http://www.btefnet.net/index.php?show=89">The Daily Show</a>.</p>
 <p>(Actually, it's too late to win points with Christopher. He called me a <em>D&ouml;del</em> because I forgot to record it for him. I don't even know what a <em>D&ouml;del</em> is, except that it's an insult from <em>Laura's Stern</em>.)</p>

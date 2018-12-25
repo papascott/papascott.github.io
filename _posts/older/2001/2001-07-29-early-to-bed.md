@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Very nice weather this weekend, the whole past week, in fact. Nearly 30&deg;C, sunny, slight breeze. Unusual for northern Germany. We should really be outside.</p>
 <p>While looking for something else at <a href="http://freshmeat.net">FreshMeat</a>, I bumped into <a href="http://billstclair.com/blogmax">BlogMax</a>, "an Emacs package that aids in the creation of a weblog". It creates a Manila-like static site, and is by Bill St. Clair of <a href="http://billstclair.com/blog">End the War on Freedom</a>. It looks interesting, but doesn't seem to work with XEmacs.</p>

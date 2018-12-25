@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Now more than ever, our morning coffee is a vital necessity in order to start the day. So it was with no small amount of horror that we discovered yesterday that our <a href="https://www.papascott.de/archives/2007/04/24/jura-xf50/">Jura coffee machine</a> would no longer produce coffee. The beans would grind, the water would pump, but only a few drops of hot brown elixir would trickle into our cups. No error message was displayed, and the problem persisted even after changing the water filter and running the cleaning program twice.</p>
 <p>Then came Google to the rescue. Searching for "Jura selbst reparieren" (repair Jura yourself) brought up the site <a href="http://www.biomess.de/jura/index.html">"Selber schrauben an Jura"</a>, where we found that a <a href="http://www.biomess.de/jura/html/faq.html">common problem</a> (FAQ 15) is that the brew filter becomes clogged. It can be easily cleaned with your finger after reaching with your hand through the tray opening.</p>

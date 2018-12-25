@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The good folks at <a href="http://www.united-domains.de">united domains</a> managed to reset their records for 'papascott.de' yesterday, thereby erasing my DNS entry. I've reentered the correct IP address, but it will take 24 hours for the correction to take. Arghhhhh!</p>

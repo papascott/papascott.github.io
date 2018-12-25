@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/4265253987" title="View 'CIMG0841' on Flickr.com"><img border="0" width="500" alt="CIMG0841" src="3.static.flickr.com/2793/4265253987_fd7397cbcf.jpg" /></a></p>
 <p>Time to bring PapaScott into the new decade (if you believe decades begin in '0 years and not '1 years, that is). I was going to write about how this is the first new year in business that we weren't rushing around with new things, but I guess it's a bit late for that now.</p>

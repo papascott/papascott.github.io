@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Grandma and Grandpa will be arriving from Minnesota today and staying for 2-1/2 weeks. Updates to PapaScott will then be even more sporadic than usual</p>

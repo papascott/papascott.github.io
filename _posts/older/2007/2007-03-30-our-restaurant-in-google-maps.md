@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/03/our-restaurant-in-google-maps.jpg" alt="Our Restaurant in Google Maps" /></p>
 <p>We can't tell you where it is yet, but we can show it to you, thanks to <a href="http://maps.google.de">Google Maps</a>.</p>

@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 ![Greencard](https://www.papascott.de/wordpress/wp-content/uploads/2011/
 03/greencard.jpg){: class="alignright"}My wife had incredibly bad luck with her [green

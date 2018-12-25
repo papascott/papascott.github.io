@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>There's a first time for everything. Christopher's at a substitute 'Tagesmutter' for 3 weeks, as Heide is on vacation. This afternoon, for the first time at day care, he didn't want to come home. He had to show off the tricycle (that he can't quite pedal yet) and the mini-slide (that he can climb and slide down by himself). </p>
 <p>Retraction: the hotel linked to yesterday isn't really that bad, it's merely ugly, inside and out. But it's the biggest hotel in Munich, so when Mama has to attend big events in Munich, she usually gets put there.(<i>Later</i> Mama tells me that they've remodelled since I was there, so it's not even ugly on the inside anymore. Just from the outside.)</p>

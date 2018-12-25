@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I didn't think it important enough to mention, but <a href="http://www.instapundit.com/archives/004417.php#004417/">InstaPundit.Com</a> noted that President Bush sent German President Rau a message of congratulations on the anniversary of reunification and that is a sign of a thaw in German-American relations. I don't buy that. It's a reminder that George Sr. was one of the godfathers of German reuinification, but says nothing about the current situation. Would a birthday card to the Queen of England mean everything is hugs and kisses with Tony Blair?  </p>
 <p>It is interesting to note that Schröder has been completely silent on Iraq since the election. I noted a <a href="https://www.papascott.de/index.php?p=1884&more=1&c=1">last month</a> that Schröder left himself an out on Iraq, and I'm certain that when the war comes, there will be some token German show of support, like maybe leaving the anti-chemical-warfare tanks now stationed in Kuwait (which wouldn't require Bundestag approval).</p>

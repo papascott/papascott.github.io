@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="using shame and a video camera, think it would work on Christopher?" href="http://www.theworkingmom.net/archives/003777.php">the working mom: calming the savage toddler</a></p>

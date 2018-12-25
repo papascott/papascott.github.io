@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="fashionably late doesn't exist" href="http://americangirlsareeasy.com/book/german_men.shtml">How to Find a Man in Europe and Leave Him There: German Men</a></p>

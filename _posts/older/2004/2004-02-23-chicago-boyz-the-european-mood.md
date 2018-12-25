@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Europe isn't pragmatic, it's an attitude!" href="http://www.chicagoboyz.net/archives/001811.html">Chicago Boyz: The European "Mood"</a></p>

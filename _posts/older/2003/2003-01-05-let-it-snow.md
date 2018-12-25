@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher insists that the fun of having a sled is <em>pulling</em> it, not riding it.</p>
 <p><img alt="crhsnow1.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/01/crhsnow1.jpg" width="325" height="244" border="0" /></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Terrorist nation?" href="http://www.foxnews.com/story/0,2933,107177,00.html">Brazil fingerprints and photographs arriving Americans</a></p>

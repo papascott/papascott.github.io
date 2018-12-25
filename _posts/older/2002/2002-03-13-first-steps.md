@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The CeBIT starts today in not-too-distant Hannover. I'm glad not to be there. Meanwhile, Mama flies to Frankfurt for an impromptu afternoon meeting. Impromptu far-away meetings are never good.</p>
 <p>Lots of people are saying how they are downloading Mozilla 0.9.9, but since my <a href="http://www.debian.org">system</a> has <a href="http://www.oreilly.com/catalog/debian/chapter/appc_05.html">apt-get</a>, I don't have to. My nightly apt-get cron job will do it for me. Heh.</p>

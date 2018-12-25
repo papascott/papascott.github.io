@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In the States, women who posed for Playboy with their employer's logo would be fired. In Germany, the <a href="http://www.mediamarkt.de/playboy/">employer</a> (the electronics retailer Media Markt) cooperates with Playboy and advertises it, which gives a whole new meaning to "not safe for work". (<a title="ameisendorf.de: FKK-Wochen im Media Markt" href="http://ameisendorf.de/?itemid=201">via ameisendorf.de</a>)</p>

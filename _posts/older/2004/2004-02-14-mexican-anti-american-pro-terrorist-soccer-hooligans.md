@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Sounds tamer than a Celtic-Rangers match to me" href="http://www.buzzmachine.com/archives/2004_02.html#006241">BuzzMachine: Mexican anti-American, pro-terrorist soccer hooligans booing the American anthem and yelling "Osama! Osama!" at our players.</a></p>

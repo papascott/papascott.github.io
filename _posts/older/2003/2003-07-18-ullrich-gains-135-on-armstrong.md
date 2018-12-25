@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Superman human after all?" href="http://www.news24.com/News24/Sport/Tour_de_France/0,,2-9-1506_1389572,00.html">Ullrich gains 1:35 on Armstrong</a></p>

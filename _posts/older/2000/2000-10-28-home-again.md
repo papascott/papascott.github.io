@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama and Christopher came home at noon on Friday. Since he learned to pull himself up to a standing position at the hospital, additional safety precautions (e.g. lowering the crib to the lowest possible position) needed to be implemented.</p>

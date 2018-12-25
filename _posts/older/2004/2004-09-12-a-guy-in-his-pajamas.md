@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If you post cat pictures to a blog, you got to make sure that you've <a href="http://instapundit.com/archives/017736.php">dressed the part</a>: "Bloggers have no checks and balances . . . [it's] a guy sitting in his living room in his pajamas."</p>

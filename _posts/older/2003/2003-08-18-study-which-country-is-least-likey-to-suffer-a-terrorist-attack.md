@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="North Korea" href="http://www.nytimes.com/2003/08/17/international/worldspecial2/17TERR.html">Study: Which country is least likey to suffer a terrorist attack?</a></p>

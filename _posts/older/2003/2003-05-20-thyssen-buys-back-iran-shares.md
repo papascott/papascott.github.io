@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="To avoid landing on the US blacklist, price was 3x current market price" href="http://reuters.com/financeNewsArticle.jhtml?type=bondsNews&storyID=2771337">Thyssen buys back Iran shares</a></p>

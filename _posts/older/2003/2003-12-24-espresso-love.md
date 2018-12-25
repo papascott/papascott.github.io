@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Doc Searls describes his <a title="The Doc Searls Weblog : Saturday, December 20, 2003" href="http://doc.weblogs.com/2003/12/23#theBestChristmasGiftsAnyCoffeeFreakCanGetOrGive">Starbucks Barista espresso machine</a>. It's his third machine, list price $399, 2 year guarantee, and "if you use it heavily it should last at least that long". We have a 10 year old Bosch Espresso Cup (mostly plastic, cost DM 99 at the time) and a &#8364;1.99 milk frother. And we buy pre-ground espresso from our discounter. What are we missing?</p>

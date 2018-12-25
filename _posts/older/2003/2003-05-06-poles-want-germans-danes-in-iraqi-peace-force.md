@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="German troops under Polish command?" href="http://www.abcnews.go.com/wire/World/reuters20030506_70.html">Reuters: Poles Want Germans, Danes in Iraqi Peace Force</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>On Sunday we visited <a title="Ostseebad Boltenhagen an der Mecklenburgischen Ostseeküste - Mecklenburg" href="http://www.boltenhagen.de/">Boltenhagen</a>, on the Baltic coast between Lübeck and Wismar. It's a traditional seaside resort town, celebrating its 200th anniversary this year, very well kept and with a very nice beach. The day was a bit breezy (perfect for the windsurfing competition that happened to be going on), but as relief from the heat we didn't mind at all.</p>
 <p>In theory, Boltenhagen would be just 30 minutes past Lübeck. In practice, thanks to bad roads (er, I mean the lack of infrastructure in the 'new states') and Sunday traffic, it took us <em>2 hours</em> to cover the <a title="Staugefährdete Straßenabschnitte bei Selmsdorf" href="http://verkehrsinformation.mvnet.de/stau/stau4.htm">20 km of 2-lane road</a> from Lübeck to the turn-off to the north. Luckily Christopher held up like a trooper, and the day was not ruined. But all I can say is hurry up and finish the damned Baltic Autobahn A20 already!</p>

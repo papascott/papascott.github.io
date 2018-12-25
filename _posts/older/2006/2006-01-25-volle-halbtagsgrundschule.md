@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><em><a href="http://justcallmemausi.blogspot.com/2006/01/i-wish-i-didnt-have-to-go-out.html" title="I wish I didn't have to go out">christina:</a> I'd rather stay inside but today is my last after school ('after school' in Germany being 12:45 p.m. - go figure)...</em></p>
 <p><em><a href="http://justcallmemausi.blogspot.com/2006/01/i-wish-i-didnt-have-to-go-out.html#c113811869764813765" title="I wish I didn't have to go out">Me:</a> And I am so looking forward to that this fall! :-(</em></p>

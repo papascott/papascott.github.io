@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="This is where I vote" href="http://www.azcentral.com/news/articles/0125dems-poll25.html">AZ Central: Kerry has slight edge over Clark, Dean in Arizona</a></p>

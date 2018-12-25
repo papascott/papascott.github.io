@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="To install Apache 2 with SSL on Solaris, you need this" href="http://www.sunfreeware.com/openssh26-7.html#ent">Sunfreeware: OpenSSH  - getting entropy</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've been a big fan of the FreeBSD-based firewall <a href="http://m0n0.ch/wall">M0n0wall</a> for some time. Yesterday I finally got around to trying out <a href="http://www.pfsense.com/">pfSense</a>, which is based on M0n0wall but which can take advantage of bigger hardware. It's only been a day, but I think I'm hooked.</p>
 <p>M0n0wall was developed for embedded devices, and can work with a minimum of CPU, memory and disk (or CF). That means that it doesn't have some features you might find handy in a firewall, like a login shell or a packet sniffer (<a href="http://www.xs4all.nl/~fredmol/m0n0/">they can be hacked in</a>, but still). M0n0wall does run on x86 hardware, but it's going to <a href="http://doc.m0n0.ch/handbook/faq-goals.html">remain focused on small hardware</a>. pfSense started as a friendly fork a couple of years ago to add features and a more recent FreeBSD for those with hardware to support them. We're not talking massive hardware here... <a href="http://www.pfsense.com/index.php?id=43">128MB RAM and CF</a> (as opposed to <a href="http://m0n0.ch/wall/hardware.php">64MB RAM and 8MB CF</a> for M0n0wall).</p>

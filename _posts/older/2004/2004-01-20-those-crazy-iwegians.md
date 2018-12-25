@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>You just <a title="Calpundit: Iowa Results" href="http://www.calpundit.com/archives/003079.html">never know</a> what they are going to do. Kerry 38%, Edwards 32%, Dean 18%, Gephardt 11% (and out). And I'll wait for New Hampshire before I even start to make up my mind.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="snowstreet.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/01/snowstreet.jpg" width="325" height="244" border="0" /></p>
 <p>Our steet, cobblestones covered with snow.</p>

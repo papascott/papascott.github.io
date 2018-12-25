@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.bild.de/"><img alt="Headline from the newspaper Bild: Ami Go Home!" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/06/bildamirudi-thumb.jpg" width="125" height="129" border="0" align="right" /></a><br />
 Today is a day where I can't lose. As an American living in Germany, I'll be happy whichever side wins.  The flip side is that I  know one of my sides is going to lose as well.</p>

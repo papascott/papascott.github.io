@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We finally got a confirmation from T-Systems... our DSL at home will be back up next Monday. I have no idea why a change of DSL provider requires a 6 day downtime.</p>
 <p>I also have no idea why when I try to call the Telekom business customer service hotline, I always end up talking to a household customer service representative who cannot access any data for business customers.</p>

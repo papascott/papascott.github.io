@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The kitchen sink CMS now for titanium" href="http://blog.schockwellenreiter.de/3595">Typo3 for Mac OS X</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>O'Reilly Net: <a href="http://www.oreillynet.com/pub/a/sysadmin/2007/05/03/the-top-7-things-sysadmins-forget-to-do.html">Top 7 Things System Administrators Forget to Do</a>. I'll admit to being guilty of all of these at some time or another, but I try especially hard to avoid number 7:</p>
 <blockquote><p>

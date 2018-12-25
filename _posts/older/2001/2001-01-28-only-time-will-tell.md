@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In case you couldn't tell, I got interrupted last night. Now I forgot what I was going to write.</p>
 <p><a href="http://andrea.editthispage.com">Andrea</a> wrote about the German dairy product <a href="http://andrea.editthispage.com/2001/01/27">Quark</a>. If I had known the English name was "curd", I never would have tried it. I'd describe Quark as a cross between yogurt and sour cream, not at all like cottage cheese. I like a 'Quark-Creme' cake, with a mixture of Quark, whipped cream and gelatin poured into a form over strawberries and a shortcake base. </p>

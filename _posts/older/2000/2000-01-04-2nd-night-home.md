@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>05 Jan 2000 3:45 am CET</b> Manila feature request for webmasters outside the US who are new parents: time zone support for websites. I want to flip my home page now, but I can't because for the server in California, it's still yesterday!</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/crhsmh0103.jpg" height="300" width="400" border="0" alt="crhsmh0103.jpg: " /></p>

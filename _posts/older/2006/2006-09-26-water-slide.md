@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/252395484/" title="Photo Sharing"><img src="https://static.flickr.com/112/252395484_a3c5eafb31.jpg" width="500" height="375" alt="25092006066" /></a></p>
 <p>Yesterday could be the last nice sunny day we have this year, so I took Christopher back to Planten un Blomen in the afternoon, this time with his swimming suit. I sat on the sidelines and read Bloglines Mobile.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <ul style="list-style-type: disc;list-style-position: inside;">
 <li>Others may blog about not wanting to blog... I just do it, with the exception of some Christopher pictures and a few quick links. Father, forgive me, it has been over two weeks since my last real post.</li>

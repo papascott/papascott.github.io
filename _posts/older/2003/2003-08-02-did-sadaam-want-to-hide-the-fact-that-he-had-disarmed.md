@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Was _he_ the one who forged the 'yellowcake' documents?" href="http://talkingpointsmemo.com/aug0301.html#0802031241am">Did Sadaam want to hide the fact that he had disarmed?</a></p>

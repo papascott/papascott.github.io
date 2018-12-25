@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Binary packages for the devil" href="http://www.freebsdfoundation.org/downloads/java.shtml">FreeBSD Foundation Java Downloads</a></p>

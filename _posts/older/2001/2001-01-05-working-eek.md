@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>10 pm</b> It was a long and frustrating day. Christopher was restless, constantly seeking attention. I couldn't concentrate on work at all. Our entire day care plan will fall apart if I can't get work done on the days I'm with Christopher at home. I had the feeling that there was no way I could meet the expectations I had set for myself.</p>
 <p>Strange thing was, Mama at work was feeling exactly the same. The BSE hysteria is cutting deep into her sales here, and she already is feeling pressure to deliver results quickly, even though (or maybe because) she's been away so long. She couldn't wait to get home.</p>

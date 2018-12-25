@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Europe went on Daylight Savings Time today, in case you're wondering what we're doing up so early. North America starts next weekend, right?</p>
 <p>It's still awfully cold, though. Mid-30's and freezing rain. Yech!</p>

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/464832198/" title="Photo Sharing"><img src="1.static.flickr.com/195/464832198_d1abe957bc.jpg" width="500" height="375" alt="IMG_1976" /></a></p>
 <p>We have a name. And a sign. McDonald's doesn't want franchisees to use 'Mc' or any trademarks or product names when naming their companies, so fun names like 'McMaus' are out. So we've gone for something boring and practical. And yes, we know the sign has typos. It's just a first draft.</p>

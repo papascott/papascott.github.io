@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://andrea.editthispage.com/2001/07/30">Do not</a> trust a physicist with your hair dryer, or any other electrical appliances. Some things are best left to engineers.</p>
 <p>"Bildungsurlaub" is paid time off for continuing education. I asked my boss if I could have Bildungsurlaub to learn <a href="http://www.vim.org">vi</a>, but he turned me down.</p>

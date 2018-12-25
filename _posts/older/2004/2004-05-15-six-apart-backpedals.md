@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Cheaper, and more confusing" href="http://www.sixapart.com/log/2004/05/movable_type_30.shtml">Six Apart backpedals on MT license</a></p>

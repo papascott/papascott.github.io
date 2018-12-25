@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="We Make Shitty Software... With Bugs!" href="http://scriptingnews.userland.com/2003/10/27#When:4:34:36AM">Linux ships with every security feature wide open...</a></p>

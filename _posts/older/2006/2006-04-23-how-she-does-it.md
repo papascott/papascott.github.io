@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Another <a href="http://www.misbehaving.net/2006/04/sophie_vanderbr.html" title="misbehaving.net: Sophie Vanderbroek">working mother story</a>, this time on <a href="http://www.fastcompany.com/magazine/104/vandebroek.html" title="How She Does It">Sophie Vandebroek</a>, CTO of Xerox, whose husband died 10 years ago leaving her with three children. </p>
 <blockquote><p>How does she do it? By sticking to strict rules for travel, refusing relocations, and living simply. She hires someone to do laundry and grocery shopping, and doesn't sweat it if things don't go perfectly. "So many things we worry about," she says, "are not important." She keeps the family schedule uncluttered--only one sport or activity per kid per season--and chooses simple weekend activities and vacations, as well. She even keeps her hair short to make the morning routine quicker.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Via <a href="http://www.x-ploration.de/item00416.php">generation neXt</a>: <a href="http://www.apachefriends.org/wampp-en.html">WAMMP</a>. Because sometimes you have to install real software like apache/php/mysql on obscure operating systems like Windows. And they also have a <a href="http://www.apachefriends.org/lampp-en.html">LAMMP</a> for more common systems like Linux. Note to self: try it out!</p>

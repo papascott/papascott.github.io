@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Spending 3 hours shoving CDs into my MacBook so he can listen to Harry Potter on the plane tomorrow... on my iPod, no less.</p>

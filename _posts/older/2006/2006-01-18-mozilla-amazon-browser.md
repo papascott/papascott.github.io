@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.faser.net/mab/" title="M A B - Mozilla Amazon Browser">Mozilla Amazon Browser</a> is a rich application to browse Amazon without all the distracting fluff on the website. <a href="http://www.lifehacker.com/software/shopping/search-amazon-from-a-firefox-browser-149072.php" title="Search Amazon from a Firefox browser - Lifehacker">(via  Lifehacker)</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I can finally dump the blogspot hack from my blogroll!" href="http://www.blo.gs/news.php">Way cool! blo.gs now tracks updates from Blogger!</a></p>

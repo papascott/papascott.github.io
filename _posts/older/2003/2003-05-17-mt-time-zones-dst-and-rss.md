@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm planning to archive my quick links as RSS files and use the Magpie or Onyx PHP libraries to add them to my montly archives. While preparing the files, I was reminded that Movable Type has no concept of daylight savings time. The date and time of the entry is saved in local time, without any indication of time zone or daylight savings time. </p>
 <p>You can set a time zone for a blog, but it's just a number between -12 and 12, and is a global preference. It seems only to set the MTBlogTimezone variable, which gets tacked onto the dc:date field in the RSS template. If you go onto daylight savings time, the dc:dates will be off by an hour until you adjust your timezone. And in the fall you have to set it back.</p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>An ad campaign is to declare <a href="http://mark.antville.org/stories/1115623/" title="supatyp - aussen topics, innen geschmack: supatyp is gezz deutschland">You are Germany</a>. Spreeblick says <a href="http://spreeblick.com/blog/index.php?p=841" title="Spreeblick &raquo; Blog Archive &raquo; Ihr, nicht ich!">Not me</a>. Moe says <a href="http://weblog.plasticthinking.org/item/2005/5/8/ihr-seid-deutschland" title="Ihr seid Deutschland. - PlasticThinking: Moe's Blog.">Me neither</a>. Nico says <a href="http://lumma.de/eintrag.php?id=1590" title="Cool Deutschland [Lummaland - das Weblog]">It's morning in Germany</a>. Heiko says <a href="http://www.hebig.com/archives/003073.shtml" title="Wir sind Deutschland. by Heiko Hebig | hebig.com">I'd rather be pope</a>.</p>
 <p>Who is Germany, if not the Germans?</p>

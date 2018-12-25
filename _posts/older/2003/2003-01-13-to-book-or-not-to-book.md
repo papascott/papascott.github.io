@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I thought the Internet was supposed to make it <a title="How we did it last year" href="https://www.papascott.de/2002/03/16/1666.php">easy to book a flight</a>.</p>
 <p>We're set to meet Christopher's grandparents in Florida the first two weeks of April.  We wanted to go in March, but Mama's schedule won't allow it. We'd have liked to spend about &euro;1500 for the three of us to fly, but my queries on <a title="Expedia: The German Edition" href="http://www.expedia.de/">Expedia</a> came back with 'fat chance'. April is no longer winter season, and it's too close to Easter. There used to be seats on British Airways for &euro;1300 (with a magic transfer from Gatwick to Heathrow... that would be fun with a 3-year-old), but they were long gone. Our only chance was Delta for &euro;1800. </p>

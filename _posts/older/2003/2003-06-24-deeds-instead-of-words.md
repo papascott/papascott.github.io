@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="How Europe can _really_ become a stronger voice" href="http://www.eamonn.com/archives/000506.html#000506">Rainy Day: Deeds instead of words</a></p>

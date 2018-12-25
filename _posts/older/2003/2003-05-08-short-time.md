@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The adage goes that a recession is when your neighbor loses his job, while a depression is when you lose yours. By that criterion, the German economy is now one step closer to a depression.</p>
 <p>I will probably be offered the 'opportunity' to work a 4 day week starting in June. This is not entirely voluntary, but part of the lost income may be covered by the state (un)employment office since my employer is implementing short time to avoid layoffs. (Although paying people not to work makes as little sense as paying subsidies to farmers not to plant crops.)</p>

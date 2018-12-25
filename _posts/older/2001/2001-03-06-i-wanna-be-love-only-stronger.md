@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm sorry, I'm quoting that silly No Angels song again. I can't promise that it won't happen again.</p>
 <p>Epidemics are in the news in Germany. BSE (mad cow disease), MKS (foot and mouth disease), and now menengitis.  Maybe it's best just to stay home in bed.</p>

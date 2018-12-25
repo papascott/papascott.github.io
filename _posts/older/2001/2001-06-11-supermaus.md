@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/06/crhlist.jpg" height="225" width="300" border="0" alt="crhlist.jpg: " /></p>
 <p>We're back. Christopher's first day at the beach. He fell face first into the North Sea and he loved it. For a couple without children it would have been a relaxed romantic weekend. As for us, well, Christopher was awake at 5am Sunday morning. Enough said. At least the weather was halfway decent, cool but mostly sunny.</p>

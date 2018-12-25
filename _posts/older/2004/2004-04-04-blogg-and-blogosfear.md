@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If 'blog' has <a title="blogg.de - Das deutsche Weblog Portal." href="http://www.blogg.de">2 g's</a> in German, why does <a title="blogosfear.org" href="http://blogosfear.org/">blogosfear</a> have only one?</p>

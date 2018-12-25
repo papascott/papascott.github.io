@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.ushistory.org/declaration/document/index.htm" title="The Declaration of Independence">The Declaration of Independence</a> "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness." </p>
 <p><a href="http://www.bundesregierung.de/Gesetze/Grundgesetz-,4245/I.-Die-Grundrechte.htm" title="Grundgesetz f&uuml;r die Bundesrepublik Deutschland">Grundgesetz f&uuml;r die Bundesrepublik Deutschland</a> "Die W&uuml;rde des Menschen ist unantastbar." "Alle Menschen sind vor dem Gesetz gleich." "Eigentum verpflichtet." "Politisch Verfolgte genie&szlig;en Asylrecht." </p>

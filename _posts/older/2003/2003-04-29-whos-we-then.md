@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'talking about the war' from 10th April 2003" href="http://traumwind.de/blog/?detail=2003-04-10_19-22">Traumwind: Who's 'we' then?</a></p>

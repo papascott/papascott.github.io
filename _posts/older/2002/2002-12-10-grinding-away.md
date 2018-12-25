@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Work has been a grind, as closing up an office 500 km away is a lot more work than just turning out the lights. Projects have to be transferred, equipment accounted for and transported, security schemes dismantled, accounts cancelled. Not to mentioned that it's emotionally draining. The colleagues in Leipzig are being paid until the end of the month, but as of tomorrow their office will be dismantled so they have no place, nor reason, to work.</p>
 <p>Meanwhile, in Hamburg, the <em><acronym title="Work Council">Betriebsrat</acronym></em> held a meeting with us that explained their side of recent events. It looks like next year will continue to be 'interesting'. Management tried to organize a Christmas party at the last minute, but cancelled when it was clear that there was little interest. Meanwhile, we have coffee again. It turns out providing coffee outright is cheaper than renting vending machines that dispense coffee.</p>

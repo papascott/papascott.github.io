@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I paid &euro;49, plan costs &euro;15/month" href="http://www.t-mobile.com/promos/cameraphones_bundles.asp?phoneid=184769">T-Mobile USA: Nokia 3650 for $199, plan costs $40/month</a></p>

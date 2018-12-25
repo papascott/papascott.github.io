@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This evening Christopher was able to roll onto his stomach by himself. More importantly, he was able to roll back as well. (This is according to Mama. By the time I got home, he was so exhausted from rolling back and forth that he was sound asleep.)</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/05/20000503015.jpg" height="262" width="350" border="0" alt="crh0503.jpg: " /></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="In spite of Ashcroft" href="http://www.schockwellenreiter.de/2003/08/17.html#030817019">TAZ: 5-times more wiretaps per capita in Germany as in USA</a></p>

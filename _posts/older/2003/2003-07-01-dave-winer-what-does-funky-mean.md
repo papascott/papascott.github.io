@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Why couldn't he have cleared this up a month ago?" href="http://backend.userland.com/davesRss2PoliticalFaq#questionWhatDoesFunkyMeanInTheContextOfRss20">Dave Winer: What does "funky" mean?</a></p>

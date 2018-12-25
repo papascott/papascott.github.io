@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama's in Vienna for a couple of days. Her employer is holding an international business strategy meeting, with Americans and Europeans. It's the first time she's been invited to an international meeting. It didn't occur to me until this evening that perhaps I should have been a bit anxious about her taking an international flight just now.</p>

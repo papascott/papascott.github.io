@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://sports.yahoo.com/mlb/recap?gid=240920104&prov=ap">Yahoo! Sports - MLB - Twins 8, White Sox 2</a>: Twins Clinch AL Central</p>

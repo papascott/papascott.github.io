@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="ivil servants trained and certificated in LINUX operating system" href="http://www.undp.org.af/archive/2003/7-july03-linux-training.htm">Linux in Afghanistan</a></p>

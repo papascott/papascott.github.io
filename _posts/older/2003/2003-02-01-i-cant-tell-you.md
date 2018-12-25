@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We had a privacy issue crop up in regards to PapaScott, and I took the archives down until I could think of a good solution. Now they are back up, and I've made a subtle change so that certain people looking for a certain thing won't find it here. I won't tell you what it is. It's a privacy issue.</p>

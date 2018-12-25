@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="But why would you want a car with two steering wheels?" href="http://lwn.net/Articles/67832/">LWN: Cooperative Linux, run Linux kernel and apps under Windows</a></p>

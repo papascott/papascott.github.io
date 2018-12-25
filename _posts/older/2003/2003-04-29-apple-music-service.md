@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Mac users love Apple. Apple doesn't love them back." href="http://www.theregister.co.uk/content/39/30437.html">The Register: Apple music service not available in non-DMCA countries</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I hates them all forever!" href="http://www.onlamp.com/pub/a/onlamp/2003/05/12/languagephilosophy.html">ONLamp.com: What I Hate About Your Programming Language</a></p>

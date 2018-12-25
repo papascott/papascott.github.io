@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>There aren't many times that I miss being in the States. Game 7 of the World Series is one of those times. With the Twins in 1991, I had to listen to Voice of America on shortwave in Mallorca to find out that they had won. Now the games are televised live here, 2 am to 6 am, but only on pay digital TV. We don't pay and we don't have a decoder. So we'll sleep, rooting for the D-Backs in our dreams, and wake up at 6 am to see if they won.</p>
 <p><a href="http://www.nypost.com/news/nationalnews/33361.htm">NY Post</a>: "'It's a best-of-one now,' Arizona Game 6 winner Randy Johnson said. Tino Martinez added, 'Winner takes all, losers go home.'"</p>

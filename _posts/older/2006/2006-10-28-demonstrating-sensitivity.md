@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>German Joys has been running a short series on <a href="http://andrewhammel.typepad.com/german_joys/2006/10/getting_hired_o.html">Getting Hired or Fired in Germany</a>. This entry explains the differences between an American "letter of reference" and a German <em>"Zeugnis"</em>. A <em>Zeugnis</em> is required by law to be positive (at least on the surface), but there are a number code phrases that can be used to express negative opinions. I knew about many of these, but until now I was not aware of the danger of "demonstrating sensitivity to the needs" of my co-workers, and certainly not of the greater danger of showing <em>comprehensive</em> sensitivity.</p>

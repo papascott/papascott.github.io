@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Late</b><br />
 If Iowa looks like <a href="http://iowa.weblogger.com/discuss/msgReader$954">this</a>, I dread even to imagine what Minnesota looks like...</p>

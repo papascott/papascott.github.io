@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/06/2000062604.jpg" height="319" width="350" border="0" alt="crh0627.jpg: Christopher not sleeping" /></p>
 <p>Christopher is 6 months old today. I'm sure in the future we'll celebrate on June 27 as well as on December 27. After all, a 'Sommerfest' is more fun than an afterthought to Christmas. In the meantime, after over 15 years together without children Mama and I have learned an awful lot from our son the past 6 months.</p>

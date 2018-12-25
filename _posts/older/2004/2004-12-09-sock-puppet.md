@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Evil thought: Edmund Stoiber is Angela Merkel's <a title="Stoibers Auftritt: Dieses Land ist Ärmer und kälter geworden - Politik - SPIEGEL ONLINE" href="http://www.spiegel.de/politik/deutschland/0,1518,331359,00.html">sock puppet</a></p>

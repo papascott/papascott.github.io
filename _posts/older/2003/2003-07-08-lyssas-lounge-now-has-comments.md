@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="She can't call herself a stone-age diarist anymore. She's even considering RSS!" href="http://lyssaslounge.diaryland.com/030708_42.html">Lyssas Lounge now has comments</a></p>

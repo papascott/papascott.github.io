@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Thanks, Andrea!" href="http://andrea.editthispage.com/2003/12/05">I nearly forgot my fourth weblog anniversary</a></p>

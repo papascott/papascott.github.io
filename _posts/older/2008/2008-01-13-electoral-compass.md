@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.electoralcompass.com/"></p>
 <div style="text-align:center;"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/01/position.jpg" alt="position.jpg" border="0" width="351" height="235" /></div>

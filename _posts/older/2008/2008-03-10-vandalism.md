@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Remember the <a href="https://www.papascott.de/archives/2007/07/04/coming-soon/">directional sign</a> we had made to motivate us on our way to work? This is how it looked this morning:</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2324088120" title="View 'CIMG0750' on Flickr.com"><img src="https://farm4.static.flickr.com/3291/2324088120_616aee574f.jpg" alt="CIMG0750" border="0" width="375" height="500" /></a></p>

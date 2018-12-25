@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Keep in mind that the three big news stories of this weekend were the capture of Khalid Shaikh Mohammed, the rejection by the Turkish parliament of the deal to allow the US to attack Iraq from Turkey, and the destruction of the first Samoud missiles by Iraq. Here then were the top headlines in this morning's local paper <a title="Hamburger Abendblatt Online" href="http://www.abendblatt.de/">Hamburger Abendblatt</a>:</p>
 <p>* Poll disaster for SPD in the North (local elections in Schleswig-Holstein)</p>

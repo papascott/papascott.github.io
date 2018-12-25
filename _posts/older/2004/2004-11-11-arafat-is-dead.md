@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Nahost: Arafat ist tot - Politik - SPIEGEL ONLINE" href="http://www.spiegel.de/politik/ausland/0,1518,327332,00.html">Arafat is dead</a>. I just saw the story appear in the Spiegel Online sidebar, it was like watching history take place before my eyes. Or not.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.overshadowed.com/mt/archives/000250.html"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/09/leuchtturm.jpg" border="0" title="Link to full image" alt="" /> </a></p>
 <p><a href="http://www.overshadowed.com/mt/archives/000250.html">NYC Tribute in Light by Keith Kin Yan</a> <a href="http://www.kottke.org/remainder/04/09/6477.html">(via kottke)</a></p>

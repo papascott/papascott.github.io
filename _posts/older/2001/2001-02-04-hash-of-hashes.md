@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We were already in upstairs in bed early to rest up for the upcoming Monday when downstairs Mama's cell phone rang. No, it can't be her phone, Mama insisted, since she doesn't have any reception at home. She believed me the second time. I guess her reception at home is only spotty and not non-existant. </p>
 <p>She went right back to sleep, but I was wide awake with a spark of inspiration for the bug database I'm adapting for work. So here I am programming when I should be sleeping. </p>

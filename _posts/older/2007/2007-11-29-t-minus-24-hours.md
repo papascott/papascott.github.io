@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2073533513" title="View 'CIMG0605' on Flickr.com"><img src="3.static.flickr.com/2004/2073533513_511e0b29de.jpg" alt="CIMG0605" border="0" width="500" height="375" /></a></p>
 <p>It's finally starting to look like what we imagined...</p>

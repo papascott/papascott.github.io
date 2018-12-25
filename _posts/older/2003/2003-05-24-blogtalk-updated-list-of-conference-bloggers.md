@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Stop blogging and start paying attention!" href="http://www.hyperorg.com/blogger/mtarchive/001542.html">Joho the Blog: BlogTalk List of Conference Bloggers</a></p>

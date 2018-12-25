@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Jeffrey Zeldman, <a href="http://www.zeldman.com/2006/09/06/five-years/">Five Years</a>:</p>
 <blockquote><p>

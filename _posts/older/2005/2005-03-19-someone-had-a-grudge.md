@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In Germany politics, it almost seems that nothing happens without first being approved in advanced by a party committee, and it's almost a relief when something spontaneous and unexpected occurs. The <a href="https://www.papascott.de/archives/2005/02/21/schleswigholstein-counts-the-votes/" title="PapaScott: Schleswig-Holstein Counts the Votes">minority Red-Green government in Schleswig-Holstein</a> was signed, sealed, but in the end not delivered. One member of the supposed coalition abstained in four secret ballots, und thus <a href="http://www.expatica.com/source/site_article.asp?subchannel_id=26&story_id=18197" title="Expatica - Schleswig-Holstein premier<br />
 quits after Kiel vote debacle">Premier Heidi Simonis fell one vote short</a>  of forming a government and subsequently resigned after nearly 12 years in office. </p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="From the author of one of the very most useful PHP libraries" href="http://laughingmeme.org/archives/001055.html#001055">LaughingMeme: A Few Tips for Writing Useful Libraries in PHP</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We now have a new expat blogger in Hamburg... <a href="http://emilyatmills.blogspot.com/">Emily</a>, who <a href="http://emilyatmills.blogspot.com/2006/09/herzlich-willkommen.html">arrived in town this week</a>. Welcome to the most beautiful city in the world*. It takes a few months to become a real <a href="http://www.jbittner.com/germany/2006/07/second-whiney-expat-bloggers-in.html">whiney expat</a>, but welcome to the club!</p>
 <ul>

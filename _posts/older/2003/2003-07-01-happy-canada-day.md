@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Greatest nation on earth?" href="http://jim.roepcke.com/2003/07/01">Happy</a> <a title="A damned fine nation at any rate. And good beer too." href="http://www.kode-fu.com/shame/2003_06_29_archive.shtml#105707518810817855">Canada Day!</a></p>

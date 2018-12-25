@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="what you see today isn't what you'll see tomorrow" href="http://www.russellbeattie.com/notebook/1006477.html">Russell Beattie: Looking back at Spain</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Los, Scott, geh wählen! [Lummaland]" href="http://lumma.de/eintrag.php?id=253">Lummaland:</a> <a href="http://www.tellanamericantovote.com/">TellAnAmericanToVote.com</a></p>

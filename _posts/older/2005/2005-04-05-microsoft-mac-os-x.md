@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>MacMini with <a title="Industrial Technology & Witchcraft - das Weblog von TextLab" href="http://www.industrial-technology-and-witchcraft.de/index.php/ITW/14164/">Microsoft Mac OS X</a> at Media Markt</p>

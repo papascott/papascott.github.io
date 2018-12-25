@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'by then she (her daughter) will be 30 ;-)'" href="http://www.theworkingmom.net/archives/003932.php">the working mom: I'll get the hang of this whole parenting thing just yet...</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Can you remember the day of the week of the important dates in your life?</p>
 <p>I was married on Tuesday. That's easy, it was the day after Labor Day. My son was born early on Monday morning, the night of a killer storm. We arrived in Germany to stay on Saturday afternoon; all the shops were closed.</p>

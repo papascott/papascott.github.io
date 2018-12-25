@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm going to try posting items about Germany at my Movable Type site https://www.papascott.de, but I'll link to some of them here. For example:</p>
 <p><a href="https://www.papascott.de/">papascott.de</a>: <a href="/2002/01/12/index.php#000101">Who is Edmund Stoiber?</a><br />

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>So, did you all do your <a href="https://www.papascott.de/archives/2006/02/28/myth-and-reality/" title="PapaScott &raquo; Blog Archive &raquo; Myth and Reality">homework</a>? </p>
 <p>The Newsweek article <a href="http://www.msnbc.msn.com/id/11435567/site/newsweek/" title="Myth and Reality - World Business- Newsweek International Editions - MSNBC.com"> Myth &amp; Reality</a> is in our experience mostly correct. Germany seems to go out of its way to make it difficult to be parents in a two-career household, and career women. Parents are allowed 3 years of parental leave, with employers bearing most of the costs... with the consequence that employers simply don't hire women unless they can afford for them to leave for 3 years. Second incomes are taxed at such a high rate that after taxes, transportation and child care, there is no financial incentive left to seek work. And Germany's half-day school system ensures that second earners can work at best part-time. </p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Santa's elves give extra points for helping Oma.</p>
 <p><img alt="crh_dishes1.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/12/crh_dishes1.jpg" width="320" height="427" border="0" /></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Rule Four: Make them afraid." href="http://www.kode-fu.com/shame/2003_05_04_archive.shtml#200264249">AccordionGuy: Life is like cab driving. There are four rules</a></p>

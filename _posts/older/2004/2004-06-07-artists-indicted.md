@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://booknotes.weblogs.com/2004/06/07">Craig's BookNotes: Artists indicted for possessing biological test equipment</a> If non-genetic-manipulated food is outlawed,  will only outlaws will have non-GM food?</p>

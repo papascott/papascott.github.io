@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Forcing 3-dimensional pegs into 2-dimensional holes" href="http://www.sitepoint.com/article/1105/1">SitePoint : Storing Hierarchical Data in a Database</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Slate: <a href="http://slate.msn.com/id/2103170/" title="Socialist Americans, Neoliberal Europeans">The Capitalism of Soccer - Why Europe's favorite sport is more American than baseball</a> (<a href="http://www.kottke.org/remainder/04/07/5932.html">via kottke.org</a>)</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We three took a field trip to Bremen, where Mama has a professional interest in the <a href="http://www.space-park.bremen.de">Space Park Bremen</a>, a edutainment/shopping complex under construction on the harbor scheduled to open next fall. But can it really attract 12 million visitors a year?</p>
 <p><a href="http://www.dansanderson.com/blogtracker/">blogtracker</a> might be a good way to keep track of favorites with the new <a href="http://www.weblogs.com">weblogs.com</a>. It takes a long time select entries, though, since there are some 5000 to choose from.</p>

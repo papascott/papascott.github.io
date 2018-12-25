@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="German-Turkish Film 'Head-On' (Gegen die Wand) directed by Fatih Akin" href="http://www.dw-world.de/english/0,3367,1441_A_1114728_1_A,00.html">Hamburg director wins Golden Bear for best film at Berlin Film Festival</a></p>

@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Nico is hosting a <a href="http://lumma.de/eintrag.php?id=3658">Gl&uuml;hwein get-together</a> at the Rathausmarkt in Hamburg tomorrow evening (Tuesday, 4 Dec) at 6:30 pm. By hosting I mean Nico has set the time and place, not that he's buying the first round. But I could be wrong. :-)</p>
 <p>I'll try to be there at least for the beginning. How long I stay depends on whether Christopher comes with me or not.</p>

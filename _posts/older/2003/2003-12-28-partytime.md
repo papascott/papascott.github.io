@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today we had all the relatives over for Christopher's birthday (a day late, but he can't read a calendar yet). As a highlight we served <a title="code: theWebSocket; - Cheesecake" href="http://www.ahawkins.org/mt/archives/000157.html">Alwin's cheesecake</a>, which went over very well with the guests, even my mother-in-law the super-baker (although next time I will use <em>Schmand</em> instead of <em>Saure Sahne</em> for sour cream). And Christopher scored more presents. But now he should be gifted out for the next year.</p>

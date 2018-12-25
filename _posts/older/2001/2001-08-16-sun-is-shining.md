@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/08/crhhatlaugh.jpg" height="225" width="300" border="0" alt="crhhatlaugh.jpg: " /></p>
 <p>Some <a href="http://www.shcon.com/index.php?album=08_2001%2F20010816&dispsize=512&start=11">happy meal pictures</a> from today.</p>

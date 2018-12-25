@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My folks have finalized their plans to meet us in Las Vegas the week of April 21. They'll be able to have as much of Christopher as they can handle!</p>
 <p>I'm trying out <a href="http://brentashley.manilasites.com/2002/02/24">BlogChat</a>, which is not only a wonderful way to waste time chatting, but might actually have some practical use (chatting with my parents, or with Mama upstairs when we're on our respective PCs). Here's the link... I'll try it out this evening (German time), so it it says I'm online, you can try it out:</p>

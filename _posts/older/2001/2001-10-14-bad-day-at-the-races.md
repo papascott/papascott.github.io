@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It could have been a nice pleasant Indian Summer Sunday, but after Christopher decided that 5:30 was a fine time to wake up, and spending 3 hours hanging a single curtain rod for Mama's mother, the day was pretty much shot.</p>
 <p>Two comments from German newscasts this evening seem to have some truth. ZDF: As the Americans have no concrete plans for what happens after the Taleban, the attacks on Afghanistan are nothing but shots in in the air. ARD (on the anthrax scare): Fear is the main weapon of terrorists. Right now in the United States, that weapon is being used very effectively.</p>

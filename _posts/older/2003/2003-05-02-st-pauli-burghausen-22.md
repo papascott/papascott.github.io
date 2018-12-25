@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Goodbye 2nd League for St. Pauli" href="http://www.ndr.de/ndr/sport/arten/fussball/aktuell/2buli_vornach31.html">NDR Online: St. Pauli - Burghausen 2:2</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="What to install on my PowerBook, Part 2" href="http://www.ahawkins.org/mt/archives/cat_apple.html">code: theWebSocket; - Apple Archives</a></p>

@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>From <a href="http://www.ft.com/cms/s/2065c45e-d65d-11db-99b7-000b5df10621.html">The Financial Times</a>:</p>
 <blockquote><p>

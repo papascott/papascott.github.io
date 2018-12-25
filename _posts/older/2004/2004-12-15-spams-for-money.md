@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Der Schockwellenreiter [Kommentarspammer enttarnt]" href="http://blog.schockwellenreiter.de/7208">Der Schockwellenreiter</a> has found that the <abbr title="search engine optimizing">SEO</abbr> consultant <a href="http://www.hurra.de/">Hurra Communications</a> attempts to increase the Google page rank of their clients by submitting comment spams to weblogs in their names. The case in question involved German blogs, but I'm sure if you hire them, they'd be willing to spam English language blogs as well.</p>

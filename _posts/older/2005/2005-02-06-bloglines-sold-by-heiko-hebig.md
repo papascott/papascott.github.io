@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.hebig.com/archives/002836.shtml" title="Bloglines sold by Heiko Hebig | hebig.com"><img alt="bl_hh.png" src="https://www.papascott.de/wordpress/wp-content/uploads/2005/02/bl_hh.png" width="380" height="262" border="0" /></a></p>
 <p><a href="http://www.hebig.com/archives/002836.shtml" title="Bloglines sold by Heiko Hebig | hebig.com">Bloglines sold by Heiko Hebig</a>. I didn't realize it was his to sell.</p>

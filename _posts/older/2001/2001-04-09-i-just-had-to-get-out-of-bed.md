@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/04/blossom.jpg" height="320" width="240" border="0" alt="Blossom: " /></p>
 <p><i><b>Our first blossom in the garden. Spring is finally here. Thanks to Daylight Savings Time I can still see what's going on in the garden when I get home!</b></i></p>

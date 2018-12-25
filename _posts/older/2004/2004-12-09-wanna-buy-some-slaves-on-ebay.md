@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="vowe dot net :: Weird sponsored links" href="http://vowe.net/archives/005361.html">vowe: Wanna buy some slaves on ebay?</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/04/netter-versuch-mama.jpg" alt="Netter Versuch, Mama" /></p>
 <p>MamaMaus brought home this picture and said it would be good for PapaScott. File it under McDonald's humor that McDonald's people find funny. If you've never sent a child to a German school, this is obviously a school lunch <em>Pausenbrot</em> in a different wrapping.</p>

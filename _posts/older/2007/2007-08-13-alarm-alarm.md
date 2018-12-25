@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The boss changed a few things at the restaurant while Christopher and I were gone, and one of them was a new alarm system. The system had some startup glitches, but the repairman was there on Saturday to fix a broken sensor. Since I had the late shift on Saturday as my first day back, I was the lucky one to see if the system now worked.</p>
 <p>I was still a little groggy from jet lag when I came in last night, but I got a chip and the general instructions to activate the system (push star, wave the chip, push star again). If the green light comes on, the system is activated. If not, I have to double check all the doors and try again. OK, I think I got it. I go through the late shift, we come out at 5:15 am, and I do the star-chip-star thing. The green light blinks a few times and goes out.</p>

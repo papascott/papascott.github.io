@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The second set of presentations is somewhat more relevant and interesting. Presentators from Iran, Poland, and Spain are explaining about the role of blogs in their countries, which are more social, communicative, and <i>friendly</i> than the world the technologists were talking about this morning. I know which world I'd rather be a part of.</p>

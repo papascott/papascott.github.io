@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In the <em>Gymnasium</em> schools in our state, students start learning a second foreign language (after English) in grade 6. The schools we looked at all offered a choice from Latin, French and Spanish. The public schools all required a choice upon enrollment in the 5th grade, over a year before the courses would actually begin.</p>
 <p>In Christopher's private school, they don't need to choose until April 1 of their 5th grade year. After winter break, the students had a chance to try out all 3 languages for a couple of days to help them make their decision.</p>

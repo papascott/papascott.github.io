@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Can you live with 25 vacations days per year?" href="http://www.russellbeattie.com/notebook/">Russell Beattie: Vacation Time (again)</a></p>

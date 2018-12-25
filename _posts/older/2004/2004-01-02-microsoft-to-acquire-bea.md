@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If so, my employer would suddenly become a Microsoft developer" href="http://radio.weblogs.com/0001011/2004/01/02.html#a6023">Microsoft to acquire BEA?</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Talk to your toddler in 20 words or less" href="http://www.usefulwork.com/shark/archives/000706.html#000706">Shark Blog: A David-English Dictionary</a></p>

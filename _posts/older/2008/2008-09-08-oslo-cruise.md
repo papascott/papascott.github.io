@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Noone solved the riddle of our weekend destination in my last post. Indeed, noone even seemed to recognize that it was a riddle. Frauke, Christopher and I celebrated our 25th wedding anniversary in a suite on the MS Color Fantasy, a ferry that shuttles between Kiel and Oslo. </p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2839637646" title="View 'CIMG0867' on Flickr.com"><img src="4.static.flickr.com/3048/2839637646_84d0ae5309.jpg" alt="CIMG0867" border="0" width="375" height="500" /></a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>A municipal unit of the CDU is making headlines for their website. Not for their excellent text or design, but for their keywords metatag. It seems the webmaster of the <a href="http://www.cdu-fuldatal.de">CDU Fuldatal</a> (near Kassel) read that one can increase site traffic by including popular search terms as keywords, even if they have nothing to do with your site. So he <a href="http://www.spiegel.de/netzwelt/politik/0,1518,207835,00.html">included 344 keywords</a>, including subjects like sex, war, the Holocaust and Nazis. And dozens of more mundane subjects (Airbags? Woodstock?). Alas, the keywords have already been taken down, but for now the orignal meta tags are still in the <a href="http://216.239.39.100/search?q=cache:PR6q3akIp7YC:www.cdu-fuldatal.de/">cache at Google</a>. As a public service, I'm reproducing the keywords below. Will my site visits increase as a result? <b>Update</b> Damn! I see <a href="http://www.pepilog.de/eintrag-00299.htm">Pepilog</a> has beat me to it!<br />
 <!--more--><br />

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Since getting our DVD player back, I've been re-watching various scenes of "The Matrix". DVDs are nice for that. Especially on gloomy rainy Pentecost holiday weekends. They say the weather will clear up by Tuesday. </p>
 <p>I've talked the things we saw in Amsterdam, but not yet about the people. In no particular order... (links and pictures to follow)</p>

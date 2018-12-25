@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The good news is that my brother Steve, 4 years younger than I, is now awake and is stable after suffering a cardiac arrest on Tuesday. His condition is complicated by the fact that he had just started chemotherapy for the 2nd recurrence of cancer and had just recovered from a broken ankle which had delayed his cancer diagnosis and treatment.</p>
 <p>The good news was that he was in the local hospital already when the arrest occurred, with what he though was serious heartburn, so he was resuscitated very quickly. He was airlifted to the regional cardiac center in St. Cloud, MN, where I am now, and placed in induced hypothermia (effectively a cold coma) to preserve brain function. Wednesday night they started to raise his temperature, and Thursday evening he opened his eyes and could respond to our voices.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I don't mention Mama or her employer (a firm I'm sure you've heard of) by name here anymore, since she wants to avoid being googled. But this afternoon she opened a location in the next town to where we live; silently, so to speak, since her ad in the local paper said the the opening would be tomorrow. And they were still overrun by customers in the first hour. So she's very happy, and she won't mind going back tomorrow to help out, even though it's a holiday.</p>

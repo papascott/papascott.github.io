@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sorry for the relative silence here. Sixty-hour work weeks (40+ in the store plus office work at home) put a real crimp in your blogging. I can't really complain to my boss, though, she's working even more.</p>
 <p>We're very happy with the first 10 days. We took over a wonderful crew and management team that is intelligent and motivated. We're investing our crew labor costs by increasing staffing on all shifts, and we're already seeing above-market sales increases. If you staff it, they will come. </p>

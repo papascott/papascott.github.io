@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I hope she makes a mint" href="http://www.buzzmachine.com/archives/2003_08.html#004541">Private Lynch honorably discharged, so she's now free to tell/sell her story</a></p>

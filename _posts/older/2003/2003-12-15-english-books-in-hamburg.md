@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="A Public Service Announcement" href="http://shamrockshire.yi.org/2003/12/20031208.html#English_Books">English Books in Hamburg</a></p>

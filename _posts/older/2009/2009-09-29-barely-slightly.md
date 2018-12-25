@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It's been two days since the German Bundestag election, which a center-right coalition of Union and FDP was able to win, and I haven't yet thought of anything to say. I've been waiting for <a href="http://claireseuroamerica.blogspot.com/">someone more intelligent than I</a> to comment, but since she hasn't posted yet, I'll have to wing it.</p>
 <p>The best news is that the worst result was avoided, namely the continuation of the do-nothing grand coalition of Union and SPD with both parties shackled to one another. Whether or not one agrees with the direction, at least the new government will have a direction, which the grand coalition (by definition) did not.</p>

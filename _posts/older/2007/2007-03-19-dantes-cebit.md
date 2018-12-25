@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm proud to say that for the 9th consecutive year, I will not be attending the CeBIT in Hannover, and that if you want to meet me, I won't be there.</p>
 <p>Back before I worked I worked in IT, I used to go every year. These days I have no interest. I think that if Dante were alive today, he'd write about the circles of CeBIT insteal of the <a href="http://en.wikipedia.org/wiki/Dante%27s_Inferno#The_Circles_of_Hell">circles of Hell</a>.</p>

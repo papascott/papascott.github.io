@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If even only half of them are true..." href="http://israpundit.com/archives/001803.html">Israpundit: 22 Truths</a></p>

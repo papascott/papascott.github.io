@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Just so you know, a USB memory stick can survive 40&deg;C in the washing machine, although I  hope the condensation inside will eventually evaporate.</p>

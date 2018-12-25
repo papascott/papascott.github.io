@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yesterday a 500 pound American bomb from World War II was disarmed just across the street from my office. It was discovered by construction workers at the Bavaria St. Pauli brewery the day before. All buildings within 200 yards were evacuated, all streets were closed within 500 yards, as were the U- and S-Bahn. The red-light district on the Reeperbahn was deserted. We weren't allowed to leave our building for 3 hours. And production was halted at the brewery for an entire day. </p>
 <p>Hamburg was very heavily bombed during the war, and out of the hundreds of thousands of bombs that were dropped, some 10% were duds. Even today, a new one is discovered every month or so, usually at construction sites. A bomb survey is required for any building permit in Hamburg. Aerial photos taken by the US and British air forces after the bombing raids are examined... the duds are visible in the photos as pinholes without craters. However, the bomb yesterday was not discovered by a photograph, but by an unlucky bulldozer driver.</p>

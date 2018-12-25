@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The best lesson for surviving as an expat I learned my first quarter... in fact, my first weeks at the University of Minnesota.</p>
 <p>That lesson came early in the "Introduction to Theater" course taught by the legendary Arthur Ballet. My best friend Beth from high school was going to major in Theater, and even though I planned to major in International Relations, I had to take some Liberal Arts classes, so we took the class together. It was one of the most popular courses on campus, even though Prof. Ballet's health was poor and we often saw his lectures on video tape rather than live and in person.</p>

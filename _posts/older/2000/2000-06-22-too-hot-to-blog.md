@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Weblogging has been intermittant to non-existant the past few days. Record high temperatures of 95 degrees have made home and office uncomfortable.</p>

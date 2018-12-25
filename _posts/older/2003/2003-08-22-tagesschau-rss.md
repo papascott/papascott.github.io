@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="But it doesn't conclude with the weather" href="http://www.hebig.com/archives/001400.html">Tagesschau RSS</a></p>

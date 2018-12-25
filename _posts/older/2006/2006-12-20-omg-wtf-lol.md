@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The <a href="http://ssshotaru.homestead.com/files/aolertranslator.html">English-to-12-Year-Old-AOLer Translator</a> can be amusing...</p>
 <blockquote><p>

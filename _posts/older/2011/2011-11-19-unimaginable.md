@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Lately I've gotten back to one of my favorite pleasures reading mystery novels. When we moved to Germany we shipped several boxes full of used paperbacks. These days with a Kindle, collecting novels is much easier. In case you're wondering, I've got Raymond Chandler complete ready to re-read, and lately re-read <a href="http://www.amazon.com/Vintage-Crime-Black-Lizard-ebook/dp/B0036S4EVE/ref=sr_1_3?s=digital-text&amp;ie=UTF8&amp;qid=1321642259&amp;sr=1-3">Blue City</a>, an early Ross MacDonald. Right now I'm reading the delightful books by <a href="http://en.wikipedia.org/wiki/Colin_Cotterill">Colin Cotterill</a> featuring Dr. Siri, the reluctant elderly coroner in post-war Laos (think CSI-Vientiane).</p>
 <p>It's a love my wife and I both share (and judging form how he likes CSI-type shows, our son will as well). There's something about the combination of the extreme and banal, the murder and the police work, that a good author can use to make astute observations about society.</p>

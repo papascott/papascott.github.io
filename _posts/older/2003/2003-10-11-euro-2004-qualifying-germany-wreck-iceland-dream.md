@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Despite the wailing and gnashing of teeth in the media, Germany wins the group" href="http://www.euro2004.com/competitions/EURO/fixturesresults/round=1579/match=69023/Report=RP.html">EURO 2004 Qualifying: Germany wreck Iceland dream</a></p>

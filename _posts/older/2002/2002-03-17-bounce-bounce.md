@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today is the official spring opener. The patio table has been taken out of the shed and has been reassembled for your outdoor pleasure.</p>
 <p>How does a two-year-old know that it's the one day of the week his parents can sleep late, and wake up them at at 5:30?</p>

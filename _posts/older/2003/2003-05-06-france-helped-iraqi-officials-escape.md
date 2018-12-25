@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="It's like Raoul Wallenberg in reverse" href="http://www.washingtontimes.com/national/20030506-32981825.htm">Washington Times: France helped Iraqi officials escape</a></p>

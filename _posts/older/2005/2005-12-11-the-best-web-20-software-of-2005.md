@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://web2.wsj2.com/the_best_web_20_software_of_2005.htm" title="The Best Web 2.0 Software of 2005 (web2.wsj2.com)">The Best Web 2.0 Software of 2005</a>, so I understand the buzzwords my boss uses.</p>

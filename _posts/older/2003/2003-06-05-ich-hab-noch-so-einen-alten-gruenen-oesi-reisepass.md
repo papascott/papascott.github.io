@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Ich auch, ist aber einen alten, grünen US-Reisepass, handgefertigt vom Konsulat " href="http://godany.blogspot.com/2003_06_01_godany_archive.html#105476016100403707">Godany: Ich hab noch so einen alten, grünen Ösi-Reisepass.</a></p>

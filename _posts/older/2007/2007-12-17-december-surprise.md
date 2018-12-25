@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2117336884" title="View 'card 2007' on Flickr.com"><img src="https://farm3.static.flickr.com/2239/2117336884_495c07304e_m.jpg" alt="card 2007" border="0" width="171" height="240" align="right" /></a> We're absolutely unprepared for Christmas this year (it always comes so unexpectedly every December). At work we've set the Christmas party for the end of January and are calling it a "End of Year" party. People seem to have more time in for Christmas parties in January anyway.</p>
 <p>At least I got our photo cards ready for our friends and relatives in the States (as always at the <a href="http://www.usps.com/cardstore/">USPS Card Store</a>, where they mail the cards for us at domestic rates). Nothing new in the card if you read PapaScott regularly, but I did come up with a couple of good lines...</p>

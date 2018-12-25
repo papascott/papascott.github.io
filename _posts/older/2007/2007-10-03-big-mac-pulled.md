@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/1475418067" title="View 'CIMG0243' on Flickr.com"><img src="https://farm2.static.flickr.com/1332/1475418067_66d4167650.jpg" alt="CIMG0243" border="0" width="500" height="375" /></a></p>
 <p>This is a 60-cm tall model Big Mac (they mistakenly put the lettuce on top of the cheese instead of underneath, but we can forgive that).</p>

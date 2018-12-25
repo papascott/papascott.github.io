@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Die Zeit on Linux and Open Source" href="http://www.zeit.de/2003/44/Open_Source">Programmierer aller Länder vereinigt Euch!</a></p>

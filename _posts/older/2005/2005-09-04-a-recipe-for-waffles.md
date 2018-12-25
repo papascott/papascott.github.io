@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://lonestar.texas.net/~fitch/recipies/waffles.html" title="A Recipe for Waffles">A recipe for waffles</a>, since we never seem to have one handy when Christopher is hungry for waffles.</p>

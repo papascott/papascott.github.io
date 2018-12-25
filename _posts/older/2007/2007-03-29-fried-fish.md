@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Thanks to <a href="http://burningbird.net/cephalopods/three-for-the-cephalopods/">Shelley for pointing</a> to this <a href="http://cephalopodcast.com/blog/2007/03/28/weird-aquaria-fast-food-fryer-live-goldfish-tank/">combination goldfish tank and fast food fryer</a>. But I doubt that our field consultant would approve it.</p>
 <blockquote><p>

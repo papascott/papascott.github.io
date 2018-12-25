@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The Economist blog Free Exchange on <a href="http://www.economist.com/debate/freeexchange/2007/01/crosscountry_perceptions.cfm">perceptions of health care</a>:</p>
 <blockquote><p>

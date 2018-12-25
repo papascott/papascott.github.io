@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It will go unnoticed outside of Germany, but yesterday Friedrich Merz <a title="Bloomberg.com: German CDU's Merz Quits as Deputy Party Leader in Parliament" href="http://quote.bloomberg.com/apps/news?pid=10000100&sid=a2rf3q1E8yKQ&refer=germany">resigned all of his party leadership positions in the CDU</a>. Merz was the CDU fiscal and economic policy expert, and developed the CDU 3-rate tax reform plan. He was shoved aside as party faction leader by Merkel after the 2002 election. </p>
 <p>His departure is a sign of the increasing Stoiberization of the CDU, away from concrete policy and towards coddling client voters (commuter subsidy, home-owner subsidy) and emotional polarization (Bundeswehr as domestic police, petition on Turkey). If the Union fails to gain power in 2006, it will be symbolic of the Union's failure to take advantage of Schr&ouml;der's mid-term weakness. </p>

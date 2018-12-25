@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Still no paychecks for September. We're supposed to be getting paid any day now. I guess that makes us creditors.</p>
 <p>Actually, we get paystubs, since being Germany, paychecks are direct deposited. But no paystubs either, meaning the money hasn't yet been transferred, and the money always takes 2 or 3 days to hit the bank.</p>

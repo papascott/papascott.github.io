@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Like the entire world, we've been horrified by the news and pictures from Beslan, where likely 500 hostages were killed in terrorist attack on a school. For Americans, Beslan is half a world away. In Germany we are somewhat closer, both geographically and through the thousands of immigrants from Russia. Our local paper had the story of <a href="http://www.abendblatt.de/daten/2004/09/04/337176.html" title="Diana - in Hamburg verfolgt sie das Drama um ihre Heimat">Diana from Beslan</a>. I've translated portions (and the fact that a certified Russian teacher can only to Germany only as an Au-Pair also speaks volumes).</p>
 <p>Hamburg  - Diana Kanukowa (23) can hardly believe the television pictures she is seeing from her hometown of Beslan. She almost would have been at the school as a teacher. "I had an offer last year. But I wanted to go abroad first. That's why I'm here and not there." Diana studied German and English in Ossetia. Since February she has been an Au-Pair for a family in Hamburg.</p>

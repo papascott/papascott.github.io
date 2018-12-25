@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Yes, those lying, imperialistic dogs have lied to you again." href="http://windsofchange.net/404">Winds of Change 404 Page</a></p>

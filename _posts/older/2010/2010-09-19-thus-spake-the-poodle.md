@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="https://www.papascott.de/archives/2010/09/15/the-poodle-is-watching/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2010/09/Der_Pudel-224x300.jpg" alt="The Poodle" align="right" /></a>I promised to explain <a href="https://www.papascott.de/archives/2010/09/15/the-poodle-is-watching/">the poodle</a>.</p>
 <p>Last weekend the 5th annual Whiney Expat Blogger Meet-Up was held in Hamburg. Tradition holds that once a date and location are decided (by democratic vote in a process somewhat similar in length and complexity to choosing a US presidential candidate), the local bloggers, in this case <a href="http://lettershometoyou.wordpress.com/">Ian</a>, <a href="http://noapathyallowed.com/">No Apathy Allowed</a>, <a href="http://transkitten.com/">Transkitten</a> and I, plan the weekend.  Over the years a successful formula for the weekend has evolved: a side-trip on Friday, dinner Friday evening, a walking tour Saturday morning followed by lunch, disco nap in the afternoon, dinner and (gay) bar hopping Saturday night, and brunch on Sunday.</p>

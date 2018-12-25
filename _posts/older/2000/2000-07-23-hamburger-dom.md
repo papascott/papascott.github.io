@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/07/dom.jpg" height="230" width="345" border="0" alt="dom.jpg: " /> </p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/07/dom2.jpg" height="171" width="125" align="left" alt="dom2.JPG: " border="0" /> Earlier this week, <a href="http://andrea.editthispage.com/2000/07/19">Andrea</a> took us to the <a href="http://www.wdr.de/domcam/index.html">Dom</a> in Cologne. This is the <a href="http://www.hamburger-dom.de/englisch_frame.html">Dom</a> in Hamburg, which is not a cathedral, but instead the biggest carnival in northern Europe, running 3 times a year for 4 weeks at a time. The summer Dom starts next Friday. It's located on the Heiligengeistfeld, just behind my office building. They already started assembling the giant ferris wheel last week, which we can watch from our Marketing<br />

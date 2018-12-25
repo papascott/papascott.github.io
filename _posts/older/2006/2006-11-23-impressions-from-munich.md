@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama and I were in Munich for a 25 hours last weekend. I hadn't been in Munich for a few years, here are a few impressions.</p>
 <ul>

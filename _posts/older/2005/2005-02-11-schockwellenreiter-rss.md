@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Der Schockwellenreiter: Weblog-Archiv 11.02.2005" href="http://www.schockwellenreiter.de/2005/02/11.html#derSchockwellenreiterHatWiederEinenRssfeed">The Schockwellenreiter has a new RSS feed</a>, in case you're like me and only read Bloglines and wondered where Jörg has been the past few days...</p>

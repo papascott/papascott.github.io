@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><i>Merry Christmas to all, and to all a good night!</i></p>
 <p>And of course it rained yesterday, so no white Christmas here. All the snow from last weekend was washed away.</p>

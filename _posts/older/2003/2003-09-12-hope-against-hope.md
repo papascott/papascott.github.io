@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="BuzzMachine... by Jeff Jarvis" href="http://www.buzzmachine.com/archives/2003_09.html#004630">BuzzMachine</a> (on travelling to the memorial service yesterday): "The subway -- the 1 -- pulls past the closed World Trade Center stop and, as it always does, it slows as if in respect"</p>
 <p>The subways in Berlin used to do the same at the boarded-up stations on the east side of the wall, as if they had hope against hope that a passenger would somehow be waiting at the platform.</p>

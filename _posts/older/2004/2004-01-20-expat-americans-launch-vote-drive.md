@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="American Voices Abroad" href="http://news.bbc.co.uk/2/hi/americas/3411185.stm">BBC: Expat Americans launch vote drive</a></p>

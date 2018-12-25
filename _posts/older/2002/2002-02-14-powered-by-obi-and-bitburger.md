@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're watching the Olympics this evening, Christopher and I. He likes high speed events, or spectatacular falls. I guess that means he likes ski-jumping.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="is this where you can empty your iPod?" href="http%3A//gizmodo.net/archives/001917.php">Gizmodo: iLoo. WWW in the WC</a></p>

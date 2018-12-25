@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Reuters: <a href="http://dailynews.yahoo.com/h/nm/20000118/ts/germany_opposition_4.html">Kohl Snubs Party After Scandal Ultimatum</a></p>
 <p>Facing an ultimatum from his Christian Democratic party to reveal the sources of illegal campaign contributions he personally accepted, former Chancellor Helmut Kohl chose instead to resign as honorary party chairman. He was party leader for over 25 years, until last year.</p>

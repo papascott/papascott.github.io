@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When I <a href="https://www.papascott.de/archives/2006/12/06/pinch-my-grits/">first talked about my back pain</a> last month, I had just seen our family doctor and was going to wait a week to see whether the prescription would make things better. The pain improved somewhat, so I didn't go to the orthopedist right away. But it didn't go away either. The pain in my left leg was less intense, but was more persistent. I skipped the pain pills some days, and they didn't seem to make much difference. Over Christmas it was clear to me that more help was needed, and I went to the orthopedist last Thursday, the same doctor who got MamaMaus up and running so quickly after her accident in July.</p>
 <p>He bent my legs a couple of times, took some x-rays, and was fairly certain I had a herniated disc. He put me on his standard 5-point program:</p>

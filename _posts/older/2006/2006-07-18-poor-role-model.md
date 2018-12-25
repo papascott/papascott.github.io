@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.amazon.com/gp/product/0836218256"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/07/drooling.jpeg" alt="drooling" /></a></p>
 <p>When Christopher was born, his uncle gave him a framed print of <a href="http://en.wikipedia.org/wiki/Calvin_and_Hobbes">Calvin and Hobbes</a> for his bedroom.</p>

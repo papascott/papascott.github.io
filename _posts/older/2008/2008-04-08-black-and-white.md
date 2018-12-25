@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We haven't made any progress on the house pet front, but the ongoing negotiations are encouraging. We do have some further details on why Christopher is insisting on a dalmatian.</p>
 <p>>Mama: What about a beagle. They're cute and have such floppy ears.</p>

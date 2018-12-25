@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Gentlemen, shut down your laptops!" href="http://jej.notatnik.net/blog/000974.html">Marysia Cywinska-Milonas: Don't blog me, I'm real!</a></p>

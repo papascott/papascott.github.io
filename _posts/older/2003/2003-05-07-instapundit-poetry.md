@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Read the whole thing. Indeed." href="http://www.instapundit.com/archives/009357.php%23009357">Instapundit poetry</a></p>

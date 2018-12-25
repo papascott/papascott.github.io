@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Both <a title="BORDBUCH: Dresden and The British Connection" href="http://www.bordbuch.net/archives/2005/02/dresden_and_the_1.html">Gerd Stodiek</a> from Lübeck and  <a title="Jonathon Delacour: Denunciation" href="http://weblog.delacour.net/archives/2005/02/denunciation.php">Jonathon Delacour</a> from Australia have recently written about the upcoming anniversary of the bombing of Dresden. I hope they will read each others posts.</p>

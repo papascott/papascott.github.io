@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/458505383/" title="Photo Sharing"><img src="1.static.flickr.com/211/458505383_869cae7c37.jpg" width="500" height="375" alt="IMG_1964" /></a></p>
 <p>As you can see, we've started setting up our business. </p>

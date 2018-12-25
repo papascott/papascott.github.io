@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Jeez, you type in a box, and press Save. What's to talk about?" href="http://www.calpundit.com/archives/001867.html">What software? You mean like Blogger and Movable Type?</a></p>

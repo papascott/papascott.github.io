@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>John Van Dyk: <a href="http://vfih.editthispage.com/2000/01/30">Iowa in Winter</a></p>
 <p>Brent Simmons: <a href="http://inessential.com/linux/dellSetup">Setting up a Dell Linux Box</a>. <i>Sounds like they took all the fun out of it ;-)</i></p>

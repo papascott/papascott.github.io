@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Air India - note in paritcular the European destinations" href="http://www.airindia.com/network/route.htm">Would you trust an airline with this map?</a></p>

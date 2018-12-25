@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As <a href="http://andrewhammel.typepad.com/german_joys/2008/01/the-more-jobs-y.html">German Joys states</a>, the following <a href="http://thinkprogress.org/2008/01/16/bachmann-jobs/">quote from Rep. Michele Bachmann (R-MN)</a> wouldn't fit anywhere in German politics:</p>
 <blockquote><p>

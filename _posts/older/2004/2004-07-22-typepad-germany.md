@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.hebig.com/archives/002336.shtml" title="I thought that's what he meant by 'something good' this morning">Heiko announces TypePad Germany</a></p>

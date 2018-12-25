@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Double Voyeur" href="http://lyssaslounge.diaryland.com/030526_35.html">Lyssas Lounge: Wenn die Mutter mit dem Sohn</a></p>

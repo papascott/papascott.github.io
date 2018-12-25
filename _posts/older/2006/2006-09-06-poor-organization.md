@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>How can you tell you've been in Germany too long? When you think the <a href="http://www.chillmost.com/2006/09/back-from-amsterdam.html">Dutch are poorly organized</a>.</p>

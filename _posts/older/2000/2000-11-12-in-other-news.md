@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Three upper teeth appeared during the night, bringing Christopher's tooth total to 6. <b>Update:</b> After performing a hand recount, we decided that indeed 4 teeth have broken through on top. (Mama adds that they are not quite big enough to completely punch through the card yet, so a machine count wouldn't pick them all up.)</p>
 <p><a href="http://ars.userfriendly.org/cartoons/?id=20001112&mode=classic">Today's User Friendly</a> has the real reason the count in Florida is taking so long...</p>

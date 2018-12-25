@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="[bronski.net]" href="http://bronski.net/archiv/2004/12/20/schneller-rechner/">bronski.net: Gingerbread PC</a></p>

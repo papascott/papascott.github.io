@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Raskal Trippin wants a logo to warn expat women <a href="http://raskal.typepad.com/raskal_trippin/2006/10/dont_get_pregna.html">Don't Get Pregnant in Europe</a>. She's had to defend herself for not drinking, avoiding coffee, simply being American, and then there's the insensitive receptionists:</p>
 <blockquote><p>

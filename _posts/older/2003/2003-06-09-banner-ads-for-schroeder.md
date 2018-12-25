@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>At least twice when browsing through German online news sites, I've run into the following banner ad for Schröder's reform package 'Agenda 2010':</p>
 <p><a href="http://www.bundesregierung.de/Themen-A-Z/-,9757/Agenda-2010.htm" title="Everyone's talking about Schröder's plans. _Here_ they are. Agenda 2010."><img alt="banner_hfett.gif" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/06/banner_hfett.gif" width="468" height="60" border="0" /></a></p>

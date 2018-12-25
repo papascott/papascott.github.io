@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/91148475/" title="Photo Sharing"><img src="https://static.flickr.com/41/91148475_00d1802a8a.jpg" width="500" height="375" alt="IMG_0518" /></a></p>
 <p>Never bring a knife to a snowball fight. FC St. Pauli leads Werder Bremen 3-1.</p>

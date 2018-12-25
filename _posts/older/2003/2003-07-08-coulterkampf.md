@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="What am I doing linking to  Andrew Sullivan?" href="http://www.andrewsullivan.com/main_article.php?artnum=20030705">CoulterKampf:<br />
 The Problem With Ann</a></p>

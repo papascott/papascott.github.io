@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://weblog.burningbird.net/archives/2004/06/11/wordpress-and-bugs/">Shelley</a> had a bad experience with the new WordPress bug tracker <a href="http://mosquito.wordpress.org/">Mosquito</a>, and <a href="http://photomatt.net/archives/2004/06/11/mosquito-bites/">Matt</a> (among others) thought she was being a poor sport about it. Nonetheless, Shelley does have a good point. To be successful, WordPress has to provide support to users that is both effective and understandable. </p>
 <p>Bug trackers are a subject near and dear to my heart, since maintaining them is one of my main responsibilities at work (using <a href="http://www.mantisbt.org/">Mantis</a>, the same software behind Mosquito). My bug trackers at work take a relatively closed approach. The customer communicates solely with a supporter, not directly with the developers. The support is able to solve most problems on his own. If he needs help, his communication with the developers in the tracker are flagged as "private", and are invisible to the customer. We thus use Mantis as both a support tool and a development tool, but the two functions are kept separate. </p>

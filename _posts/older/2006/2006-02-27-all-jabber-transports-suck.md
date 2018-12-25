@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.usrportage.de/archives/538-About-ejabberd,-transports,-lazy-Gentoo-developers-and-the-gloriousness-of-Schokokeks.org.html" title="About ejabberd, transports, lazy Gentoo-developers and the gloriousness of Schokokeks.org - /usr/portage">All Jabber transports suck</a>,  and all Linux distributions as well. Thereore, sys admins will always be in demand.</p>

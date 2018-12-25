@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/07/bigship.jpg" alt="Big ship far away... QM2 in Hamburg" /></p>
 <p>Queen Mary 2 in Hamburg <a href="http://www.hebig.com/queen_mary_2/">(Heiko has better pictures)</a></p>

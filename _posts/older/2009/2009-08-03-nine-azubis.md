@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Two years ago on the first of July we officially <a href="https://www.papascott.de/archives/2007/07/01/first-day-of-work/">began our business adventure</a>. However, it's more appropriate to look back on our two years of business experience a month later, the first workday in August. Today is the beginning of the new trade school term, and today four new <em>Azubis</em> are beginning their education and their career with us, joining the five <em>Azubis</em> we already have for a total of nine.</p>
 <p><em>Azubi</em> spelled out in full is <em>Auszubildender</em>, and translates roughly as apprentice or trainee. They are trade school students who have finished at least the 10th grade, and work with us half-time while learning the official trade  <em>Fachmann/Fachfrau f&uuml;r Systemgastronomie</em> (Professional for Quick Service Restaurants). It's a 2-1/2 year program that encompasses all business aspects of the restaurant. Upon completion the Azubi is a fully-qualified Shift Leader and is on-track to advance into restaurant management.</p>

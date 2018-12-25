@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.echtenamen.de/" title="Namentlich: Echte Namen - die Sammlung echter Personen- und Ortsnamen">echtenamen.de</a>, humorous German names, with occupation. A few even work in English, such as the ophthalmologist Dr. M. Blind. <a href="http://vowe.net/archives/004882.html">(via vowe)</a></p>

@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>While helping (well, actually watching) me clean out our basement, Christopher discovered Frauke's typewriter (which he immediately dubbed an "antique") and asked if he could try it out. This evening we let him at it.</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3290549173" title="View 'CIMG0711' on Flickr.com"><img src="4.static.flickr.com/3635/3290549173_a735405240.jpg" alt="CIMG0711" border="0" width="500" height="375" /></a></p>

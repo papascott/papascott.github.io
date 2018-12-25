@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/01/papatrooper.gif" height="139" width="82" border="0" alt="papatrooper.gif: " /><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/01/mamatrooper.gif" height="139" width="76" border="0" alt="mamatrooper.gif: " /></p>
 <p>This is what PapaScott thinks we look like as <a href="http://www.stor.co.uk/troopers.php">Stor Troopers</a>. (First noticed at <a href="http://singbluesilver.manilasites.com/">Sing Blue Silver</a>.)</p>

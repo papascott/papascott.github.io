@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>A story not for the squeamish</b><br />
 We looked up 'diarrhea' in the Dictionary of Childhood Diseases that my mother-in-law gave us. The definition starts with the remark that everyone experiences it. Christopher is experiencing it now, it's the third day and we're starting to worry. It's strange because as it started, he had fever and was noticably sick and inactive. But his appetite and behavior were almost normal yesterday, and this morning he looked and acted normal. But he refused lunch, the diarrhea returned in the afternoon, and although he ate well after his nap, he refused supper. But he has no fever, and he's drinking well. We are thoroughly confused. We'd take him to his doctor if it were a weekday, but as it's the weekend we'll let him sleep and see how he is in the morning, then decide if we head the the children's clinic in Hamburg.</p>

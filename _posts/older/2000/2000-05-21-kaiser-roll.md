@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Familie Berg describes <a href="http://familieberg.editthispage.com/stories/storyReader$213">Moritz Tagesablauf</a> (in German), the daily routine for the 8 month old Moritz. This all sounds very familiar (especially the part about changing the diaper when it smells suspicious).</p>
 <p>Mama keeps asking me what her plants are called in English. <a href="http://linnaeus.nrm.se/flora/">Den virtuella floran</a> is a multilingual botanical database from Sweden. Alas, the text is all in Swedish, but you can look up common names in a number of languages.</p>

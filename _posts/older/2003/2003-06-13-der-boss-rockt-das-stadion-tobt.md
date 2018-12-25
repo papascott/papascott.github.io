@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Der Boss rockt, das Stadion tobt" href="http://www.abendblatt.de/daten/2003/06/13/176052.html">Abendblatt: 40 000 Fans feierten Bruce Springsteen in der AOL-Arena</a></p>

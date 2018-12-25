@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We've been busy this month, as usual. When you have to the stress of owning a business, then the holiday stress that comes in December is almost relaxing by comparison.</p>
 <p>But now the the holidays are almost here, we have 4 days to celebrate!</p>

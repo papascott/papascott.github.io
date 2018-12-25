@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My <a href="http://radio.weblogs.com/0100464/2002/01/15.html">Radio is still on</a>, if anyone is interested.</p>
 <p>We've now got a time and a place in Las Vegas: Sunday 21 April though Friday 26 April, Hotel <a href="http://www.parislasvegas.com">Paris Las Vegas</a>. The hotel was chosen for us. <i>And yes, we'd love to meet up with <a href="http://hal.editthispage.com/">Hal and family!</a></i></p>

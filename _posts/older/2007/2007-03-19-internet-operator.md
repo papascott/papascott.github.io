@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://en.wikipedia.org/wiki/Michael_Glos">Michael Glos</a> is Germany's Economics and Technology Minister. He doesn't really understand the internet, but then <a href="http://blog.handelsblatt.de/indiskretion/eintrag.php?id=1167">he doesn't need to</a>:</p>
 <blockquote><p>

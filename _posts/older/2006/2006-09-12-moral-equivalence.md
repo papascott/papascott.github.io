@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I wasn't going to write anymore on 9/11 this year, my entry on Sunday pretty much summed up how I feel 5 years later. But 2 posts from German blogs that usually don't discuss politics really got under my skin.</p>
 <p><a href="http://www.sichelputzer.de/2006/09/11/true-911-memorial/">Telagon Sichelputzer, True 9/11 Memorial</a>:</p>

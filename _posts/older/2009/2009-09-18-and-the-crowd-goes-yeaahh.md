@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It all started with with a poster for an Angela Merkel rally in Hamburg...</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2009/09/merkel-poster-yeaahh.jpg" alt="merkel-poster-yeaahh.jpg" border="0" width="499" height="374" /></p>

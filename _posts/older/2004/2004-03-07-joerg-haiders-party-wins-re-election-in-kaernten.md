@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="But they did poorly in Salzburg" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/news/archive/2004/03/07/international1219EST0462.DTL">Jörg Haider's party wins re-election in Kärnten</a></p>

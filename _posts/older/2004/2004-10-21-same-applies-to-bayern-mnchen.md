@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.washingtonmonthly.com/archives/individual/2004_10/004964.php#304555" title="The Washington Monthly">Comment in Political Animal:</a> "I really really really hate the Yankees. More than brussel sprouts. More than wet socks. More than ice cream headaches. A lot."</p>

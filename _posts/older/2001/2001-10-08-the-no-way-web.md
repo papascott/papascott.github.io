@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>More "war" vs "Krieg"</b></p>
 <p><a href="http://www.vfth.com/2001/10/06">Alwin</a>: "I've had all the same problems a lot of folks have had. Obsessive, fearful thoughts about the aftermath of 9/11." <a href="http://www.davosnewbies.com/discuss/msgReader$639#640">John Robb</a>: "This is very scary stuff. The malls are empty in the US. People are staying home. Nobody is doing anything. IF everyone remains scared or depressed, we are in a world of hurt." </p>

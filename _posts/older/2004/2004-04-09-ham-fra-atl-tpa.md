@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Tomorrow at 5am (ugh) we'll be on our way. By sunset tomorrow evening we'll be on the Gulf coast.</p>

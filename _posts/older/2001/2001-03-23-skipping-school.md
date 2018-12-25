@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're home, but not well. Mama and I both have the flu, she quite a bit worse than I, leaving Crhistopher to be healthy, active, and wondering who will be taking care of him. </p>
 <p>It might have something to do with the Minnesota March weather we've been having. Yech!</p>

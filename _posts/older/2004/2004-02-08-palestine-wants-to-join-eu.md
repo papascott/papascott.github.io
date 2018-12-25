@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Nahost: Palästina will EU-Mitglied werden - Politik - SPIEGEL ONLINE" href="http://www.spiegel.de/politik/ausland/0,1518,285467,00.html">Palestine wants to join EU</a>?!? can't wait to see the reaction from <a title="Shark Blog" href="http://www.usefulwork.com/shark/">Shark Blog</a></p>

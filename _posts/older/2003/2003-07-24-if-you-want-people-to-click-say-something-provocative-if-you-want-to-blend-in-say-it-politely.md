@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Dave Winer? Provocative?" href="http://scriptingnews.userland.com/2003/07/24#When:4:36:19AM">If you want people to click, say something provocative. If you want to blend in... say [it] politely.</a></p>

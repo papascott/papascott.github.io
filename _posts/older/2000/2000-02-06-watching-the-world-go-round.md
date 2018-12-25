@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/02/crh0206.jpg" height="262" width="350" border="0" alt="crh0206.jpg: " /></p>
 <p>After it was too wet last weekend to work on our <a href="/2000/01/29">mole/gopher problem</a>, we were finally able to take action today. We opened up all the molehills, squirted in the mole repellent (which has an odor like concentrated hog manure), and then trampled down the hills. The ground was so wet, I'm sure the moles and gophers had already drowned.</p>

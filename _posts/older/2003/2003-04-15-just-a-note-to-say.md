@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>(Anyone familiar with current children's videos will know from the headline what movie Christopher has been watching constantly the past two weeks.)</p>
 <p>We're still in Florida, but have been following events in Iraq via the St. Petersburg Times and occasional fleeting glimpses at TV. When the newspaper headline is all upper case, we can tell that it was a big day.</p>

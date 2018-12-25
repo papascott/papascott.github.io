@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>One of the puzzles I needed to solve when <a href="https://www.papascott.de/archives/2004/10/06/new-motor/">switching back to Movable Type</a> was how to keep my permalinks. Actually, most of the permalink was easy, thanks to <a href="http://diveintomark.org/archives/2003/08/15/slugs" title="Cruft-free URLs in Movable Type [dive into mark]">Mark Pilgrim's cruft-free URLs</a>. The problem was the slash at the end. </p>
 <p>I've forgotten where, but somewhere I read that cool links end with a slash, since the URI is then a directory and it doesn't matter what filetype (if there is indeed a file at all) contains the page, the URI won't change. However, MT doesn't differentiate between the permalink and the filename that it saves. If you try to set MTEntryPermalink to a directory, MT tries to write to the directory instead of a file, which of course fails.</p>

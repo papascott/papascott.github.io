@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>While admiring the new design of the <a href="http://www.gsjesteburg.de/">website</a> for Christopher's school (looks like somebody has a Web 2.0 logo generator) a couple of days, I thought I'd check the the list of school holidays. When we put up paper calendars for 2007, we didn't write in the school holidays since we're still new at this school parenting business.</p>
 <p>Sure enough there are some holidays coming up that we didn't plan for. The first is this coming Monday, the <strong>Day before May Day</strong>. This seems to be a sporadic holiday only celebrated when May Day falls on a Tuesday. We're totally unprepared... we not only have no plans, we didn't even take the day off from work. In our defense, my sister-in-law who has two kids in <em>Gymnasium</em> didn't know about it either, although the logistics of leaving 7th graders at home is a bit easier than for a 1st grader.</p>

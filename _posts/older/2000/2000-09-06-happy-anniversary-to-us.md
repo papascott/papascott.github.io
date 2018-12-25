@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We were married 17 years ago today, in front of Judge Susanne Sedgwick at the Hennepin County Government Center in Minneapolis.</p>
 <p>Maybe 17 years from now Christopher will be out of the house?</p>

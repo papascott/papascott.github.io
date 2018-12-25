@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher received visitors today.</p>
 <p>The first was a surprise. Hermann from the farmplace across the road stopped by. He originally owned the land where our house now stands. </p>

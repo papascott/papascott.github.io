@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/crh1.jpg" height="300" width="400" border="0" alt="crh1.jpg: " /></p>
 <p>Born on December 27, 1999, 3:39 am CET. 56 cm (22-1/2 inches), 4530 g (9 lbs 15-1/2 oz). </p>

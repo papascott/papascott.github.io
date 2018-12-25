@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In case anyone is wondering, here are the details of how I moved my Manila website to Moveable Type<br />
 <!--more--><br />

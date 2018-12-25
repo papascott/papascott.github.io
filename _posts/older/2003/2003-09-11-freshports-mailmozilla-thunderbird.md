@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Finally, thunderbird for FreeBSD is here" href="http://www.freshports.org/mail/mozilla-thunderbird/">FreshPorts: mail/mozilla-thunderbird</a></p>

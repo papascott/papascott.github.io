@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When we did our <a href="https://www.papascott.de/archives/2008/10/11/easy-morning-for-free/">Easy Morning for Free</a> promotion in <a href="http://www.mcdonalds-nordheide.de/">our restaurant in Dibbersen</a> last year, we received a lot of positive response from within McDonald's wondering whether the idea could work on a larger scale. A similar promotion was done this spring when the new breakfast menu was introduced in Munich and Stuttgart. But wouldn't it be better yet if McDonald's could invite all of Germany to a free breakfast?</p>
 <p>Next Sunday, election day in Germany, that dream will come true. Next Saturday's <em>Bild Zeitung</em> and Sunday's <em>Bild am Sonntag</em> will carry coupons for a free breakfast (1 per person) at all participating McDonald's in Germany from 9 to 11 on Sunday. If you'd rather not buy a paper, the coupons will be available online as well.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today is Labor Day in the States, and it is thus somehow appropriate to report on  Germany's second largest and most troubled union <a title="IG Metall: Homepage mit Nachrichten" href="http://www.igmetall.de/">IG Metall</a>, which elected a new chairman in an extraordinary session yesterday. That the traditionalist Jürgen Peters would be elected had already been decided in a smoke-filled room. That he would receive the vote of only 66% of the delegates was a surprise.</p>
 <p><a title="almost a diary: Smug for a day." href="http://tschwarz.freepage4you.de/aad/archives/000931.php">Tobias</a> and <a title="Cum Grano Salis" href="http://cumgranosalis.blogspot.com/2003_08_31_cumgranosalis_archive.html#106235580407051312">Hans</a>  (trust me on the links, I can't get either to work at the moment) have already commented on the (ir)relevance of unions in  modern German politics. I can only point to the <a title="heute.t-online.de - IG Metall leidet unter Mitgliederschwund" href="http://www.heute.t-online.de/ZDFheute/artikel/26/0,1367,WIRT-0-2040026,00.html">ZDF archive article</a> from April 2003 on declining membership in the IG Metall. Of their 2.64 million members, 8% are youth (students and apprentices?), 24% are pensioners, and 300,000 (6%) are unemployed. That means of that 2.64 million, 38%, or over 1 million, <em>do not work</em>.  (I'm not even counting full-time union and workers' council functionaries...)</p>

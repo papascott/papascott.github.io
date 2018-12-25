@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>An <a href="http://feeds.archive.org/validator/">RSS Validator</a>. By <a href="http://diveintomark.org/archives/2002/10/22.html#rss_validator">Mark Pilgrim</a> and <a href="http://www.intertwingly.net/blog/">Sam Ruby</a>. <a href="http://feeds.archive.org/validator/check.cgi?url=https://www.papascott.de/b2rss.xml">Mine validates</a>. <a href="http://feeds.archive.org/validator/">Does yours?</a></p>

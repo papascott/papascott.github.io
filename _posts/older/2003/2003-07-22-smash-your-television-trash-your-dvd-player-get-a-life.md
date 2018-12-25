@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I didn't catch that, let me turn the sound down so you can repeat it" href="http://dunne.dyn.dhs.org/~paul/weblog/2003/07/20030721.html#Profit_Protection">Smash your television, trash your DVD player, get a life!</a></p>

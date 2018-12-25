@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>At 3:00am, Mama felt her first labor pains. She's already written an announcement in <a href="#">Maus Newsletter</a>! <i>Today might be a good day to be born!</i></p>
 <p>2:30pm <i>Here we go!</i> Contractions are 12 minutes apart, water is broken, and we're on our way to the hospital....</p>

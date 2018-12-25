@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Bush will never get into the EU at this rate" href="http://famulus.msnbc.com/FamulusIntl/reuters09-08-143220.asp?reg=MIDEAST">Iraq plan to increase US deficit to 4.7 pct of GDP</a></p>

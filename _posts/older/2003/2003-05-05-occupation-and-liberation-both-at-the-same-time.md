@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Occupation and liberation both at the same time?" href="http://www.nybooks.com/articles/16283">NY Review of Books: The Fall of Baghdad</a></p>

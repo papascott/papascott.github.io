@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yet another difference between Germany and the US. Germany sells high tech to China that it can't afford itself (Transrapid train for Shanghai). The US just drops high tech espionage aircraft at China's doorstep... at no charge.</p>
 <p>And another. Bush rejects the Kyoto accord and gets raspberries from home and abroad. Germany's Schröder embraces Kyoto, yet according to ARD's <a href="http://www.monitor.de">Monitor</a> German carbon dioxide emissions actually increased in 2000. </p>

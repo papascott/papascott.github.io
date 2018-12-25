@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Nico is looking for a <a title="Job-Angebot: PHP-Entwickler gesucht [Lummaland - das Weblog]" href="http://lumma.de/eintrag.php?id=1037">PHP programmer in Hamburg</a>. Affirmative action for bloggers. No .doc attachments need apply.</p>

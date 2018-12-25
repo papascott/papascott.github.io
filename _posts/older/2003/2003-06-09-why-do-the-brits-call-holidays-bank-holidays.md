@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="And why do they call vacations 'holidays'? Just to confuse us?" href="http://www.takeourword.com/TOW135/page2.html">Why do the Brits call holidays 'bank holidays'?</a></p>

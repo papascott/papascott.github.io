@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Seeing how my <a href="http://lumma.de/" title="Lummaland - das Weblog">boss</a> and some colleagues current are <a href="http://umzug.lumma.de/" title="Umzugsblog">moving</a> <a href="http://www.ichbinharmlos.de/blog/" title="bloggbox %u2014 fab1An">to</a> Cologne (<a href="http://couchblog.de/webpropaganda/" title="Webpropaganda">or</a> <a href="http://ameisendorf.de/" title="ameisendorf.de">not</a>), I can't but think back on our big move...</p>
 <p>It was 1987, and we were happy young urban professionals in South Minneapolis. We owned a townhouse, my wife had a good job, and I was in grad school. Then the Twins won the World Series, and everything changed. </p>

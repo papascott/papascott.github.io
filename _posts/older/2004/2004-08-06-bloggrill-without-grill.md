@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Normally I would say that a <a href="http://www.bloghaus.net/entry.php?id=00857">BlogGrill without a grill</a> is not allowed, but since they are meeting in a Munich <em>Biergarten</em>, the atmosphere is correct, and I suppose they can get a special permit.</p>

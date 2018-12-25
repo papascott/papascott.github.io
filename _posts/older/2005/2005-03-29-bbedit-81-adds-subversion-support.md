@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.macworld.com/news/2005/03/28/bbedit/index.php?lsrc=mcrss-0305">BBEdit 8.1 adds Subversion support</a> <a href="http://ranchero.com/?comments=1&postid=1049">(Ranchero)</a></p>

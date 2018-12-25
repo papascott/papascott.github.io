@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Seeing the link to the <a href="http://beliefnet.com/story/76/story_7665_1.html">Belief-O-Matic test</a> at <a href="http://weblog.delacour.net/archives/2002/06/02.html">Jonathon Delacour</a>, I took the test and was pleasantly surprised to see that I really am the liberal Protestant that I thought I was. Mama will be happy to see what came in last place.</p>
 <p>1. Liberal Quakers  (100%)<br />

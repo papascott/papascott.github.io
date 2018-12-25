@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My boss has <a href="http://lumma.de/eintrag.php?id=2851">kindly requested</a> that I blog my 5 most used social media tools. On the internet, I am an old geezer. My first computer experience was with punch cards, and back then we didn't have any internets because we didn't have any <a href="http://www.thelastminuteblog.com/?p=3261">massive, tangled-up tubes</a>. So my tools are pretty old school...</p>
 <ol>

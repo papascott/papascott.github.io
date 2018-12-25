@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As you might have guessed, the idyll on the patio last evening didn't last very long. </p>
 <p>Today, we sent Grandma and Grandpa on their merry way back to Minnesota. Tomorrow, Mama returns (for a couple of days), Christopher goes back to day care, and I go back after two weeks to a refreshing day at the office.</p>

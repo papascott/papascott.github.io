@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Regarding European reaction to the US response to September 11, in the SingBlueSilver discussion area, <a href="http://eleph.antville.org/">kris</a> <a href="http://singbluesilver.manilasites.com/discuss/msgReader$1230#1233">wrote</a>:</p>
 <ul>scott, your <a href="http://shanson.editthispage.com/2001/09/17">"krieg vs. war"</a> discussion is probably the key to the problems. when i think of war i think of what my grandmother and my parents told me. and this is from the perspective of a victim.</ul>

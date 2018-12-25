@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Another pitfall of telecommuting is that they start an internal blog at the office and you don't find out about it until 6 weeks later (no, it's not <a href="http://www.technorat.de/">Technorat</a>). They've been posting profiles of various co-workers, and since I doubt that <a href="http://poolie.kulando.de/">Poolie</a> will come to Hamburg to interview me, I've decided to save him the trouble.</p>
 <p><strong>Your Name:</strong><br />

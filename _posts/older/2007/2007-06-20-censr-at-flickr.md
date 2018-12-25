@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've had my head down in work the past few days, with the old job winding down and the new business starting up. So at first I missed the shitstorm stirred up when Flickr (now owned by Yahoo!) added a German interface, and at the same time forced German users (along with those in Singapore, Hong Kong and Korea) to use SafeSearch, i.e. German users can now only view content considered safe.</p>
 <p><a href="http://www.flickr.com/photos/fab1an/544754915/" title="bloggbox: Zensur!"><img src="https://farm2.static.flickr.com/1157/544754915_28c462d9a1_m.jpg" alt="bloggbox: Zensur!" align="right" /></a>German Flickr users were livid about the change, and the more so while it was first unexplained, then a couple of days later jusified with a vague "to comply with German law". Finally a <a href="http://www.flickr.com/help/forum/42597/page16/#reply230304">reply from Heather Champ</a> at Flickr revealed that "The central problem is that Germany has much more stringent age verification laws than its neighboring countries and specifies much harsher penalties, including jail time, for those with direct responsibility..."</p>

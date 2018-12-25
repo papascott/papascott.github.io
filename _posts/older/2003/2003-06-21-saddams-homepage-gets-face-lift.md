@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I'm glad I wasn't a sysadmin for _this_ ISP." href="http://www.wired.com/news/politics/0,1283,59183,00.html">Wired News: Saddam's Homepage Gets Face Lift</a></p>

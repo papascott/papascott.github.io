@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yesterday there were two separate <a href="http://www.nytimes.com/2006/10/24/world/europe/24germany.html?ex=1319342400&amp;en=c31b62ea0b218994&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss">instances in Germany of old munitions</a> being struck by machinery and detonating.</p>
 <ul>

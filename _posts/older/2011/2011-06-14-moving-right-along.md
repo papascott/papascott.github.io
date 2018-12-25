@@ -24,8 +24,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/5833248800" title="View 'IMG_0259' on Flickr.com"><img border="0" alt="IMG_0259" width="500" src="3.static.flickr.com/2525/5833248800_5ce0b6173b.jpg" height="375" /></a></p>
 <p>Things are starting to get serious at the construction site. These pictures are already a few days old.</p>

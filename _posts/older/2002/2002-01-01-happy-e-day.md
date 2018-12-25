@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Nothing like sleeping 16 hours on New Year's Eve to make you feel real good on New Year's Day.</p>
 <p>Christopher and I just did what everyone is doing today. We went to the bank to pick up some Euros. At 11:30, most banks were open, and business was steady at the teller machine. We withdrew 150 Euros, then bought gas for 20 Euros cash. I paid with 100 DM. The cashier said that he was trying to avoid giving out Euro notes, so he first gave me 60 DM in bills, took 40 DM as payment, then gave me 45 Cents in change.</p>

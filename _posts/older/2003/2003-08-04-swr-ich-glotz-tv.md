@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Ist alles so schön bunt hier!" href="http://www.schockwellenreiter.de/2003/08/04.html#030804026">SWR: Ich glotz TV!</a></p>

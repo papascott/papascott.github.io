@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Couchblog: Hmmm, das schmeckt" href="http://www.couchblog.de/couchblog/archives/2004/02/hmmm_das_schmeckt.php">Via Couchblog:</a> <a title="Junk food from the land of junk food junkies" href="http://www.americancandy.de/shop/catalog/index.php">AmericanCandy.de - Sweets, Drinks, Snacks, Dips & More</a></p>

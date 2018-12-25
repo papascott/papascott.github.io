@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Terrorists left this suitcase?" href="http://marston.blogspot.com/2003_06_08_marston_archive.html#200410082">Marstonalia: Friday's bomb in Dresden</a></p>

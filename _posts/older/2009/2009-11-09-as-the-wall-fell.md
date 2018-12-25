@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It's strange that as the one world event that directly changed our lives, I don't remember where I was when the Berlin Wall fell or even exactly how I heard about it.</p>
 <p>In November 1989 we were in Chandler, Arizona, over 5000 miles from Berlin. We had moved to Arizona in May, and we didn't yet have permanent jobs. At first we had both helped out managing a McDonald's restaurant in the desert, but we were sure our future would be in the Valley of the Sun. Frauke was at a restaurant in South Phoenix, I was working for a temp agency. We had picked a bad time to move to Arizona, though. The Savings and Loan crisis had broken out, and the economy was flat.</p>

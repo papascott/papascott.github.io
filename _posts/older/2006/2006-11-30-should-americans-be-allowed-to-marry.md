@@ -20,7 +20,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In New Zealand they are <a href="http://someofmybestfriendsareamerican.cf.huffingtonpost.com/huffington.mov">not so sure</a> (Quicktime 14MB) (<a href="http://www.inactualfact.com/?p=287">via In Actual Fact</a>, and no, I hadn't seen this before).</p>

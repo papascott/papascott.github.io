@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Happy Birthday! For you young folks, an LP is 33-1/3..." href="http://traumwind.de/blog/">In 4 months Traumwind will be an LP</a></p>

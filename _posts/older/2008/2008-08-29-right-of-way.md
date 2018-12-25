@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Even after 18 years of driving in Germany, I still have problems following my instincts with right of way at intersections.</p>
 <p>The German rule is <a href="http://de.wikipedia.org/wiki/Vorfahrtsregel"><em>Rechts vor Links</em></a>, or right before left. That's the same as I learned in driver's training in Minnesota. In the words of the <a href="http://www.dps.state.mn.us/dvs/DLTraining/DLManual/DLManual.htm">Minnesota Driver's Manual</a>:</p>

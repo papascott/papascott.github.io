@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Everyone is <a href="http://www.olbertz.de/archives/000695.html">publishing</a> <a href="http://expat-odyssey.blogspot.com/2006/02/confessions-of-faschingsmuffel.html">Karneval</a> <a href="http://justcallmemausi.blogspot.com/2006/02/hannover-helau.html">pictures</a> <a href="http://lumma.de/eintrag.php?id=2549">today</a>! Here's Kamelle (candy) being tossed to the crowd of eager kids.</p>
 <p><a href="http://www.flickr.com/photos/papascott/105342798/" title="Photo Sharing"><img src="https://static.flickr.com/34/105342798_1cd2d6019b_m.jpg" width="240" height="180" alt="IMG_1318" /></a></p>

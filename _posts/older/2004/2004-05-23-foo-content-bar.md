@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="WordPress" href="http://wordpress.org/">WordPress</a> (which has now released 1.2) with its filtering capability makes it real easy to solve one of my formatting quirks, namely that I want my titles and permalinks inline with the content of each post, i.e. within the p-tags that are automatically inserted around the post. With MT I had to install a regex plugin to force in my strings. With WordPress, I define a simple filter, and by setting a priority, that filter is applied _before_ any tags are added.</p>
 <p>It's really as simple as this:<br />

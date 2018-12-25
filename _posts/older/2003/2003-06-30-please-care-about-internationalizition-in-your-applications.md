@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="That means Unicode so RSS/Echo/whatever can benefit bloggers in Persion, Hebrew, Russian, etc." href="http://hoder.com/weblog/archives/007531.html">Hoder: Please care about Internationalizition in your applications</a></p>

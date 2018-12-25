@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="In the category Party Supplies, currently at 11000 Euros" href="http://www.spiegel.de/netzwelt/netzkultur/0,1518,272892,00.html">6 girls and a case of beer at ebay.de</a></p>

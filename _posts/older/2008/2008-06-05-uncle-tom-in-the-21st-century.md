@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/06/ger-taz-194x300.jpg" alt="ger_taz-194x300.jpg" border="0" width="194" height="300" /></p>
 <p>So is the <a href="http://www.taz.de/">Tageszeitung's</a> "Uncle Barack's Cabin" headline today stupidly racist, or just racist? "Uncle Tom" has been an insult for, what, a century and a half now?</p>

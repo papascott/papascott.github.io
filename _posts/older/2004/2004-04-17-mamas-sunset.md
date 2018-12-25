@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="mama_sunset.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2004/04/mama_sunset.jpg" width="320" height="240" border="0" /></p>

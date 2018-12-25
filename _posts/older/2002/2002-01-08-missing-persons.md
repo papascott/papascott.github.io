@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher's favorite toy at the moment seems not to be a toy, but a CD player. He got a set of kids CDs from his Uncle Steve and family, and we 've left a portable player within reach in his room. He gets a kick out of turning it on and off and pushing the skip button to start a new song.</p>
 <p><a href="http://www.vfth.com/2002/01/08">Alwin</a> will be happy to know that yesterday, along with his U7, Christopher got caught up with his vaccinations. Next shot is planned for 2006.</p>

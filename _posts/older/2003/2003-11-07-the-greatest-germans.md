@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The evening news on ZDF was pre-empted for 'Unsere Besten', the poll of the 100 Greatest Germans based on a similar program on BBC. Even though the names were not limited to the 20th century, there was still a huge hole from the Nazi period. For those who are interested how Germans view their own history, the top 10 in alphabetical order are</p>
 <p>Konrad Adenauer<br />

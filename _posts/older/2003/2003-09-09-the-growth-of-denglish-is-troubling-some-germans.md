@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="How could the Bahn or the Telekom get along without it?" href="http://www.davosnewbies.com/2003/09/09#wieGehts">The growth of Denglish is troubling some Germans</a></p>

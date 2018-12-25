@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Still no word from VA Linux. A note on slashdot says to be patient. So I am. I tried calling, but the helpful folks couldn't find my name on any list.</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/scottfon.jpg" height="206" width="300" border="0" alt="scottfon.jpg: Scott phoning home" /></p>

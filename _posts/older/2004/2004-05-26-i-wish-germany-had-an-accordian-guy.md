@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Hey, maybe now that Germany is finally going to <a title="Zuwanderungsgesetz: Na Bitte, es geht doch. [Lummaland]" href="http://lumma.de/eintrag.php?id=254">get an immigration law</a> (though I won't believe it until I see it), maybe it'll be lucky enough someday to get guys like <a title="The Adventures of Accordion Guy in the 21st Century :: Almost 30 years later, and I still don't belong" href="http://accordionguy.blogware.com/blog/_archives/2004/5/26/76351.html">Joey</a>. But only if Germany is very, very lucky.</p>

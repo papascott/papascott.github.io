@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today is election day in Germany. Most of the pople I've talked to see it as having to pick the least worse of 5 bad choices. As as non-German citizen, I cannot vote, but this is how I would vote, if I could.  </p>
 <p>Schröder's term has been disappointing. The economy is stagnant, reforms have been half-hearted, labor regulations and social insurance costs have reduced the incentive for firms to add workers. Still, the country is better off than 4 years ago, at the end of the do-nothing Kohl administration.</p>

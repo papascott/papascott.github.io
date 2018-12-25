@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="crh_hochbett.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/10/crh_hochbett.jpg" width="325" height="251" border="0" /></p>
 <p>One of our goals as parents is to give our son opportunities we never had as kids, for example, as of today, being able to sleep in a <a title="Christopher's New Bed: Waving" href="http://papascott.typepad.com/photos/christophers_new_bed/img_0116.html">bunk bed</a>. With a slide. And a tower.</p>

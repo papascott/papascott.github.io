@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Industrial Technology & Witchcraft - das Weblog von TextLab" href="http://www.industrial-technology-and-witchcraft.de/index.php?id=P2787">itw</a>: <a title="If you're too drunk to drive, are you too drunk to pass laws?" href="http://de.news.yahoo.com/030724/71/3k01h.html">Ban alcohol in Austrian parliament?</a></p>

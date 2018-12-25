@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/48053493/" title="Space Shuttle"><img src="https://static.flickr.com/27/48053493_66449bde92.jpg" width="361" height="500" alt="CCF30092005_00001" /></a></p>
 <p>With the sun, 9 planets, and the moon.</p>

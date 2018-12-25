@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Our business is expanding! On January 1, we'll be purchasing two additional McDonald's restaurants in Hamburg-Harburg: a free-standing McDrive with McCaf&eacute; on the Winsener Strasse 231, and a satellite restaurant in the Marktkauf Center, Seeveplatz 1.</p>
 <p>Winsener Strasse is the closest restaurant to our original store in Dibbersen, and is nearly a twin. It was built just a few months earlier, has the same basic layout, and like Dibbersen was just remodeled with McCaf&eacute; and Gym & Fun. It has also an additional challenge... a Burger King is situated right next door. </p>

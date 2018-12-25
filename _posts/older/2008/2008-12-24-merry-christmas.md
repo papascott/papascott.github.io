@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3133366357" title="View 'CIMG1066' on Flickr.com"><img src="4.static.flickr.com/3201/3133366357_839a91a2fd.jpg" alt="CIMG1066" border="0" width="375" height="500" /></a></p>
 <p>Merry Christmas from cold and snowy Minnesota!</p>

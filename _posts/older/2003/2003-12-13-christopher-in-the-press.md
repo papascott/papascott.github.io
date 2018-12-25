@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="wochenblatt_kl.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/12/wochenblatt_kl.jpg" width="320" height="239" border="0" /></p>
 <p>Our <em>Tagesmutter</em> was recently honored by the city of Buchholz for her volunteer work. The local paper took her picture with her dog and Christopher, a 'satisfied customer'.</p>

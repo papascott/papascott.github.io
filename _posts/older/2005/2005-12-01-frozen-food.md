@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/68949023/" title="Photo Sharing"><img src="https://static.flickr.com/6/68949023_390b39cb4b_m.jpg" width="240" height="180" alt="IMG_0469" /></a></p>
 <p>Hey, for <a href="https://www.papascott.de/archives/2005/04/03/cat-content/">Nena</a> it looks like the Nikolaus came early!</p>

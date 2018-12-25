@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/03/crh0324.jpg" height="386" width="300" border="0" alt="crh0324.jpg: " /></p>
 <p>Friday morning. Christopher has just had breakfast, but I haven't.</p>

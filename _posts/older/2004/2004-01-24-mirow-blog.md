@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As can be read at <a title="Thomas Mirow bloggt!! [jimmiz journal]" href="http://jimmiz.blogg.de/eintrag.php?id=191">the</a> <a title="The Mirow blog by Heiko Hebig | hebig.com" href="http://www.hebig.com/archives/001905.shtml">usual</a>  <a title="Couchblog: Mirow für Blogger" href="http://www.couchblog.de/couchblog/archives/2004/01/mirow_fuer_blogger.php">north</a> <a title="Wahl in Hamburg: mirowfuerhamburg.de - Thomas Mirow bloggt" href="http://interferno.org/wahlinhamburg/archiv/000061.html">German</a> <a title="Noch'n Blogg.: Thomas Mirow bloggt!" href="http://lumma.de/mt/archives/000840.html#000840">blogging</a> <a title="Thomas Mirow bloggt - H-BLOG" href="http://h-blog.org/index.php?itemid=434">suspects</a>, the SPD candidate in Hamburg <a href="http://www.thomasmirow.de/">Thomas Mirow</a> has a <a href="http://www.mirowfuerhamburg.de/">campaign weblog</a>, the first in Europe. </p>
 <p>However, my first impression of MirowFuerHamburg is exactly that of Mirow himself: flat and lifeless. He's not Howard Dean, he's a quiet party insider. While I might want Dean on my side in a street fight, I would only want Mirow on my side in a room full of accountants. As for the weblog itself, the (anonymous) fluffy postings remind me of the pseudo 'weblog' at <a title="GeorgeWBush.com :: Official Blog" href="http://www.georgewbush.com/blog/">GeorgeWBush.com</a>.</p>

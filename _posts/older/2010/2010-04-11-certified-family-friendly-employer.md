@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://fami-siegel.de/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2010/04/FaMi-Siegel.png" alt="FaMi-Siegel.png" border="0" width="180" height="180" align="right" /></a>We're very happy and proud that our restaurant in Dibbersen is a charter recipient of the <a href="http://fami-siegel.de/">FaMi Seal</a>, recognition of a family-friendly employer. We've already placed the seal prominently on <a href="http://www.mcdonalds-nordheide.de/">our restaurant website</a>.</p>
 <p>The FaMi Seal is a new initiative in northeastern Lower Saxony by the DGB (German Federation of Trade Unions), the regional <em>Handelskammer</em> (Chambers of Commerce) and <em>Arbeitgeberverband</em> (employers' federation), the local Federaton of Women and Business, and the Leuphana University Lüneburg. In other words, the regional establishment for business, labor and education. The process involved the submission of an 8 page application documenting our efforts and an 1/2-day visit from the jury to show that we practice what we preach.</p>

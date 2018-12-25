@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="BuzzMachine... by Jeff Jarvis" href="http://www.buzzmachine.com/archives/2003_05.html#003807">Salam Pax interview, English</a></p>

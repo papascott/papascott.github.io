@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>You might think German is such a precise language, with all the genders and spellings for noun cases, that capitalizing nouns is a waste of time. Not so... <a href="http://bronski.net/archiv/2006/08/08/gross-und-kleinschreibung/" title="[bronski.net] » Archiv » Gross- und Kleinschreibung">bronksi.net</a> has some examples involving birds, spiders, blisters and fleas of why it's important to mind the capitalization.</p>

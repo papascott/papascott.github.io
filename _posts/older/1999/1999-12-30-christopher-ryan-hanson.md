@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/crh3.jpg" height="300" width="400" border="0" alt="crh3.jpg: " /></p>
 <p>A tough day today for the new mother and son. Are the baby blues setting in already? Or are we as new parents just unsure of ourselves? Is nursing really supposed to be such a struggle? </p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Developers sometimes _can_ work together, but then it takes longer." href="http://www.bradchoate.com/past/001649.php">Brad Choate: Whither MT-Textile 2?</a></p>

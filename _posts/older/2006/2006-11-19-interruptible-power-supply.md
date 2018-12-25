@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When I take time off from work, disasters seem to happen at a rate of about 50%. One time it was a friendly developer who started a script that brought a server to its knees, another time it was a l33t haxx0r (that's pond scum in plain English). Or a database suddenly becomes too big for its britches and its CPU. Last year when I was the only admin at nu2m I was a lot more concerned about such things, but that that there are 4 of us we should be covered.</p>
 <p>Well, maybe we're as far as skill and experience are concerned but not with luck. I took Friday off to accompany my lovely wife to a gala dinner in Munich. (Heidi Klum was supposed to be there, but she's still too pregnant.) We're in our 5-star hotel, we have to leave in 30 minutes, I'm changing into a tuxedo, literally standing in my underwear, when my cell phone rings. Our hoster is replacing the UPS that failed earlier in the week, something went wrong, and we lost power to half our rack in Hamburg. Again.</p>

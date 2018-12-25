@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today is the 60th anniversary of the <a href="http://en.wikipedia.org/wiki/July_20_Plot">attempt to assassinate Hitler</a> on 20 July 1944. The date is well marked in Germany. The Bendlerblock, the Wehrmacht headquarters in Berlin where the conspirators were executed that same evening, has become a shrine of sorts for the present-day Bundeswehr, and the date has been marked in recent years by a ceremony for new recruits in the Bendlerblock courtyard.</p>
 <p>I imagine the date passes elsewhere almost unnoticed. Indeed, the failed coup is no more than a tragic asterisk in the history of the war. Modern Germany would desperately like to find a pinpoint of light, to grasp a shred of redemption from that absolute darkness. The German reverence of 20 July is an attempt at self-therapy, to forget all the horrors, when in fact the world will not forget the horrors carried out by Germans.</p>

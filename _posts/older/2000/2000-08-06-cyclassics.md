@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today is a good day <i>not</i> to drive into Hamburg. The <a href="http://www.hew-cyclassics.de">HEW CyClassics</a> is being held today, and many streets are closed so that the World Cup cyclists can do a couple of laps around Hamburg.</p>
 <p>Rather than risking running into Gabriele Missaglia on his way to winning the World Cup race, we instead took Christopher to the animal park <a href="http://www.wildpark-schwarze-berge.de/">Schwarze Berge</a> (not the same park as we visited in April, but the idea is the same).</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.cnn.com/2001/US/11/12/newyork.crash/index.html">Plane down in New York</a>. And poor Mama is at the airport here, about to board a flight for Munich. She'll have to fly at least twice more this month, and in 4 weeks all three of us fly to Minnesota.</p>

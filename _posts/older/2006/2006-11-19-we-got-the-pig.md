@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Who cares about <a href="http://sports.yahoo.com/ncaaf/recap;_ylt=AjJh8XByMUuQdpBuyEGQu6McvrYF?gid=200611180033">Michigan and Ohio State</a>. <a href="http://sports.yahoo.com/ncaaf/recap?gid=200611180031">Minnesota beat Iowa</a> 34-24, which means <a href="http://en.wikipedia.org/wiki/Floyd_of_Rosedale">we got the pig</a>! It's the only college football game that matters (except on those extremely rare occasions when <a href="http://en.wikipedia.org/wiki/Little_Brown_Jug_%28football%29">Minnesota beats Michigan</a>).</p>

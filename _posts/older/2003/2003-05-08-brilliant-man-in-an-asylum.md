@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Isn't that how we all feel about this world?" href="http://ahawkins.org/comments.php?id=P1164_0_1_0">via Alwin: Brilliant man in an asylum fights doctors</a></p>

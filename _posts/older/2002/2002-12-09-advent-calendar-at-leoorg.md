@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>There's a cute <a href="http://www.leo.org/wkal/">Advent calendar</a> at the <a href="http://dict.leo.org">leo.org</a> German-English dictionary. No sound, no flash, and the surprises behind the dates aren't all that great. I just like the picture of the 'teddy bear bakery'.</p>

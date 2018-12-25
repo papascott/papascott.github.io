@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The Aardvark Speaks: The freedom of movement" href="http://homepage.univie.ac.at/horst.prillinger/blog/archives/2004/10/000824.html">The Aardvark Speaks: The freedom of movement</a> With Schengen, you can travel throughout Europe without showing a passport. Unless you take a night train. Or wear a leather jacket. (Or aren't European, but that's beside the point.)</p>

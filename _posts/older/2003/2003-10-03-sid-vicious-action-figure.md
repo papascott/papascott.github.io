@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Do they have Joey Ramone?" href="http://radio.weblogs.com/0113064/2003/10/03.html#a1854">Sid Vicious Action Figure</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="SSL sucks" href="http://mpt.phrasewise.com/2003/11/11#a542">Security snake oil</a></p>

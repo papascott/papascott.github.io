@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>
 Every so often the kindergarten sends a slip home telling us that some sickness is making the rounds. Chicken pox, measles, ringworm, flu; anything that kids can get, it's on the list.</p>

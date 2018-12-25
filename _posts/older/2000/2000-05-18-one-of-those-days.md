@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://shanson.editthispage.com/stories/storyReader$241"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/05/20000518013.jpg" height="133" width="100" border="0" alt="crh0518aThumb.jpg: " /></a><br />
 <a href="http://shanson.editthispage.com/stories/storyReader$241"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/05/20000518014.jpg" height="133" width="100" border="0" alt="crh0518bThumb.jpg: " /></a><br />

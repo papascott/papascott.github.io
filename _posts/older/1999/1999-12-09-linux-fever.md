@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.valinux.com">VA Linux</a> opened NASDAQ trading today with a bang... but I don't know if I made it on the train or not.</p>
 <p>As a "Debian" developer, I received 'the letter', returned the paperwork, and received confirmation that my paperwork was received. However, German applicants this week received notice that due to problems with German securities regulations, German residents were not eligible to participate in the IPO.</p>

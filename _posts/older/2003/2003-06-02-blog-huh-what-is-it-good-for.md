@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Blogs aren't as powerful as Rebecca Blood asserts" href="http://dunne.dyn.dhs.org/~paul/weblog/2003/06/20030602.html#Blog_Huh_What_Is_It_Good_For">Shamrockshire Eagle:  Blog! Huh! What Is It Good For?</a></p>

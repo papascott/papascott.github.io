@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I won't be at the Whiney Expat Meetup in November. MamaMaus needs me to accompany her to her firm's annual charity auction, this time in Munich. I'll again need to rent a penguin suit. The next day we've been invited to a 100th birthday party. The proprietors of the <a href="http://www.naturheilzentrumdrochtersen.de/">Naturheilzentrum Drochtersen</a> (there's a <a href="https://www.papascott.de/archives/2006/10/03/google-patriotism/#comment-21025">free link for you Kirsten</a> :-)) and their daughter have their birthdays on the same day, and their ages add up to 100. Ten years ago they celebrated their 75th birthday(s), it's amazing how the time flies. (Math puzzle: how old is their daughter this year?)</p>
 <p>Meanwhile, the two-week fall school vacation starts, um, now. MamaMaus has a 4-day engagement in Lisbon this week, so we men are going to sneak away as well... for 3 days in Denmark. We didn't see all of Legoland the first time we were there, so Christopher and I have to check out all the things we missed.</p>

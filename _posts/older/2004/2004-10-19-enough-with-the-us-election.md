@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Bjørn Stærk blog - Enough with the US election" href="http://blog.bearstrong.net/001470.html">Bjørn Stærk: Enough with the US election</a> "You get a sense of how intertwined European and American culture has<br />
 become, and how much of a one-way relationship it is, when you look at<br />

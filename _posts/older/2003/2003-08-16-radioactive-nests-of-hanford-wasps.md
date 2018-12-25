@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="there have been no reports of wasps growing to disturbing sizes" href="http://www.commondreams.org/headlines03/0815-08.htm">Radioactive Nests of Hanford Wasps</a></p>

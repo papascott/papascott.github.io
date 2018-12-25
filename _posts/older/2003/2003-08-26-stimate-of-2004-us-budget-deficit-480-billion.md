@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The entire 2002 German federal budget is only $380 billion (excl. Social Security)" href="http://www.dangerousmeta.com/dustbin/000150.html">Estimate of 2004 US budget deficit: $480 billion</a></p>

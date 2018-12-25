@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The new restaurant in Rade is set to open in 5 weeks and 2 days. Here's the inviting front entrance area. </p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/5753312675" title="View 'IMG_0198' on Flickr.com"><img border="0" alt="IMG_0198" width="500" src="6.static.flickr.com/5030/5753312675_ca6465a2bf.jpg" height="375" /></a></p>

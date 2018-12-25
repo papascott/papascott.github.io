@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/225735308/" title="Photo Sharing"><img src="https://static.flickr.com/81/225735308_09467a3fd2_m.jpg" width="240" height="180" alt="CIMG0017" /></a></p>
 <p>The last few times we've visited the States, a highlight for Christopher has been a baseball game, a visit to the "big stadium", as he puts it. We first took him to see Tampa Bay when he was 3, and a year later he still remembered the stadium when we saw it from the freeway. Of course he mostly enjoys the stadium experience, like hot dogs, ice cream in a mini-helmet, and cotton candy that makes your tongue turn blue.</p>

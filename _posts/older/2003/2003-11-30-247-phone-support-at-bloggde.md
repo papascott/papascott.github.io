@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="not" href="http://lumma.de/mt/archives/000737.html#000737">24/7 phone support at blogg.de</a></p>

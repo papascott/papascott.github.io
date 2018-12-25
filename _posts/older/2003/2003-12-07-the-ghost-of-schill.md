@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The ghost of Schill continues to haunt the coalition in Hamburg. He was quiet for a while after having been <a title="PapaScott: No Mercy" href="https://www.papascott.de/2003/08/19/2519.php">tossed</a> <a title="PapaScott: Schill Out" href="https://www.papascott.de/2003/08/21/2522.php">out</a> of the Senate by Mayor von Beust. Last weekend he was re-elected as the state party chair. </p>
 <p>In the past week, however, he has returned to his old self, attacking von Beust, his successor Interior Minister Nockelmann. A new role in this coalition is unthinkable, given that von Beust has sworn to never again sit at the same table as Schill.</p>

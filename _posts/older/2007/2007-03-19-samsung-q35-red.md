@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/03/q35-red.gif" alt="Q35 red" /></p>
 <p>We're looking at a new notebook for MamaMaus. Since I don't think I can talk her into an Apple ("I don't want to learn anything new!"), I asked her what features she needed. "It needs to be small," she said, "and powerful." That wasn't a big help.</p>

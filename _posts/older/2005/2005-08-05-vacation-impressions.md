@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Since I skipped blogging while we were in Minnesota, I'll list my impressions here (and keep adding new points as I think of them).</p>
 <ul>

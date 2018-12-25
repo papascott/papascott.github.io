@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Last week was mid-term vacation for our school, and as a 3rd grader Christopher got his first report card with real grades. His grades were pretty good, we thought. One of the quirks of German family life seems to be that kids are to share their grades or show their report cards to anyone who asks. I remember that my report cards were a private matter between me, my parents and the school.</p>
 <p>But even though it seems like he just started school yesterday, it's time to start thinking seriously about what comes next. Elementary school ends after grade 4; at grade 5 the three-tiered German school system kicks in, with the kids divided into higher, middle and lower levels.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>According to the Hamburger Abendblatt (<a href="http://www.abendblatt.de/daten/2002/08/22/60479.html">Hamburg: Surfen unter freiem Himmel</a>), a free network of up to 250 wireless access points will be set up in Hamburg starting this fall. I already have a WiFi card, now if I could just get a working battery...</p>

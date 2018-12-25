@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>One of MamaMaus' endearing characteristics is how she takes out her frustrations on her car. I admit, it's annoying at times that when we can't locate our destination, she tends to drive faster, thus making it more difficult to find our bearings, and with her Audi Quattro she can accelerate quite quickly when she's mad. As a result we sometimes get involved in some adventures like we did yesterday afternoon, which I can illustrate with the help of <a href="http://maps.google.de/maps?f=q&amp;hl=de&amp;q=&amp;ie=UTF8&amp;z=12&amp;ll=53.403597,9.944687&amp;spn=0.091287,0.22213&amp;om=0">Google Maps</a> for those unfamiliar with the Autobahn layout south of Hamburg.</p>
 <p><a href="http://www.flickr.com/photos/papascott/281600228/" title="Photo Sharing"><img src="https://static.flickr.com/88/281600228_d6f234f268.jpg" width="500" height="351" alt="detour_through_harburg" /></a></p>

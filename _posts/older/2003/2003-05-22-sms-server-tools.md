@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="You, too, can become an SMS spammer!" href="http://www.isis.de/~s.frings/smstools_index.html">SMS Server Tools</a></p>

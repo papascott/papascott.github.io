@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="6. Nov, 19.30, Marktstube" href="http://lumma.de/mt/archives/000669.html">3. Hamburger Blogger-Treffen</a></p>

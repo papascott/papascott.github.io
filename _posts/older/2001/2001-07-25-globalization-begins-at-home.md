@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I came to work this morning to find a new Power Mac G4 waiting to be unpacked. Alas, I don't get to keep it, but I did get to set it up (being the only one here who's ever worked with Macs), and take a look at OSX for the first time. Being curious admins, the first thing we did was set up the root password and see what happened when we did a 'kill 1'.</p>
 <hr />

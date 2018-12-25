@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If you haven't noticed, I've been having way too much fun with my quick links. It could be that you haven't noticed, since they are not (yet) in my RSS feed and I don't ping weblogs.com etc. (yet) when I add a new one. Nor are they archived (yet). I'd like to integrate them into the main column, but I'm still trying to come up with the magical combination of MT markup and plugins that will let me format them as I want:</p>
 <p>Date headline<br />

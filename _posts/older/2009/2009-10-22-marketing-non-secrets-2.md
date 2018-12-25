@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Following up on my <a href="https://www.papascott.de/archives/2009/10/21/marketing-non-secrets/">marketing post from yesterday</a>, I can cover the next two points rather quickly, since they are both in the current TV campaign for "Los Wochos". You only need to watch one spot, and only pay attention to the last 5 seconds to get both points. In fact, the first point requires only a screenshot.</p>
 <p>Point FP is "Food Photography". The past year or so our spots have featured "exploding food", with action shots of the inside of a sandwich, fries flying into the package, and drinks slopping over the cup. The new trend, currently mentioned in the <a href="http://en.wikipedia.org/wiki/Food_photography">food photography entry at Wikipedia</a>, is a natural look. Instead of a perfect glossed burger, the photo is more realistic, an unevenly focussed close-up from above of an unperfectly dressed burger with crumbs and lettuce lying about. Frauke and I call it the "crooked burger" look, and it's already in the current TV spot, and more photos in this style may be coming to in-store POP this winter. </p>

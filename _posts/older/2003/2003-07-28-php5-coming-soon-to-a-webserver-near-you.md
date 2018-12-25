@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Note to self...l" href="http://www.sitepoint.com/article/1192/1">PHP5: Coming Soon to a Webserver Near You</a></p>

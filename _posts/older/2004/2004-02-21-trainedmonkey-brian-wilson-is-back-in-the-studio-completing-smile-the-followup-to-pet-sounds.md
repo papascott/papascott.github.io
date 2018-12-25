@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Good Vibrations, 40 years later" href="http://trainedmonkey.com/entry/1642">trainedmonkey: brian wilson is back in the studio completing smile, the followup to pet sounds</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Brent and Sheila may have the Mariners, but we're just down the road from the <a href="http://www.geocities.com/Colosseum/Sideline/4800/">Dohren Wild Farmers</a></p>
 <p><a href="http://andrea.editthispage.com/">Andrea</a>:  "Panama makes me think of <a href="http://titan.informatik.uni-bonn.de/~schumach/pages/janosch.html">Janosch</a>." We have a Janosch calender in Christopher's (future) room. I'd never heard of Janosch before coming here, though. </p>

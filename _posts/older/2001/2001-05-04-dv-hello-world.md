@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher thanks <a href="http://andrea.editthispage.com/2001/05/01">Andrea</a>, <a href="http://hal.editthispage.com/2001/05/01">Hal</a> and <a href="http://iowa.weblogger.com/2001/05/02">John</a> for their good wishes. Someday he'll walk right up to them and shake their hands.</p>
 <p>After installing a replacement Firewire card, I was finally able to capture some video onto my PC. Now I just have to figure out what to do with it.</p>

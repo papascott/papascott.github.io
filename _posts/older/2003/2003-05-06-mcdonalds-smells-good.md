@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="a premiere brand during an out-of-favor period piloted by a turnaround CEO" href="http://www.fool.com/news/mft/2003/mft03050501.htm%3Fref%3Dfoolwatch">Fool.com: McDonald's Smells Good</a></p>

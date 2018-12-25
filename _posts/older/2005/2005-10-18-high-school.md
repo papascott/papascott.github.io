@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I graduated in 1980. Jimmy Carter was still President.</p>
 <p>My hometown is exactly 1 mile square. If in summer you stood in the middle of any street, you could see cornfields at both ends.</p>

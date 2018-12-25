@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Secret witness for the prosecution" href="http://news.bbc.co.uk/2/hi/europe/3417809.stm">BBC: New evidence halts 9/11 verdict</a></p>

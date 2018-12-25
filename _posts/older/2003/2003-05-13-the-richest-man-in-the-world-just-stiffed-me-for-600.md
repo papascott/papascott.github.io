@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Watertown SD is just down the road from my hometown" href="http://www.theregister.co.uk/content/28/30679.html">The Register: 'The richest man in the world just stiffed me for $6.00!'</a></p>

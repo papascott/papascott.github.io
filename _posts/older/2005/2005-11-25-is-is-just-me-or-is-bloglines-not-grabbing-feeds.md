@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Is is just me or is Bloglines not grabbing feeds?</p>
 <p>Oh, I guess <a href="http://mikewills.name/archives/2005/11/25/is-is-just-me-or-is-bloglines-not-grabbing-feeds.php" title="Mike&rsquo;s Information Technology Blog &raquo; Blog Archive &raquo; Is is just me or is Bloglines not grabbing feeds?">it's not just me</a>.</p>

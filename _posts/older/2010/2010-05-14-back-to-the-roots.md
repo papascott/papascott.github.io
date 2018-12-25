@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher and I are spending the Ascension holiday weekend alone. Frauke and her brothers have taken their mother on a short trip to her mother's birthplace, organized for her 80th birthday. I wrote a bit <a href="https://www.papascott.de/archives/2005/05/08/determination/">about her for 75th birthday</a>.</p>
 <p>She was born in a village in what at the time as <a href="http://en.wikipedia.org/wiki/Margraviate_of_Brandenburg">Mark Brandenburg</a>, and now is western Poland. She was a miller's daughter, and the house and the mill pond still exist. I mentioned <a href="https://www.papascott.de/archives/2000/07/08/tel-aviv/">her last visit 10 years ago</a>, but this time she can show the place her children. They've been invited by the present residents for coffee this afternoon.</p>

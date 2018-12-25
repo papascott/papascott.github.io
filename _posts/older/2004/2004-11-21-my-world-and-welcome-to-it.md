@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="screen.jpg" src="https://www.papascott.de/archives/fotos/screen.jpg" width="576" height="384" /></p>

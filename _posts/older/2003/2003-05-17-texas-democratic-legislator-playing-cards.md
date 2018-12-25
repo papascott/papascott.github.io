@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="How to avoid a full house... available at a Homeland Security office near you" href="http://users3.ev1.net/~alankh/akhblog/DeckOfTexasDems.jpg">Texas Democratic Legislator Playing Cards</a></p>

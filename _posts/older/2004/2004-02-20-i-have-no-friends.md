@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Nobody has invited me to join <a href="http://www.orkut.com/">Orkut</a>. But now it's too late. My feelings are already hurt. Sniff.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama has to visit a location in <a href="http://www.westerland.de/">Westerland</a> for work, so we're combining her business with our pleasure and spending the weekend on the North Sea. It's the height of the summer season, so there are no rooms left on the entire island of <a href="http://www.sylt.de/">Sylt</a>, but we did find accomodation on the neighboring Danish island of <a href="http://www.romo.dk/">Rømø</a>. Here's hoping we don't get stuck in traffic!</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The only way to get rid of a temptation is to yield to it" href="http://vowe.net/archives/003731.html">The new iBook G4 is very tempting....</a></p>

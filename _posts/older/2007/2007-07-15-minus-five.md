@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After two weeks getting reacquainted with restaurant work, on Friday afternoon I had my first long shift alone, the mid-shift from 1 to 9 pm. Fridays are extra challenging since the dinner hours are (along with Sunday evenings) the busiest hours of the week, and the closing shift doesn't come in until 8:30 pm because of the longer hours on weekends. This particular Friday we had back luck with crew calling in sick. We actually had two people less for dinner rush than for the mid-afternoon.</p>
 <p>Also on this particular Friday was the first school vacation weekend in Hamburg, Harley Days in Hamburg, and the first good weather in two weeks. Between 6 and 8 pm it was like getting rolled over with a steam roller. We literally had lines out the door, and I could only open 2 registers. The customers were patient and good natured, but we could have done a lot more business. Thanks to the good weather, most of them sat outside.</p>

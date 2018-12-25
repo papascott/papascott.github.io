@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>MamaMaus was on a 3-day business trip to Warsaw (the business was only one day, but extra activities and stupid connections meant she was gone 3 days), but unlike her numerous Munich trips, she brought home a nice present... a bottle of <a href="http://www.chopinvodka.com/main.htm">Chopin Vodka</a>. The coolest thing about it is the packaging.</p>
 <p><a href="http://www.flickr.com/photos/papascott/228487756/" title="Photo Sharing"><img src="https://static.flickr.com/64/228487756_122d832174.jpg" width="375" height="500" alt="IMG 1738" /></a></p>

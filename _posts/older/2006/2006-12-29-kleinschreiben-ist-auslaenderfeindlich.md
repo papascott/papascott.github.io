@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>(writing in all lower-case is xenophobic!)</p>
 <p>Just to air one of my pet peeves onto the Internets... it's hard enough to read websites in a foreign language. It becomes damned near impossible when the author deliberately ignore capitalization and punctuation and uses creative spelling. One of my colleagues writes in such a style (for example, he spells "Berlin" lower-case with a y). I cannot read his weblog at all.</p>

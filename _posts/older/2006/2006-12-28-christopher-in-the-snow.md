@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/336046899/" title="Photo Sharing"><img src="1.static.flickr.com/158/336046899_e192a60c69.jpg" width="500" height="375" alt="IMG 1869" /></a></p>
 <p>Christopher in the snow. His Christmas wish came true. </p>

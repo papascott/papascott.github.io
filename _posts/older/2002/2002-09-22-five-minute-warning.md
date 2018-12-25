@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>ZDF is starting to present the first leading poll results..... Who do you expect to win? Government: 67%; Opposition 33%. Foreshadowing?</p>

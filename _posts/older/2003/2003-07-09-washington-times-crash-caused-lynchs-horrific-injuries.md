@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Iraqi doctors saved her life" href="http://washingtontimes.com/national/20030709-121049-4754r.htm">Washington Times: Crash caused Lynch's 'horrific injuries'</a></p>

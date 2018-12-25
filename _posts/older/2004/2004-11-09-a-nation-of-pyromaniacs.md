@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Last night it occurred to me that a country where they let little children run around in the dark with lit candles in paper lanterns, where they put the same lit candles in dried-out pine trees indoors for Christmas, and where they have a holiday that combines alcohol and hand-held fireworks, that such a country has a lot of gall calling <em>Americans</em> stupid for electing Bush.</p>

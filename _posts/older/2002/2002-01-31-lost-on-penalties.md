@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2002/01/crhccsalsa.jpg" height="244" width="325" border="0" alt="crhccsalsa.jpg: " /></p>
 <p>Here's the <a href="/2002/01/30">cottage cheese and salsa</a> picture I promised last night.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.mozillazine.org/talkback.html?article=5132">Firefox, Thunderbird, Mozilla Suite Upgrades Released</a> for security updates.</p>

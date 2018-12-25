@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Last Flight Home</b></p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/05/goodnite.jpg" height="220" width="300" border="0" alt="goodnite.jpg: " /></p>

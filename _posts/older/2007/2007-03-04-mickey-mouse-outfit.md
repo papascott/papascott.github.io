@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/404566353/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/132/404566353_f85068dbd0_m.jpg" width="240" height="180" alt="27022007072" /></a></p>
 <p>Today <a href="http://daringfireball.net/linked/2007/march#sat-03-lasseter">John Gruber linked</a> to a <a href="http://www.nytimes.com/2007/03/04/movies/04hols.html?ex=1330664400&amp;en=ef352800b0d761b9&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss">profile of John Lasseter</a>, the director of Toy Story and Cars and now chief creative officer at Disney Feature Animation. The undertone of the friction of the Pixar and Disney corporate cultres is interesting, as well as the mention that <a href="http://imdb.com/name/nm0761498/">Chris Sanders</a>, the writer and director of Lilo and Stitch, will be leaving Disney.</p>

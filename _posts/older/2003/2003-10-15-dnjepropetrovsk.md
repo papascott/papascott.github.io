@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="...is in the Ukraine and eliminated Hamburger SV from the UEFA Cup this evening" href="http://www.hsv.de/index.php?id=4163">Dnjepropetrovsk</a></p>

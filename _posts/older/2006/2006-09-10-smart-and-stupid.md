@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Laura of 11D, <a href="http://11d.typepad.com/blog/2006/09/bridging_the_ga.html">Bridging the Gap Between Smart and Stupid</a>:</p>
 <blockquote><p>

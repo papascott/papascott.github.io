@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>A hearty welcome to the world to <a href="http://hal.editthispage.com/stories/storyReader$979">Ian Lovell Rager</a>! And congratulations to Hal and Audrey. The adventure begins.</p>
 <p>Christopher's reading list: <a href="http://www.amazon.com/exec/obidos/ASIN/0763615757">Ten in the Bed!</a></p>

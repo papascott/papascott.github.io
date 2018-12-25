@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>A couple of weeks ago Frauke spoke at a business round table on franchising sponsored by the Wirtschaftsf&ouml;rderungsgesellschaft (business promotion council) for our region. The <a href="http://www.han-online.de/">Harburger Anzeigen und Nachrichten</a> published <a href="https://www.papascott.de/wordpress/wp-content/uploads/2008/06/han-franchise.pdf" title="han-franchise.pdf">article on her presentation</a> (scanned PDF, in German) in their business section, complete with a photo of our <a href="https://www.papascott.de/archives/2007/12/14/flying-saucer/">McCaf&eacute; Ford Ka</a>.</p>
 <p><a href="https://www.papascott.de/wordpress/wp-content/uploads/2008/06/han-franchise.pdf" title="han-franchise.pdf"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/06/han-franchise.gif" alt="han-franchise.gif" border="0" width="480" height="216" /></a></p>

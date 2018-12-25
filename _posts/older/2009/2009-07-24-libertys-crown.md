@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>On our way home from Minnesota, we stopped for two nights in New York. That was my first time there, excepting a trip when I was 20 and took a Greyhound bus for 2 days from Minneapolis. That's not an experience I care to remember or repeat. As first timers for a weekend, we hit the standard tourist spots... Times Square, Empire State Building, and (especially for Christopher) the <a href="http://www.amnh.org/">American Museum of Natural History</a>.</p>
 <p>We were however lucky enough to get Crown Tickets for the Statue of Liberty. The Crown was just re-opened to visitors on July 4th, and we were there a week later on July 11th. We were able to order tickets online the first day they went on sale. We were lucky. Only 30 people are allowed in the crown each hour. Right now, Crown Tickets are sold out through October and no Saturdays are available until December 5. Crown access costs $3 in addition to normal admission and ferry fare.</p>

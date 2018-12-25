@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm feeling hopeful. The random lyrics are now <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=18759125&selectedItemId=18759099">Wouldn't It Be Nice</a> from Pet Sounds by the Beach Boys. And <a href="http://www.brianwilson.com/">Brian Wilson</a> is releasing <a href="http://www.smilethealbum.com/">SMiLE</a> this week.</p>

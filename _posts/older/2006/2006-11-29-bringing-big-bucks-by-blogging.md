@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>A while ago I reactivated Google AdSense on PapaScott. I've never had much success with AdSense, my revenue barely covered the cost of maintaining the weblog (since our employers cover our phone and DSL costs, and my web hoster is prepaid, the running cost of PapaScott is close to zero). I'm not going to make any radical changes to PapaScott (like, say, writing interesting content) just to increase ad revenue. I did run my URL one time through <a href="http://www.adsblacklist.com/">AdsBlackList</a> to filter out low-paying ads, and that seemed to work as advertised. My revenue doubled... from barely $10 a month to barely $20. Nothing to get too excited about.</p>
 <p>A couple of months ago I signed up for <a href="http://www.text-link-ads.com/">Text Link Ads (TLA)</a>. They sell static links (which can co-exist with AdSense) and pay out 50% of the revenue. You need to be able to add some code to your blog template, so it won't work for a lot of hosters (like BlogSpot). I was shocked to see that they priced my links at $125 each. I was even more shocked when the first two links sold almost immediately. As you can see in the sidebar under "Sponsored Links", I'm currently at six, so you can figure out my revenue yourself. Let's just say it's time for me to consider the tax implications.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://jrobb.mindplex.org/2004/06/10.html#a4888">John Robb:</a> (on the killing of 11 Chinese workers in Afghanistan) "This begs the question:  why are we using market-state techniques (like outsourcing work) in a location that needs nation-state development (ie. local work)?  This is the same mistake we continue to make in Iraq."</p>

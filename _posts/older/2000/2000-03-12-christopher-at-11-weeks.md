@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/03/20000312007.jpg" height="262" width="350" border="0" alt="crh0317.jpg: " /></p>
 <p>It's the usual story. It's the weekend, and Christopher is in a much better mood than either of us. It's 8:30am, he's just had breakfast, and he's babbling and gurgling happily at his Fisher Price Teddy Bear mobile. </p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="what overwrought reverence for the turnip, and what callous disrespect for the girl" href="http://www.crossmyt.com/hc/linghebr/awfgrmlg.html">Mark Twain: In German, a young lady has no sex, while a turnip has.</a></p>

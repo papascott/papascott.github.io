@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="must it be RSS? a feed by any other name is still a feed" href="http://weblog.infoworld.com/dickerson/2003/07/21.html#a83">a weblog without an RSS feed is like a cheeseburger with only the bread</a></p>

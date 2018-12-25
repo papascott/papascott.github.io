@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Would this judge prefer Python to Perl?" href="http://www.margaret-marks.com/Transblawg/archives/000665.html">Transblawg: Thanks to a semicolon, gays and lesbians keep marrying in San Francisco</a></p>

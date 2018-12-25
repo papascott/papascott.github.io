@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Is Microsoft trying to make IE into the Notepad of web browsers?" href="http://www.zeldman.com/daily/0603a.shtml#goredbylonghorn">Zeldman: Gored by Longhorn  - 2005? Are they kidding?</a></p>

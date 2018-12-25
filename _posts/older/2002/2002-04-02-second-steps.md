@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Hmm, I thought I said this out loud, but I guess I only <a href="/2002/03/13">alluded</a> to it in a title...  I'm on a diet. I'm trying to lose weight. I'm <a href="http://www.weightwatchers.com">eating points</a> instead of food. And my score is 3.3 kg in 3 weeks. But I've still got many weeks to go.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/molehill.jpg" height="262" width="350" border="0" alt="molehill.jpg: " /></p>
 <p>Our big projects for today include getting some mole repellent for our friends in the back yard. Here you can see the path they are taking towards our patio.</p>

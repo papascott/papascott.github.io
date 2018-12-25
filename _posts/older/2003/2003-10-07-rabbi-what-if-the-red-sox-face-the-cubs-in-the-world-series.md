@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Moshiach will come, history will end, and neither team will win." href="http://windsofchange.net/archives/004110.html">Rabbi, what if the Red Sox face the Cubs in the World Series?</a></p>

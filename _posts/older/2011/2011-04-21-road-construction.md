@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Normally our village is pretty quiet. We only have 4 streets, none of which are paved, a couple dozen houses, and no shops at all (no bakery, no post office, no grocer, no gas station) other than a bio farmer who sells asparagus in the spring and Christmas trees in December. This is the usual layout...</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2011/04/gmap-luellau.jpg" alt="Gmap luellau" border="0" width="500" height="425" /></p>

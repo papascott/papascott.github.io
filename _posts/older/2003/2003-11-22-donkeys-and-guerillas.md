@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Beasts of burden and terror in Iraq" href="http://riverbendblog.blogspot.com/2003_11_01_riverbendblog_archive.html#106945179671764470">Donkeys and Guerillas</a></p>

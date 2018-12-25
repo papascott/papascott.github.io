@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Just doing my part to help Google" href="http://laughingmeme.org/archives/001753.html#001753">LaughingMeme: How to make a patch file</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Update:</b> Christopher's fever is down to 38&deg;C (100.4&deg;F), he's stable, and already flirting with the nurses. :-)</p>
 <p>Things are only getting worse here. We took Christopher to the pediatrician on Thursday morning, and were told to keep giving him aspirin and to come back Monday if he didn't get any better. He didn't get better, and the aspirin didn't keep the fever down. We called the pediatrician today, who said not to panic and to wait another day. </p>

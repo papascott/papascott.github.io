@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In commemoration of the events that occurred <a href="https://www.papascott.de/archives/2002/09/09/young-dumb-and-excited/">25 years ago tomorrow</a> (for which all photographic evidence seems to have disappeared, much to the chagrin of the participants), the weblog PapaScott will remain silent today and for the weekend. All three members of the Petersen-Hanson family are away observing the anniversary "in the near abroad, within our traditional sphere of influence", as Vladimir Putin would probably say. One could also say that they have disappeared from the face of the earth for a couple of days, but will return home on Sunday evening to fulfill their respective obligations. We kindly request your understanding and respect.</p>
 <p>We hereby submit the following documentation. Click to enlarge.</p>

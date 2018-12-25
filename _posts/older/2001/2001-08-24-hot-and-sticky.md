@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://photos.shcon.com/view.php?dispsize=640&album=07_2001%2F20010724-crh&pic=dscn0066.jpg&start=0&picindex=1"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/08/crhsprinkler.jpg" height="225" width="300" border="0" alt="crhsprinkler.jpg: " /></a></p>
 <p>This picture is not new, but it's become one of our favorites. Mama ordered mouse pads with this picture for us, so now all day at work I can watch Christopher try to catch the rain.</p>

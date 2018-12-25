@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>25 years ago: <a title="The day disco died" href="http://www.twincities.com/mld/pioneerpress/9121758.htm?1c">Disco Demolition Night at Comiskey Park</a> <a href="http://davespicks.com/archive/2004/0712.html#1089554710">(via Dave's Picks)</a></p>

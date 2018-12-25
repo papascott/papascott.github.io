@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're flying back to Hamburg today. Give us a couple of days to get over jet lag (and for Scott, a case of the Minnesota strep throat), and things might be back to normal.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="schaden.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/11/schaden.jpg" width="320" height="240" border="0" /></p>
 <p>This is what Chrisopher and Janik did to a McDonald's indoor playland yesterday. Not bad for a cellphone picture.</p>

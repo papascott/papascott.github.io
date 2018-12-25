@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/08/syltheide.jpg" height="225" width="300" border="0" alt="syltheide.jpg: " /></p>
 <p>We're back! We didn't exactly have ideal beach weather (and we were cut off from the Internet) but we had a good time nonetheless. </p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher's chicken pox seems to be winding down. The fever has been gone for 24 hours, and the blisters are starting to dry up. It looks like his infliction was milder than normal (maybe because of good nursing from RN Grandma). And he might be caught up with his sleep again. And he's not contagious anymore, so we might be able to arrange that visit.</p>

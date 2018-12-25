@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="South Beach Diet book hits Germany" href="http://www.abendblatt.de/daten/2004/02/14/262343.html">Abendblatt: Diät-Rausch - so nimmt Amerika ab (how America loses weight)</a></p>

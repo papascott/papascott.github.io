@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Pay off your farmers, the whole world pays" href="http://denbeste.nu/cd_log_entries/2003/09/Farmsubsidies.shtml">Farm subsidies</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Back in 1995 when we were planning to build our house, we thought we'd be smart and check out the best mortgage rates in the local paper. One of the banks listed was the <a href="http://www.berliner-bank.de/">Berliner Bank</a>, and when we went in they offered us coffee and said sorry, the rate listed in the paper was a printing error, but they could offer us a mortgage anyway. They were the only bank to offer us coffee, an entire pot with ceramic cups at that. Of course that's where we ended up getting our financing. The fact that Berliner Bank later nearly went bankrupt because of shady real estate deals has nothing to do with us.</p>
 <p>MamaMaus has known for a long time that she eventually wanted to go into business for herself, and has been trying to develop a coffee-drinking relationship with her bank. A bank is of course happiest when you either have a large account balance or a large debt, preferably both at the same time. They love it when she gets her annual bonus. "Hello, we notice you have an unusually high balance at the moment... can we invite you in for coffee?" Re-financing the above-mentioned mortgage was another coffee-drinking moment which I got to share. (The mortgage is in her name, but my signature was required as <em>Mitschuldner</em>, or co-debtor. <em>Mitschuldner</em> has since become one of our favorite terms of endearment.)</p>

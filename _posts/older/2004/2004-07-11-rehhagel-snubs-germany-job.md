@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://sports.yahoo.com/sow/news;_ylc=X3oDMTBpYnF0a2UxBF9TAzk1ODYzNTkwBHNlYwN0bQ--?slug=afp-fbl_wc2006_gre_ger&prov=afp&type=lgns" title="Good for him!">Rehhagel snubs Germany job</a></p>

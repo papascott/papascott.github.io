@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Hey... I've got it, and I'm writing this with "Pike". This is cool! Mama was just complaining today how hard it is to edit her page with the browser. (But I had to dial-in under Windows to get it to work, since my Linux router acts like a firewall. Guess I have to read up on port forwarding with IP masquarading....)</p>
 <p>It's quarter past 10 Pacific time... where's Pike? ";->" (10:40... ah, <a href="http://pikebeta.userland.com">here</a> it is!)</p>

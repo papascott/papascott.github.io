@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Wear the flag proudly!" href="http://accordionguy.blogware.com/blog/_archives/2003/12/8/8472.html">Canadians too patriotic for sensitive Americans</a></p>

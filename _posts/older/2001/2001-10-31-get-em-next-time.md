@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It's 6:30... <i>and Christopher is still asleep!</i></p>
 <p>Andrea <a href="http://shanson.editthispage.com/discuss/msgReader$773">reminisces</a> about Legos and the Lego Train <i>(Eisenbahn)</i>. Christopher inherited a mixed box full of <a href="http://www.lego.com/legofinder/duplo.asp">Duplos</a> from his cousins, so he has several train cars (but no track), plus a couple of race cars, and some farm implements that he can hook together into a long train of sorts (with a race car in the front and a plow in the back). And aren't <a href="http://mindstorms.lego.com">Lego Mindstorms</a> really for adults who still want to play with Legos?</p>

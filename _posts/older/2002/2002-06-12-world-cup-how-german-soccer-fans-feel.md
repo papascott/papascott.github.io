@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>About France not making the 2nd round: sympathy<br />
 About Argentina not making the 2nd round: relief<br />

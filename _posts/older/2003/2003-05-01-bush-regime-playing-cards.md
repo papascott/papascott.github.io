@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="hold 'em or fold 'em?" href="http://uggabugga.blogspot.com/2003_04_20_uggabugga_archive.html">uggabugga: Bush Regime Playing Cards</a></p>

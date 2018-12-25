@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="And the international airport in Frankfurt/Oder?" href="http://lumma.de/mt/archives/000786.html#000786">Terror alarm: Homburg, not Hamburg?</a></p>

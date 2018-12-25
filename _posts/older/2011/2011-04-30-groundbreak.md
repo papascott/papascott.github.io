@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We've been keeping a secret for the past several months, and it can now finally be revealed.</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2011/04/bautyp.jpg" alt="Bautyp" border="0" width="434" height="274" /></p>

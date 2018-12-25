@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We don't talk much about Bundesliga soccer in Hamburg at the moment (<a href="http://www.abendblatt.de/daten/2006/12/21/657317.html">Doll muss bleiben!</a>), but if even HSV can't buy a win, at least the year can end on a positive note: <a href="http://www.dw-world.de/dw/article/0,2144,2287039,00.html">Aachen Send Bayern Packing in German Cup</a>. Because a bad night for Bayern is good for everybody else.</p>

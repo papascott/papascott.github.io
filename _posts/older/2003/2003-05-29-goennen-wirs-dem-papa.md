@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Father's Day piece from the local paper" href="http://www.abendblatt.de/daten/2003/05/28/171464.html">Abendblatt: Gönnen wir's dem Papa</a></p>

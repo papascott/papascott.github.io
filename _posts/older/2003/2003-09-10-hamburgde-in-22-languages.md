@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Kiezblo(g/ck) - Eindrücke aus dem Leben eines Kiezbewohners" href="http://weblog.kiezkicker.de/item00229.php#comments">Kiezblo(g/ck)</a>: <a title="i22n?" href="http://www.hamburg.de/fhh/international/index.htm">hamburg.de in 22 languages</a></p>

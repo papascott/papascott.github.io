@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>At 8 years old, Christopher is now the perfect age to have a pet to keep him <s>out of our hair</s> occupied. For the past few months he's been talking about a snake, which has been gently but firmly vetoed by Mama.</p>
 <p>We've had cats in the past, but our last cat had a little bit too much hunting instinct for Christopher's taste and he has no interest in a new one.</p>

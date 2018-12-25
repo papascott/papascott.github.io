@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Other things [dive into mark]" href="http://diveintomark.org/archives/2003/07/03/other_things.html">A prototype MT template for N/Echo, for those of us who are mindless copy-and-paste early adopters</a></p>

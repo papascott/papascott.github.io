@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've moved away from Movable Type, but I'm still happy and excited to see <a href="http://www.movabletype.org/25/#about25">Movable Type 2.5</a>. Congrats to Ben and Mena for creating a product that has made a difference.</p>

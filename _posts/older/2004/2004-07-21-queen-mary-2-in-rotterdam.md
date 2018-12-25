@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Pictures of the <a href="http://www.breedveld.org/rss_article.php?id=269">Queen Mary 2 in Rotterdam</a> <a href="http://www.blognewsnetwork.com/members/0000001/2004/07/21.html#a6191">(via Adam Curry)</a></p>

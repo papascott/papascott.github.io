@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I have no idea why PapaScott has risen from 12th to 8th in the ETP <a href="http://www.editthispage.com/Top100">Top 100</a>.</p>
 <p>I also have no idea why the stock of my employer has risen over 50% from 14 to 23 Euros the past 2 days. Our IPO in June was at 25, and we had been as low as 7.</p>

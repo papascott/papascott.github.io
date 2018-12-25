@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/194065139/" title="Photo Sharing"><img src="https://static.flickr.com/62/194065139_bc07006c40.jpg" width="500" height="375" alt="IMG 1551" /></a></p>
 <p>Today was Christopher last day of kindergarten. The tradition is that the "graduating" children jump through the window when they leave for the last time.</p>

@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After seeing <a href="http://crueltobekind.org/archive/2007-04-16/useless_to_me_universal_power_">Nicole's useless universal power plug</a> that she bought at Heathrow (it doesn't work with German plugs), I thought I'd show our power conversion kit that we bring on all our trips to the States.</p>
 <p><a href="http://www.flickr.com/photos/papascott/474276106/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/221/474276106_4d469e7e92_m.jpg" width="240" height="180" alt="27042007081" /></a></p>

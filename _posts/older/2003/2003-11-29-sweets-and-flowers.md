@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The administration's first plan for Iraqi reconstruction (or lack thereof)" href="http://www.matthewyglesias.com/archives/001940.html#001940">Sweets and flowers</a></p>

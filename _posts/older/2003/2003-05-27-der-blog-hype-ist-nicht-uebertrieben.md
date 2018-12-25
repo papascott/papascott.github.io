@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Interview with BlogTalk organizer Thomas N. Burg" href="http://www.netzeitung.de/servlets/page?section=926&item=241136">Netzeitung: Der Blog-Hype ist nicht übertrieben</a></p>

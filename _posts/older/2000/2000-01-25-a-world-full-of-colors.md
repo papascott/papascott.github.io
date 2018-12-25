@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/crh0125.jpg" height="361" width="350" border="0" alt="crh0125.jpg: " /></p>
 <p>We're starting to notice advances in Christopher's development. He now seems able to focus on the colored blocks we hung over his cradle. He's gaining control of his arms and hands, although they aren't quite coordinated yet. And he's started smiling (really smiling, not just the instinctive grin when he's just finished eating).</p>

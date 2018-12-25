@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>German Joys (responding to the Spiegel article last week on <a href="http://www.spiegel.de/spiegel/0,1518,567038,00.html">Beta Bloggers</a>) on why <a href="http://andrewhammel.typepad.com/german_joys/2008/07/internet-die-beta-blogger---netzwelt---spiegel-online---nachrichten.html">Germans are such poor bloggers</a>. Point 1:</p>
 <blockquote><p>1. A national culture of modesty that frowns upon too much self-expression. Americans have the advantage here. They're hardly afraid of looking like fools, and like to talk about themselves.</p></blockquote>

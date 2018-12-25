@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2037810086" title="View 'CIMG0343' on Flickr.com"><img src="3.static.flickr.com/2205/2037810086_eacbbb935c.jpg" alt="CIMG0343" border="0" width="500" height="375" /></a></p>
 <p>Yesterday as part of our remodelling we installed a new drive-thru order taking system. It features a Customer Order Display, where the guest can see his order as it is being entered into our POS. We wanted to make sure it was up and running before we close the lobby for construction next week. For 10 days we will be running with drive-thru only.</p>

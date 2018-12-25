@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Over the weekend when doing income taxes, I was surprised to learn that  the German government is now paying 25% of our day care costs. As of 2003, child care costs are generally tax deductable, and since we pay our Tagesmutter 600 Euros per month, that's not a small amount added to our tax refund. Thank you, Chancellor Schröder.</p>
 <p>Of course, we're in a high tax bracket and could afford day care even without the deduction. For a low or middle class family who actually needs the help, the subsidy is much less, which I don't think was exactly what Red/Green had in mind. Child care is subsidized for the rich, while the government kindergarten system, which is supposed to guarantee a place for all pre-school children, is underfunded and fails to provide places for 200,000 children. (The <a title="Kita-Reform :: Mehr Zeit für Kinder | Hamburger Initiative für mehr Kindergartenplätze" href="http://www.kita-reform.de/">failed voucher system in Hamburg</a> is an extreme example. The Abendblatt recently reported on a <a title="Sozialhilfe statt Arbeit: Nur dann gibts einen Kita-Gutschein" href="http://www.abendblatt.de/daten/2004/03/20/275489.html">case</a> where an unemployed mother was unable to accept employment because she would then lose her kindergarten voucher. Child care only if you don't need it!)</p>

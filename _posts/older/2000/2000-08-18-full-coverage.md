@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The Internet might be <a href="http://www.cnn.com/2000/TECH/computing/08/15/olympic.ban.idg/index.html">banned from the Sydney Olympics</a>, but here you'll contninue to receive full coverage of Christopher. Here are the latest headlines.</p>
 <p><b>Broccoli refused</b> After the success of homemade carrot pureé, the introduction of homemade broccoli pureé was a total flop. So Mama and I had broccoli pureé with our supper last night. Maybe next time we can make broccoli pancakes?</p>

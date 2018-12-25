@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Whenever I try to get any work done at home while watching Christopher, I have to think of an <a href="http://www.joelonsoftware.com/global/English/Articles/WheredoThesePeopleGetThei.html" title="Joel on Software - Where do These People Get Their (Unoriginal) Ideas?">article by Joel Sponsky</a> where he writes that it takes (at least) 15 minutes for a programmer to start concentrating on solving a problem, and that with every interruption, you have to start that concentration time over from zero. How often does a 4-year-old leave a parent alone for 15 minutes? Yes, my point exactly.</p>
 <p>With that in mind, <a href="https://www.papascott.de/archives/2004/08/22/15-minutes-of-concentration/#more-2022">below</a> is the Movable Type 3.x plugin for which I've been trying to write a front-end. It emulates the WordPress function in which you can automatically moderate a comment with several hyperlinks. Save this as <code>MT_DIR/plugins/modhref.pl</code>, and set $maxhref to the maximum number of links you want to allow. </p>

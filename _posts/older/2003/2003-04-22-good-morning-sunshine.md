@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Not that we'll get any sympathy from anyone, but after 3 weeks vacation and the Easter holiday, Mama and I have to both get up at 6:00 am today and go to work. What an awful thought! I hope we can survive.</p>

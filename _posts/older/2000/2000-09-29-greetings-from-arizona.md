@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We made it to Arizona at midnight Thursday morning. The temperature at that time (over 90F) was warmer than the entire summer in Hamburg.</p>
 <p>Christopher travelled much better than either of us, as I expected. We had normal tourist-class seats with Christopher on my lap. He slept, I couldn't move.</p>

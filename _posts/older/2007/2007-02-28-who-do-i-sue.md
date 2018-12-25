@@ -21,7 +21,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've just been informed that the German technology magazine <a href="http://www.heise.de/ct/">c/t</a> has without our permission published my and Christopher's picture in their latest issue (05/2007, p. 70), in the screen shot of a feed reader. So who do I sue? The <a href="http://www.schockwellenreiter.de/2007/02/09.html#harzigenGlhstrumpf">original post</a> comes from Jörg Kantel's <a href="http://www.schockwellenreiter.de/">Der Schockwellenreiter</a>, but he works for a public institution, so there are no deep pockets there. But <a href="http://vowe.net/">Volker Weber</a> writes for c/t, maybe I can score one of his Blackberries....</p>

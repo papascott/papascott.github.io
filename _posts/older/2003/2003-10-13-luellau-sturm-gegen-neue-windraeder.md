@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Hey, we're in the Hamburger Abendblatt!" href="http://www.abendblatt.de/daten/2003/10/13/217568.html">Lüllau: Sturm gegen neue Windräder</a></p>

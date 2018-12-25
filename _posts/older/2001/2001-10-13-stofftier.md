@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/10/birthgroup.jpg" height="262" width="350" border="0" alt="birthgroup.jpg: " /></p>
 <p>Mama and Christopher hosted a get-together of her childbirth class yesterday afternoon. Notice how the kids were all bribed to sit still for the picture.</p>

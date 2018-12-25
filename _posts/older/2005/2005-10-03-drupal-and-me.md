@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This weekend I've been working with the <a href="http://drupal.org/" title="drupal open-source content management platform">Drupal CMS platform</a> for the <a href="http://naturheilzentrumdrochtersen.de/" title="Naturheilzentrum Drochtersen - Kirsten Kruse und Roland Petersen">Naturheilzentrum Drochtersen</a> website that I set up for my brother- and sister-in-law. </p>
 <p>I looked at a number of packages. I've been away from Movable Type too long to be able to shoehorn it into a traditional CMS. The page feature in <a href="http://www.wordpress.org/">WordPress</a> was not sophisticated enough for the 4 layers of menus and approx. 50 pages. <a href="http://www.joomla.org/">Mambo/Joomla</a> seemed too inflexible for the given layout and menu struction. With Drupal the first hurdle is the documentation; I was unable to find a simple howto to get started.</p>

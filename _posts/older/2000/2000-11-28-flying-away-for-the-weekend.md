@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We'll be in Munich this weekend, visiting a friend of Mama from work. Mama and Christopher are flying for free (she has flyer miles, he's too young for a ticket). I get to pay full price.</p>
 <p>Christopher got a clean bill of health from his pediatrician yesterday, so he'll be going today to his first day of "nursery school" (that's what his Grandpa calls the <i>Tagesmutter</i>; it's really just day care). He'll stay just 2 hours today. It's just a practice session.</p>

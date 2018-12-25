@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.ianalbert.com/misc/unichart.php" title="Unicode Chart - IanAlbert.com">Unicode wallpaper</a>. No, not for your computer, for your wall, a 6 by 12 ft poster to download and print. (<a href="http://www.tbray.org/ongoing/When/200x/2005/03/20/Big-Unicode">ongoing</a>)</p>

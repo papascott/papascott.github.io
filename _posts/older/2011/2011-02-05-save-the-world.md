@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Thirty years ago, I entered college with a mission: I was going to Save the World! I was fresh from a summer in northeastern Brazil as an AFS student and had experienced what the difference between rich and poor really is. Coming from the richest and most powerful country on earth, I was going to have the knowledge and the power to do good, to facilitate change, to make the world a better place. I was going to study International Relations! I was going to learn Diplomacy!</p>
 <p>When it came to the nitty gritty content, there were a lot of paradoxical truths to be learned. Like that Mutual Assured Destruction was a good thing and that nuclear weapons made the world a safer place. And that politics is a zero-sum game, so that preventing your opponent from gaining something was just as good as winning. And that a big problem in developing countries are the elite classes in those countries themselves, who either run the country corruptly or go abroad to study and never come back. And another big problem are agricultural subsidies in rich countries, which distort the entire world market for farm commodities and make it impossible for poor countries to feed themselves.</p>

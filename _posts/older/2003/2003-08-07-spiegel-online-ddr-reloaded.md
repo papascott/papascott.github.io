@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'Ostalgie' is in" href="http://www.spiegel.de/kultur/gesellschaft/0,1518,260109,00.html">Spiegel Online: DDR Reloaded</a></p>

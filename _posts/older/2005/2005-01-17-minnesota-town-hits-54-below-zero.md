@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://home.frontiernet.net/newsdetail.asp?cat=3&id=9674" title="FrontierNet: Minnesota Town Hits 54 Below Zero">Minnesota Town Hits 54 Below Zero</a> (-48&deg;C) I guess winter has finally arrived back home, eh?</p>

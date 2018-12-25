@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If blogger insults everyone she disagrees with, does she matter anymore?" href="http://tschwarz.blogspot.com/#95105048">Almost a diary: Stupid, stupid, stupid idiots!</a></p>

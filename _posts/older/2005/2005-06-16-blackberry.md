@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="crackberry.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2005/06/crackberry.jpg" width="100" height="133" align="right" /> I am important. I now have a <a href="http://www.blackberry.com/">Blackberry</a> <a href="http://www.blackberry.net/ap/products/handhelds/blackberry7230.shtml">7230</a>.</p>
 <p>Actually, it's a hand-me-down, so I'm actually not all that important. (No, it is not Nico's famous <a href="http://lumma.de/eintrag.php?id=1684">Blackberry with wings</a>.) </p>

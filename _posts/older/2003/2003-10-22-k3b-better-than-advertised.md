@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="One of the pleasant surprises in SuSE 9.0" href="http://www.newsforge.com/article.pl?sid=03/10/20/1340254">K3b (KDE CD burning program): better than advertised</a></p>

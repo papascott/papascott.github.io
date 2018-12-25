@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I can't log in to my Bloglines accounts this morning... and it seems like <a title="Technorati: Search for bloglines" href="http://www.technorati.com/cosmos/search.html?rank=&url=bloglines">noone else can either</a>. </p>
 <p>Of course, if you depend on Bloglines to manage your reading, you'll never read this.</p>

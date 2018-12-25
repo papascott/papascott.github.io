@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Absentee ballot information and applications for overseas citizens" href="http://www.fvap.gov/">Federal Voting Assistance Program (FVAP)</a></p>

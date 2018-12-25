@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="It's more complicated than when I did it" href="http://uscis.gov/graphics/howdoi/fiance.htm">US CIS: How Do I Bring My Fiancé(e) to the United States?</a></p>

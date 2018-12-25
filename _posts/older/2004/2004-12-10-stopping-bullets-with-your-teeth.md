@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I thought <a title="code: theWebSocket; :<br />
 Why you should always brush your teeth" href="http://ahawkins.org/2004/12/09.html">stopping bullets with your teeth</a> happened only in cartoons. Nice story, Alwin!</p>

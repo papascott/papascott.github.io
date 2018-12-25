@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've arrived in Cologne and am at the Caf&eacute; Largus, site of the Deutsche Welle Press Salon on Weblogs and Press Freedom. I'm now testing the connectivity... one, two, does this thing work?</p>
 <p>I seem to be the only one here without a camera. Sorry, no <a href="http://heiko.typepad.com/moblog/2004/11/schockwellenrei.html">pictures</a> here.</p>

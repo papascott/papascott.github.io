@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>According to Heute Journal, the Temelin referendum in Austria received 915,000 signatures. Not quite the million that Haider wanted.</p>

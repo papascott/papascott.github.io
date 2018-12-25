@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>According to today's <a href="http://www.abendblatt.de">Hamburger Abendblatt</a>, every 5th wedding in Hamburg is binational.</p>
 <p>Funny thing about the newspapers in Hamburg... the <a href="http://www.abendblatt.de">Abendblatt</a> is a morning paper, while you can get the <a href="http://www.mopo.de">Morgenpost</a> on the previous evening.</p>

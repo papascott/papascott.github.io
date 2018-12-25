@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://obama.senate.gov/statement/050906-statement_of_senator_barack_obama_on_hurricane_katrina_relief_efforts/index.html" title="Barack Obama - U.S. Senator for Illinois">Sen. Barack Obama</a> on Hurricane Katrina relief efforts:</p>
 <blockquote><p>We had nothing before the Hurricane. Now we have even less.</p>

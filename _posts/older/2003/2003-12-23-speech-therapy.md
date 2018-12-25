@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We had our initial appointment with the child speech therapist yesterday. He confirmed that Christopher is way behind in his speech development for his age. This could be caused by a combination of environmental factors: being a (spoiled) only child, having two working parents, spending full days in day care, and having a non-native-speaking parent (which I can confirm; I simply have no idea how well a 4-year-old German child should speak, and I have no ear for subtle mistakes).</p>
 <p>Of course we should check for physical causes as well. His 4-year checkup is beginning of next month, and we should tell the pediatrician about our concerns. He hasn't been sick the last year at all, but he had a couple of ear infections when he was younger, and he probably inherited my susceptibility to ear, nose and throat infections. I think I remember seeing a speech therapist as a child (but I'm not sure... Grandma?). If my memory is not invented, I remember it as something I did <em>not</em> enjoy.</p>

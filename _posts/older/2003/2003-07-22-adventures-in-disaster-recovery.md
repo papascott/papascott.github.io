@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today I found out what happens on a virtual server when the disk space is full and a piece of spam mail arrives.</p>
 <ol>

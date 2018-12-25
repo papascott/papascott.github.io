@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I thought I'd waste some of my wife's international GPRS units to wish myself a happy 44th birthday. Some things are just worth the extra cost and effort, even when one is away from home.</p>

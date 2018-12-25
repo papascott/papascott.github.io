@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After our trip this week I'm laying low with a touch of the flu. I'm even skipping biggest event of the year in Lüllau, the Easter fire. Mama and Christopher are there, though, and I'm sure they can drive out the evil spirits of winter without me.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Unlike last year, when we celebrated the millenium at Harburg General Hospital (when Mama was suffering from fever and was being cooled by cabbage leaves), we're celebrating this millenium at home. Both Mama and Christopher are recovering from colds, so we turned down an offer to go sledding with Christopher's uncle. </p>
 <p>We also won't be going to the fireworks at the harbor in Hamburg. That will be cold, crowded, and with kids throwing firecrackers around, more than a little dangerous. It seems that this time of year normally safety-conscious Germans take leave of their senses. First they put lit candles in their Christmas trees, then they throw firecrackers at one another on New Years Eve. Or fall down drunk into the River Elbe.</p>

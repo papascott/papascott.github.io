@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Radio Userland: <a href="http://radio.userland.com/howtoRedirectRss">Bootstrap: How to redirect an RSS feed</a>. OK, <a href="/index.xml">I'll</a> <a href="/index.rdf">try</a> it. Dave says it's only supported by Radio Userland, but I was able to create mine with vi.</p>

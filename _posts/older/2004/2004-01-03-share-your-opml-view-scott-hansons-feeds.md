@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="See what I'm reading. Or not" href="http://feeds.scripting.com/viewSharedFeeds?source=shanson%40shcon.com&amp;op=View">Share Your OPML: View Scott Hanson's Feeds</a></p>

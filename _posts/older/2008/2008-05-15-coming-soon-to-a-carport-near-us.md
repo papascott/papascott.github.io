@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2494663604" title="View 'RedBomber' on Flickr.com"><img src="https://farm3.static.flickr.com/2235/2494663604_ba144702f7.jpg" alt="RedBomber" border="0" width="500" height="206" /></a></p>
 <p>Frauke's always wanted a red car: <a href="http://www.volkswagen.de/vwcms_publish/vwcms/master_public/virtualmaster/de3/modelle/Tiguan/ausstattungslinien/track___field.html">Volkswagen Tiguan 2.0 TDI 125 kW Track &amp; Field</a>.</p>

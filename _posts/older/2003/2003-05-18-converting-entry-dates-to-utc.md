@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Hey, I'm now a goddess!" href="http://www.scriptygoddess.com/archives/003856.php">Scriptygoddess: MT hacks: Converting entry dates to UTC</a></p>

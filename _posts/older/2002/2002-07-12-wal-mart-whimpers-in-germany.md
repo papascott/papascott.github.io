@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Expatica: <a href="http://www.expatica.com/germany.asp?pad=190,205,&amp;item_id=23903">Wal-Mart to close two German stores</a>.  Not everything that Wal-Mart touches turns to gold. After entering the German market with a big bang a couple of years ago, their impact on German retailing has been, well, nil.</p>

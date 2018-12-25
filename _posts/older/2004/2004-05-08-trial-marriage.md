@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We've just returned from the animal shelter with a 1 year old female grey tabby, tentatively named Nena. We have a trial adoption for 2 weeks. If we are all happy with one another after that, we'll stay together permanently.</p>

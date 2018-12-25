@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The people in the GDR withdrew its trust in the government" href="http://www.volksaufstand-1953.de/english.htm">June 17th, 1953 - Personal memories of the strike leader Karl-Heinz Pahling</a></p>

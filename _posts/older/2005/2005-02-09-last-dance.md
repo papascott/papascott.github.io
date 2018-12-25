@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today was my last day of work at Netlife... a bittersweet day to say the least, after six years of dot.com, or more correctly, dot.de boom, bust, survival, and finally, the end of the rope. We concieved Christopher just after I started, and my work at there was our sole support from his birth to his first birthday. I'm still grateful that. But today I'm happy to put the uncertainty behind me, sad to leave the few good friends and colleagues who remain, and frustrated that the circumstances made it impossible to make a clean break.  The bankruptcy administrator is telling us he has several serious takeover offers. We'll see.</p>
 <p>But now I can devote my full attention to Nico and my new colleagues at nu2m.de, who've all been very understanding that I couldn't jump completely on board right away. Thanks, I'm 100% here now.</p>

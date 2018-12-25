@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When you build a rocket from a cardboard box, you first need to draw the blueprints.</p>
 <p><a href="http://www.flickr.com/photos/papascott/46018967/" title="Photo Sharing"><img src="https://static.flickr.com/31/46018967_5c8837df26.jpg" width="500" height="375" alt="IMG_0421" /></a></p>

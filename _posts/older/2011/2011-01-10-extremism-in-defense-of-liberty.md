@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yesterday we attended the New Year's Reception given by the mayor of Buchholz. It was a typical political meet-and-greet event, with all the usual suspects in attendance: the county commissioner (<em>Landrat</em>), 2 members of the Bundestag, 1 member of the <i>Landestag</i> (Lower Saxony Parliament). There was shake-hands with the mayor, a glass <i>Sekt</i>, live music on stage, and a couple of optimistic speeches. Other than the <i><a href="http://www.google.com/images?q=amtskette">Amtskette</a></i> the mayor was wearing, it could have been a typical American political event.</p>
 <p>It could have been a political event like the meet-and-greet in Tucson where Representative Giffords was shot and six people were killed by a lone gunman.</p>

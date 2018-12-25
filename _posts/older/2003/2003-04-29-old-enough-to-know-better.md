@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Some things are better left to professionals. Right now I wish potty training could be one of them.</p>
 <p>In the presence of a professional child care provider, Christopher is able to go without a diaper the entire day. Then his amatuer child care father takes him home. Despite denying repeatly that he needs to use the toilet, Christopher walks in the door, pulls down his pants, marches into the living room and proceeds to piss on his play carpet.</p>

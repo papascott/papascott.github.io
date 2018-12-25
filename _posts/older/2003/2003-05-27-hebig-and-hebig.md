@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="map reader" href="http://www.hebig.com/hebig/">hebig</a> and<br />
 <a title="driver" href="http://www.hebig.org/blogs/archives/main/001012.php">hebig</a></p>

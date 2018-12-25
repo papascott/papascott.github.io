@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm in the middle of updating my templates, and plus I'd like to see if my trackback link to an entry at <a href="http://philringnalda.com/">philringnalda.com</a> worked. And can I track back to myself?</p>

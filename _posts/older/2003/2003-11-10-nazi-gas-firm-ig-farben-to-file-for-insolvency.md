@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Fifty years in liquidation" href="http://www.forbes.com/home_europe/newswire/2003/11/10/rtr1141571.html">Nazi gas firm IG Farben to file for insolvency</a></p>

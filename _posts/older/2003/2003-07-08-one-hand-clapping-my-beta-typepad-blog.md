@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I didn't get very far" href="http://papascott.typepad.com/">One Hand Clapping: My Beta TypePad Blog</a></p>

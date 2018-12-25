@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The US IKEA experience is identical to ours, except for the SUVs in the parking lot " href="http://www.themorningnews.org/archives/how_to/the_nonexpert_ikea.php">IKEA as a video game</a></p>

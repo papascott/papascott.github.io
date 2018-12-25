@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Never heard of it! T-Shirt seen at the Hamburg Hafengeburtstag" href="http://www.abendblatt.de/daten/2003/03/17/135031.html">Berlin? Nie gehört!</a></p>

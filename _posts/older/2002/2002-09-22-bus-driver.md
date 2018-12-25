@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="crhbus.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/09/crhbus.jpg" width="350" height="262" border="0" /></p>

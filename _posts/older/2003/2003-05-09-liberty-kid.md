@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Maddie now wants to be a ballerina, mommy, and historian when she grows up" href="http://pages.prodigy.net/thomasn528/blog/newsrackblog.html#94032084">newsrack blog: Liberty Kid</a></p>

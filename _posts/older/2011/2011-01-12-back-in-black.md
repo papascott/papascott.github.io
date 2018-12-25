@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>One of the several good effects of our son's new school is that he has developed an enthusiasm for music. We didn't take him to any special music classes earlier (it's something we didn't think of, since neither of us did it as kids, maybe that was a missed opportunity), but with his very first music class at the new school, he decided he it was time to learn an instrument. One of his music teachers offers weekly after-school keyboard lessons, and our son was the first to sign up.</p>
 <p>(After school means he misses the bus home and we have to pick him up. Remember the school is a 45 minute drive from our home. Calculate how much fuel we burn to foster his interest in music. When I complain about my Friday taxi-driving schedule, this is what I mean.)</p>

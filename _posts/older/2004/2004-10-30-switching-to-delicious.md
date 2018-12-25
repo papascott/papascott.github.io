@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Switching to del.icio.us :: hebig.org/blog" href="http://www.hebig.org/blogs/archives/main/001714.php">hebig.org: Switching to del.icio.us for quick links</a>. An idea good enough to steal, er, I mean, use myself.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>To loosely paraphrase Helmut Kohl, politics is like making sausage. It doesn't matter what goes in, what matters is what comes out. And for the three opposition parties in Germany, who together have a majority to determine the new German <em>Bundespresident</em> in May, the process of grinding out a   common candidate has been very messy indeed. That common candidate is the current head of the International Monetary Fund <a title="IMF Chairman Resigns (washingtonpost.com)" href="http://www.washingtonpost.com/wp-dyn/articles/A30514-2004Mar4.html">Horst Köhler</a>.</p>
 <p>The office of <em>Bundespresident</em> is for the most part ceremonial and non-political, but the election every 5 years of the president by a convention of the federal Bundestag and the state parliments is highly political. This year has been more political than usual, with the rivarly between CDU and CSU, and the current weakness of the FDP. </p>

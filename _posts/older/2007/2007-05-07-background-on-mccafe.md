@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>MamaMaus was sent a trade magazine article on <a href="https://www.papascott.de/wordpress/wp-content/uploads/2007/05/mccafe.pdf">McCafé in Germany</a> (PDF, 770K, in German) that she wanted to share. It explains the concept (coffee shop atmosphere with the convenience and value of McDonald's) and some of the details of operation.</p>
 <p>Our soon-to-be restaurant does not have a McCafé yet, but we want one as quickly as we can and our it's included in our financial planning for this year. Maybe it will look something like this (design concept Generation Wenge)...</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Our favorite local restaurant California 101 (Neue Strasse 12 in Buchholz) has a American "Stammtisch" the last Thursday of every month for expats, folks who have visited the States, and anyone else who wants to come and speak a little English. </p>
 <p>The past few months we've had always been busy on Round Table nights, but this evening we're free and we'll both be there. Mama has to go to Orlando next week, so she can start getting in the mood <strike>for outlet store shopping</strike>.</p>

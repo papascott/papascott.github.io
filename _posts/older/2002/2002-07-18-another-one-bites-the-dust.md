@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>CNN.com <a href="http://europe.cnn.com/2002/WORLD/europe/germany/07/18/scharping.sacked/index.html">Schroeder sacks defence minister</a> "German Chancellor Gerhard Schroeder has sacked his beleaguered Defence Minister Rudolf Scharping -- just 10 weeks before elections." So I guess Gerhard is batting oh-for-July this week. (And I also guess twisting a American baseball metaphor to describe German politics means I'll confuse readers on both sides of the Atlantic.)</p>

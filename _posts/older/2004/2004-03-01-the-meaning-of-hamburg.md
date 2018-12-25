@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've now slept on the Hamburg election. Despite the <a title="Davids Medienkritik: German Socialists Suffer Crushing Election Loss in Hamburg" href="http://medienkritik.typepad.com/blog/2004/02/german_socialis.html">glee</a> of <a title="Instapundit.com:" href="http://www.instapundit.com/archives/014406.php">some</a> commentators over yet another defeat for Chancellor Schröder, they're missing the real meaning of the election in Hamburg... a victory for Angela Merkel, and the emergence of a new star in the CDU, Ole von Beust.</p>
 <p>The failure of the FDP to reach 5% reduces their weight for the selection of the Bundespresident, and Guido must now realize that unless he finally puts his yellow house in order, the CDU can do the same thing nationally as it has done in Hamburg: rule without the FDP.</p>

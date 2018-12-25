@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://fistfulofeuros.net/archives/001865.php" title="A Fistful of Euros: Nazi sabotage from beyond the grave">A Fistful of Euros: Nazi sabotage from beyond the grave</a> A true horror story.</p>

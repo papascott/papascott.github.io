@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Since when do German election campaigns last 3 years?" href="http://famulus.msnbc.com/FamulusIntl/reuters08-28-083227.asp?reg=EUROPE">Schröder, Fischer to stand again in 2006</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Instapundit.com -" href="http://instapundit.com/archives/019251.php">U.S. Immigration, the worst of both worlds:</a> porous and callous.</p>

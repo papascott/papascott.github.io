@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="An answer to Steven den Beste's Harley Davidson post" href="http://windsofchange.net/archives/003907.html">European bikers are <em>not</em> wussies</a></p>

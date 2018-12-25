@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I don't do garden work. If Mama wants to bring peace and beauty to her little corner of the world, and she benefits from the quiet satisfaction that it brings, well, she's welcome to it. But that's not for me.</p>
 <p>I'll do garden work if it's destructive in nature. Mowing the lawn is just slightly destructive. I actually hate it... I suspect Mama keeps planting obstacles in the lawn just to annoy me. Raking leaves, on the other hand, is not destructive at all. It's just pointless, since the leaves keep coming back, until it's late winter, and the remaining leaves from fall are clumped together in a slimy mess. Only then does it make sense to gather leaves, and it's much easier as well.</p>

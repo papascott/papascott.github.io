@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2037806786" title="View 'CIMG0337' on Flickr.com"><img src="https://farm3.static.flickr.com/2385/2037806786_df61018b21.jpg" alt="CIMG0337" border="0" width="500" height="375" /></a></p>
 <p>Somewhere behind the big red trash container, the cement mixer and the scaffolding is the main entrance to our restaurant. Yes, we're still open! And we're still running double digit increases in our guest count over last year! Here are some <a href="http://www.flickr.com/photos/papascott/sets/72157603204608056/">more photos</a> of the construction.</p>

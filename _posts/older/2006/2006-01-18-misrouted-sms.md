@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I just got the following SMS from a number I didn't recognize:</p>
 <blockquote><p>Priwet lida kak dela</p></blockquote>

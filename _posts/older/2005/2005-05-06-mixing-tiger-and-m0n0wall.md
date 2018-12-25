@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I don't really depend on my Powerbook for work, since I can get a browser and an ssh window in just about any operating system, so I was adventurous and installed <a href="http://www.apple.com/macosx/">Tiger</a> when it arrived last weekend. Quick review: everything seems faster, <a href="http://www.apple.com/macosx/features/spotlight/">Spotlight</a> is weird, <a href="http://www.apple.com/macosx/features/dashboard/">Dashboard</a> is lame.</p>
 <p>But I've run into an obscure and annoying bug. At work we run <a href="http://m0n0.ch/wall/">m0n0wall</a>, a tiny firewall based on FreeBSD (and which I can heartily recommend). The only access is via a web front-end (mini\_httpd with php).  I found that accessing the m0n0wall with Firefox under Tiger causes the <a href="http://comments.gmane.org/gmane.comp.security.firewalls.m0n0wall/16455" title="gmane.comp.security.firewalls.m0n0wall">mini\_httpd in m0n0wall to crash</a>. The firewall is still running, you just can't view or change settings. It took me 3 or 4 crashes to associate them with Tiger, but then I was able to reproduce the behavior, and it was confirmed by another member of the mailing list.</p>

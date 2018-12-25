@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>More political wisdom from <a href="http://dilbertblog.typepad.com/the_dilbert_blog/2006/05/income_gap.html" title="The Dilbert Blog: Income Gap">Scott Adams</a>:</p>
 <blockquote><p>Personally, I don't vote. That's partly because I know there isn't enough information available for me to make an informed decision, and partly because the rich white guys in power (my peeps) are doing a good job of taking from the poor and giving to me. I don't have much to gripe about.</p>

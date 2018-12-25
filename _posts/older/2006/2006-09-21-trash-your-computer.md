@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Ongoing, <a href="http://www.tbray.org/ongoing/When/200x/2006/09/21/Dell">Trash your computer</a></p>
 <blockquote><p>

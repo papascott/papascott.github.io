@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="As performance art, yes. But for politics?" href="http://laughingmeme.org/archives/001051.html?rss">Are flash mobs always pointless?</a></p>

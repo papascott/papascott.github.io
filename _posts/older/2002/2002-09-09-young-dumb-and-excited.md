@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Our young heroes had met in high school, ages 16 and 17, both wearing the same <a href="http://www.afs.org/">American Field Service</a> sweatshirt at a church function. He'd just come back from a summer in Brazil, she was from Germany and currently an exchange student in a neighboring town. They became sweethearts, went to prom, graduated, she returned to Germany, they promised to 'stay in touch', he went to college.  Six months later they resolved to remain sweethearts. She still had 3 years to finish her Abitur, her parents had no telephone, Al Gore hadn't yet invented the Internet, so they wrote 3 letters a week. The first summer he visited her, the second summer she visited him, and the third summer she came to stay.</p>
 <p>The plan was that she would transfer her Abitur credits to the University of Minnesota, study geography or something, maybe play volleyball, and the two would live together without money as a happy student couple for the foreseeable future. </p>

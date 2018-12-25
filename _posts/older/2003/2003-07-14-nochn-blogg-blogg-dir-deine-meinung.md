@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="A blog is what you make of it. No more. No less." href="http://lumma.de/mt/archives/000374.html#000374">Noch'n Blogg: Blogg Dir Deine Meinung!</a></p>

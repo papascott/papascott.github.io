@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Talkin' bout my generation" href="http://www.spiegel.de/panorama/0,1518,283504,00.html">Spiegel Online: Nina Hagen: Secret Wedding in Denmark</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama and Christopher are visiting Oma (Grandma) Ruth in Eckernförde for the rest of the week. It's Christopher's first road trip. (But don't expect any updates on her home page for the next few days... I doubt if she has time to stop by the Internet café.)</p>
 <p>This was the top news story in Germnay today. MS<a href="http://www.msnbc.com/news/375933.asp">Germans hold U.S. teens over deaths</a>:  "Prosecutors asked for murder charges Tuesday against three U.S. teenagers accused of tossing rocks from a highway bridge at passing cars, killing two drivers"</p>

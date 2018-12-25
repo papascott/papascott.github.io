@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Quick Serve Kids: <a href="http://www.quickservekids.com/2007/04/quickserves_most_socially_resp.html">Quick-Serves Most Socially Responsible?</a></p>
 <blockquote><p>

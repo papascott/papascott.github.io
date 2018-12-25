@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="No, she doesn't do perl..." href="http://dict.leo.org/?p=tLMk.&amp;search=Skriptgirl">German vocabulary: das Skriptgirl</a></p>

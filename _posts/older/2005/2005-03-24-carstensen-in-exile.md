@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It's dangerous to watch news channels with the sound turned off. I glanced at <a href="http://www.n24.de/">N24</a> this afternoon, and they were scrolling headlines from Kyrgyzstan while showing pictures of Peter Harry Carstensen. My first thought was that mobs had stormed the <em>Landtag</em> in Kiel and had forced the the CDU leader into exile. </p>
 <p>Given everything that's happened in Schleswig-Holstein the past few weeks, the thought isn't really that far fetched.</p>

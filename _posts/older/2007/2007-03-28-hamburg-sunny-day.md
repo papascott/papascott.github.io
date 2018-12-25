@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Despite the excitement of our upcoming business venture, we still have our usual everyday events. Right now Christopher has two weeks off school for Easter vacation, and I've taken the time off work. MamaMaus works this week, but we'll all three be taking off to Oslo and Denmark for a few days next week.</p>
 <p>Today Christopher and I took advantage of the sunny weather to head to Hamburg. After hitting the Lego store, we headed to the harbor for the cheapest harbor tour in town... the HADAG commuter ferry, all you need is a HVV subway ticket.</p>

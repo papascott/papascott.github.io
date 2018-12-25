@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Through soft living and not sticking to my gym schedule, I'm carrying 5 kilos more than 3 years ago and the suit I bought then is too tight around the belly. And the suit before that hangs like a tent. Why is fashion so unforgiving? But we have a gala event in Berlin to attend, and Christopher also needs the appropriate attire, so yesterday we were off to Hamburg to visit <a href="http://www.policke-herrenkleidung.de/">Policke</a>.</p>
 <p><a href="http://www.policke-herrenkleidung.de/historisches-kaufhaus.html"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2011/10/02-01-11.jpg" alt="02 01  1" border="0" width="250" height="216" style="float:right;" /></a>I <a href="https://www.papascott.de/archives/2000/12/11/advent-advent-ein-anzug-brennt/">blogged about Policke</a> 11 years ago when I got the suit before that. It hasn't changed much since then</p>

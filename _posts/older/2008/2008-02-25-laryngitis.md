@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sorry I've so quiet here lately, it seems I've lost my voice. We've both been on the floor running shifts at work (one shift leader sick, another on holiday) and we've been doing what McDonald's insiders affectionately refer to as "running labor", i.e. running slightly understaffed to make up for previous shifts that were overstaffed in order to meet a goal for labor costs. It's kind of like sticking your feet in the oven when you're head is cold so that your average temperature is OK.</p>
 <p>Actually, I think the expression is "sticking your head in the oven when your feet are cold", but that made me think of <a href="http://en.wikipedia.org/wiki/Sylvia_Plath#Death">Sylvia Plath</a>, and such a dire impression is not the one what I wanted to make.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My brother, who doesn't even own a computer, sent me this dubious electronic <a href="http://www.americangreetings.com/pickup.pd?i=49792032&m=7093&rr=y">Easter card</a>.</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/04/20000423018.jpg" height="262" width="350" border="0" alt="crh0423.jpg: " /></p>

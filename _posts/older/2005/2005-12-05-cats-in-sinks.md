@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://catsinsinks.com/" title="Cats in Sinks - for all your cat and bathroom needs">Cats in Sinks</a>, for very undignified cat pictures (via <a href="http://jeremy.zawodny.com/linkblog/" title="Jeremy Zawodny's linkblog">Jeremy Zawodny's linkblog</a>)</p>

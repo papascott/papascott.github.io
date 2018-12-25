@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="It's not about politics. It benefits both users and developers." href="http://www.sixapart.com/log/2003/06/why_we_need_ech.shtml">Six Log: Why We Need Echo</a></p>

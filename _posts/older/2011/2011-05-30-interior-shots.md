@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We had a chance to visit the new restaurant on Sunday. There's now security watching over the site, but he was nice enough to let us in for some pictures. Here's the front counter and kitchen area.</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/5774215803" title="View 'IMG_0219' on Flickr.com"><img border="0" alt="IMG_0219" width="500" src="6.static.flickr.com/5268/5774215803_cdfcb5d7b9.jpg" height="375" /></a></p>

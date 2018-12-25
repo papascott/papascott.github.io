@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.ankegroener.de/?p=1572" title="Anke Gröner">Well, theres room in my village for a wood chipper.</a> (<a href="http://www.amazon.com/gp/product/0684868091">Helen Thomas</a> via <a href="http://www.ankegroener.de/">Anke Gröner</a>)</p>

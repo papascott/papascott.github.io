@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Campaign Extra!: Was Kerry poisoned? A CE exclusive" href="http://www.pnionline.com/dnblog/extra/archives/001283.html">Was Kerry poisoned?</a> Horrible disfigurement, with before and after pictures.</p>

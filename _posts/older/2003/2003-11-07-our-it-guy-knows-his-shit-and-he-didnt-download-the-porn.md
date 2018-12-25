@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="We sysadmins aren't arrogant,  we're just always right." href="http://stusvenson.typepad.com/it_and_performan/2003/11/the_it_guy_hell.html">Our IT guy knows his shit.... and he didn't download the porn</a></p>

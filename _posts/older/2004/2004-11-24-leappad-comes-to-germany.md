@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Computer: Pauken mit Raupe Alpha Betty - UniSPIEGEL - SPIEGEL ONLINE" href="http://www.spiegel.de/spiegel/inhalt/0,1518,328898,00.html">Spiegel Online: Learning with Alpha Betty</a> about <a href="http://www.leapfrog.com/">Leapfrog's</a> entry in the <a href="http://www.leapfrog.de/">German market</a>. Christopher has an American <a href="http://www.leapfrog.com/do/findproduct?ageGroupKey=preschool&key=leappadfirst">My First LeapPad</a> and loves it. Maybe now we can get some German books for it.</p>

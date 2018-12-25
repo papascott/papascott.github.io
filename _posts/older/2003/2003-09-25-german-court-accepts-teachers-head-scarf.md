@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Unless there's a law against it..." href="http://www.nytimes.com/2003/09/25/international/europe/25GERM.html?ex=1065067200&en=0389ce1d07cfde41&ei=5062&partner=GOOGLE">German Court Accepts Teacher's Head Scarf</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="A Fistful of Euros: Twice Bitten Thrice Shy?" href="http://fistfulofeuros.net/archives/000934.php">Poll shows Norwegians now favor joining EU.</a> Think of all the oil money we can redistribute!</p>

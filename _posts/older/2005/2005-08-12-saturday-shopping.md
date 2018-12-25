@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Only Germans would think that <a href="http://www.spreeblick.com/2005/08/11/darfs-ein-bisschen-mehr-von-dem-internet-sein/" title="Spreeblick: Darf&rsquo;s ein bisschen mehr von dem Internet sein?">the internet is like Saturday afternoon shopping.</a></p>

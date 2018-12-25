@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="But can it brew coffee?" href="http://www.russellbeattie.com/notebook/20030503.html%23145037">Russ gushes over his new Nokia 3650</a></p>

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/eris23/30363984/" title="photo sharing"><img src="http://photos21.flickr.com/30363984_b022a27702_m.jpg" alt="" style="border: solid 2px #000000;" /></a><br />
 <span style="font-size: 0.9em; margin-top: 0px;">Originally uploaded by <a href="http://www.flickr.com/people/eris23/">eris23</a>.</span></p>

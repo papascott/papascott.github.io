@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Long live Mozilla" href="http://www.mozillazine.org/talkback.html?article=3422">Netscape is no more</a></p>

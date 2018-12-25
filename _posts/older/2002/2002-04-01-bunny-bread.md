@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="crhostern02.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/04/crhostern02.jpg" width="325" height="158" border="0" /></p>
 <p>Here's Christopher with his Easter Rabbit he got from Oma. It's made of bread, so he's having it for breakfast.</p>

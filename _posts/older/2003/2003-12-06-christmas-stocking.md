@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="crh_stocking.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/12/crh_stocking.jpg" width="320" height="218" border="0" /></p>
 <p>Grandma sent Christopher a Christmas stocking. Since he's not familiar with American Christmas customs, he thought he had to wear it.</p>

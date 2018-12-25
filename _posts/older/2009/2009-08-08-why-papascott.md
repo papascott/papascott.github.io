@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Why PapaScott?</p>
 <p>The oldest remaining shards of what would be become PapaScott date back 10 years to <a href="/blogger99.html">August 1999</a> and were posted with <a href="http://www.blogger.com/">Blogger</a>, a shiny new technology at the time.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="All the Content Management most people need" href="http://www.fogcreek.com/CityDesk/index.html">CityDesk: Version 2.0</a></p>

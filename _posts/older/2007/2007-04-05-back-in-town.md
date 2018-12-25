@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We returned last night from our <a href="http://www.dfds.co.uk/DSW/EN/Travel/Shortbreaks/CityCruiseBreaks/Oslo">"mini cruise"</a> from Copenhagen to Oslo, with a stop at Legoland in Billund on the way home. We'll spend Easter at home before getting back to school and work next week (although MamaMaus, true to form, is working already today).</p>
 <p>I'll also be doing some work with a Torx 8 screwdriver today. Fellow MacBook owners will know <a href="http://vowe.net/archives/008095.html">exactly what that means</a>... swiching to a bigger hard disk!</p>

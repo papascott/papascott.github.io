@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The relaunch of my work site has now been up over a week, with no negative comments. And almost no positive comments either. I did work out how to get the navigation bar to work at small screen sizes, using some dynamic positioning in JavaScript. You can try it if you like. The red dot is supposed to stay at the bottom of the screen, or get pushed down if the menus are too long (i.e. if the top of the dot is higher than the bottom of the menus, the position of the dot is changed from absolute to static). It doesn't work yet in Konqueror (the dot is always statically positioned, even if there's plenty of room), and I'm guessing it doesn't work yet in Safari either.</p>
 <p>The menus are dynamically generated from a simple XML file (originating from an Excel table saved as CSV text) with the buttons created from Type 1 fonts with GD and t1lib (first time I've used GD in production, I was always unhappy with quality before), cached, of course (the filenames are md5sums of the arguments passed to the GD script). If you use Netscape 4 you get a static table, otherwise you see script-less CSS rollovers (using :hover, images soon to be preloaded).  </p>

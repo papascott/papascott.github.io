@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>vowe net: <a href="http://vowe.net/cgi-bin/wiki.cgi?RadicatiGroup">Radicati Group</a>. Internet analysts gone bad, or on the Internet sometimes they <em>do</em> know you're a dog.</p>

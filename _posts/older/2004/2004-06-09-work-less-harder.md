@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When I first saw this graph of the CPU usage at my web host for the last month, I thought that WordPress was using less CPU than Movable Type had. </p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/06/1month-cpumins.png" alt="CPU activity for 1 month" /></p>

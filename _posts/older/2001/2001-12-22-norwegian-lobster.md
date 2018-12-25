@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The Hanson Family Christmas Party is this evening. There'll be plenty of Norwegian Lobster (i.e. lutefisk).</p>
 <p>There are probably only <a href="http://sheila.inessential.com/">two</a> <a href="http://iowa.weblogger.com/">other</a> bloggers who even know what lutefisk is. The rest of you can consider yourselves lucky.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My first Usenet post? <a href="http://groups-beta.google.com/group/comp.os.linux.misc/browse_thread/thread/e0e4373238dd1943/7e5952ed4a4ba576?q=kirby.isys.net&_done=%2Fgroups%3Fq%3Dkirby.isys.net%26num%3D100%26hl%3Den%26lr%3D%26output%3Dsearch%26&_doneTitle=Back+to+Search&&d#7e5952ed4a4ba576">7 Aug 1994</a> in comp.os.linux.misc: "I visited the US last month, and though I didn't look very hard, I was disappointed to see nothing about Linux in any of the bookstores I<br />
 visited." (Prompted by <a href="http://www.silentpenguin.com/archives/2005/01/a_message_from.html" title="The Silent Penguin: October 31st. 1990">Matthew's first Usenet post</a>.) </p>

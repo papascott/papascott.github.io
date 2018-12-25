@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>From the strange-taste-can-be-inherited department: Christopher just insisted on eating his cottage cheese with a dab of salsa. Just like his dad. Film at eleven.</p>
 <p>This one is actually more  for <a href="http://www.curry.com">Adam Curry</a> than for me, but German TV Network ZDF has gotten lots of protests against <a href="http://www.spiegel.de/panorama/0,1518,179523,00.html">the dress (or lack thereof</a>... in German, but pictures tell all) worn by singer Sarah Connor in last Saturday's Wetten Dass show. </p>

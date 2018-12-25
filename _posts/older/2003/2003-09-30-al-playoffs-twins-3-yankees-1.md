@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="AL Playoffs: Twins 3 Yankees 1" href="http://sports.yahoo.com/mlb/boxscore?gid=230930110">AL Playoffs: Twins 3 Yankees 1</a></p>

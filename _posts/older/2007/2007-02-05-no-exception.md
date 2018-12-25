@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In case anyone is wondering, I didn't watch the Super Bowl this year. I have never watched the Super Bowl in all the years I have been in Germany. This year was no exception.</p>

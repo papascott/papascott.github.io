@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Late</b><br />
 I slept 3 hours this afternoon. I had to pick up Christopher after all, and nearly overslept. We need to think of a late-afternoon nutrition plan for him. He comes home from day care hungry (yes, they do feed him!), but a whole banana and an entire yoghurt at 5:30pm tend to ruin his supper.</p>

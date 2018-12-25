@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Last weekend I was finally able to attend the annual Whiny Expat Blogger Meetup, organized the past 4 years by <a href="http://jbittner.com/germany/">J</a>. Good thing, since when we were voting on the location it was my idea to stuff the ballot box for Bremen so we'd finally have a northern location. So while most folks had to travel for hours to arrive, I could just hop on the <a href="http://www.der-metronom.de/">Metronom</a> for a 45 minute train trip.</p>
 <p><a href="http://claireseuroamerica.blogspot.com/">Claire</a> organized the details in Bremen and did a wonderful job, even preparing little welcome kits for us all. She herded our group of 25 (including strollers) through the city, parked us on the Weser riverbank to enjoy the sun for lunch, and reserved excellent places for dinner and for Sunday brunch. She didn't plan the excursion to the back room of a gay bar Saturday night, that just happened.</p>

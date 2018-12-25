@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Oscar for Best Foreign Film?" href="http://www.reuters.co.uk/newsPackageArticle.jhtml?type=entertainmentNews&amp;storyID=416845&amp;section=news">Goodbye Lenin sweeps Europe Film Prize</a></p>

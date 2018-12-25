@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Be careful what you put in your weblog. <a href="http://www.cbp.gov/">US Customs and Border Security</a> may not be reading it now, but they may check Google when you try to enter the country, <a href="http://hoder.com/weblog/archives/014729.shtml" title="E:M | Goodbye to America">and you might be refused entry</a>.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It was actually yesterday, but yesterday the Greens announced that they would for the first time field a main candidate, namely Joschka Fischer. No gender balanced duo this time. Leave it to the PDS to present a gender balanced quartet. But not geographically balanced... they want 30% of the the vote in the east and a whole 2% in the west.</p>

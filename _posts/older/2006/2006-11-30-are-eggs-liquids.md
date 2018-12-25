@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>MamaMaus came home today with an odd smell in her handbag. It turned out to be a hard boiled egg that she intended to have as breakfast on Monday, 4 days ago. The handbag is now in the washing machine.</p>
 <p>However, since she flew twice to Munich and back this week, we can only wonder... is the egg now <a href="http://www.dw-world.de/dw/article/0,2144,2253645,00.html" title="Investigators Find Traces of Radiation on British Planes">contaminated with polonium</a>? And why wasn't it confiscated by security (particularly yesterday) as a forbidden liquid?</p>

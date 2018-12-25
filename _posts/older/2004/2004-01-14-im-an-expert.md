@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>German taxpayers will be pleased to learn that they are no longer paying me not to work. My colleague on her arm and is out indefinitely with a compound fracture, so I'm back full time. And I get to fake being a Solaris expert until she comes back. A calendar left in my office by a former co-worker reads 'Guessing right three times makes you an expert.' I've been guessing right so far, even with the RAID for which I had neither a handbook nor a clue.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://windsofchange.net/archives/005614.php">Winds of Change.NET: Tony Blair Does Monty Python</a> at the Labour Party conference: "And the daftest thing said about New Labour is not the usual 'What have the Romans ever done for us?'..."</p>

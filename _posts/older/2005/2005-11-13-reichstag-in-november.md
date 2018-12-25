@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We took a quick trip to Berlin this weekend. Mama had a <a href="http://www.welt.de/data/2005/11/12/802539.html" title="Auktion bei Pomp, Duck: Heidi Klum im Einsatz">fundraising</a> <a href="http://bz.berlin1.de/aktuell/boulevard/051113/klum.html" title="B.Z. traf Top-Model Heidi Klum bei Blitz-Besuch in Berlin">gala</a> to attend, and we brought Oma along as a babysitter. The next morning Christopher took us to the Dome atop the Reichstag. </p>
 <p>We took some pictures (<a href="http://www.flickr.com/photos/papascott/sets/1354517/show/">slideshow</a>).</p>

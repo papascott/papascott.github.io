@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Canucks should know" href="http://accordionguy.blogware.com/blog/_archives/2003/10/17/4666.html">American etiquette is an oxymoron</a></p>

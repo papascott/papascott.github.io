@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've won new respect for the University of California Berkeley after reading about the <a href="http://www.schneier.com/blog/archives/2006/03/basketball_pran.html">Basketball Prank</a> at Cal: </p>
 <blockquote><p>Victoria was a hoax UCLA co-ed, created by Cal's Rally Committee. For the previous week, "she" had been chatting with Gabe Pruitt, USC's starting guard, over AOL Instant Messenger. It got serious. Pruitt and several of his teammates made plans to go to Westwood after the game so that they could party with Victoria and her friends.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We have ants in our house again. They were here this time last year too. They seem to like canned cat food. So they are all over the cat dish in the entryway. Mama noticed this early this morning, took the ant-infested cat dish outside, and put a new dish in the kitchen. The ants took this as an invitation to come to the kitche, so by the time Christopher and I woke up, the ants were in there. And in the living room. But I found where they are coming from. They can run back in their hole, but they can't hide forever. I have a can of bug spray, and I'm not afraid to use it!</p>
 <p>Meanwhile, we have discovered that we are out of toilet paper. In a household where all lives revolve around a two-year-old, practical necessities sometimes get forgotten. After all, Christopher doesn't need it yet. He does use toilet paper, as <a href="/2001/11/25">we mentioned a few months ago</a>, but as we noted at the time, he doesn't follow the manufacturer's operating instructions. Unfortunately, this not being the land of unlimited possibilities, we cannot take care of this need online. There is no <a href="http://www.klopapier24.de">www.klopapier24.de</a> (there is a <a href="http://www.klopapier.de">www.klopapier.de</a>, but it's more of an artistic than a commerce site).  I have, however, set up a <a href="http://www.mailtothefuture.com">Mail To The Future</a> to send me a mail tomorrow afternoon to remind me stop at the toilet paper store on my way home from work.</p>

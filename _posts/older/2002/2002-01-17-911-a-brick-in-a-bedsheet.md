@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Visiting the States last month, it was quickly apparent that the effect of 9/11 on ordinary people was much deeper than I had imagined. In Germany life had indeed stopped for a time, but in the meantime had started again. In the States life hadn't yet really started. The feeling seemed to be fanned by the media, not only the news shows in series of artificial anniversaries (3 months since 9/11, 100 days since 9/11), but even talk shows, where the main topic seemed to be always dealing with the mental (or the economic) aftermath.<br />
 <!--more--><br />

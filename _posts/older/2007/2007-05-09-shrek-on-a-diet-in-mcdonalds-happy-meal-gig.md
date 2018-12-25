@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Reuters, <a href="http://yahoo.reuters.com/news/articlehybrid.aspx?storyID=urn:newsml:reuters.com:20070508:MTFH92768_2007-05-08_22-50-45_N08197556&amp;type=comktNews">Shrek on a diet in McDonald's Happy Meal gig</a>:</p>
 <blockquote><p>

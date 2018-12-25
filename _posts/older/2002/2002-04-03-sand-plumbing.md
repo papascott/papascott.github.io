@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="crhpipe.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/04/crhpipe.jpg" width="350" height="263" border="0" /></p>

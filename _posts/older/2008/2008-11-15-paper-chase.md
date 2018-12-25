@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When we decided to form a separate firm for our two new restaurants in Harburg, we had assumed that forming a KG (limited partnership) would be easier and faster than forming the GmbH (limited liability corporation) we set up last year. So far it hasn't been the case. Coordinating the paperwork between us, McDonald's, the attorney, the tax accountant, the chamber of commerce <em>(Handelskammer)</em>, and the commercial register <em>(Handelsregister)</em> has so far been just as complicated if not worse, and we haven't even started with the last two yet. Last year the GmbH was not officially registered until two weeks after we started business. Legally, we were running on a hope and a prayer for 14 days.</p>
 <p>This time we've run into technical snafus.</p>

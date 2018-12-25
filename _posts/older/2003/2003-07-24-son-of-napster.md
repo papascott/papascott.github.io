@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If one million people collectively own a CD, they can each have a copy, right?" href="http://www.pbs.org/cringely/pulpit/pulpit20030724.html">Son of Napster</a></p>

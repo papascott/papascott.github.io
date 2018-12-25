@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.mcdonalds-nordheide.de/2008/10/der-mcdonalds-adventskalender-ist-da/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/12/advent1.jpg" border="0" alt="advent.jpg" width="250" height="354" align="right" /></a>The season for advent calendars is going fast, and unfortunately we ordered a few too many <a href="http://www.mcdonalds-nordheide.de/2008/10/der-mcdonalds-adventskalender-ist-da/">"McDonald's Adventskalender"</a> (with Lindt chocolate and exclusive coupons good at McDonald's in Dibbersen) to sell at the restaurant. We've started selling two for the price of one... i.e. two for 8.49.</p>
 <p>The second Sunday in Advent is of course the perfect time to buy an advent calendar. You can open the first 7 doors all at once, and can still enjoy a daily treat for more than two weeks until Christmas. You get both instant gratification and daily satisfaction. What more could you ask for?</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/hsB7CvfuWuI" /><embed src="http://www.youtube.com/v/hsB7CvfuWuI" type="application/x-shockwave-flash" width="425" height="350"></embed></object></p>
 <p>As promised, here's Christopher doing laps around the backyard. There's only one firey crash, at 0:22. We're still working on braking and coming to a safe stop.</p>

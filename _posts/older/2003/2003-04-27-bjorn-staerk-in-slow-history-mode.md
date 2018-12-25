@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'A sudden urge to shut up came over me'" href="http://www.bearstrong.net/warblog/000191.html">Bjørn Stærk in slow-history mode</a></p>

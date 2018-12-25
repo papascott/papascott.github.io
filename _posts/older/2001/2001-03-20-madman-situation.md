@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/03/office.jpg" height="244" width="325" border="0" alt="office.jpg: " /></p>
 <p>Instead of quoting random songs in my page titles, I think I quote the same <a href="http://www.mandymoore4always.org/sugababes/overload.html">song</a> for a few days, at least until I get tired of it. Americans probably won't recognize it, since the <a href="http://www.uk.bol.com/cec/cstage?ecaction=bolprditmview&PrdId=1000002001773781">Sugababes</a> haven't arrived there yet.</p>

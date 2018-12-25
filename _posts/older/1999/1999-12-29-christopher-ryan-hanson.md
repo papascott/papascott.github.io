@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>For grandparents and other hardcore Christopher fans, we have set up photo albums (<a href="http://www.ofoto.com/i.cfm?m=938240102&n=2454059">Day 1</a> and <a href="http://www.ofoto.com/i.cfm?m=785480102&n=4898694">Day 2</a>) at Ofoto.com (they'll ask you to register first, and they only ship prints to US addresses)</p>
 <p>Now that we have a suitable subject, I'm looking for the best way to share masses of digital photos. But Ofoto looks like a good first step, although they are a bit commercial.</p>

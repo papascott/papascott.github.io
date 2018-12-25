@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Guantanamo ade?" href="http://www.nytimes.com/2003/12/19/national/19DETA.html">U.S. Courts Reject Detention Policy in 2 Terror Cases</a></p>

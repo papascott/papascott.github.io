@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Press release from my employer: "The company is carrying on discussions with potential investors to secure continued financing. Only with a positive result can the liquidity and therefore the existance of the firm be achieved. Because the talks are in a critical phase, the board has decided to postpone the annual meeting scheduled for tomorrow."  So is the time to leave a sinking ship when my feet start getting wet, or should I wait until the water is up to my neck?</p>

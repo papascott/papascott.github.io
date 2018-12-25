@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This evening was a rather subdued <a href="http://lumma.de/eintrag.php?id=800" title="Minibloggertreffen [Lummaland - das Weblog]">Blog Meeting in Hamburg</a>. Good thing that it was subdued, since the police had set up a control check on my way home. So how voluntary is a voluntary breath test in Germany anyway?</p>

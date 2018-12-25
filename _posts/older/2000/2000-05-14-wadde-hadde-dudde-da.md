@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/05/20000514001.jpg" height="350" width="262" border="0" alt="crh1405.jpg: " /></p>
 <p><a href="http://www.cnn.com/2000/WORLD/europe/05/14/germany.state.election.ap/index.html">State elections in NRW</a> today, down where Andrea and André live. Unlike February's election in Schleswig-Holstein, which all 4 national parties could claim at least a small victory, in today all parties except the Free Democrats were clear losers. (The CDU's somewhat racist slogan 'Kinder statt nder' ('Children instead of Indians') against the 'green card' program for computer specialists was thankfully a flop, I guess since neither children nor Indians could vote.)</p>

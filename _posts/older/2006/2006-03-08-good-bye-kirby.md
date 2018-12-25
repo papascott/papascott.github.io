@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I didn't mean for PapaScott to become the weblog of death and illness, but sometimes you don't pick your memes, but your memes pick you. </p>
 <p>I'm not sure I could explain anyone here in Germany how I feel about <a href="http://www.nytimes.com/2006/03/07/sports/baseball/07puckett.html?ex=1299387600&en=40679e20011901cc&ei=5090&partner=rssuserland&emc=rss" title="Kirby Puckett, 45, Hall of Fame Outfielder, Dies - New York Times">Kirby Puckett</a>, and why I am mourning a retired sports star with a checkered private life who died young. </p>

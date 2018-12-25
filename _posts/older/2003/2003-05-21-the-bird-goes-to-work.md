@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Knock 'em dead, Shelley!" href="http://weblog.burningbird.net/fires/001226.htm">The Bird goes to work</a></p>

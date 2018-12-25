@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Your drive on the Autobahn A7 southbound toward Hannover between HH-Marmstorf and Seevetal-Fleestedt has just gotten more interesting...</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3664605356" title="View 'Directional A7' on Flickr.com"><img src="4.static.flickr.com/3560/3664605356_a37c888b51.jpg" alt="Directional A7" border="0" width="500" height="375" /></a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If it looks like a wrench..." href="http://www.eamonn.com/">Rainy Day: Is NATO a partnership, or just a toolbox?</a></p>

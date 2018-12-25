@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="like Alwin says about health care: cheap, quick, effective; you can't have all three" href="http://www.washingtonpost.com/wp-dyn/articles/A7030-2003Sep13.html">Public Says $87 Billion Too Much (for Iraq)</a></p>

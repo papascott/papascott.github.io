@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yesterday was <a href="http://www.training-for-germany.de/tips99/tip11.htm">Nikolaus Day</a>, the morning when St. Nikolaus comes and fills your boots with chocolate (if you've been good), or just a branch (if you've been bad), or both (if you've been in-between). We forgot all about it, so we had no boots out for Christopher. We tried to make up for it by opening up one of his presents last evening, a double-decker train station for his wooden set. </p>
 <p>Have I mentioned that all of his presents this year will come from E-Bay? Does that make us evil parents? </p>

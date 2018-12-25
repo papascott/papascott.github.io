@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The thing that's so cool about the World Cup, and soccer in general, is that it's so blatantly emotional and subjective. </p>
 <p>Take the past couple of days. There have been 3 games (Germany - Poland, England - Trinidad and Tobago, Sweden - Paraguay) where the plot line has been basically the same. The favorite struggles to score against a defensive underdog and can only win by scoring very late. </p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.opera.com/swim/" title="THE 1 MILLION DOWNLOAD CHALLENGE - Opera Web Browser">"Both the raft and the PR manager were accidents waiting to happen..."</a></p>

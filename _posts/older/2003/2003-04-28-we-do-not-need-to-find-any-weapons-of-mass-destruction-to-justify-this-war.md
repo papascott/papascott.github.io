@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Thomas Friedman, New York Times" href="http://www.nytimes.com/2003/04/27/opinion/27FRIE.html">'We do not need to find any weapons of mass destruction to justify this war'</a></p>

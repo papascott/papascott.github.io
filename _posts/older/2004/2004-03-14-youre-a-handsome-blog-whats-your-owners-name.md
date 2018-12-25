@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I'm so bad at remembering names..." href="http://philringnalda.com/blog/2004/03/youre_a_handsome_blog_whats_your_owners_name.php">You're a handsome blog, what's your owner's name?</a></p>

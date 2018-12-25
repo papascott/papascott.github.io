@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><em>I wrote the following as a <a href="http://www.yankeeinnewworld.com/2008/12/02/from-papa-scott-as-an-expat-travel-may-not-be-what-you-think/">guest post</a> for <a href="http://www.yankeeinnewworld.com/">Yankee In A New World</a>, an American studying in Hungary. Reading her blog reminded me of the one time I visited Hungary and that we haven't seen as much of Eastern Europe as we would like. This is not so much about what we saw as about how we got there, and almost didn't get back...</em></p>
 <p>One thing about becoming a settled expat is that you are not able to be see as much of your new country and continent as you might think. Yes, in Germany we get 6 weeks vacation per year, but most of that is used either to visit friends and family on the old continent or to show visitors from the old continent things you've already seen yourself. My parents saw more of Europe on a 3-week bus tour than I've seen in 18 years living here.</p>

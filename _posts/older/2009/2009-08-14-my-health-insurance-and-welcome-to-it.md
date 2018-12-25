@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>With the current debate on health insurance in the United States, some of my readers might be interested in my health coverage here in Germany. </p>
 <p>Most employees are required to join the public insurance system. It's financed something like Social Security, with a percentage (currently 14.9%) of income  up to a certain limit (currently 3675 per month) split between employer and employee.  The system covers children and students through their parents, as well as the unemployed and pensioners. Insured patients do not see any bills, but fixed co-payments for prescriptions, office visits per quarter, dental, and optical. There is not a single insurer, but nearly 200 different "sickness funds" with similar coverage and rates. Lost wages due to sickness are covered (actually, the employer pays the first 6 weeks, the insurer thereafter).</p>

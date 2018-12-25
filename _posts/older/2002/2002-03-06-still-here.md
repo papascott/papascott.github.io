@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm still here, just having a busy tune at work and alone at home with Christopher, since Mama's out-of-town all week.</p>

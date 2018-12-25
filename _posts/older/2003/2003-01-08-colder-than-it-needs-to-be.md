@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're in a cold wave. -18&deg;C the past two nights, and it will continue until the weekend.  That's around 0 for you Fahrenheit fans. Being from Minnesota, I'd call that just 'a bit brisk' (there's no black ice on the pavement yet), but it's still colder than I'd rather deal with. Maybe Hamburg will be able to hold an ice party on the Alster lake this year.</p>

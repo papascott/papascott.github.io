@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Top story in German media today" href="http://www.nytimes.com/2003/04/29/international/worldspecial/29CND-IRAQ.html">NY Times: U.S. Troops Fire on Iraqi Protesters, Leaving 15 Dead</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="have I given an administration I don't really like or trust too much leeway?" href="http://pages.prodigy.net/thomasn528/blog/2003_05_11_newsarcv.html#94310195">newsrack: Iraqi WMD: not wrong. Yet </a></p>

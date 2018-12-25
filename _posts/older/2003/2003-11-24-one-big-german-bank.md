@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Four largest banks in Germany to merge? Encouraged by the finance minister?" href="http://www.smalla.net/linkfeed/2003_11_24.shtml#004625">One Big German Bank?</a></p>

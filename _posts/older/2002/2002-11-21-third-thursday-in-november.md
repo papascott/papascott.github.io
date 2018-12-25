@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today is the third Thursday of November. That means it's <a href="http://wine.about.com/library/weekly/aa112102.htm">Beaujolais Nouveau</a> day. Here it's called Beujolais Primeur. Whatever you call it, it's fresh French decadence for just &euro;1.49.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As <a href="http://news.scotsman.com/latest.cfm?id=3501484" title="Scotsman.com News: Police Guard as Beslan's Children Return to School">schools reopened today in Beslan</a> after the massacre two weeks ago, Thomas Nephew mentions <a href="http://pages.prodigy.net/thomasn528/blog/2004_09_12_newsarcv.html#109526652339568820" title="newsrack blog">a couple ways to help children in Beslan</a>.  </p>
 <p>1. <a href="http://www.moscowhelp.org/donate.htm" title="Help Beslan children">www.moscowhelp.org</a>, a group originally formed to help victims of the Moscow theatre attack, is attempting to raise $10 million for Beslan.</p>

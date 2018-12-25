@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It looks like we're set. Christopher begins kindergarten on Aug 5. As we hoped, he was admitted into the speech therapy group in Winsen. We were at their Sommerfest last weekend, and they had already had him registered and assigned to a room (he'll be in the 'penguin' group) and teachers. Our first parents meeting is this Thursday, when they'll explain what he needs to bring (from the looks of it, each kid has nearly a complete wardrobe of indoor and outdoor gear on hand).</p>
 <p>The next surprise was at work. I told my boss that we got the kindergarten of our choice, and that starting in August I'd have to be home by 3 instead of 5. He said no problem, no need to go part time, I can make up the hours from home. That's fine as long as we have short time, that's only a couple of hours a week. When we go back to full hours, I'm not sure how things will work. </p>

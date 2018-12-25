@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Correction, quadruple parking" href="http://www.michaelhimsolt.de/weblog/2004/01/parken_in_zweiter_reihe.html">Michael Himsolt: Double Parking</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sign and Sight: <a href="http://www.signandsight.com/features/247.html" title="What do the conservatives want? - signandsight">What do the conservatives want? A look at the tradition of German conservatism.</a> Promising "blooming landscapes" rather than calling for "blood, sweat and tears".</p>

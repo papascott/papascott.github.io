@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Despite missing most of last week at work, I apparently didn't miss much. There is still no official word on whether we have avoided insolvency or not. There are all sorts of rumors, ranging from the company will declare insolvency but continue in its present form to  we will be bought out and absorbed into an existing firm. A persistent rumor is that systems administration will be completely out-sourced. </p>
 <p>What we do know for sure is that 1) the May salaries are late, and 2) short-time <em>(Kurzarbeit)</em> has been extended another 6 months until November. So someone is planning at least for the short-term future. And the stock price been going up (to 70 cents from 30 cents last week), so somebody might know something.</p>

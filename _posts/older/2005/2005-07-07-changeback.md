@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sometimes you just have to change things around... (back to Wordpress, in case you're reading in an aggregator). No fear, all your (I mean my) favorite PapaScott non-features and non-design will return... sometime.</p>

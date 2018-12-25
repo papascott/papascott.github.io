@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In elections yesterday in Mecklenburg-Vorpommern, the poorest German state, the far-right National Democratic Party <a href="http://news.bbc.co.uk/2/hi/europe/5349696.stm">earned 7.3% of the vote</a>, enough to enter parliament. As always when the far-right does well in an election, there is much wailing and gnashing of teeth in the German media. Doug Merrill at A Fistful of Euros is <a href="http://fistfulofeuros.net/archives/002683.php" title="Sandy Brown Baltic Shores">not quite so hysterical</a>:</p>
 <blockquote><p>

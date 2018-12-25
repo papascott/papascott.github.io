@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We've finally got a couple of current entries on the <a href="http://www.mcdonalds-nordheide.de/">home page</a> for the restaurant, so it looks almost weblog-like, and we finally have <a href="http://www.mcdonalds-nordheide.de/restaurant/">a satellite image</a> from Google Maps. The toughest part was figuring out how to customize the icon without it getting squished (hint: the graphic file has to be square, since it gets reduced to 32x32 pixels).</p>
 <p><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=http:%2F%2Fwww.mcdonalds-nordheide.de%2Fdibbersen.kml&amp;ie=UTF8&amp;t=h&amp;om=1&amp;ll=53.363659,9.873147&amp;spn=0.004411,0.006115&amp;output=embed&amp;s=AARTsJqRZMO0jq3pcJpadIZk0lcRnLZw3Q"></iframe></p>

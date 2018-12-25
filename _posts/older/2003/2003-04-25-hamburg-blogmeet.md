@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="11 May, Alsterpavillion: be there or be sqaure" href="http://lumma.de/mt/archives/000144.html#000144">Hamburg BlogMeet</a></p>

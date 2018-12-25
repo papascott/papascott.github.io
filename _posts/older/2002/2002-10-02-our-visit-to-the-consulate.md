@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today was the big day. I had the day off alone with Christopher (both the <i>Tagesmutter</i> and her backup are on vacation this week, so Mama, Oma and I are juggling shifts), I had all the papers, so we were off to the US Consulate, the 'Little White House' on the shore of the <i>Aussen Alster</i> lake in Hamburg, to apply for Christopher's citizenship.</p>
 <p>Security was immense. The street and sidewalk in front of the building are closed for an entire city block, with no less than 4 police containers and at least 8 German officers armed with automatic weapons. They checked my passport before entering the street, and escorted  us to the gate, weapon in hand. There we were handed over to the Americans. My passport was checked again, my cell phone was taken away, and we were sent through the metal detector. We could then enter the passport office.</p>

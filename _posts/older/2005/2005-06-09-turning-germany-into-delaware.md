@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://q.queso.com/archives/001680" title="QDN: Dotster%u2019s turning Germany into Delaware">.de domains for Delaware</a>. <a href="http://wilmington.dot.de/" title="http://www.Wilmington.Delaware">Really</a>? Well, no, actually <a href="http://www.ci.wilmington.de.us">not</a>.</p>

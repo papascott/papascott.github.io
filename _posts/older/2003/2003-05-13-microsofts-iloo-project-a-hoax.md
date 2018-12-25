@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I blame Scoble!" href="http://slashdot.org/articles/03/05/13/1116206.shtml?tid=109&tid=187">Slashdot: Microsoft's iLoo Project A Hoax</a></p>

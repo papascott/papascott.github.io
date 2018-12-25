@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>via <a href="http://www.dashes.com/links/">anil dash</a>: <a title="And I thought she could only scan Neo's ports" href="http://www.theregister.co.uk/content/55/30747.html">Trinity hacks with nmap in Matrix Reloaded</a></p>

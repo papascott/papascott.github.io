@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><strong>Update 5 May 2005</strong>: A lot of people seem to be using this script. Since I'm not using WordPress right now, I haven't really been maintaining it. A better alternative might be the <a href="http://epierce.blog.usf.edu/?p=15" title="Eric Pierce: WPexport 0.2">WPexport</a> plugin by Eric Pierce, since, unlike me, he regularly exports WordPress blogs (for students at the University of South Florida).</p>
 <p>To <a href="http://www.intertwingly.net/blog/2004/06/15/Archive-Restore">paraphrase Sam Ruby</a>, a weblog software is only as good as its export function. So <a href="http://weblog.burningbird.net/archives/2004/08/26/exit-door/">inspired</a> <a href="http://weblog.burningbird.net/archives/2004/08/22/mt-and-wp-there-and-back-again/">by</a> Shelley, starting from a <a href="http://www.billgrady.com/mt/archives/000064.php">b2 export script by Bill Grady</a>, and to <a href="http://www.sixapart.com/log/2004/08/launched_movabl.shtml">celebrate the release of Movable Type 3.1</a>, I've just made WordPress a hell of a lot better. I humbly present Version 0.1 of an <a href="https://www.papascott.de/examples/export_wp.phps">export script for WordPress</a> for the Movable Type import format.</p>

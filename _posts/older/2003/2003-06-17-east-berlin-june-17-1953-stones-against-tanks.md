@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="50 deaths, hundreds of injuries and thousands of arrests and prison sentences" href="http://www.dw-world.de/english/0,3367,1432_A_894998_1_A,00.html">East Berlin June 17, 1953: Stones Against Tanks</a></p>

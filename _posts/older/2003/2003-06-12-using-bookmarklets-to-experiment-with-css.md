@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Looks like it could be helpful for people like me who hate CSS" href="http://simon.incutio.com/archive/2003/06/03/bookmarkletsAndCSS">Simon Willison: Using bookmarklets to experiment with CSS</a></p>

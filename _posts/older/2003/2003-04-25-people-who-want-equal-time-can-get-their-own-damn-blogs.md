@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Instapundit and equal time in blogging" href="http://www.instapundit.com/archives/009153.php#009153">"people who want equal time can get their own damn blogs"</a></p>

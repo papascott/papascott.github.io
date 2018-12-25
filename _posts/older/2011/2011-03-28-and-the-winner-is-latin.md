@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>For those following along with the "<a href="https://www.papascott.de/archives/2011/03/23/lingua-franca/">which language will Christopher learn in the 6th grade</a>" contest, we have a winner. A full week before the deadline, he declared his decision for Latin, and we turned in the form to the school today.</p>
 <p>Our preference was for French, and we even tried using to some reverse psychology (pointing out the advantages of Latin and hoping he'd argue with us), but that backfired. The main thing is that he made a decision and is happy with it.</p>

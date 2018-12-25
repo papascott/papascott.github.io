@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Take away corporations, and both would fall over.I" href="http://weblog.burningbird.net/fires/politics/ralph_nader_unsafe_at_any_speed.htm">Burningbird: Ralph Nader: Unsafe at any speed</a> "I think Nader is closer to Bush in outlook than not. Both believe that everything boils down to corporate interests."</p>

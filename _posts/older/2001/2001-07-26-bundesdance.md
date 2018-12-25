@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/07/crhopengrin.jpg" height="241" width="300" border="0" alt="crhopengrin.jpg: " /></p>
 <p>Christopher <a href="http://shcon.com/index.php?album=07_2001%2F20010726&dispsize=512&start=0">cools off</a> after a long hot day in the sandbox. (<br />

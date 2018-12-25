@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Heh" href="http://www.buzzmachine.com/archives/2004_02.html#006137">BuzzMachine: Only 15 percent of Canadians would vote for Bush. The rest apparently realize that they can't vote for him because they're Canadian.</a></p>

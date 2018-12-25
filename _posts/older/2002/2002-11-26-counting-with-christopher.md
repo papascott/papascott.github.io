@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><em>Eins-Vier-Fünf-Sechs-Neun-Sechs-Acht</em> (One-Four-Five-Six-Nine-Six-Eight)</p>
 <p>OK, so he's not a genius. Yet. But it's an improvement from a couple months ago, when everything more than two was <em>Dreizehn-Neunzehn</em> (Thirteen-Nineteen).</p>

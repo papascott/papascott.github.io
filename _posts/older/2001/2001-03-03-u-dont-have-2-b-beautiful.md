@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We've decided that Christopher is eating too much. It's not just that I've been calling him the 'bottomless pit' the past few weeks. A newborn baby needs to be fed whenever she's hungry, and it's very easy to soothe a crying spell with a cracker or a banana. Socially, Christopher always wants to eat along with the adults, even if he's just had his own meal. At 14 months it's time to start being a little more selective with feeding. So it's time that he eats his meals along with us, not before, and no more snacks to soothe every complaint. Today (a work day for Mama) was the first day of the new strategy. Christopher didn't like having to wait for us at breakfast this morning, but otherwise it was a smooth day for us men at home. </p>
 <p>This coming week will be another tough one. Mama has 3 days of meetings in Munich. At least this time I'm healthy, unlike the first 3 day stretch last month.</p>

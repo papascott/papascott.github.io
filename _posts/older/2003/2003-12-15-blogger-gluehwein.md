@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Glühwein simmered with fresh-picked bloggers?" href="http://lumma.de/mt/archives/000765.html#000765/">Hamburg Blogger-Glühwein: Dienstag, 19 Uhr, Gänsemarkt</a></p>

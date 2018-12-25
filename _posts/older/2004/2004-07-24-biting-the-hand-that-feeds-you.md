@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.balticblog.blogspot.com/2004_07_01_balticblog_archive.html#109068006313259365">Baltic Blog: Darwin award semi-finalist</a>, or as the Sydney Morning Herald put it, <a href="http://www.smh.com.au/articles/2004/07/23/1090464828966.html">Bear bites off drunk's hand</a></p>

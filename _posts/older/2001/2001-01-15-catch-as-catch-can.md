@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/01/crh150101.jpg" height="188" width="250" border="0" alt="crh150101.jpg: " /></p>
 <p>All-Star Bobby Car Wrestling! See all the highlights at <a href="http://albums.photopoint.com/j/AlbumList?u=185392&a=10970087">PhotoPoint</a>!</p>

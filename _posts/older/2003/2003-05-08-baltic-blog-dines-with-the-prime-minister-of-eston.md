@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Does the PM have WiFi?" href="http://www.balticblog.blogspot.com/2003_05_04_balticblog_archive.html#200262641">Baltic Blog dines with the Prime Minister of Estonia</a></p>

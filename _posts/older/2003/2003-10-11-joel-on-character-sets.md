@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="He starts by dissing PHP, that got my attention. But he's right." href="http://www.joelonsoftware.com/articles/Unicode.html">Joel on Character Sets</a></p>

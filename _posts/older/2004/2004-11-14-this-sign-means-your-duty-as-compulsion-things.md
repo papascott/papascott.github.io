@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="GlennLog: Bad Translation" href="http://blog.glennf.com/mtarchives/004444.html">"This sign means your duty as compulsion things."</a> Sounds like a good name for a weblog.</p>

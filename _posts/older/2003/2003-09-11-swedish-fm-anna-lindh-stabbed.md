@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'Palme all over again. God.....'" href="http://fistfulofeuros.net/archives/000023.php">Swedish FM  Anna Lindh stabbed</a></p>

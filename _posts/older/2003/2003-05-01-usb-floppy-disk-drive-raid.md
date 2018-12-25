@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Why? Because we can!" href="http://ohlssonvox.8k.com/fdd_raid.htm">via Editorial Notes: USB Floppy Disk Drive RAID</a></p>

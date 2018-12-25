@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today we visited a new McCafe in Elmshorn, northwest of Hamburg. It's a coffee bar inside a regular McDonald's restaurant, and the idea is relatively new in Germany, although it <a href="http://www.indystar.com/apps/pbcs.dll/article?AID=/20050724/COLUMNISTS02/507240442/1035" title="Broad Ripple McCafe making a fast-food exit">apparently hasn't gone over well in the US</a>. Here they seem to be redoing the entire restaurant rather than creating a separate coffee area. In Elmshorn you sit on leather seats whether you are eating a Big Mac or drinking a Latte.</p>
 <p>We took some pictures <a href="http://www.flickr.com/photos/papascott/sets/965120/show/">(link to slideshow)</a>.</p>

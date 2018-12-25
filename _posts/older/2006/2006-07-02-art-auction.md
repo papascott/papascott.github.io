@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/179686673/" title="Photo Sharing"><img src="https://static.flickr.com/78/179686673_1cf205ab78.jpg" width="500" height="375" alt="02072006036" /></a></p>
 <p>Yesterday was open house at Christopher's kindergarten. The theme was Color in Kindergarten, and they had numerous projects and games with colors and painting, including an auction of several paintings done by the kids.</p>

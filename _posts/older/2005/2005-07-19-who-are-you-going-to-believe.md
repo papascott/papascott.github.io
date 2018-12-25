@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Why is it that Christopher doesn't believe us when we tell him sensible things like it's not good to eat too many sweets and that he should go to bed on time, but he'll believe a total stranger who gives him a magic candy jar that refills itself at night when it is emtpy? And when it doesn't refill itself the first night, it's because the jar has "lost its powers".</p>

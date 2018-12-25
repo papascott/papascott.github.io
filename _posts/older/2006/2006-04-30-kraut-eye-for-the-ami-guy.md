@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I don't have any eye for fashion, so it <a href="http://www.elmada.com/000820.html" title="That Queer Expatriate: Caterpillar Footwear">came</a> as a <a href="http://blondelibrarian.net/blog/archives/2006/04/integration-step-698/" title="Culture Shock and the blondelibrarian &raquo; Blog Archive &raquo; Integration Step #698">surprise</a> to read in expat blogs that a distinguishing characteristic of Americans in Europe are white tennis shoes.</p>
 <p>However, until last year, all the tennis shoes I've bought since moving to Germany have been white. And all were bought while on trips to the US, I guess because unconsciously I couldn't find any shoes here I liked.</p>

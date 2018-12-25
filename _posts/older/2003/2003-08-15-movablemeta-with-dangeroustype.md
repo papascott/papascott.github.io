@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="it's cool, man!" href="http://www.dangerousmeta.com/">movablemeta with dangeroustype!</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I don't follow every meme that comes along, but the <a href="http://www.lostfocus.de/archives/2007/02/16/soundtrack-of-life/">Soundtrack of Life</a> that's going through our company seemed interesting, especially since I never listen to music at random. Here are the rules:</p>
 <ol>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Takes one to know... oh, never mind." href="http://www.schwule-fuer-ole.com/">www.schwule-fuer-ole.com</a></p>

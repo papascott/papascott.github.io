@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>She doesn't know it yet, but we are about to drag my mother-in-law kicking and screaming into the 21st century. We are getting her a cell phone. She's 70 years old and drives alone, sometimes at night. She needs a mobile phone in case of emergency. We'll convince her of that. But she's techno-phobic. She doesn't even like using a remote control for her TV.</p>
 <p>We have a several old phones, so hardware is not a problem. I have a Motorola Timeport I picked up for &euro;3 from work. It seems to be the cell phone we have that looks the most like a normal phone. The menus are way too complicated, though. I wish I could disable everything except the phone book. All she needs to do is to make and receive calls.</p>

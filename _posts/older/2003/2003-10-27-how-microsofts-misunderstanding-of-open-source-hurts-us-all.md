@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="confusing market success with technical merit" href="http://www.pbs.org/cringely/pulpit/pulpit20031023.html">How Microsoft's Misunderstanding of Open Source Hurts Us All</a></p>

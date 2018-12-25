@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.ironicsans.com/state22.html">Fifty States in Ten Minutes</a> is a cute quiz to see how many states you can name in 10 minutes. I got the first 47 in three minutes, but could only add Idaho a couple of minutes later. Not bad for an expat, but I'm sure there are deep psychological reasons for forgetting New Jersey and Utah. (Via <a href="http://www.2020hindsight.org/2007/03/04/50-states-in-ten-minutes/">2020 Hindsight</a>)</p>

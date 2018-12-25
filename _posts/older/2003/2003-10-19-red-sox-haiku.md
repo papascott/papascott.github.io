@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Going, going, gone / In the 11th inning / Winter has begun" href="http://redsoxhaiku.com/">Red Sox Haiku</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I was afraid I'd end up with this... Thanks to Hal for tagging me with <a href="http://halrager.org/WordPress/?p=1834" title="blivet 2.0 &raquo; Four Things">Four Things</a></p>
 <p><strong>Four jobs I&rsquo;ve had:</strong><br />

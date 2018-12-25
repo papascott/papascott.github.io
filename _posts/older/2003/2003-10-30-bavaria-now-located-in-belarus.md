@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Good riddance! Unfortunately, it's only the tourism website..." href="http://www.netzeitung.de/internet/259850.html">Bavaria now located in Belarus</a></p>

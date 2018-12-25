@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My wife's company has been sponsoring the <a href="http://www.hsv.de/">local soccer team</a> for I don't know how many years now, and today for the first time she brought home match tickets. But somehow I don't think the tickets are very good. </p>
 <p>For one thing, the match is against <a href="http://www.fcbayern.t-com.de/de/index.php" title="FC Bayern M&uuml;nchen">Bayern M&uuml;nchen</a>, a team they haven't beaten in years and a match they are sure to lose. </p>

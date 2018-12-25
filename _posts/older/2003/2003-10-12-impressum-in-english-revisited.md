@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Masthead? Imprint? Colophon? All incorrect..." href="http://www.margaret-marks.com/Transblawg/archives/000465.html">'Impressum' in English revisited</a></p>

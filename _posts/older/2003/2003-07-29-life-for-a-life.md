@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yesterday Markus Gäfgen was <a href="http://www.expatica.com/germanymain.asp?pad=190,205,&amp;item_id=33079">sentenced to life imprisonment</a> for the kidnap and murder of the 11 year old Jakob von Metzler in Frankfurt last summer. This would merely be local news, except that after Gäfgen's arrest, when it was still thought the boy was alive, Frankfurt police <a title="Deutsche Welle: Germany" href="http://www.dw-world.de/english/0,3367,1432_A_936126_1_A,00.html">threatened</a> the suspect with 'severe pain' (i.e. torture) if he did not reveal the location of the boy.</p>
 <p>The court ruled Gäfgen's police confession as inadmissible, and declared that the police conduct had done 'serious damage' to the German rule of law. However, it also ruled that the police conduct had no bearing on Gäfgen's guilt and declared the crime as extraordinary, ruling out parole after 15 years. </p>

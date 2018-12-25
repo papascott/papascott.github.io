@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The discussion begins. Konstantin is expanding the topic... that's good, since bloggers are not journalists, so weblogs don't have much to do with *press* freedom.</p>
 <p>Freedom of *expression* is something that means something in Germany and the United States, but perhaps something different in other countries. Therefore it is good that DW has brought two guests from China and Russia (links to follow) who perhaps have a different experience with freedom of expression than the type weblogger.</p>

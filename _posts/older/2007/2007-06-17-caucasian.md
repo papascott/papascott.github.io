@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In the "you're never too old to learn something new" department, I hadn't realized that the word caucasian to describe race come from an <a href="http://www.english.upenn.edu/Projects/knarf/People/blumen.html">18th century German scientist</a>, and isn't used anymore outside of the US. Thanks to <a href="http://usaerklaert.wordpress.com/2007/06/11/kurz-erklart-wo-kommen-die-ganzen-kaukasier-her/">USA Erklärt</a>, now I know.</p>
 <p>I've grown weary of the whole American obsession with race, and I've gotten in the habit of ticking "other" when filling out forms that ask for my race (or, if I'm feeling ornery, writing in "none of your business").</p>

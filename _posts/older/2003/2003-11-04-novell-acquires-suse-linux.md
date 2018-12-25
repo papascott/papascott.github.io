@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="$210 Million" href="http://www.suse.com/us/company/press/press_releases/archive03/novell_suse.html">Novell Acquires SUSE LINUX</a></p>

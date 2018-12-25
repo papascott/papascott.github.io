@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.berlinonline.de/berliner-zeitung/print/berlin/652190.html"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/05/nasima-el-zein.jpg" alt="NN" align="right" title="" /></a> When someone as fervent as Jörg Kantel announces he is about to <a href="http://www.schockwellenreiter.de/2007/05/09.html#holtSieZurck">renounce his political party</a>, it's worth the time to read his reasons (English translation is mine):</p>
 <blockquote><p>

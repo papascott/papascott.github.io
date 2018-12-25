@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Don't be put off by the '0.x', this is good enough to use" href="http://www.mozilla.org/projects/thunderbird/0.2-release-notes.html">Mozilla Thunderbird 0.2</a></p>

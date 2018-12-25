@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="According to ZDF, Mali paid the ransom" href="http://www.heute.t-online.de/ZDFheute/artikel/30/0,1367,HOME-0-2060702,00.html">Sahara hostages free?</a></p>

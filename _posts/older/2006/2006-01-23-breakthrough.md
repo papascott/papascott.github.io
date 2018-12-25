@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>On weekends, Christopher likes to wake us up. He'll crawl under the covers between us, crouch together for a few seconds, then suddenly spring up, taking the covers with him, and shouting "Surprise!" Typical kid stuff. Last weekend he had a real surprise for us in bed. Out of the blue he said, "When I grow, I won't stutter any more." It was the first time we heard him use the word stutter. </p>
 <p>The next day it got even better. Our "homework" assignment was to explain Christopher's stuttering and progress to a trusted adult. Christopher didn't need to participate in the conversation, but he needed to be present. The idea is to make him comfortable with discussing it openly, not to feel ashamed or embarrassed. </p>

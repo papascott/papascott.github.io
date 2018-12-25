@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher has a fever this evening over 38.7 C/101.6 F. We noticed that he was awfully quiet.</p>
 <p>First day at the new office today. The technical part of moving went well. The part the moving company was hired to do did not. Our PCs were set up and ready to go, but our keyboards and mice were in our workplace cartons which were not delivered even by the end of the day.</p>

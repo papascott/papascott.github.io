@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="sorry, I gave away the ending" href="http://smartypants.diaryland.com/091003.html">mimi smartypants is somebody's mommy</a></p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="Voldemort's office" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/06/gb40f.jpg" width="400" height="300" border="0" /></p>
 <p>I no longer mention my wife here by name (except as <a href="/2003/03/26/2136.php">Voldemort</a>, as in she-who-must-not-be-named), but today is her birthday. A very <em>round</em> birthday, as they say in German (meaning it ends with a zero, and in this case, begins with a four), so it is a very special day indeed. Now we've long since decided that giving one another presents is somewhat, well, <em>albern</em>, er, I <a href="http://dict.leo.org/?search=albern">mean</a>, inane, absurd, daft. After all, we've had a combined bank account for 20 years, so like I'm going to spend her money to buy her something I think she might want. Inane. Absurd. Daft.</p>

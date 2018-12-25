@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sorry, non-tech folks. This is a sysadmin voodoo post.</p>
 <p>I maintain several FreeBSD machines. When a security alert is issued, the standard procedure is to update the source for your release with cvs or cvsup, then recompile and reinstall the system with 'make buildworld' and 'make installworld'. It's also fairly standard procedure to <a title="Tracking for Multiple Machines" href="http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/small-lan.html">'make buildworld' on one machine</a>, then export /usr/src and /usr/obj read-only via NFS to do installworld on the target machine. </p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="would you like apple slices with that?" href="http://www.cnn.com/2004/US/03/02/mcdonalds.supersize.ap/index.html">CNN.com McDonald's to phase out supersizing</a></p>

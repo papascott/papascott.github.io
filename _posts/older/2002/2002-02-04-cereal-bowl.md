@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2002/02/crhsink.jpg" height="244" width="325" border="0" alt="crhsink.jpg: " /></p>
 <p>Right now Christopher is standing on his chair by the sink, "washing dishes". Can he cause any damage, other than getting himself wet? Well, if he has a paper towel in the sink that blocks the valve at the top of the sink, plenty. Notice how full the sink is. (The apple he's eating is one he's has personally washed in his sink.)</p>

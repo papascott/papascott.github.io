@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Back in college I had the perfect part-time job: union scale for no work. I worked the weekend graveyard shift in the radio room of the <a href="http://www.startribune.com/">StarTribune</a> newspaper, monitoring police and fire radio. My job was to keep a log and to wake a photographer in case something particularly gruesome occurred (like 6 kids dying in a house fire, that made the front page). </p>
 <p>One of the perks was being able to read the final edition of the next morning's paper as it literally rolled off the presses. No more, I guess. <a href="http://www.buzzmachine.com/index.php/2006/04/17/cant-see-the-forest-for-the-dead-trees/" title="BuzzMachine &raquo; Blog Archive &raquo; Can&rsquo;t see the forest for the dead trees">Jeff Jarvis mentions</a> that the <a href="http://www.nytimes.com/2006/04/17/business/media/17carr.html?_r=1&amp;oref=slogin">StarTribune no longer provides free newspapers to its newsroom</a>, instead setting up vending boxes throughout the office. However, the revenue was somewhat less than expected. The circulation manager sent a memo:</p>

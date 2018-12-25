@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Cheap. Crap. And lots of it. It's the American way." href="http://www.telepocalypse.net/archives/000145.html">Comparing Wal-Mart and the Internet</a></p>

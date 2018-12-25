@@ -17,7 +17,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/54792170/" title="drachenjaeger"><img src="https://static.flickr.com/27/54792170_26fc68cd97.jpg" width="500" height="361" alt="drachenjaeger" /></a></p>

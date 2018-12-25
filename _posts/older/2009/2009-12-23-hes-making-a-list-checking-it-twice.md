@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/4193994485" title="View 'CIMG0711' on Flickr.com"><img border="0" width="500" alt="CIMG0711" src="https://farm3.static.flickr.com/2556/4193994485_507d4f8b2c.jpg" /></a></p>
 <p>Merry Christmas from Frauke, Scott and Christopher!</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Dear Family Hanson,</p>
 <p>Today Christopher and I drew a life-sized Christopher. While drawing we discussed what he enjoys doing (building Legos, riding bike, etc.). We also thought about what one does with the eyes, the nose, the mouth. Christopher said that one needs a mouth to keep closed at night and to eat spaghetti. I then had the idea, that one also needs a mouth in order to speak. For some children speaking is easy, for others it is more difficult. But one can learn to speak more easily. Christopher and I have decided to do that together. After all, I am a speech teacher. Now he wants to know what I am writing. I'll read it to him aloud.</p>

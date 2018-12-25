@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/311920609/" title="Photo Sharing"><img src="https://static.flickr.com/105/311920609_d52e96b258_o.jpg" width="500" height="406" alt="jimknopf" /></a></p>
 <p>We went to see the musical version of <a href="http://tivoli.de/index.php?id=event843">Jim Knopf und Lukas der Lokomotivfuhrer</a> at the Schmidt Theatre in Hamburg yesterday. As you can see, Christopher was very happy to have his picture (a scan of a polaroid) taken with the star. We can highly recommend it.</p>

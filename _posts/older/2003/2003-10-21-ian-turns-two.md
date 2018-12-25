@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="We never met, since Christopher had chicken pox when we were in LV" href="http://hal.editthispage.com/2003/10/21#2yearsold">Ian turns two... happy birthday!</a></p>

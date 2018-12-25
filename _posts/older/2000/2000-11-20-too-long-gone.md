@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Did I really forget to write anything for over week? Oh, that's not good...</p>
 <p>Today is my first attempt at a work-at-home day. So far, so good.</p>

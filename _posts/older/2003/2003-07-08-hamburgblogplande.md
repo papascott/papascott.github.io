@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I'm south of Hittfeld" href="http://hamburg.blogplan.de/">hamburg.blogplan.de</a></p>

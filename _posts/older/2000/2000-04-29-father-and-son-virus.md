@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We were both out a couple days with the flu. We're both better now (just in time for the long weekend). But now Mama has it.</p>
 <p>Saturday is bath day, when we try to take at least one picture of Christopher with funny hair.</p>

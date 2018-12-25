@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="for years I'd see that dent --- hard to notice for most people, but hard for me to miss" href="http://talkingpointsmemo.com/june0302.html#061403107am">Talking Points Memo: Everything changes. Everything.</a></p>

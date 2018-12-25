@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We took Christopher to his first movie this afternoon, <a href="http://us.imdb.com/Title?0243585">Stuart Little 2</a>. He seemed to enjoy it (good airplane scenes), and I enjoyed more than I though I would. It was just our second trip in a theatre since Christopher was born (we did see Harry Potter in Minnesota last winter), but we choose to not get out much and spend our rare free evenings at home.</p>

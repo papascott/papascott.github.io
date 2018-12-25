@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="From the land of the DMCA and the Patriot Act? I have my doubts." href="http://www.buzzmachine.com/archives/2003_06.html#003921">BuzzMachine: A plan: the Internet, weblogs, Iraq, and freedom</a></p>

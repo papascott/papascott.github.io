@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>There have lately been a lot of comparisons of Europe and the US in EditThisPage community, including an ongoing series of excellent articles (<a href="http://surprise.editthispage.com/europe-america">Europe + America seen with European eyes</a>) in "Surprise". Indeed, one could very well devote an entire weblog to the subject.</p>
 <p>After nearly 10 years of being an expatriate (expatriatism?), I should certainly have some interesting views on the subject. But maybe I don't. 10 years is a long time, and maybe the strangeness of my adopted culture is no longer strange to me, and my memories of life in the US are so old that they are no longer valid. I don't know. I personally find the <i>similarities</i> between Europe and America to be more interesting than the differences.</p>

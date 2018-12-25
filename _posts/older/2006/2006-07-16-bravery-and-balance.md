@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've got poor priorities for shooting video. Instead of taking silly videos of my wife, I should have been filming Christopher this afternoon as he was doing laps around the backyard on his bike, the first time without training wheels. He was pretty happy with himself. That he wasn't until now able to keep up with the neighbor kids in the bike-riding department was a sore point with him. We tried a couple of times last year, but he kept asking for the training wheels to go back on. Today he crashed a few times in the grass, but laughed at himself and kept going.</p>
 <p>Another sign of his improved coordination and self-confidence came a few weeks ago, when he insisted we take him swimming so he could show us what he could do in the deep water.  He's never wanted to even get his head wet before, but now he's going in water over his head with inflatable water wings on his arms (is that really what <em>Schwimmflügel</em> are called in English?) and doing cannonballs.</p>

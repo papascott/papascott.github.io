@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>All three crises are still bubbling.<br />
 The number of informants in the <b>NPD scandal</b> is up to 5, maybe 6, and there are more and more calls from FDP and CDU to drop the case.<br />

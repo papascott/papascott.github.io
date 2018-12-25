@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher has school vacation, and we took a few days off and spent four nights in the <a href="http://en.wikipedia.org/wiki/Harz">Harz</a>, the German mountain range between Niedersachsen and Sachsen-Anhalt. It's popular for short trips, but doesn't seem to be as well known for foreign tourists.</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2955058273" title="View 'CIMG0583' on Flickr.com"><img src="https://farm4.static.flickr.com/3294/2955058273_9204ee2fdf_m.jpg" alt="CIMG0583" border="0" width="240" height="180" /></a></p>

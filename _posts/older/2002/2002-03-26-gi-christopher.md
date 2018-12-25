@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My evening was crowned by Mama coming home an hour later than I expected, and by Christopher puking his guts out on the couch about the time I was expecting her. Hopefully it was a mild food poisoning (the yoghurt is the main subject), and not the start of a GI infection.</p>

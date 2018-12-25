@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="60 mph is pretty slow for Germans" href="http://booknotes.weblogs.com/2003/07/03#fyiIfTravellingToGermany">BookNotes: No ban on Autobahn autosex</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="As if anything was expected" href="http://www.2020hindsight.org/2004/01/30.html#a4115">2020 Hindsight: Pixar dumps Disney</a></p>

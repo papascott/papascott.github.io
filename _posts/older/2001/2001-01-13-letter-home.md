@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Hi Mom and Dad,</p>
 <p>Thanks for the Email... you're right, we haven't been taking enough pictures lately. We'll try to take some this weekend. We tried calling a couple of times this week, but didn't find you home at noon (evenings for us).</p>

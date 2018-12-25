@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Late</b><br />
 Mama's on the road tonight. On Wednesday we'll be able to explain how she'll be putting less miles on her tires and more miles on her frequent flyer card in the coming months.</p>

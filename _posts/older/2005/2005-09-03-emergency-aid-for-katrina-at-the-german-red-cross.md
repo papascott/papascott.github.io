@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I didn't notice it a couple of days ago, but now you can <a href="http://drk.de/spenden/index.html" title="Spende an das Deutsche Rote Kreuz">donate online for "emergency aid USA" at the German Red Cross</a>. The donations are tax-deductible in Germany and you can pay by German bank transfer.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="and how they can be overcome" href="http://www.zylstra.org/blog/archives/001128.html">Ton Zijlstra: Language barriers</a></p>

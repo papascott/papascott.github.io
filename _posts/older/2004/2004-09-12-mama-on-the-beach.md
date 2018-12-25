@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photo.gne?id=416104"><img src="http://www.flickr.com/photos/416104_m.jpg" border="0" alt="" /></a></p>
 <p>I've posted some <a href="http://www.flickr.com/photos/papascott/sets/9888/">Florida pictures</a> <a href="http://www.flickr.com/photos/papascott/sets/9888/show">(as slideshow)</a> at <a href="http://www.flickr.com/photos/papascott/">Flickr</a>. I'm still figuring out how it works.</p>

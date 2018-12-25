@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="That's not 'getting old', that's getting senile!" href="http://mailbox.univie.ac.at/~prillih3/blog/archives/2003/09/index.html#000128">Horst mentions Led Zeppelin and Heino in the same breath</a></p>

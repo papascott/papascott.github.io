@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/06/crh0624001.jpg" height="225" width="300" border="0" alt="crh0624.jpg: " /></p>
 <p>Time to catch up</p>

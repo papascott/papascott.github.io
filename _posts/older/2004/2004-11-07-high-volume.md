@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I recently purchased an iPod, but was disappointed with the sound. It was simply not loud enough. I took the the following steps:</p>
 <p>1. Applied <a title="iPod Volume Booster (English)" href="http://volumebooster.tangerine-soft.de/">iPod Volume Booster</a> to remove the EU volume restriction.<br />

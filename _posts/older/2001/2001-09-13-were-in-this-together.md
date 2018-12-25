@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/09/s1poster.jpg" width="200" height="279" hspace="10" vspace="5" border="0" align="right" /><a href="http://www.abendblatt.de">Hamburger Abendblatt</a>: <a href="http://www.abendblatt.de/contents/ha/new/allgemeines/html/130901/HINWEIS6.HTM"><b>Amerikaner, wir sind bei euch!</b></a> "Yesterday, the people of Hamburg  along with the whole world  witnessed the murder of thousands of men and women in the United States of America by an enemy full of hate. The pictures we saw, pictures of innocent victims, of aggression and destruction,will remain in our minds forever. We grieve for all people who lost their lives. Our thoughts are with their families who lost their daughters, sons, mothers and fathers. All of them have our deepest sympathy. Many years ago a magnanimous United States of America helped the German nation to free itself of its darkest past. The President of the United States, John F. Kennedy, brought us hope when he said during a time of need:  Ich bin ein Berliner.  Today we say to the American people: <b>We stand by you!</b>" This message took up the entire back page of today's issue. Readers were asked to hang it as a poster in windows, shop windows and cars as a sign of grief and support for the US.  </p>
 <p>Süddeutsche: <a href="http://www.sueddeutsche.de/aktuell/sz/artikel77054.php"><b>Heute sind wir alle Amerikaner</b></a>. </p>

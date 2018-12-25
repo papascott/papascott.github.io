@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>At first it wasn't easy following baseball from Europe. I followed the 1991 World Series (the one where the Twins beat the Braves and <a href="http://thesportsdaddy.com/?p=798">Kirby Puckett drove the bus</a>) by reading box scores on CompuServe and catching glances a day later at the international edition USA Today on the newsstand at the Wandsbek Markt U-Bahn station. That worked until we flew to Mallorca. I caught the scores of Games 6 and 7 on Voice of America via shortwave.</p>
 <p>These days it's a lot easier thanks to satellite technology, hard disk recorders and the internets. I can satisfy my baseball cravings as a casual Twins fan by following news feeds from the <a href="http://minnesota.twins.mlb.com/news/headlines.jsp?c_id=min">official Twins site</a>, the <a href="http://www.startribune.com/sports/twins/blogs/">StarTribune baseball writers</a>, <a href="http://sports.yahoo.com/mlb/teams/min">the Twins page at Yahoo! Sports</a>, and blogger <a href="http://aarongleeman.com/">Aaron Gleeman</a>. Aaron and I share the indignity of have been snubbed by the U of M student newspaper <a href="http://www.mndaily.com/">Minnesota Daily</a>. Aaron now makes a living from a number of gigs including <a href="http://hardballtalk.nbcsports.com/">NBC Sports</a> and <a href="http://www.rotoworld.com/content/features/column.aspx?sport=MLB&amp;columnid=13">Rotoworld</a>.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Two for the price of one..." href="http://revirement.de/weblog/index.php?p=1499&c=1">vasili: Frauenparkplatz</a></p>

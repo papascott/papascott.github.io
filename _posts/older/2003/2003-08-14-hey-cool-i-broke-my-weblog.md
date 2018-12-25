@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="My cellphone posted the kablog post with date 14-08-2025, now imagine that!" href="/">Hey, cool, I broke my weblog!</a></p>

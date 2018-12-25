@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The front door already looks pretty good.</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/5864154612" title="View 'Foto' on Flickr.com"><img border="0" alt="Foto" width="375" src="6.static.flickr.com/5040/5864154612_f4aeaab881.jpg" height="500" /></a></p>

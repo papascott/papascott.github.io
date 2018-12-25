@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I guess it's because I live in the Protestant north, but I never knew that referring to Catholic holiday of <em>Fronleichnam</em> as "Happy Cadaver Day" was so<br />
 <a href="http://fistfulofeuros.net/archives/000913.php" title="A Fistful of Euros: Another Brick In The Wall.">controversial</a> (scroll to the comments). Up here it's called that all the time. Wasn't the 30 Years' War supposed to have settled all this?</p>

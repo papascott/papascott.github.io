@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I myself have always liked Zidane's hairstyle" href="http://www.jinglelady.us/blog/archives/000584.html">American Girl om Michael Ballack: Fix that 'do dude!</a></p>

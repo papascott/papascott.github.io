@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>... that tonight's going to be a good night.</p>
 <p>I flew to Munich last weekend for the 5th (my 2nd) annual Whiney Expat Meetup, and it was indeed 2 good good nights, and the days were good as well. It was just the right mix of organization and spontaneity, and having all gotten acquainted online, we could skip the introductions and get right to the good part.</p>

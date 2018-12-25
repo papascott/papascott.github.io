@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>For those of you who don't follow us on the Twitters, we spent the last two weeks on our annual US trip, which this time included stops in Phoenix and San Francisco before visiting my family in Minnesota.</p>
 <p>I suspected when booking that flying outbound through both Paris and Atlanta would be a mistake. Air France departed 3 hours late from Paris on a cramped an aging 747 (the only thing good was the food), and the last place on earth you want to miss a connection is Atlanta. Delta managed to find room for us on the last flight of the evening, so we got into Phoenix 6 hours late, with moods to match.</p>

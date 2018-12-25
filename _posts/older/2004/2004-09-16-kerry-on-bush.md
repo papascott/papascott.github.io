@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.markarkleiman.com/archives/election_2004_/2004/09/kerry_on_bush.php">Mark A. R. Kleiman: Kerry on Bush</a> "George Bush is proud of the fact that not even failure can cause him to change his mind."</p>

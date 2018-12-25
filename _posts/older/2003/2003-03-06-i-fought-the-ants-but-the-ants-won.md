@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Message to Mama, currently at a conference in Leipzig: ANT POISON NOT WORKING. STOP. SEND REINFORCEMENTS. STOP.</p>

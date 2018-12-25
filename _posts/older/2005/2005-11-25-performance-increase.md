@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After <a href="https://www.papascott.de/archives/2005/11/23/blogstats-down-will-be-back/" title="PapaScott &raquo; Blog Archive &raquo; Blogstats down, will be back">tuning the database</a> at blogstats, it's nice to see this in <a href="http://jeremy.zawodny.com/mysql/mytop/">mytop</a>:</p>
 <p><code>up 0+16:02:43<br />

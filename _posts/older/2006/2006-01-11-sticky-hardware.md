@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This week we threw some more hardware at blogg.de and the other websites hosted by nu2m. This time it seems to be sticking to the wall (like <a href="http://photomatt.net/2006/01/05/wpcom-performance/">noodles</a> when they're done). 12 must be our lucky number:</p>
 <ul>

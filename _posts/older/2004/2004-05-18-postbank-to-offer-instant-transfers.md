@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="eBay accelerator" href="http://www.golem.de/0405/31328.html">Postbank to offer instant transfers to internal accounts</a></p>

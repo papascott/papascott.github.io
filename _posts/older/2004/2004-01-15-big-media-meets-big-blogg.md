@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>German weekly newspaper <a href="http://www.zeit.de/">Die Zeit</a> now has a <a title="Fundsachen" href="http://blogg.zeit.de/fundsachen/">weblog</a> at <a href="http://www.blogg.de/">blogg.de</a> (via <a title="Zeitblog by Heiko Hebig | hebig.com" href="http://www.hebig.com/archives/001864.shtml">Heiko</a>).</p>

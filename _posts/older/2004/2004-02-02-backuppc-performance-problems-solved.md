@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I haven't been keeping up my <a title="Backup PC - PapaScottWiki" href="https://www.papascott.de/tavi/index.php?page=BackupPC">wiki</a> like I promised. The performance problems with <a title="BackupPC: Open Source Backup to disk" href="http://backuppc.sourceforge.net/">BackupPC</a> I mentioned there have been getting progressively worse. A full backup was taking 48 hours, and the incremental would take 16 hours on the slowest machine on a bad day. </p>
 <p>My problem seems to have been using an ext3 file system... the millions of inodes are too much for ext3 to handle. I found a post on the <a href="http://sourceforge.net/mailarchive/forum.php?forum=backuppc-users">backuppc-users mailing list at SourceForge</a> (the list is borked at the moment, I can't like to the entry) suggested using reiserfs or xfs instead.</p>

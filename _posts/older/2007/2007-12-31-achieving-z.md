@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>One month after our re-opening we're very happy with the new look and the McCaf&eacute;. Our customers seem to be happy with it as well. I can't talk about numbers here, so I'll use letters instead. </p>
 <p>Our monthly sales started at a level of *x*, and in our business plan we estimated that after the remodel they would increase to *y*. After 3 to 5 years of hard work and good business practices we estimated we could achieve a level of *z*.</p>

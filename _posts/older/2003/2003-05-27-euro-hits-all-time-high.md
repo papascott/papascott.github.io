@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Bad news for export-dependent Germany" href="http://news.bbc.co.uk/2/hi/business/2939566.stm">BBC: Euro hits all-time high: $1.1914</a></p>

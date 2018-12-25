@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/08/crhjelly.jpg" height="225" width="300" border="0" alt="crhjelly.jpg: " /></p>
 <p>Christopher decided to serve his own breakfast this morning. Brötchen with strawberry jelly, but please hold the Brötchen. More pictures from yesterday and today are <a href="http://www.shcon.com/index.php?album=08_2001%2F20010818&dispsize=512&start=0">here</a>. (The Pictures link above has been updated to point to the new pictures site.)</p>

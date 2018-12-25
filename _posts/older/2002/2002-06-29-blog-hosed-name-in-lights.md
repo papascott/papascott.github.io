@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yes, I did mange to wreck the database for PapaScott by doing a simple SQL update, but I had an old backup and was back up in an hour. And now I have my name in the changelog for <a href="http://www.movabletype.org/news/2002_06.shtml#000509">Movable Type 2.21</a>. I didn't think it was a bug. I thought I was just being stupid.</p>

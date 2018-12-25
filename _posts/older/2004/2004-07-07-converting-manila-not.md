@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.2020hindsight.org/index.php?p=3467">Susan concludes that converting Manila is nearly impossible</a> I guess the difference between free and commercial software is that with free software, you always get what you pay for.</p>

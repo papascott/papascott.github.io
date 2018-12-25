@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="misbehaving.net: thank goodness for fathers" href="http://www.misbehaving.net/2003/11/thank_goodness_.html#comments">She's got the flu...</a></p>

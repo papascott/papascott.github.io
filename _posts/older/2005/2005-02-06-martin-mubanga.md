@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The Observer | UK News | How I entered the hellish world of Guantanamo Bay" href="http://observer.guardian.co.uk/uk_news/story/0,6903,1406987,00.html">Martin Mubanga: How I entered the hellish world of Guantanamo Bay</a></p>

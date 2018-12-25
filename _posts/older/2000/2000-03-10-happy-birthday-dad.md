@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="/images/mausnews/stmp.jpg" align="RIGHT" />I had heard about this, but just saw it today. The round postage stamp from the Deutsche Post. In fact, it's bimodal. You can either tear the straight lines for a square version, or punch out the circle for a round version.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We were offline for a day and a half due to a ISDN outage. Did anyone miss us?</p>
 <p>More annoying than the Internet outage was the phone outage, since Mama and Christopher were away helping Oma Ruth move, and we needed to keep in touch to I could help unload the truck on this end. </p>

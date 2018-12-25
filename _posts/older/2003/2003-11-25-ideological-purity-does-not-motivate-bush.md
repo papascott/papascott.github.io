@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="winning does. 2004 is going to be one nasty election." href="http://www.calpundit.com/archives/002725.html">Ideological purity does not motivate Bush...</a></p>

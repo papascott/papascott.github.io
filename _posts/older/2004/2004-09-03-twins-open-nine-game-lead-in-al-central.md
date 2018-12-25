@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://sports.yahoo.com/mlb/news?slug=ap-alrdp&prov=ap&type=lgns">Twins open nine-game lead in AL Central</a> Is it too early to start calculating magic numbers?</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Interestingly, my post on <a href="https://www.papascott.de/archives/2004/09/27/stars/" title="PapaScott - Stars">Stars</a>  generated a number of mails from my non-virtual community, er, I mean from friends and relatives, with suggestions on where to find star stickers (with Christmas decorations) and wondering if I was really serious about reforming German education with sticky bits of glossy paper.</p>
 <p>So to clarify, the post was written with tongue in cheek. My experience with German education is zero, other than what is reported in the media, and all I really know is that children start first grade with a paper cone full of toys and candy, and come out 10 or 12 or 13 years later with an <em>Abitur</em> or an apprenticeship. I have no idea what happens in between.</p>

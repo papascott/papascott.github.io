@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Does Internet Explorer really matter anymore?" href="http://www.joelonsoftware.com/news/20030601.html">Joel on Software: Internet Explorer 7.0</a></p>

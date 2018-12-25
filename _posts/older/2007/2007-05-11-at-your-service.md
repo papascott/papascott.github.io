@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/493266777/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/190/493266777_86acdb3b84.jpg" width="500" height="375" alt="10 May 2007" /></a></p>
 <p>Yesterday we attended the wedding of our good friends <a href="http://www.heidi-ritter.de/">Heidi</a> and Robert. The catering crew graciously allowed Christopher to assist serving drinks to the guests. He took this responsibility quite seriously and performed quite well.</p>

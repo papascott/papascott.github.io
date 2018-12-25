@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This afternoon at 4 pm we'll be at the <a href="http://sports.yahoo.com/sow/news?slug=reu-worlddc&amp;prov=reuters&amp;type=lgns">Czech Republic - Italy</a> match in Hamburg, this time with real tickets, no FIFA buffet but with Christopher. We're lucky that both teams have something to gain, so we won't have a yawner like <a href="http://sports.yahoo.com/sow/news;_ylt=AnZZvatp4tMGroOhQew3I9gmw7YF?slug=ap-wcup-netherlands-argentina&amp;prov=ap&amp;type=lgns">Argentina - Holland</a> last night.</p>
 <p>We'll be sitting in the "north curve" just behind the right post of the right-hand goal (if you're watching on TV). Christopher might be holding up his American flag. Wave if you see us.</p>

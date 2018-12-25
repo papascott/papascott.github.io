@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/10/mauer_grave.jpg" alt="Marker for former location of Berlin Wall" /></p>
 <p>Stone near the Reichstag in Berlin marking former location of the Berlin Wall.</p>

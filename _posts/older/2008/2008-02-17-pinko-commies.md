@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Card-carrying Communists infiltrating the inner circle of government... sounds like an accusation of the McCarthy era. But the headline comes from 2008 Germany, and the Communist in question resides in our neighbor community of Buchholz.</p>
 <p>The Left Party was able to enter the state parliament in Niedersachsen election last month with 7% of the vote. Among their newly elected candidates is Christel Wegner from Buchholz, a <a href="http://www.dkp-online.de/uz/4005/s0204.htm">member of the German Communist Party</a> (DKP). Last week she gave a <a href="http://www.spiegel.de/international/germany/0,1518,535606,00.html">television interview</a> in which she defended the East German Stasi (as useful against "reactionary forces") and claimed the Berlin Wall was built to keep West Germans out of East Germany.</p>

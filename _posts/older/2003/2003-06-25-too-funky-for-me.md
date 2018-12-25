@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I hate CSS. And I don't care about RSS. </p>
 <p>I'd just like to have an RSS feed that everyone is happy with. (And I'd like to include extra information for my own use, so I can, say, have an RSS file for each entry and archive I publish, and use those files instead of Movable Type templates to generate each web page. But that's futuretalk.)</p>

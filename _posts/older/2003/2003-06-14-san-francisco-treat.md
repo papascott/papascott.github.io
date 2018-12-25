@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I slept well that night" href="http://www.intertwingly.net/blog/1461.html">Sam Ruby: San Francisco Treat</a></p>

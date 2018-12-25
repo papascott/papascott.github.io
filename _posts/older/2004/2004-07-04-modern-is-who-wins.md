@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://news.bbc.co.uk/sport1/hi/football/euro_2004/3860105.stm">Greece win Euro 2004</a>, playing apparently the very modern soccer of Otto Rehhagel.</p>
 <p>Update: The last SMS from Lisbon arrived at midnight: "the fans won the match. we have to eat greek next weekend."</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Now over 1:00 ahead of Ullrich, Vinokourov eats dust" href="http://www.nytimes.com/2003/07/21/sports/AP-CYC-Tour-de-France.html">Armstrong strikes back</a></p>

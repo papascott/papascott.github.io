@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Me Be Funky!" href="http://www.thereisnocat.com/funkidator/?uri=http%3A%2F%2Fwww.papascott.de%2Findex.xml&mode=funkidate&funkidate=Funkidate Me%21">Funkidator</a></p>

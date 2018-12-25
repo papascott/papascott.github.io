@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Ullrich now just 15 seconds behind" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/news/archive/2003/07/19/sports1117EDT0348.DTL">Armstrong narrowly keeps lead in Tour de France</a></p>

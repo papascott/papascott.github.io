@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Harzigen Glühstrumpf!" href="http://www.schockwellenreiter.de/2003/05/11.html%2302056">50 Years Schockwellenreiter</a></p>

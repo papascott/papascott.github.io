@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Pardon my insomnia-induced ramblings, but events the past two weeks have fundamentally changed my feelings about living in Europe. <a href="/2002/05/10/index.php#001720">I no longer feel safe...</a> at least I no longer feel safer here than in the US.<br />
 <!--more--><br />

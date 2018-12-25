@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="franzi1981: About bloody time!" href="http://www.livejournal.com/users/franzi1981/479498.html">Live Journal exchange on new elections</a> "This is the most sucky government we ever had", "But they also had to deal with all the shit 16 years of fat guy brought us"</p>

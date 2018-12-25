@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/02/crh0216.jpg" height="209" width="350" border="0" alt="crh0216.jpg: " /></p>
 <p>Time to break out the baby pictures... I need hits for the <a href="http://www.editthispage.com/Top100">Top 100</a>!</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Could you please repeat that? I was busy blogging..." href="http://www.eamonn.com/archives/000462.html#000462">Rainy Day: Conferencing in a time of connectivity</a></p>

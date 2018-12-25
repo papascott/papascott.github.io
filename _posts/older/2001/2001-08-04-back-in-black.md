@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/08/crhentrywaygrin.jpg" height="262" width="300" border="0" alt="crhentrywaygrin.jpg: " /></p>
 <p>We're off to Sylt on the North Sea tomorrow morning. We may or may not get around to making postings. If not, we'll be back next Saturday.</p>

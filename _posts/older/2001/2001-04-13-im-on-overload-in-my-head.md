@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/04/splashday.jpg" height="244" width="325" border="0" alt="splashday: " /></p>
 <p><i>Since today is a holiday we moved up Christopher's  weekly bathday. He didn't mind and splashed at his best.</i></p>

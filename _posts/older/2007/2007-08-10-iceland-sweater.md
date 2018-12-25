@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/1074092998/" title="Photo Sharing"><img src="2.static.flickr.com/1264/1074092998_43710fbaac.jpg" width="375" height="500" alt="CIMG0093.JPG" /></a></p>
 <p>At the duty-free shop at Keflavik airport, I found an Iceland sweater with a unique new technology that warms from both the inside and the outside simultaneously. It was a deal I could not resist.</p>

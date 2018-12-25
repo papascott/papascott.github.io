@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.royal-ts.de/">RoyalTS - without cheese</a> has a new design, which I wouldn't otherwise mention. But he has a <a href="http://www.royal-ts.de/mtarchives/000734.php#000734">list of of MT hacks</a> he applied, so I have to make a note for myself! And I had to see if pinging <a href="http://blo.gs">blo.gs</a> really worked.</p>

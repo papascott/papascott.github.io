@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We finally took the baby carriage out for a spin this afternoon. Of course, I left the camera inside, but here you can see Christopher all bundled up for the ride.</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/crh0107.jpg" height="300" width="400" border="0" alt="crh0107.jpg: " /></p>

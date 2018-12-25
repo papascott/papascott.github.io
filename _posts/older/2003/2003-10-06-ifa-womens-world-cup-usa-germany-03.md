@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Maybe Rudi Völler should call on Birgit Prinz..." href="http://fifaworldcup.yahoo.com/03/en/t/match/29/index.html">FIFA Women's World Cup: USA - Germany 0:3</a></p>

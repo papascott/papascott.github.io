@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Forgive me for not posting an update on my brother here... I mentioned his status on <a href="http://twitter.com/papascott">Twitter</a>, but most poeple would have missed that, I guess.</p>
 <p>He was released from the hospital last Tuesday, 29 January, a week after being admitted. With two stents freeing the arteries that caused the arrest, his heart should now be better off than before. If his heart were his only health problem, he could have returned to work this week... but instead he is resuming his chemotherapy this weekend.</p>

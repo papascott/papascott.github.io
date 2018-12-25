@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've been pretty quiet here the past week. Mama was gone 5 days, including last weekend, Christopher had short days for school testing and a home day on Friday, and I've been up to my ears in work. (I installed a new mail server, but the old server died before the all the users were migrated. And that was just one of several problems.)</p>
 <p>But things are looking up. Spring is here, the snow is almost gone. Mama has a business-trip-free April. And the three of us are splitting next weekend to <a href="http://www.dorintresorts.com/stralsund">Stralsund</a>. I'm sure that clear thinking will resume shortly.</p>

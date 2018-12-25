@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.salon.com/mwt/time/1997/12/02time2.html" title="Salon | Time for one thing: All eggnogged up and nowhere to go">Eggnog in Quantity</a>: "Too much of anything is bad, but too much whiskey is just enough."</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Of 77 first graders, 3 are Geman" href="http://fistfulofeuros.net/archives/000318.php">Nix Deutsch, documentary on grade school in Hamburg-Veddel</a></p>

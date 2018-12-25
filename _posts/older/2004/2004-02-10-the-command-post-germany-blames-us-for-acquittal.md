@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Which is more important, conviction or prevention?" href="http://www.command-post.org/gwot/2_archives/010257.html">The Command Post: Germany Blames U.S. For Acquittal</a></p>

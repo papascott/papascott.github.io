@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="German engineering? His Mercedes was broken too!" href="http://www.nationmultimedia.com/page.news.php3?clid=2&theme=A&usrsess=1&id=13761">Thai Minister trapped by rogue BMW</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In Germany, it's to keep your unemployment benefits (they are reduced if you quit as opposed to being fired).</p>
 <p>In the US, it's to keep your health insurance.</p>

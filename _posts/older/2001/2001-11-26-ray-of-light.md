@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Not all dot.coms are bombing. My employer just posted a 3rd quarter profit of 2000 Euros. Good thing no one raided the petty cash, we could have ended up with a loss! ";->" On the other hand, one of our main competitors just declared itself insolvent.</p>
 <p>Dave has written a press release proclaiming that <a href="http://www.userland.com/stories/storyReader$136">SOAP 1.1 and<br />

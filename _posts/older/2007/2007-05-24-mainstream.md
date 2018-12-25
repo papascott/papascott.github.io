@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>You know blogging has become mainstream when the <a href="http://www.startribune.com/509/story/1203387.html">closing down of a blog</a> hits a major daily newspaper.</p>
 <p><a href="http://www.bat-girl.com/">Batgirl</a> was a somewhat different sports blog with "less stats, more sass". <a href="http://www.bat-girl.com/archives/001883.php">I'll miss it.</a></p>

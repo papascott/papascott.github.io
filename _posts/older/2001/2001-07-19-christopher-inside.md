@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/07/crhinside.jpg" height="383" width="300" border="0" alt="crhinside.jpg: " /></p>
 <p>Some days you never know what you'll find in the kitchen cupboards.</p>

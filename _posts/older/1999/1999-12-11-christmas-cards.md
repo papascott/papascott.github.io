@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>For once we are preparing our Christmas cards early... here's Mama hard at work! (And, yes, that's a Tux Linux mascot behind her, even though she's strictly a Windows woman.)</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/fppaper.jpg" height="225" width="300" border="0" alt="fppaper.jpg: She's checking her list..." /></p>

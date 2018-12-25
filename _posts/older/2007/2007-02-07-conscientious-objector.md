@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In case you wonder why developers are so difficult to work with, <a href="http://lumma.de/eintrag.php?id=3248">Nico heard this</a> in our office in Cologne:</p>
 <blockquote><p>

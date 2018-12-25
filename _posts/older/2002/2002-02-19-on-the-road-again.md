@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We were <a href="http://scriptingnews.userland.com/backissues/2002/02/19#sh4Outage">off the air</a> for a while, a couple of people even missed us. Now we're back. Thank you, Murphy! But now it's bedtime, so good night until tomoow. Christopher's fever is back... maybe tomorrow will be home alone with sick kid day.</p>

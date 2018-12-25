@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://nypost.com/"><img alt="NY Post: Axis of Weasel" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/01/nyp_axis.gif" width="140" height="186" border="0" align="right" /></a> Sometimes I go through phases where I write more as comments to other blogs than I post for myself. This week this has culminated my being cited by  <a title="Instapundit.com" href="http://www.instapundit.com/archives/006988.php#006988">InstaPundit</a> without a link, since lately I don't have anything to link to. Time to fix that. By the way, even though I don't share the sentiment of the <a href="http://www.scrappleface.com/MT/archives/000608.html">Axis of Weasels</a>, I think the phrase is as funny as hell.</p>
 <p>When I first heard that Schröder and Chirac had announced their joint intention not to vote for a war resolution in the UN Security Council, I thought it was extremely stupid. Going public means that private talks aren't working and stating your intention in advance greatly inhibits your ability to influence other votes. I could only think that they wanted to prevent such a resolution from coming to a vote at all, or they wanted to extremely irritate Tony Blair. Surely the United States wouldn't even acknowledge such an announcement.</p>

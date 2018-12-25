@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Get your German butts out of those seats!" href="http://discussions.brucespringsteen.net/thread.jsp?forum=32&thread=53054">Springsteen Set List and Concert Reviews - 6/12/2003 Hamburg</a></p>

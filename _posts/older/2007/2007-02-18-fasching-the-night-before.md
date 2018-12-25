@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/394403325/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/186/394403325_79ac1fce4b.jpg" width="500" height="375" alt="IMG 1904" /></a></p>
 <p>Tomorrow Christopher's school is celebrating <a href="http://german.about.com/library/weekly/aa020501a.htm"><em>Fasching</em></a>... here are the main components of his costume. Aficionados of 20th century German children's literature can probably guess what will come of it.</p>

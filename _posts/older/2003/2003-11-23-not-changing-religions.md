@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've known for a couple months that I would be buying a new notebook at the end of November. My Thinkpad (with SuSE 9.0) is somewhat long in tooth (at 400 MHz and 800x600), and the non-functional battery makes wireless a cruel joke. And like everyone else, I'm finding I spend a lot more time on my notebook, even at home, than at my desktop. I'll  be buying it myself, so price is a major issue. 1200 Euros is my target, 1500 the absolute maximum I can pay.</p>
 <p>I wanted to choose an iBook, I really did. The new 12" G4 is 1199 Euros, right on target. It has Unix pre-installed. It has geek credibility. And it looks cool. But 1199 Euros is not the end. I'd have to add an Airport card, since it can't take my old PCMCIA wireless card. And 256 MB RAM is a bit weak, would need to be upgraded. And I'd have to buy software, Net News Wire and BBEdit just for starters. And I would have to learn a new operating system, with its own <a title="macosxhints - Repair permissions to resolve slow system issues" href="http://www.macosxhints.com/article.php?story=20030526181056549">quirks</a> and <a title="Apple Mac OS X 10.3.1 - MacUpdate" href="http://www.macupdate.com/info.php/id/13052">bugs</a>, and be beholden to Apple, a company I neither like nor trust. Changing your operating system is like changing your religion. It's not a decision to be taken lightly... after all, your soul is at stake! </p>

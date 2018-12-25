@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Sick, but bearable after the 3rd beer" href="http://www.radiohamburg.de/neu/frameset/sites/info/bilderserie1.html?serie=942">Hamburger Oktoberfest</a></p>

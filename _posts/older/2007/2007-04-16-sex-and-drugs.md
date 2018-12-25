@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>First I find out that <a href="http://www.janegalt.net/archives/009761.html">sex education doesn't make any difference</a> for adolescent sexual behavior. Teenagers don't have sex any later, or are any more likely to use birth control... in other words, all sex education is useless, whether abstinence-based or not. (That makes sense to me, sex education was one of the most boring subjects in junior high, and turned out to be of no practical use.)</p>
 <p>Then I find out that <a href="http://instapundit.com/archives2/004209.php">drinking age also makes no difference</a>. The US (along with Indonesia, Mongolia and Palau) has the highest drinking age in the world, yet "high school students in much of the rest of the developed world  where lower drinking ages and laxer enforcement reign  do considerably better than US students on standardized tests".</p>

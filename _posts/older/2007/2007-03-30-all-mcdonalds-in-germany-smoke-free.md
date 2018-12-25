@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Starting tomorrow <a href="http://www.mcdonalds.de/presse/index.php?pressid=213">all 1270 McDonald's in Germany will be non-smoking</a>.</p>
 <blockquote><p>

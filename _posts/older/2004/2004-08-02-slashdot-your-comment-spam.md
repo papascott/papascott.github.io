@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.oblomovka.com/entries/2004/07/29#1091150520">Danny O'Brien's Oblomovka: notes on protecting your open discussion forum</a> Comment spam? Slashdot has been there and done that. Some ideas here for blogging systems, and it solved a riddle we had at work (portscans that seem to come from high-volume websites are probably tests for open proxies, and no cause for alarm).</p>

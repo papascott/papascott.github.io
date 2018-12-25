@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Ex-Chancellor Helmut Kohl always had a, ah, 'special' relationship with journalists from the ARD network. He hated them, and they hated him back. So Dr. Kohl was not particularly cooperative when the ARD magazine Panorama wanted to ask him about his DM100,000+ consulting contract with the private broadcaster (now bankrupt) Leo Kirch. But the <a href="http://www.ndrtv.de/panorama/20030515/kirch.html">'interview'</a> could be a lesson to politicians everywhere in dealing with pesky reporters...</p>
 <p>ARD Panorama: Herr Dr. Kohl, good day. Stuchlik, Panorama, one question. Why did you receive money from Mr. Kirch?<br />

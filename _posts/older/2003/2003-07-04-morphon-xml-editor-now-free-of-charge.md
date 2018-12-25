@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="CSS-Editor included, requires Java" href="http://www.schockwellenreiter.de/2003/07/04.html#030704016">Morphon XML-Editor now free of charge</a></p>

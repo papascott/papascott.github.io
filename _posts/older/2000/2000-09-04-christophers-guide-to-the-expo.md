@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I went to the Expo expecting to be cynical. Corporate glossy visions<br />
 of the future... you can already get that at Disneyland, right?<br />

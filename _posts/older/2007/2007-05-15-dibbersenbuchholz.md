@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Now that official notice of the upcoming change in ownership has been posted in the restaurant, I am proud to announce that the first location of the Frauke Petersen-Hanson Systemgastronomie GmbH i.G. will be located at **Harburger Str. 19 in Dibbersen/Buchholz**, on the Autobahn A1 between Bremen and Hamburg. For us the restaurant is just 10 minutes drive from home.</p>
 <p><a href="http://www.flickr.com/photos/papascott/499677510/" title="Photo Sharing"><img src="1.static.flickr.com/208/499677510_c2fb7ddf5c.jpg" width="500" height="375" alt="Dibbersen" /></a></p>

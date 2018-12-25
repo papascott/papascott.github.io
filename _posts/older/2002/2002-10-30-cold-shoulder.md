@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>washingtonpost.com: <a href="http://www.washingtonpost.com/wp-dyn/articles/A40127-2002Oct30.html">Top German Diplomat Visits U.S.</a>, but noone in Washington will notice. There's an election going on, after all!</p>

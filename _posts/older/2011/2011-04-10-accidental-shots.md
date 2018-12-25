@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We had sponsor tickets for yesterday's HSV match against Dortmund (we applied for the tickets last summer, so I obviously knew in advance that Dortmund would do well this year). I couldn't connect to Twitter in the stadium, so you'll have to take our word for it that we were there.</p>
 <p>The sun was shining, the Dortmund fans were plentiful and in a good mood (Christopher thought it was funny that they were singing children's songs with, um, slightly altered lyrics), and in the end noone lost, so a good time was had by all.</p>

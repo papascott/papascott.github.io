@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="vmware could have prevented this tragedy" href="http://diveintomark.org/archives/2003/08/04/xp">How to install Windows XP in 5 hours or less</a></p>

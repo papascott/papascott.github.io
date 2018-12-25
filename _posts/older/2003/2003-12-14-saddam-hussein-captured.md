@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Confirmed" href="http://tagesschau.de/aktuell/meldungen/0,1185,OID2770876_NAVSPM1_REF1,00.html">Saddam Hussein captured!</a></p>

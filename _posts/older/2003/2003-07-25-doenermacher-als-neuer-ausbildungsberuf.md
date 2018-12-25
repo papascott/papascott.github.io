@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Ich will auch umschulen!" href="http://www.schockwellenreiter.de/2003/07/25.html#030725023">Dönermacher als neuer Ausbildungsberuf</a></p>

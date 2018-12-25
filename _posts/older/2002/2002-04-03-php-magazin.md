@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've seen plenty of Linux magazines at gas stations and supermarkets, but when buying groceries this evening I saw <a href="http://www.php-mag.de/">PHP Magazin</a>. I picked it up, so I can now say that everything I know about computing I could have learned at the supermarket. Well, almost everything.</p>

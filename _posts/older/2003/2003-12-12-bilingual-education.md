@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In my last set of Christopher pictures, hans <a title="PapaScott: Music" href="https://www.papascott.de/2003/12/11/2749.php">asks</a> whether we are raising Christopher bilingually. The answer is more complicated than just yes or no (although this quick answer is I don't speak English with Christopher as much as I should).</p>
 <p>In theory, my wife would speak German with Christopher and I would speak English. In practice, I find it difficult to consistently speak English with him. Unlike most of the Anglo-German couples we know, we speak German rather than English at home. Actually, we agreed to speak the language of whatever country we're in, so when we're in the States we speak (mostly) English, and when we are in France or Italy... then we are in trouble. Anyway, while this was good for my German, it means I am totally out of the habit of speaking English around the house. I have to remember to make the effort, and Christopher answers in German anyway.</p>

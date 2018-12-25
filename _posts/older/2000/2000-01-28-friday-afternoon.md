@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I came home Friday evening to find Grandma Ruth had gone home, and that both Mama and Christopher were tired (and just a little bit cranky). I sent them both to bed. It seems Mama misses out on her afternoon nap when Grandma visits. </p>
 <p>No matter how old you get, there's nothing like being with your parents to make you feel childish again!</p>

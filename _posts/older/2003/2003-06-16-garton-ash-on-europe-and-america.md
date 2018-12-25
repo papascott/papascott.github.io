@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="an optimistic view of a Europe whose relationship with the United States is based on friendship" href="http://www.eamonn.com/archives/000482.html">Rainy Day: Garton Ash on Europe and America</a></p>

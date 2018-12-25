@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="LEO Results for "drängeln"" href="http://dict.leo.org/?search=dr%E4ngeln&searchLoc=0&relink=on&spellToler=standard&sectHdr=on&tableBorder=1&cmpType=relaxed&lang=en"><em>drängeln:</em> to jostle, to press, to push, to swarm. None of which anyone wants to experience at 230 km/h from a Mercedes CL 600 riding on your tail.</p>
 <p>But that's exactly what a 21-year-old woman and her 2-year-old daughter <a title="Tödlicher Unfall: Autobahn-Drängler ist Ingenieur bei Mercedes - Panorama - SPIEGEL ONLINE" href="http://www.spiegel.de/panorama/0,1518,262810,00.html">experienced</a>  on the A5 near Karlsruhe last month. The Mercedes accelerated to within 0.5 m of their rear bumper, forcing them off the road and into a tree, killing them both: The driver then fled the scene of the accident. A massive manhunt resulted in a warrant today against a test driver employed by Daimler Chrysler.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>via <a title="Mathemagenic: learning and KM insights" href="http://blog.mathemagenic.com/2003/06/01.html#a637">Mathemagenic</a>: <a title="have to check this out" href="http://minutillo.com/steve/feedonfeeds/">feed on feeds - server side rss aggregator (php/mysql)</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Arlo Guthrie: "We got up there, we found all the garbage in there, and we decided it'd be a friendly gesture for us to take the garbage down to the city dump.  So we took the half a ton of garbage, put it in the back of a red VW microbus, took shovels and rakes and implements of destruction and headed on toward the city dump.</p>
 <p>"Well we got there and there was a big sign and a chain across across the dump saying, 'Closed on Thanksgiving.'  And we had never heard of a dump closed on Thanksgiving before, and with tears in our eyes we drove off into the sunset looking for another place to put the garbage.</p>

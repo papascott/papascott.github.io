@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're cat lovers, we've had our three cats for over 15 years, going back to when we lived in Minnesota. But we do <i>not</i> love our cats between 4 and 7 am, when they are loud and obnoxious.</p>
 <p>Helga, the middle cat, is sickly and that's sad, I know. But after years of being satisfied with dry food, she now insists on canned. Only certain types. Every 20 minutes. When I've just gotten up and am still somewhat groggy, I'm going to attend to people's needs first. Not Helga's. </p>

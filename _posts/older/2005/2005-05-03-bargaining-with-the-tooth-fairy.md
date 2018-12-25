@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We have the feeling Christopher is going to be a union negotiator when he grows up. He always tries to get as much as he can, and then just a little bit more. Can I habe a cookie? Two cookies? Five? Every time you draw a line in the sand, he tries to step over it.</p>
 <p>He's now trying the same tactic with the tooth fairy. Yes, we tried to tell him that there is no tooth fairy in Germany, but one of his friends told him about it. So last night he took his tooth box to bed in hopes of getting a present from the tooth fairy. Alas, neither of the fairy's assistants noticed, so he woke up very disappointed. So tonight the assistants are ready.</p>

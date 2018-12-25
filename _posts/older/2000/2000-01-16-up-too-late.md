@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I stayed up late to watch the Vikings play St. Louis. The DSF German sports channel shows NFL games at 11:30pm Sunday evenings. They are delayed by a couple of hours but most of the commerical breaks are cut. So it only took me 1&nbsp;1/4 hours of real time to give up on the Vikings (I went to bed at 42-17 in the 4th quarter).</p>

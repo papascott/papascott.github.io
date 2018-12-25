@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.mcdonalds-nordheide.de/2008/09/easy-morning-fruehstueckskarte/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/10/screenshot-sm.jpg" alt="screenshot_sm.jpg" border="0" width="225" height="327" /></a></p>
 <p>We finally have a list of our <a href="http://www.mcdonalds-nordheide.de/2008/09/easy-morning-fruehstueckskarte/">new breakfast products</a> online (also <a href="http://www.mcdonalds-nordheide.de/wordpress/wp-content/uploads/2008/10/Menuekarte_Fruehstueck.pdf">as PDF</a>), for those of you that can't make it to our restaurant and have been wondering what all the fuss is about. The text and pictures are from the menu cards we've had on the tables since September,</p>

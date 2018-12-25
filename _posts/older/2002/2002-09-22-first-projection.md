@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>ZDF: SPD 38%, Union 38%, FDP 7.5%, Green 9%, PDS 4%<br />
 ARD: SPD 37%, Union 39%, FDP 7%, Green: 9.5%, PDS 4.3%</p>

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/189539718/" title="Photo Sharing"><img src="https://static.flickr.com/69/189539718_34f33762fa_m.jpg" width="240" height="180" alt="14072006037" /></a></p>
 <p>Sonnenbrille Fielmann.</p>

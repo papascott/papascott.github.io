@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sometimes life sucks, and then it sucks some more.</p>
 <p>It isn't enough for my brother, who just turned 40, that he got divorced a couple years ago, lost his job last fall, and has a no-good girlfriend. He went into to the local hospital a Friday night with abdominal pains, which he's had the past 3 weeks but just couldn't stand any longer. </p>

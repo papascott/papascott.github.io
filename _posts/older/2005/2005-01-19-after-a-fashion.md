@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Strangely enough, I haven't seen any German blogs mention the <a title="BBC NEWS | Europe | Man 'confesses' to Munich murder" href="http://news.bbc.co.uk/2/hi/europe/4179807.stm">murder</a> of Munich "fashion guru" Rudolph Moshammer, only expat bloggers, and all located in the <a title="Eamonn Fitzgerald's Rainy Day: Mosi & Daisy: a gaudy Gaudi" href="http://www.eamonn.com/archives/001663.html">free</a> <a title="blondelibrarian: And a Little Dog Too!" href="http://www.blondelibrarian.net/blog/archives/2005/01/and_a_little_do.html">state</a><br />
 of <a title="My Expatriate Odyssey: Big News in Germany" href="http://expat-odyssey.blogspot.com/2005/01/big-news-in-germany.html">Bavaria</a>, where Moshammer was quite a local celebrity. </p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We made it, as did 2 of our 3 suitcases. We a full Gulf view from the balcony and even a poor to medium WiFi signal (although our neighbor Mr. 'linksys' should really change his default settings and password).</p>

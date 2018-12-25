@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Surprise: <a href="http://surprise.editthispage.com/2000/06/06">Cobblestones for the eternity</a>:  "Have you ever driven with your car on a narrow street covered with cobblestones?" Our street in Lüllau is cobblestone, and we used cobblestones for our driveway and patio. The rumble (in either the car or the baby rriage) is a sure sign for Christopher that we are almost home.</p>

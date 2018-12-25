@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Why would <a title="vowe dot net :: Google rank improving" href="http://vowe.net/archives/004359.html">anyone</a>  would want to increase his Googlerank for <a title="Weber" href="http://vowe.net">Weber</a>?</p>

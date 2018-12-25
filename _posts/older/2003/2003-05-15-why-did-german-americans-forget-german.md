@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Different century and two world wars" href="http://tschwarz.blogspot.com/">Tobias Schwarz: Why did German-Americans forget German, while Hispanic-American still speak Spanish?</a></p>

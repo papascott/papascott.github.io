@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Cobalt is dead, long live the Cobalt" href="http://lwn.net/Articles/64876/">Sun hands Cobalt an open-source lifeline</a></p>

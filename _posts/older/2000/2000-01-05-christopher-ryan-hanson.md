@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>For my dad, the highway engineer, here's a link to a <a href="http://weblogs.userland.com/cluetrain/picture$13" target="_blank">picture</a> at the <a href="http://weblogs.userland.com/cluetrain/clues">cluetrain</a> website. (Mama says that the picture is too gross to include here.)</p>
 <p>We're trying to find a good picture to include with our birth announcements. I thought this one would be OK, but after printing it out, I see it looks like he's been playing with yellow hi-liters with both hands!</p>

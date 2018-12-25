@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've been installing another round of child-safety devices in the kitchen today. In addition to the usual <a href="http://www.helly.de/produkte/kueche/sicherheitsriegel.htm">cupboard latches</a> we found a clever <a href="http://www.helly.de/produkte/kueche/herdschutz.htm">shield for the stove</a> which covers the knobs when it's folded down.</p>
 <p><img src="http://www.helly.de/produkte/kueche/img/gfx_herdschutz_a.jpg" /><br />

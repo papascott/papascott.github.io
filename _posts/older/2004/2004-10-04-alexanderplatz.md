@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/10/alex2004.jpg" alt="" /></p>
 <p>On our first afternoon in Berlin, we didn't hit any of the tourist spots. Instead we went to Alexanderplatz, one of the ugliest spots on the face of the earth. Alexanderplatz was an eyesore even in DDR times, being an epitome of socialist architecture. Nowadays it's not just an eyesore, but dirty, rundown, and under construction. The only redeeming feature is the funky world clock where you can read the time in such places as Pyongyang and Vladivostok.</p>

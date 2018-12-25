@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>About a month ago I bought myself an iPhone. Nothing really special about that (except that T-Mobile dropped their prices 2 days after I ordered), and I never talked about it here (although I did mention it on Twitter a few times). And I love it. Nothing special about that either.</p>
 <p>But the moment Frauke saw it, she became insanely jealous. That <em>is</em> unusual. Frauke is pragmatic when it comes to technology. She's not attracted to bright shiny objects like many of us. She holds all my Apple equipment in disdain... at least she did until she saw the iPhone.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Software or hosting, they cannot serve two masters" href="http://www.buzzmachine.com/archives/2004_05_15.html#007062">BuzzMachine: The SixApart solution: Divest TypePad</a></p>

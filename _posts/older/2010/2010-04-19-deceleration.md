@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Like many others, we to have a story of being disrupted by the closure of European airspace due to volcanic ash. Our story is however pretty boring.</p>
 <p>"We were going to fly to Orlando for a week on business, but we couldn't fly so we stayed home instead."</p>

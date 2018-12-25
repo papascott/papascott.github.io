@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Blogrollers, update your links!" href="http://www.lyssas-lounge.de/peepshow/">Lyssa has moved</a></p>

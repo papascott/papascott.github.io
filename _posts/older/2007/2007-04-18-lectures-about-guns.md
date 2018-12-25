@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In the wake of the shootings in at Virginia Tech, there have been the usual comments in the German media about the lack of gun control laws in the US. I can think of a few ways to point the finger back here.</p>
 <ul>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.washingtonmonthly.com/archives/individual/2004_07/004306.php">The Politcal Animal</a> just posted a graphic showing the per captia health care costs vs public spending on health care in several developed countries. </p>
 <p><a href="http://www.washingtonmonthly.com/archives/individual/2004_07/004306.php"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/07/Blog_Health_Ratios.gif" border="0" alt="" /></a></p>

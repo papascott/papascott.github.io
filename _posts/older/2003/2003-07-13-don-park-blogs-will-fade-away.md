@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Only subscriptions will remain" href="http://www.docuverse.com/blog/donpark/2003/07/12.html#a707">Don Park: Blogs will fade away</a></p>

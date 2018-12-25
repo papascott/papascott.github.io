@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>1 Jan 2000 2:20 am CET:</b> The lights are still on and we are still here! (the EditThisPage server is located in California, so this page is still date 1999 for now)</p>
 <p>I celebrated the new millenium at Mama's bedside at the hospital. She came down with a fever at 11pm, so we couldn't even drink the champange I had smuggled in. All we could do at midnight was smile and kiss. Christopher slept through it all. </p>

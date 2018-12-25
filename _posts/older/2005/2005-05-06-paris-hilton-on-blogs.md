@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.foxnews.com/story/0,2933,155431,00.html">Paris Hilton on blogs:</a> "I don't really read anything on the Internet except my AOL mail. I don't like people who sit on computers all day long and write about people they don't know anything about." <a href="http://www.ankegroener.de/?p=812">(via Anke Gr&ouml;ner)</a></p>

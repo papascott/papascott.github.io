@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="For now in German only: http://www.ichliebees.de/" href="http://www.msnbc.com/news/960237.asp?cp1=1">McDonald?s sets global ad campaign</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Tomorrow Christopher's Kindergarten group will be staying there overnight. It's a warm-up for their trip at the end of April, what they call <em>Freizeit</em>, or Freetime, when the group will spend a week at St. Peter Ording on the North Sea. </p>
 <p>That's right, in 3 weeks Christopher will be away from home for 5 days.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'We've come a long way. Teams get their own fields now instead of playing on soccer fields.'" href="http://www.nytimes.com/2003/07/19/sports/baseball/19EURO.html?ex=1374033600&en=d8c489cfde52b199&ei=5007&partner=USERLAND">European Baseball: Continental Divide Despite Some Promising Signs</a></p>

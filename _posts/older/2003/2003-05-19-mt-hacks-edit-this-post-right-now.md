@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="authentication to view the link not included, but would be pretty easy to bolt on" href="http://www.scriptygoddess.com/archives/003861.php">scriptygoddess: MT hacks: Edit this post - right now!</a></p>

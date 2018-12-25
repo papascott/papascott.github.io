@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="mamapirate.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/11/mamapirate.jpg" width="320" height="301" border="0" /></p>
 <p>So this is what MamaMaus was doing in <a href="https://www.papascott.de/2003/11/03/2676.php">Malta</a> a couple of weeks ago. Planning hostile takeovers, eh?</p>

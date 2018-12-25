@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Found by accident, a CSS technique I've never been able to get right" href="http://realworldstyle.com/split.html">Real World Style: 7-10 Split</a></p>

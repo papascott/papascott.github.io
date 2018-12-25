@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="AccordionGuy: New Girl: Reloaded" href="http://kode-fu.com/shame/#200357992"><br />
 'I met my wife on-line. She told me she was 14. I told her I was rich.'</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Ich liebe es" href="http://www.suse.de/de/company/press/press_releases/archive03/mcdonalds.html">McDonald's ist online mit SUSE LINUX</a></p>

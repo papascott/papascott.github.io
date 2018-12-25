@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Trust Alwin's advice, he's tried them all!" href="http://ahawkins.org/comments.php?id=P1384_0_1_0">Announcing Blosxom 2.0</a></p>

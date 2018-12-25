@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="Hamburg-Amerika Linie" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/02/hh-amerika.jpg" width="189" height="261" border="0" /></p>
 <p>Christopher's favorite picture right now is this poster of the steamship <a title="Ships of the World: An Historical Encyclopedia - - Deutschland" href="http://college.hmco.com/history/readerscomp/ships/html/sh_026600_deutschland2.htm">Deutschland</a>, which we have hanging in our hallway for obvious sentimental reasons. Every evening on his way to bed, he has to sit on the stairs for 2 or 3 minutes and admire the <em>big ship</em>, with four <em>smokestacks</em> and an <em>anchor</em>. </p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The weather was perfect yesterday for <a href="http://albums.photopoint.com/j/ViewPhoto?u=185392&a=5943329&p=20783318">Ruth's birthday party</a> (series of 20 pictures at PhotoPoint... just keep clicking 'Next').</p>

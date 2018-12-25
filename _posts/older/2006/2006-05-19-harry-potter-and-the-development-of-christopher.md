@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>A couple of months ago we started reading Harry Potter to Christopher, evenings before he goes to sleep, usually a chapter or somewhat less per night. We've just finished Chamber of Secrets (the 2nd book). He's very excited about it. Sometimes he puts on a tie and a cape and goes around with a magic wand putting spells on things and people. He's also drawn some elaborate scenes from the books in Kindergarten. </p>
 <p>So, is Harry Potter appropriate for a six-year-old?</p>

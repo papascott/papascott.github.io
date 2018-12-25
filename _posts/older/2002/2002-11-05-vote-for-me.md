@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Election Day in the US today, for those who've been in a cave the past few weeks. I didn't think to request an absentee (er, I mean <a href="http://recorder.maricopa.gov/absentee.htm">'early voting'</a>) ballot until it was too late. Could one of my readers in the States please cast an extra ballot for me? I'll trust your judgement on who you vote for, just let me know who they were. Thanks!</p>

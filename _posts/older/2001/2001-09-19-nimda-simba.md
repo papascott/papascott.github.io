@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>AOL/Time/Warner/Netscape/CNN is a worldwide media company, so they have to twist the news differently for different parts of the world.</p>
 <p>In the <a href="http://www.cnn.com/">US</a> <img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/09/newwar.gif" height="26" width="270" border="0" alt="new.war.gif: " /></p>

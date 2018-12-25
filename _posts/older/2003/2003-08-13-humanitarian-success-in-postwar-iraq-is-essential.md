@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="For GWB's re-election as much as anything else" href="http://www.calpundit.com/archives/001896.html">Humanitarian success in postwar Iraq is essential</a></p>

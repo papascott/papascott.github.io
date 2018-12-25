@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Thanks to <a href="http://ranchero.com/php/rollingreferers/">Brent at Ranchero.com</a>, I now have a <a href="/referers.php">rolling referers page</a>, but it will be pretty boring until people and robots start discovering my new URL.</p>

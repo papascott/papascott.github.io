@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.spiegel.de/politik/deutschland/0,1518,314737,00.html" title="Brandenburg: Demonstranten bewerfen Schröder mit Eiern - Politik - SPIEGEL ONLINE">Demonstrators throw eggs at Chancellor Schröder in Brandenburg</a>, although unlike with <a href="http://www.faz.net/s/Rub21DD40806F8345FAA42A456821D3EDFF/Doc~E96DFB100BE6D4DBFB4133EBB338325F7~ATpl~Ecommon~Scontent.html">Helmut Kohl in Halle in 1991</a>, they missed.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>03 Jan 7:45 am CET</b> Our first night together. Christopher is sleeping 5 hours at a stretch, so we were up only once. We're pleasantly surprised.</p>
 <p>Christopher came about 4 pm today. We're using the basket from the baby carriage as his first bed. We can then carry him up or down the stairs to whatever room we're in. In this picture he's under the Christmas tree.</p>

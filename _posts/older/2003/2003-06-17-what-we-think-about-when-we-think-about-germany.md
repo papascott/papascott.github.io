@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="divided East Germans into those who could live with the regime and those who could stand it no longer" href="http://www.heise.de/tp/english/kolumnen/hud/15008/1.html">What We Think About When We Think About Germany</a></p>

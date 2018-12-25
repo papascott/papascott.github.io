@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="could be worse, could be named after AOL..." href="http://babble.antville.org/stories/539344/">Arnold Schwarzenegger Stadium in Graz, Austria</a></p>

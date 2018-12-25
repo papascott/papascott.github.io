@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Go on, I dare you!" href="http://vibrantlogic.com/new.html">Via Slashdot: Crash your IE!</a></p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When I started last winter at nu2m, our web sites ran on One Big Server For Everything (OBSFE). It's very difficult to upgrade or do maintenance on an OBSFE, since when it breaks, everything breaks, and people tend to get upset when that happens. So my job the past few months has been to network, cluster, cajole developers to get their apps to work in a cluster, and delete all references to 'localhost' from all configuration files. (In a cluster, localhost is not what you think it is, it's a black hole, so just forget it exists.) Late last week I was finally done. Nothing more was running on the OBSFE, all websites and databases were ported, and I was free to format and reinstall the OSBFE to become an upstanding member of our cluster.</p>
 <p>Except for one thing. The <a href="http://jabberd.jabberstudio.org/1.4/">jabberd</a> server. Our company depends on jabber for internal communication, and we had a jabberd on the OBSFE tied to an external IP address. Fine, I thought, just move the whole thing to a new server, put the address there, and it should work. It did, but only half way. Clients could connect, but servers could not and all transports (connections to AIM, ICQ, MSN, Yahoo!, etc.) were broken as well. OK, back to the drawing board. I ended up setting up everything from scratch, taking a day and a half for a job I thought would take a couple of hours (and I'm not done yet), and I came to hate the beast that is jabberd. Note that the following comments are completely subjective, and may have no basis in fact.</p>

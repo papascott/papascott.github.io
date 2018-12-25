@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="90% of Darwin, now free for Windows" href="http://www.dashes.com/anil/2004/01/19/microsoft_nix">Anil Dash: Microsoft *nix</a></p>

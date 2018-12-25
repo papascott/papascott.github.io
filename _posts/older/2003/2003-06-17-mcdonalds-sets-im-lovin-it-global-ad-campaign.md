@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="from their German ad agency" href="http://uktop100.reuters.com/latest/McDonalds/top10/default.asp">McDonald's sets 'I'm Lovin' It' global ad campaign</a></p>

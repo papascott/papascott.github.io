@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Lyssas Lounge - Archiv: Four more years" href="http://www.lyssas-lounge.de/peepshow/archiv/000177.html">Lyssas Lounge: Condoms for the New America</a></p>

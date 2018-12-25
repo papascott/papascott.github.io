@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In the Easter spirit, we had Oma and Uncle Roland's family with Baby Lily over for coffee this afternoon. </p>
 <p>Mama unfortunately has a stomach virus, and Christopher was still hyped up from last night's bonfire. They both are already in bed, whiile I fix things up here at the new weblog.</p>

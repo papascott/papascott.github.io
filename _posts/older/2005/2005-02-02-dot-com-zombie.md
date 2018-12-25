@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The funny thing about my previous employer going bankrupt is that for January we will get paid on time for the first time in months. The government guarantees three months pay in event of insolvency, so it is routine for the court-appointed administrator to get a bank credit for paying salaries. </p>
 <p>The not-so-funny thing is that the bankruptcy process has delayed my departure, as releases from employment contracts need to be approved by the administrator, and he wasn't signing any releases at first. He's now releasing people not going to the competition, so I should be clear now. My boss and I have agreed on a release date of mid February.</p>

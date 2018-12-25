@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Beats using a made-up text format" href="http://www.decafbad.com/blog/2004/05/17/use_atom_for_a_universal_blog_transfer_protocol">0xDECAFBAD: Use Atom for a Universal Blog Transfer Protocol</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I first was aware of politics when I was 5 years old. I knew a few basic facts. The president was Lyndon Johnson, there was a war in Vietnam, and the governor was <a href="http://www.nytimes.com/2004/06/05/politics/05WIRE-REAGAN.html?ex=1401854400&en=6e15cdfead6e276b&ei=5007&partner=USERLAND" title="The New York Times > Washington > Reagan Had Long Struggle With Alzheimer's Disease">Ronald Reagan</a>. My dad worked for the state of California, so Ronald Reagan was his boss.</p>
 <p>One thing not mentioned in the NYT obituary: Reagan's election as governor in 1966 sparked the first campus protests at UC Berkeley, and thus the entire student protest movement of the 1960s.</p>

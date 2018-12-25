@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In case anyone is tracking our movements...</p>
 <p>* 9-10 July we'll be in Berlin for our <a href="https://www.papascott.de/archives/2005/04/09/berlin-postponed/">postponed</a> family weekend getaway<br />

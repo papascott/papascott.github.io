@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.blogcheckup.de/">Der Blogcheckup</a> is a list of German blogs that polls for updates, giving a nice chronological overview of the German blog scene.  In this case 'German'  means either 'German language' or 'German speaking country', so even though PapaScott is in English, at Blogchecker it is <i>drin</i>.</p>

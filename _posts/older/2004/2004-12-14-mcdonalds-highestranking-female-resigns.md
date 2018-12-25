@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://money.iwon.com/jsp/nw/nwdt_rt.jsp?cat=USMARKET&src=704&feed=dji&section=news&news_id=dji-00064220041213&date=20041213&alias=/alias/money/cm/nw">DowJones: Babrowski, McDonald's Highest-Ranking Female, Resigns</a></p>

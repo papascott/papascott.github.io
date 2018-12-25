@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><em><strong>... not even for a moment! </strong></em></p>
 <p><em><strong><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/11/dishwasher.jpg" height="337" width="450" border="0" alt="dishwasher: " /></strong></em></p>

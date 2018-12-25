@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Did you know that if you enable interactive login for a particular user in a domain with Active Directory, you then disallow allow logins for all other users in the domain? Including Administrator? For all machines in the domain?</p>
 <p>Pardon me, I have to go in and reboot our server in safe mode so I (and everyone else) can log back in.</p>

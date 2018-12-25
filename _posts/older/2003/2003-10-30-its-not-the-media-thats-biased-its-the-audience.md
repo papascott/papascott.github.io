@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Give the... people... what they... want!" href="http://www.buzzmachine.com/archives/2003_10.html#004971">It's not the media that's biased, it's the audience</a></p>

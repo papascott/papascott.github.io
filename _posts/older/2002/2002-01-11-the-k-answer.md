@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>BBC: <a href="http://news.bbc.co.uk/hi/english/world/europe/newsid_1755000/1755686.stm">German right settles election rivalry</a><br />
 BBC: <a href="http://news.bbc.co.uk/hi/english/world/europe/newsid_1756000/1756007.stm">Edmund Stoiber: Bavaria's 'pitbull'</a><br />

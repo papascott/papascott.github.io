@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama says I need a better name for my website. I haven't thought of one yet. </p>
 <p>She is trying to coax the baby to be born with Dire Straits <a href="http://www.amazon.com/exec/obidos/ASIN/B000002KLQ/mausnewsletter05">Making Movies</a><br /><i>and all i do is miss you and the way we used to be<br />all i do is keep the beat and bad company</i></p>

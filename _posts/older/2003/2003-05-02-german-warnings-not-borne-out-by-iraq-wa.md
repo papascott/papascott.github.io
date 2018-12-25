@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="You mean our news media lies, too?" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2003/05/01/MN306600.DTL">SFGate: German warnings not borne out by Iraq war</a></p>

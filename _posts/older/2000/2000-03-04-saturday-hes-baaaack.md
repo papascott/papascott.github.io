@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/03/20000304010.jpg" height="262" width="350" border="0" alt="crh0304.jpg: " /></p>
 <p>Fortune: <a href="http://www.fortune.com/fortune/2000/03/06/ste.html">Hard Times: A Letter from 2035</a> (via <a href="http://slashdot.org">slashdot</a>)</p>

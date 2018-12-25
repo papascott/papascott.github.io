@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="be a master of disaster!" href="http://www.mikerubel.org/computers/rsync_snapshots/">via diveintomark: Easy Automated Snapshot-Style Backups with Linux and Rsync</a></p>

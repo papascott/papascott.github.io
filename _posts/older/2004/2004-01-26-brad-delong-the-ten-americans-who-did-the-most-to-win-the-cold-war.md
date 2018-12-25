@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Reagan's not one of them" href="http://www.j-bradford-delong.net/movable_type/2004_archives/000129.html">Brad DeLong: The Ten Americans Who Did the Most to Win the Cold War</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>An oldie but a goodie: <a href="http://miner.editthispage.com/stories/storyReader$6">How to tell if your ass is too small</a></p>

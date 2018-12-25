@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As promised, I'm in the back row at BlogTalk, wearing my dead fish cap, next to a power outlet so I can fire up my little ThinkPad. And the WiFi seems to work. </p>
 <p>I'm skeptical of most of the points brought up by the panelists so far. How can bloggers internationally maintain any sort of meaningful dialouge given the wide cultural and language differences? How can any kind of semantic markup keep up with the dynamic interests and specialties of the people who write the blogs? And why don't they have any coffee at this conference center?</p>

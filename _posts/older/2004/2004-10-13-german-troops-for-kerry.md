@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="FT.com / World / Europe - Germany in rethink on Iraq force deployment" href="http://news.ft.com/cms/s/0b76459e-1c80-11d9-8d72-00000e2511c8.html">FT.com: Germany in rethink on Iraq force deployment</a> "Germany might deploy troops in Iraq if conditions there change, Peter Struck, the German defence minister, indicated on Tuesday in a gesture that appears to provide backing for John Kerry, the US Democratic presidential challenger." (via <a title="Mark A. R. Kleiman: Kerry's fantasy" href="http://www.markarkleiman.com/archives/the_war_in_iraq_/2004/10/kerrys_fantasy.php">Mark A. R. Kleiman</a>)</p>

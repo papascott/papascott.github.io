@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>With my wife and I both having busy and hectic schedules (well, hers is more hectic, mine is mostly pushing paper), coordinating grocery shopping is a constant challenge. </p>
 <p>We have a completely low-tech method of compiling a grocery list: a piece of paper tacked to the side of the refrigerator where we note the staples we're running low on (although "running low" is relative, we could have 1-1/2 cartons of eggs in the house, and my wife will still add eggs to the list). When writing on paper on a sideways wall, there's a 10% chance of any particular item being illegible, just to add some randomness to the process.</p>

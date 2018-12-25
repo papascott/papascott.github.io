@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Just when you thought that noone was reading your weblog, it turns that no, you're wrong. Thanks to <a href="http://www.wonkette.com/politics/intelligence/intelligence-agencies-to-pore-over-pictures-of-your-cat-168336.php" title="Intelligence Agencies To Pore Over Pictures of Your Cat - Wonkette">Wonkette</a>, we now know that <a href="http://www.washingtontimes.com/national/20060418-110124-3694r.htm" title="CIA mines 'rich' content from blogs&#160;-&#160;Nation/Politics&#160;-&#160;The Washington Times, America's Newspaper">someone is</a>:</p>
 <blockquote><p>President Bush and U.S. policy-makers are receiving more intelligence from open sources such as Internet blogs and foreign newspapers than they previously did, senior intelligence officials said. The new Open Source Center (OSC) at CIA headquarters recently stepped up data collection and analysis based on bloggers worldwide and is developing new methods to gauge the reliability of the content, said OSC Director Douglas J. Naquin.</p>

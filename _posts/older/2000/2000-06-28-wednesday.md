@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Euro 2000 Semifinal: France 2 Portugal 1 in extra time</b> Zidane was brilliant, Portugal bent but didn't break until an unlucky hand ball led to the game winning penalty.</p>
 <p>Tomorrow is Holland and Italy. <i>The Dave Winer matchup?</i></p>

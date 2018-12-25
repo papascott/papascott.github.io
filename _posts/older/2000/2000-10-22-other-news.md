@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Update:</b> Fever is down even further, but the two blood values the doctors are interested are still up, indicating a medium-sized lung infection. He's taking in fluids well, and starting to eat some. Christopher is in a 'single room with parent's bed', so Mama is with him all the time. I'll be taking shifts as soon as I am certified healthy.</p>
 <hr />

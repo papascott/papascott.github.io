@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Chancellor Schröder responded to the candidancy of Edmund Stoiber by saying 1) Stoiber's proposals cannot be financed, and 2) the campaign doesn't start until after the summer break.<br />
 If 2) is true, why was it necessary to state 1)?</p>

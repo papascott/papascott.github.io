@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="allesaussersport - Zeilensport: Made in Germany" href="http://www.allesaussersport.de/archiv/2005/03/26/zeilensport-made-in-germany/">Allesaussersport</a> notes a couple of American articles on the German Bundesliga.</p>
 <p>* <a href="http://www.businessweek.com/magazine/content/05_14/b3927074_mz054.htm">Business Week: Germanys League Of Limping Football Teams</a><br />

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/1810081434" title="View 'CIMG0308.JPG' on Flickr.com"><img src="3.static.flickr.com/2099/1810081434_dbd429ff32.jpg" alt="CIMG0308.JPG" border="0" width="375" height="500" /></a></p>
 <p>I'm not sure which was more scary... the pumpkin (Christopher's own design... the features are deliberately out of kilter),</p>

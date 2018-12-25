@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Best guarded garbage truck in the world" href="http://www.spiegel.de/politik/deutschland/0,1518,273275,00.html">Castor is on it's way again</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher came through with flying colors. Took just 30 minutes, slept it off for a couple of hours, and now we're home. Today he can eat anything he wants and watch videos for hours on end. Tomorrow the normal rules apply again.</p>

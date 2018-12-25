@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I remember thinking back in April, as the war in Iraq was drawing to a close, that the whole debate in the press how the Iraqis would view  the US, er, I mean coalition troops was kind of pointless. The Iraqis would be deciding for themselves, without the help of western journalists or editorialists, it would be a process that would take many months, and the proof would be in the facts and events in Iraq, not in the words of pundits.</p>
 <p>Even in April it was clear that an troops would be in Iraq for at least two years, well past the 2004 election. And I also remember thinking back then that, from his timing of the war, President Bush was handing the fate of his re-election away from US voters and to the Iraqi people. If, say, in the summer of 2004 the occupation is going badly, the Iraqis do not feel liberated and 'better off than they were 4 years ago', if US soldiers are still killing and being killed, Iraq would then dominate the US election and Bush would be like LBJ in 1968, namely toast.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>One cool thing about my new server setup is that his has SSL built in. You can even see an <a title="PapaScott: the SSL edition" href="https://www.papascott.de/">SSL version of PapaScott</a>, but it's pretty meaningless to encrypt a public, static page, and I doubt that my entries will make any more sense encrypted than they do plain. But you can click on the little padlock to see my certificate.</p>
 <p>If you follow that link, you'll notice that your browser doesn't trust my certificate. Your browser should be suspicious, since I created the certificate myself, and any Joe Blow can generate a certificate that claims to be from PapaScott. But since I'm using SSL only for myself and not to sell anything, I'm not going to pay money for a real certificate (i.e. of the functions provided by SSL, I need only encryption, not authentication).</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>One interesting topic that came up at our BlogMeet on Sunday was whether to blog under your real name or not. The diarists <a title="Lyssas Lounge - unpingbar, aber lesenswert" href="http://lyssaslounge.diaryland.com/">Lyssa</a> and <a title="Frische Texte von Martina" href="http://frischetexte.diaryland.com/">Martina</a> make themselves known by first name only, and thus feel more comfortable posting more personal thoughts.</p>
 <p>One conclusion we came to was that "it's different for girls", that women are more likely to run into harassment or stalkers than are men. (Does this mean that more psychopaths are male rather than female? I don't think so, but I think the female psychopaths are likely to be more subtle.)</p>

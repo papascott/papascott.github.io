@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2002/01/crhescape.jpg" height="244" width="325" border="0" alt="crhescape.jpg: " /></p>
 <p>This is a sad day for humanity. Christopher can now crawl out the crib by himself. Nobody is safe anymore. Nobody.</p>

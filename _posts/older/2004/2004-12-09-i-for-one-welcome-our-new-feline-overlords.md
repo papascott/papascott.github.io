@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Cat Psychology" href="http://homepage.mac.com/dave_rogers/GHD12-04.html#note_1859">Groundhog Day: Cat Psychology</a> "I, for one, welcome our new feline overlords."</p>

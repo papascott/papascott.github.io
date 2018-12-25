@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yet another <a href="http://www.spiegel.de/politik/deutschland/0,1518,309744,00.html" title="Westerwelles Outing: Guidos inszenierte Enthüllung - Politik - SPIEGEL ONLINE">gay German politician</a> outs himself for political advantage.</p>

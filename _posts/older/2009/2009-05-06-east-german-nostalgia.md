@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We just saw a news report about a children's museum exhibit on life in East Germany. I first visited East Berlin in 1981, and a lot has changed since then. The Wall is gone. The Palace of the Republic is gone. The DDR itself is gone. But my souvenir of my first visit remains: an original DDR beer opener, with the stamped Retail Sales Price (Einzelhandelsverkaufspreis = EVP) so you know it's authentic!</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3507455217" title="View 'bottle_opener' on Flickr.com"><img src="4.static.flickr.com/3302/3507455217_5afa1f186a.jpg" alt="bottle_opener" border="0" width="500" height="279" /></a></p>

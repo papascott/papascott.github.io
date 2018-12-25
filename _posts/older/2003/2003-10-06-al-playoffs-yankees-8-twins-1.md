@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Yankees win series 3-1" href="http://sports.yahoo.com/mlb/recap?gid=231005109">AL Playoffs: Yankees 8 Twins 1</a></p>

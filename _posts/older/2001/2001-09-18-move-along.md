@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama's flying to Munich and back today. We'll see if she runs into any new security procedures. <b>Later:</b> She didn't report anything unusual, except that on the place she sat next to a nice American man with a German wife and a 6-month-old son named Christopher Paul.</p>
 <p>CNN: <a href="http://europe.cnn.com/2001/WORLD/europe/09/18/inv.hamburg.suspects/index.html">Hamburg cell reveals details</a>. Looking at the pictures and the name that one of the hijackers used while in Hamburg, we realize that it's possible we might have had (slight) contact with him a couple of years ago.</p>

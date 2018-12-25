@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>On this weblog I missed our wedding anniversary on the 6th, that day 23 years ago when we were still <a href="https://www.papascott.de/archives/2002/09/09/young-dumb-and-excited/">young, dumb and excited</a>. Here I tend to <a href="https://www.papascott.de/archives/2004/09/06/">forget</a> our anniversary as often as I <a href="https://www.papascott.de/archives/2005/09/06/twenty-two-years/">remember</a>. We didn't forget it in real life though. On Wednesday morning MamaMaus and I managed to exchange a couple of heartfelt SMS messages.</p>

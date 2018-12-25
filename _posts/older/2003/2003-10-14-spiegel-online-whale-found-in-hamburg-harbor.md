@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="12 tons, 12 meters long, dead, and smelly" href="http://www.spiegel.de/wissenschaft/erde/0,1518,269754,00.html">Spiegel Online: Whale found in Hamburg Harbor</a></p>

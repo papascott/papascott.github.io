@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Stoiber can now become Chancellor... of Bavaria" href="http://medienkritik.typepad.com/blog/2003/09/vernichtende_ni.html">Devastating Defeat of Schroeder's SPD</a></p>

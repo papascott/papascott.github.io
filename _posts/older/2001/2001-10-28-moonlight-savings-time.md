@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.dansanderson.com/blogtracker/">blogtracker</a> now lets you search for blogs by name or URL, and even lets you set a time zone. Cool. </p>
 <p>I've been inspired to overhaul my favorites list here. It's mostly for my own use, but everyone is free to click on the links.</p>

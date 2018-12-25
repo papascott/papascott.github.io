@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Tolerance where you might least expect it" href="http://medienkritik.typepad.com/blog/2004/02/we_have_this_se.html">Davids Medienkritik: German-American friendship in Huntsville, Alabama</a></p>

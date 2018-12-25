@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It's been one of those weeks, or actually, one of those two weeks (bi-weeks?). It's budget season for Mama, so she's had 6 day weeks and is gone more often than not, and is sometimes gone even when she's here. Meanwhile, while Christopher has surely gotten into the rhythm of his kindergarten schedule, I most certainly have not. When Mama is gone I've got 6 hours of non-stop Christopher, which is more exhausting (and infinitely more satisifying) than my 6 hours of work.</p>
 <p>I was hoping I could at least be semi-productive during my extra hours with him, but it turns out my productivity when we are alone is actually zero. He's loud, assertive, and always wanting to communicate. That's very good for his speech development, but very bad for concentrating on anything else in his presence. </p>

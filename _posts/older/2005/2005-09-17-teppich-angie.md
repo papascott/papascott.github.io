@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2005/09/teppichangie.jpg" border="0" height="302" width="320" alt="teppichangie.jpg" /></p>
 <p>Campaign billboard for Angela Merkel on the A23 near Tornesch, north of Hamburg. Unusual because billboards are banned along German autobahns, but here the CDU has rented space on a pylon for a carpet store.</p>

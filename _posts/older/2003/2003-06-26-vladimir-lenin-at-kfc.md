@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Eleven secret Serbs and spies..." href="http://blackholebrain.editthispage.com/2003/06/25">blackholebrain: Vladimir Lenin at KFC</a></p>

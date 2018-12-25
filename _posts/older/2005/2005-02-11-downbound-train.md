@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sometimes Hamburg reminds me of a <a title="Downbound Train: brucespringsteen.net: Bruce Springsteen" href="http://www.brucespringsteen.net/songs/DownboundTrain.html">Bruce Springsteen song</a>:</p>
 <p>> I had a job, I had a girl<br />

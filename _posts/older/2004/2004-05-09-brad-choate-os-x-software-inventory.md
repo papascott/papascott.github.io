@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="What to install on my PowerBook, Part 1" href="http://bradchoate.com/weblog/2004/04/14/inventory.php">Brad Choate: OS X software inventory</a></p>

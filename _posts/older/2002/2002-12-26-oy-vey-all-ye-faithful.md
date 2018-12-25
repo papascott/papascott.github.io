@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.whss.org/for_immediate_release_clear_chan.htm">Clear Channel Entertainment Purchases Christmas and Hunukkah - Will Merge the Holidays.</a> Does this include the German Second Christmas Day, or Boxing Day  as it's called in the Anglo-Saxon world?</p>

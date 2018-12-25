@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Can we call it a recession yet?" href="http://news.bbc.co.uk/1/hi/business/3029677.stm">BBC: German GDP down 0.2% in Q1 2003</a></p>

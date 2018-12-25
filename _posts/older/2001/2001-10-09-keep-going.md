@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://shanson.editthispage.com/discuss/msgReader$750?mode=day">garret says</a> that as long as Wal-Mart is doing OK, I don't have anything to worry about. OK, I can buy that...</p>

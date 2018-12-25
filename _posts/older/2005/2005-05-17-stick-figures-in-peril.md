@@ -17,7 +17,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/groups/stickfiguresinperil/" title="Flickr: Stick Figures in Peril">Stick Figures in Peril</a></p>

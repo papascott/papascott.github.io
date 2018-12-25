@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="blogrolling.com - members home" href="http://www.blogrolling.com/">blogrolling.com</a> is now accepting pings, so I had to change my blogroll code not to always overwrite the update time with that from blo.gs. And I have to test it. Therefore, a test post.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Late</b><br />
 Oh no! Sheila's got the <a href="http://sheila.inessential.com/2001/03/10">Norwegian Computer Virus</a>!</p>

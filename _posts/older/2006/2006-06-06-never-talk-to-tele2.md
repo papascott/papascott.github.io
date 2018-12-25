@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>A couple of weeks ago I got a sale call from <a href="http://www.tele2.de/" title="TELE2 Deutschland">Tele2</a> offering some sort of pre-select phone package for local and long-distance calls. I politely said I wasn't interested and hung up. I never buy anything on the phone.</p>
 <p>The telemarketer from Tele2 apparently disagreed, and submitted an order in my name anyway. A letter arrived a week later thanking me for my registration. I immediately faxed a cancelation to Tele2 Customer Service.</p>

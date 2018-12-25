@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're headed to <a href="http://www.westerland.de">Westerland/Sylt</a> on the North Sea for the weekend. The weather's going to be cool and cloudy, and we're bringing our raincoats. See you Monday!</p>

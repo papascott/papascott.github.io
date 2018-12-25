@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.wonkette.com/politics/ford/the-new-economy-150305.php" title="The New Economy - Wonkette">Wonkette:</a> "Welcome to the 'new' economy. It&rsquo;s new because you&rsquo;re not in it."</p>

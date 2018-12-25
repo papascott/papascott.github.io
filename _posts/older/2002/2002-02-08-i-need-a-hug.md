@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Due to what's going to <a href="/2000/02/09">happen</a> <a href="/2001/02/09">tomorrow</a>, I think I'll just stay home this evening and sulk.</p>
 <p>At least we don't have a <a href="http://www.tubcat.com">tubcat</a>.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>He's walking</b><br />
 Not just "two steps to get from chair to chair because it's too much trouble to get down and crawl", this is "get up by myself and take six steps just because I feel like it". And Grandma and Grandpa were here to see it. The world has just become a tiny bit more unsafe.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://medienkritik.typepad.com/blog/2004/08/im_zweifel_soli.html" title="Davids Medienkritik: Candlelight Vigils and Mourning in Solidarity / Lichterketten und solidarische Trauer">My latest translation for Davids Medienkritik</a></p>

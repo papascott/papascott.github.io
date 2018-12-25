@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Note to self: check back at <a href="http://www.philringnalda.com/">philringnalda.com</a> for 2 solutions for creating backlink lists.</p>

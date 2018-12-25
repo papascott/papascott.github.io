@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher has his final practice day-care session today, his very first full 8am-5pm shift. Day care is closed during the short week between the holidays, and on 2 January he has his first real shift, when Mama and Papa both work.</p>
 <p>After a lot of thought, I've decided to give up my commuter train ticket and rent a parking space at work. Yes, it is more expensive and pollutes the air, but the train runs only twice an hour and it's too easy to miss. The car will be the best way for me to be able to keep my afternoon appointments to pick up Christopher.</p>

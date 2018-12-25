@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Pepilog" href="http://www.pepilog.de/artikel/seven-tricks-that-web-users-dont-know.htm">Via Pepilog: </a> <a title="They don't know all the secret shortcuts" href="http://www-106.ibm.com/developerworks/usability/library/us-tricks/?article=usr">Seven tricks that Web users don't know</a></p>

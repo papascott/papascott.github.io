@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="ABC News: Politician Wants Milk Sold at World Cup" href="http://abcnews.go.com/Sports/wireStory?id=339594">AP: Wulff, Governor of Lower-Saxony, Wants Milk Sold at World Cup</a> I'm glad our CDU Premier has a sense for what's <em>really</em> important.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Spiegel Kommentar: Wenn Schuld zu komplex wird" href="http://www.spiegel.de/panorama/0,1518,246359,00.html">Eschede trial to be halted?</a></p>

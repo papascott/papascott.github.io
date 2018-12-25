@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Replaces our home-grown perl script at work" href="http://www.isis.de/~s.frings/smstools/">SMS Server Tools: send and receive SMS using a simple file-based interface and a GSM modem</a></p>

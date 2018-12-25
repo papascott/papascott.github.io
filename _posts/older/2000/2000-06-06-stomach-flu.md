@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher seems better this morning, but now Mama is having stomach pains.</p>
 <p><b>Update Tuesday evening:</b> Christopher is doing fine. Mama's running a fever, but I came home from work early so she could get some rest.</p>

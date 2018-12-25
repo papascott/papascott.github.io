@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>James Lileks explains why <a href="http://www.lileks.com/bleats/030802.html">naps are very important</a> (scroll down to 'Obligatory Gnat Portion')</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="dangerousmeta! » The New Yorker:" href="http://www.dangerousmeta.com/?p=2518">Via dangerousmeta:</a> <a title="Victor Gruen invented the shopping mall in order to make America more like Vienna" href="http://www.newyorker.com/fact/content/?040315fa_fact1">50th anniversary of the first shopping mall: Southdale (Edina, MN)</a></p>

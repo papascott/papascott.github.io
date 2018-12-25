@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>What's worse than the office building management planning a power shutdown from 11:00 am to 1:00 pm on Saturday (and you have vital systems in the building that need to be restarted)?</p>
 <p>It's when on Thursday the building management decides to change the shutdown to 5:00 to 7:00 pm, and it's perfect grill weather.</p>

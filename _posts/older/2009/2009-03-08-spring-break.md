@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This year we have the luck that our McDonald's spring meeting in Munich coincides with Christopher's Easter vacation at the end of March. So he gets to come along! Christopher also has the luck that Legoland Germany opens that same week.</p>
 <p>The meeting ends on Tuesday, and Legoland doesn't open until Saturday, so we have 3 days to explore Munich and surroundings. We know about the <a href="http://www.deutsches-museum.de/en/information/">Deutsches Museum</a>, and we might take a day trip to the <a href="http://www.zugspitze.de/main_en.php">Zugspitze</a>. Are there any other family activities in Munich that can be recommended?</p>

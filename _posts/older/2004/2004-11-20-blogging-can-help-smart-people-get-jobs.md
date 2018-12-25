@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Russell will be Yahooing Soon (Jeremy Zawodny's blog)" href="http://jeremy.zawodny.com/blog/archives/003059.html">Further proof that blogging can help smart people get jobs</a> Oh, only smart people, so that's why I've been having trouble :-)</p>

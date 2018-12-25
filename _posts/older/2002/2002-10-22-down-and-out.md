@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I got kicked in the gut this morning by some nasty gastro-intestinal bug (luckily more gastro than intestinal, I'll spare the technicolor details), so I won't be doing much for the next day or two. Except staying flat on my back.</p>

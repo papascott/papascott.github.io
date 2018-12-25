@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This is a public service announcement for expats of the Democratic persuasion.</p>
 <p>This year for the first time, <a href="http://www.democratsabroad.org/">Democrats Abroad</a>, the overseas branch of the US Democratic Party, is offering the opportunity for expats to vote in a <a href="http://www.democratsabroad.org/article/2008/01/11/delegate-selection-plan-summary">Global Presidential Primary</a> from February 5 to 12 to elect 22 delegates to the Democratic National Convention. You can vote over the internet, by fax, by mail or in person. You do need to be a US citizen eligible to vote in the general election in November, and you can vote either in the Global Primary or your home state's primary, but not both.</p>

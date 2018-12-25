@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.boingboing.net/2005/12/22/cheneys_ipod_first_i.html" title="Boing Boing: Cheney's iPod: first in line of succession for power outlets.">Cheney's iPod: first in line of succession for power outlets</a> on board Air Force II, blocking reporters from charging their notebooks. I'm glad I'm not the only one who has problems keeping his iPod charged.</p>

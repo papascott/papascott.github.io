@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://static.userland.com/sh4/gems/mausnews/bath.rm"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/05/bathrm.jpg" height="187" width="181" border="0" alt="bathrm.jpg: " /></a></p>
 <p><a href="http://static.userland.com/sh4/gems/mausnews/bath.rm">In the bath</a>: a pitiful first attempt at uploading home video for the web (30 seconds for Real Player, 163 KB). It's going to take a while for me to learn digital video. Maybe I need a 'Dummies' book. <b>Later:</b> It worked! Christopher's grandparents were able to view the video.</p>

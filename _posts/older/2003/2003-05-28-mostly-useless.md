@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've nevered considered myself to be a 'serious' weblogger, and have never really considered weblogging to be a 'serious' activity. It's just a hobby... it's fun, I've met some great people online, I've had some good (and some not so good) discussions, and it's a easy way to post baby pictures. But it's message, not the medium that interests me (or, in modern jargon, the content, not the delivery system). The technology isn't particularly important. I was doing the same kind of thing in high school with a typewriter and a mimeograph machine. These days you don't have to get ink or toner on your hands. </p>
 <p>So I was certainly a bit apprehensive last week about heading for a 'serious' conference on weblogs and weblogging, full of presentations on research on weblogs, weblogs in business, and a strange discipline called 'knowledge management'. So when the presentations began with heavy theory of the 'semantic web', my fears were nearly justified (although they did respond politely to my question about semantic methods deal with dynamic humans).</p>

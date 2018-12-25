@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Yes, _that_ Olaf Scholz!" href="http://www.zimmermann-scholz.de/">Zimmermann, Scholz und Partner, Attorneys in Hamburg</a></p>

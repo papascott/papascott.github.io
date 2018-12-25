@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sometimes getting married in Vegas isn't all it's advertised to be, according to <a href="http://halrager.org/WordPress/2007/10/23/so-are-they-married-or-not/">Hal, our correspondent in Vegas</a>:</p>
 <blockquote><p>

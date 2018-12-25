@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Just to let everyone know that we were not in Minneapolis or in the Twin Cities yesterday, so we are not affected by the bridge collapse on Interstate 35W (<a href="http://www.tagesschau.de/aktuell/meldungen/0,1185,OID7216112_TYP_THE_NAV_REF3,00.html">Tagesschau report</a>) yesterday. No family or friends of ours would be normally commuting on that highway during evening rush hour.</p>
 <p>However I know the bridge and the neighborhood well. It crosses the Mississippi between downtown Minneapolis and the University of Minnesota, and I lived near the bridge in Southeast Minneapolis my first two years in college. <a href="http://davespicks.com/">Blogger DaveP</a> lives in that neighborhood today.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Trust us, 8 years ago we were where you are now" href="http://www.calpundit.com/archives/001862.html">Advice for Democrats, from Repulbicans</a></p>

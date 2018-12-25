@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When neither side deserves to win, the advantage goes to the incumbent. And with that out of the way, we can ignore 99% of the blather to come for the next 6 weeks.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="vowe dot net :: Switzerland has moved" href="http://vowe.net/archives/005738.html">Switzerland has moved</a> according to Microsoft</p>

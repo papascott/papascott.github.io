@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After my <a href="https://www.papascott.de/archives/2007/11/07/what-if-you-get-stopped/">entry yesterday</a>, here is yet another in the ongoing series "Germans are Strange and Wonderful Creatures"...</p>
 <p>Ten days ago Europe switched back from Daylight Savings to Standard Time, turning the clocks back one hour on Sunday morning at 3 am. Our McDrive is open until 4 am on weekends, and we made the decision not to stay open an extra hour for the time change.</p>

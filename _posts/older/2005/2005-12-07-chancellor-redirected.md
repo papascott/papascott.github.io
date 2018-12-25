@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The web server for <a href="http://www.bundeskanzler.de/">http://www.bundeskanzler.de/</a> will helpfully redirect you if you have forgotten that the Chancellor is now female.</p>
 <p><code>moneyball:~ shanson$ GET http://www.bundeskanzler.de/<br />

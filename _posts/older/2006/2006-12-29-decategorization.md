@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/12/my_google_reader_tags.jpg" alt="my google reader tags" title="my google reader tags" align="right" /></p>
 <p>A while ago I figured out that the websites I follow via RSS feeds fall into 3 categories:</p>

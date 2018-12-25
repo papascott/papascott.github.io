@@ -22,7 +22,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If you'd like to work in our McCafé, you can now view a <a href="http://www.mcdonalds-nordheide.de/jobs/mccafe/">job description</a> and <a href="https://www.karriere-bei-mcdonalds.de/obew/obew.php?stbeId=116&amp;filiStoreNr=1284">apply online</a>.</p>

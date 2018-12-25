@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="well, in this case everybody did" href="http://www.wingedpig.com/archives/000191.html">wingedpig.com: Nobody Expects The Bloglines Askquisition!</a></p>

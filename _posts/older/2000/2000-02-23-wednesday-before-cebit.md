@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've been <a href="http://2020hindsight.editthispage.com/">hyptonized</a> <i>Marlene is now in my template!</i></p>
 <p>The Far Side of My Mind <a href="http://farsideofmymind.editthispage.com/stories/storyReader$51">CeBIT Preparations</a>: These pictures show why I'm glad I can stay home!</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today is Ascension, which in Germany is Father's Day <em>(Vatertag)</em>. <a href="http://www.oeskovic.com/?p=476" title="Daily Dose of Dave - And on Thurs-day he ascended into heaven">Dave</a> has some observations on the German tradition of over-indulging on the day devoted to German fathers. Yes, they really do go for walks pulling wooden wagons filled with alcoholic beverages. By the afternoon they usually look pretty beat up. </p>
 <p>I did see one group pulling a wagon this afternoon that looked very fit, even at 5 pm. They were all women. An <em>Antifa</em> demonstration perhaps (as in anti-father instead of <a href="http://en.wikipedia.org/wiki/Antifa">anti-fascist</a>)? </p>

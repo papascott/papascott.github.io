@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher's still asleep, so I don't know yet if he's well enough for me to go to work. <b>Update:</b> He's still got a fever, so we're home watching Kinderkanal.</p>
 <p>Before the lights went out here (and many thanks to UserLand for letting us know what was going on; much better information than any pay provider I've dealt with), I was explaining about the <a href="http://shanson.editthispage.com/2002/02/17">Olympics on German TV</a>. First first a quick primer on German public broadcasting...</p>

@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://ridethebandwagon.com/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/02/bandwagon-logo.jpg" alt="bandwagon logo" /></a></p>
 <p><a href="http://ridethebandwagon.com/">Bandwagon</a> is a new server that backs up iTunes music libraries from your Mac to Amazon S3 for a flat rate. Sounds like a sensible use of umlimited storage to me.</p>

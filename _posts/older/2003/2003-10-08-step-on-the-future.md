@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Another example of denglish advertising" href="http://www.industrial-technology-and-witchcraft.de/index.php?id=P3480">Step on the future</a></p>

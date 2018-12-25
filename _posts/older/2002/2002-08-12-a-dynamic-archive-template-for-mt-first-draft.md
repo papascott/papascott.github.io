@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As I've mentioned before, I'd really like to avoid building static archive files in Movable Type. Below is my first attempt to duplicate the Individual Entry Template using php to extract the entry from the MySQL database. It's totally 0.01: uncommented, unoptimized and lacking any error checking. But, at least for me, it outputs a reasonable facsimile of an individual entry. This is very a much a work in progress, but I wanted to post something since I probably won't be able to work on this for the next couple of weeks.</p>
 <p><b>Update:</b> This is a real stupid brute-force approach. I simply took the default template and replaced all MT tags with PHP code. A smarter approach might be a parser to translate the MT tags on the fly. Or maybe not. This is a work in progress. But I think I said that already.<br />

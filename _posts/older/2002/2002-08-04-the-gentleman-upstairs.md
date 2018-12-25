@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.dangerousmeta.com/posts/02/20020803">dangerousmeta!</a>: "she said, knowing how dry we've been, that she'd 'talk to the gentleman upstairs' and send us some rain. looks like she did" Well done.</p>

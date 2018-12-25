@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title=" Impossible ... but here's a plan!" href="http://www.twenj.com/romeoneday.htm">Seeing Rome in One Day?</a></p>

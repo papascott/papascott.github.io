@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher is already excited about our upcoming trip to visit his Grandma and Grandpa in Minnesota. He's already planning on fishing from the dock, playing tricks on his Uncle Steve, roasting marshmallows, and getting presents from the Lego Store at Mall of America. He's also looking forward to swimming in the lake, but he has a concern.</p>
 <p>"You can't be naked in America."</p>

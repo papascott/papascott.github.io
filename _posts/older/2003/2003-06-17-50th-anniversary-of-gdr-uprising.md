@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="and the West stood by and did nothing, just like in 1956, 1961, 1968..." href="http://www.dw-world.de/english/0,3367,4789_W_895692,00.html">50th anniversary of GDR uprising</a></p>

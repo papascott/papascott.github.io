@@ -23,8 +23,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We thought we'd be nice to Christopher and let him decide what he wanted for supper last night. He thought long and hard, about 20 minutes, then told us he wanted his favorite meal, crab legs!</p>
 <p>He's had crab several times in the States, most notably at <a href="http://www.crabbybills.com/locations.html">Crabby Bill's</a> in Florida. However, we have no idea where to find crab in Germany. No restaurant we know of serves it. Last night he had to settle for shrimp cocktail and shrimp soup from our local Greek restaurant. However, he did take the time to tell us with pencil and paper what he really wanted.</p>

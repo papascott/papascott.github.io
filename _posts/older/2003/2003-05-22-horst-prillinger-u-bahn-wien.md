@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Better info than at the official Wiener Linien website" href="http://mailbox.univie.ac.at/~prillih3/metro/">Horst Prillinger: U-Bahn Wien - Subway Vienna</a></p>

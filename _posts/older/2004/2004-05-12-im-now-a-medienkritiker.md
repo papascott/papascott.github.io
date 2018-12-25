@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Well, not really. But <a title="Davids Medienkritik" href="http://medienkritik.typepad.com/blog/">Davids Medienkritik</a> did just post a <a title="Davids Medienkritik: We Need Your Help!" href="http://medienkritik.typepad.com/blog/2004/05/we_need_your_he.html">plea to help translate</a> posts into English, and I'll be helping out now and again (once a week or so). </p>
 <p>Why, espcially considering that David's views are, um, somewhat to the right of mine? Because it's a good blog, and it starts good conversations. Even if Germans and Americans tend to disagree, at Medienkritik they're at least talking to one another. As a bilingual expat, one thing I can offer to the community is to translate things that are interesting, and David's points are always interesting and worth considering. </p>

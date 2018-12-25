@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If we're doing so well, why are we still feeling so depressed?" href="http://www.20six.co.uk/weblogEntry/1oaetrbvm9md4">bordbuch: Germany's Economy Picking Up</a></p>

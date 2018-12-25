@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Inver Grove Heights" href="http://www.aldifoods.com/locations4.asp?StoreID=45058&State=MN&City=Inver Grove Heights">Aldi USA in Minnesota</a></p>

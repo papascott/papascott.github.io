@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My wife's family decided a few years ago to combine all their birthday celebrations into 3 combined gatherings. All birthdays are pretty much clustered in November, February and May/June. So November we go to her older brother, in February to her younger brother, and in June they all come to us. That day is today, and we will have 14 guests in Chateau Lüllau.</p>
 <p>We always plan an outdoor celebration, but our party is invariably on the coldest and wettest day of the summer. We're used to putting on sweaters and grilling in the carport. We may have better luck today... the temperature will be cool (18°C) rather than cold, and the showers will be scattered (rather than intense like the past couple of days). Since we have been occupied by other things the past few weeks, we didn't really start preparing until yesterday. </p>

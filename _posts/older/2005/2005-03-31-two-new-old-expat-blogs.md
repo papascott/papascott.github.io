@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.inactualfact.com/" title="In Actual Fact">In Actual Fact</a> is "about an Englishman living in Germany" who used to blog under his real name. He's now hiding his identity about as effectively as Christopher plays hide-and-seek (hiding under a bedsheet and giggling uncontrollably).</p>
 <p><a href="http://www.chicagokarl.de/" title="chicagokarl">chicagokarl</a> writes about "life in a German farming hamlet" Addrup in Lower Saxony. His blog reappears after a 2 year hiatus.</p>

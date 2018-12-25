@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We decided quite suddenly a few days ago that we'll fly to Minnesota for a weel over 4th of July this year. Grandma and Grandpa will be quite pleased to see Christopher, and the weather at the lake should be good for relaxing.</p>
 <p>Since we're flying through Newark, we've also decided to spend a weekend in New York City on the way home. Picking a hotel is driving me a little crazy, though, given the high prices and number of choices. Suggestions for a good family hotel are welcome. (And, on another note, can the reviews at <a href="http://www.tripadvisor.com/Hotels-g60763-New_York_City_New_York-Hotels.html">tripadvisor.com</a> be trusted?)</p>

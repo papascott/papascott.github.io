@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="a client-server binary diff solution" href="http://www.daemonology.net/freebsd-update/">Binary Security Updates for FreeBSD</a></p>

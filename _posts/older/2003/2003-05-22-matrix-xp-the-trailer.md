@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Complete with pie-time stop action" href="http://www.matrix-xp.com/">Matrix XP: the trailer</a></p>

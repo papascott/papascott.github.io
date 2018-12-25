@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/394292135/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/176/394292135_b92874bf52.jpg" width="500" height="375" alt="18022007071" /></a></p>
 <p>This afternoon was sunny, so we took a trip to the animal park in Nindorf so Christopher could hang out with the goats.</p>

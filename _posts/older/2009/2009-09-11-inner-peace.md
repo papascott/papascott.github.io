@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="https://www.papascott.de/archives/2001/09/12/the-day-the-earth-stood-still/">After 8 years</a>, I think I've found peace. Inner peace, anyway. Outer peace is so hard to find these days. Just ask anyone in Afghanistan.</p>
 <p>But what has changed in that time? Not much. The <a href="http://en.wikipedia.org/wiki/Hamburg_cell#Background">Marienstrasse</a> is still in Hamburg, the <a href="http://en.wikipedia.org/wiki/Al-Quds_Mosque">Al-Quds mosque</a> too. We've sent soldiers abroad, more soldiers in Iraq have fallen than those who fell that day into thin air.</p>

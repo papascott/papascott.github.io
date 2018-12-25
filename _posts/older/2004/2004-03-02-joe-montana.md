@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Ground Plums & Gun Smoke" href="http://rwallace.blogspot.com/2004_02_29_rwallace_archive.html#107821877999198197">Joe, Montana</a></p>

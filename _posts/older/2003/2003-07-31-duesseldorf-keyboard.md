@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Press 'Kölsch' instead of 'Alt'" href="http://www.schockwellenreiter.de/2003/07/31.html#030731025">Düsseldorf Keyboard</a></p>

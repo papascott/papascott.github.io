@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher and I are playing bachelor this weekend. Today we decided to go toy and tech shopping in Hamburg. We drove to the Park-and-Ride in Harburg and took the S-Bahn downtown. </p>
 <p>When we returned to drive home, the lock in the drivers' side door was stuck and would only partially turn. The passenger side lock was completely jammed and I could not insert the key. My first thought was that my key was damaged. I was able to open the back hatch, however, so Christopher could climb in and open the doors from the inside. The ignition also switched on with no problems.</p>

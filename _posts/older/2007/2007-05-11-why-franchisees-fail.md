@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Last week in the Wall Street Journal there was a nice article on <a href="http://online.wsj.com/article/SB117770922300685303.html">Why Franchisees Fail</a> (subscribers only, but a copy is <a href="http://www.franchiseperfection.com/blog/?p=92">here</a>). Even with an established system you can still screw up royally.</p>
 <blockquote><p>

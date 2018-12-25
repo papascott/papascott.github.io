@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="It's a funny old world..." href="http://news.bbc.co.uk/2/hi/uk_news/politics/3225127.stm">BBC: Tory leader Iain Duncan Smith ousted</a></p>

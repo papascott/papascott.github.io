@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It was this time about 4 years ago (November 2006) that I started <a href="https://www.papascott.de/archives/2006/12/06/pinch-my-grits/">feeling strange pains in my back</a>. Actually, they were in my legs and butt, and I was too dumb to realize they were really coming from my back. And I was too dumber <a href="https://www.papascott.de/archives/2007/01/08/needles-and-pins/">to go to a proper orthopedist</a> until 2 months later, who diagnosed a pinched nerve in my lower back, and it took another 2 months of shots and therapy to actually relieve the pain.</p>
 <p>At that time, as a kind of "it can't do any harm and could do some good" measure I signed up for a back therapy course at our local fitness center <a href="http://www.sportland-buchholz.de/">Sportland in Buchholz</a>, with a group mostly 20+ years my senior. Part of the course was a back-strength check from <a href="http://www.dr-wolff.de/">Dr. Wolff</a>, and my values were at first well in the red. Eight weeks later I had barely made it into the yellow area, so I had some work ahead of me.</p>

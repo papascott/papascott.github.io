@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="My bad, you bad, we all bad!" href="http://radio.weblogs.com/0103021/2003/04/30.html#a1001">Matthew Langham: My bad...what?</a></p>

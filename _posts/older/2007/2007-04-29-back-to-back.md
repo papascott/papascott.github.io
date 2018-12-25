@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In case you're wondering about my <a href="https://www.papascott.de/archives/2007/01/08/needles-and-pins/">back</a> (my last <a href="https://www.papascott.de/archives/2007/02/05/traction-times-ten/">real update</a> was in February), things are going pretty well. I've been pain-free since the beginning of March, although I do feel some tension or tiredness in my lower back from time to time. I've been going to a physiotherapist (my next-door neighbor), and she's been teaching me the basics... how to sit, how to stand, last week I tried walking.</p>
 <p><a href="http://www.dr-wolff.com/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/04/dr-wolff-back-training.jpg" alt="Dr Wolff Back Training" title="Dr Wolff" align="right" /></a> Last week I started a 8-week training course at a local fitness studio. They have a set of machines from <a href="http://www.dr-wolff.com/">Dr. Wolff</a> to train the upper and lower back. The cost is covered by health insurance, and since we are supposed to work out on our own between sessions, it works out like a trial membership.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://inessential.com/2001/02/19.html">Brent</a>, our cheer in Madison MN was better: "Lutefisk and Lefse, Tus-ka-da-ha, we can beat &lt;whoever>, ya ya ya!" And Madison is of course the <a href="http://personal.riverusers.com/~roses/lutefisk.htm">Lutefisk Capital of the USA</a>, and we have a fiberglass fish to prove it.</p>
 <p>I tried out my <a href="http://shanson.editthispage.com/stories/storyReader$501">favorites script</a> on my online host, a poor Pentium/133 with 32MB RAM, and it took nearly 2 minutes to complete. It really is brute force! I also realized that it would make a lot more sense to XML-RCP the results into my site and use &#123;includeMessage&#125; rather than to fetch them with &#123;includeHTTP&#125;.</p>

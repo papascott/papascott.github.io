@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'And if it's a round birthday, God help the birthday child'" href="http://www.eamonn.com/archives/000575.html#000575">German big birthdays</a></p>

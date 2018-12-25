@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In a back-to-the-basics action, Mama is this evening working the closing shift at one of her inner-city restaurants. I'm sure she'd appreciate some unruly customers at the Dammtor train station around midnight tonight, if you happen to be in the area.</p>
 <p>I wish I could be at the Metrodome for the 4-game Mariners-Twins series this weekend.</p>

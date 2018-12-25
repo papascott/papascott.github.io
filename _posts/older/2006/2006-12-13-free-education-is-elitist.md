@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Is free education more elitist than requiring tuition fees? This piece from <a href="http://www.economist.com/debate/freeexchange/2006/12/yesterdays_new_york_times_spec.cfm">Free Exchange</a> is worth a long quote.</p>
 <blockquote><p>

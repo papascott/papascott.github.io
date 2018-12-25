@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Muntefering to take over, Scholz out as General Secretary" href="http://www.netzeitung.de/deutschland/272163.html">Schröder to resign as SPD party chair</a></p>

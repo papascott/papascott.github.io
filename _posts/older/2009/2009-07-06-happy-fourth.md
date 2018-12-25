@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3691970158" title="View '040709' on Flickr.com"><img src="3.static.flickr.com/2598/3691970158_61fb8eb1de.jpg" alt="040709" border="0" width="500" height="375" /></a></p>
 <p>Happy 4th of July weekend from Starbuck, Minnesota! We'll be back when we're done relaxing...</p>

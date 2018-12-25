@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://laughingmeme.org/mlp/archives/2004_01.html#001693">via Laughing Meme:</a> <a title="For Linux users" href="http://www.newtolinux.org.uk/tutorials/windows.shtml">Getting started with Windows</a></p>

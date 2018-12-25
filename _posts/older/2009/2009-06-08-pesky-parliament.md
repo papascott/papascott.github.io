@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm often annoyed by the politics at Rainy Day, by an Irish expat in Munich, but he produces enough gems for me to keep him in my feed reader. For instance, today on the <a href="http://www.eamonn.com/2009/06/back_in_2014.htm">42% turnout for this year's European elections</a>:</p>
 <blockquote><p>The idea that holding direct elections to the European Parliament would somehow create a common European identity has been exposed as nonsense. The good people of Estonia don't know or care about the factors that determined the voting of their fellow EU citizens in Austria, Slovenia, Malta and Luxembourg. And vice versa. There is no European election is the sense that the press keeps on about. The separate national elections within Europe are sold by a compliant media as being somehow pan-European.</p></blockquote>

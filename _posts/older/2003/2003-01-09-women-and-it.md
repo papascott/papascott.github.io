@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://weblog.burningbird.net/fires/000809.htm">BurningBird</a> has been relating the frustrations of being a female Unix expert. Way back in August 2001 there was a discussion of Women in IT, for which I wrote a <a href="http://shanson.editthispage.com/stories/storyReader$703">response</a> that never got imported into my new blog. Maybe some parts are now relevant, so I'll repeat the some of it  here. </p>
 <hr />

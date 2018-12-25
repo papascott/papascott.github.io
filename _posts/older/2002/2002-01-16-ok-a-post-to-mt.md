@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>OK, a post to Mt from Radio is happier if we use Source instead of Wysiwyg, which is a lie in itself anyway.</p>

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/682463062/" title="Photo Sharing"><img src="2.static.flickr.com/1070/682463062_b2525d2d91.jpg" width="500" height="375" alt="IMG_2069" /></a></p>
 <p>Even though we got home at 3:30 this morning, Christopher insisted on going to the restaurant at 9:00 am for his first day of "work". We were actually already awake, I guess we can catch up on sleep later.</p>

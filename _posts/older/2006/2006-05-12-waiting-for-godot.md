@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Back in the '80s marrying foreigners was a lot easier. <a href="http://www.philly.com/mld/dailynews/14554011.htm" title="Philadelphia Daily News | 05/11/2006 | How law divided a family">Philadelphia Daily News: How law divided a family</a>: </p>
 <blockquote><p>As soon as Emery and Paola were married (in November 2002), her visitor's visa was no longer valid. 'Marriage invalidates a student or visitor's visa,' Emery said. 'So, if your application for permanent residency is delayed, you're in the worst kind of limbo.' Paola was advised not to leave the country until her permanent residency came through, or she might not be permitted to return. But the process that was supposed to take months dragged on for three years with no end in sight.</p>

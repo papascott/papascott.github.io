@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>On Balance, the Washington Post blog on "Juggling Work and Family" <a href="http://blog.washingtonpost.com/onbalance/2006/09/five_tricks_to_tame_technology.htmlOn">Five Tricks to Tame Technology</a>:</p>
 <blockquote><p>

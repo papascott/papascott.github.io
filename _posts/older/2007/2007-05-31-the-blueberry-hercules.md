@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Frauke found an an interview <a href="http://www.focus.de/finanzen/news/starbucks_aid_57627.html" title="Der Blueberry-Herkules">"Der Blueberry-Herkules"</a> at focus.de with Martin Coles, President of Starbucks Coffee International, on Starbucks slow entry into the German market...</p>
 <blockquote><p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.caterina.net/archive/000915.html" title="Caterina.net: Chicking Martha">Caterina.net: Chicking Martha</a>, as in Martha Stewart, as in dismissing and belittling a talented woman. Believe me, that's absolutely the last thing you want to do.</p>

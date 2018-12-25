@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/223134142/" title="Photo Sharing"><img src="https://static.flickr.com/58/223134142_b47587fa49.jpg" width="375" height="500" alt="captain christopher" /></a></p>
 <p>No, that's not a GPS navigation system on the dashboard, it's a fish locator.</p>

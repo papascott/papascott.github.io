@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Wonkette: TerriGate" href="http://www.wonkette.com/politics/culture-war/terrigate-037575.php">A persistent vegetative state is no obstacle to blogging.</a> Thousands prove it every day.</p>

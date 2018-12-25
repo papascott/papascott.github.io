@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher has no mercy, he was up at 6 am again today.</p>
 <p>Mama's car is silver and looked like an airliner when she pulled into the driveway last night. And thanks to GPS, we know our house lies 50 m above sea level.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Like <a title="NDR Online: Wahltest [Noch'n Blogg]" href="http://blogg.lumma.de/eintrag.php?id=33">Nico</a>, I decided to take the <a href="http://www.ndr.de/ndr/regional/hh/wahl/wahltest/">'Voter's Test'</a> at NDR4 to determine which party in Hamburg would best reflect my position. The result was amusing. </p>
 <p><img alt="ndr4.png" src="https://www.papascott.de/wordpress/wp-content/uploads/2004/02/ndr4.png" width="416" height="234" border="0" /><br />

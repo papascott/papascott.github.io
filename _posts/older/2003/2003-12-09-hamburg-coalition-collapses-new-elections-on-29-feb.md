@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Won't put up with no Schill no more" href="http://www.spiegel.de/politik/deutschland/0,1518,277544,00.html">Hamburg coalition collapses, new elections on 29 Feb</a></p>

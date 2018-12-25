@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I doubt if Christopher's first day of first grade on Saturday will be <a href="http://www.beagooddad.com/39/first-day-of-school-in-hammond-indiana/" title="Be A Good Dad » Archives » First day of school in Hammond, Indiana">anything like this</a></p>
 <blockquote><p>

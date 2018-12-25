@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/322433308/" title="Photo Sharing"><img src="https://static.flickr.com/133/322433308_c6b39cb763.jpg" width="500" height="361" alt="dragonbabies" /></a></p>
 <p>Christopher Hanson, 2006, Ball-Point Pen on Ink-Jet Paper</p>

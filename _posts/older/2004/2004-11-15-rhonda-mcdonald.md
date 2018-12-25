@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="???????CM?????" href="http://www.mcdonalds.co.jp/sales/cmlib/cm02_300.html">Rhonda McDonald?</a> Japanese McDonald's TV ad <a href="http://www.loiclemeur.com/english/2004/11/mcdonals_is_muc.html">(via loic)</a></p>

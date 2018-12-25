@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>German vocabulary: pop-rivet tool is "die Blindnietzange".</p>
 <p>AP: <a href="http://dailynews.yahoo.com/h/ap/20011022/wl/berlin_election_5.html">Berlin Election Boosts Ex-Communists</a></p>

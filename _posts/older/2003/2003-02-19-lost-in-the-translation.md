@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sloppy editing at <a href="http://www.dw-world.de/english">Deutsche Welle</a> is turning a domestic <a title="ABC News: Germany Says Smallpox Report Exaggerated" href="http://abcnews.go.com/wire/World/ap20030216_1608.html">budget and turf dispute</a> into an <a href="http://talkingpointsmemo.com/feb0303.html#021803121pm">international</a> <a href="http://www.andrewsullivan.com/index.php?dish_inc=archives/2003_02_16_dish_archive.html#90339870">incident</a>. The oppostion is asking the health minister why she is stockpiling smallpox vaccine (and outdated vaccine at that) when the interior minister says there is no threat of a smallpox terrorist attack . DW-World <a title="DW-World: Ministers Play Down Threat of Smallpox Attack" href="http://www.dw-world.de/english/0,3367,1430_A_781802_1_A,00.html">reported</a></p>
 <blockquote><p>In the interviews, two German government ministers let readers know that there is little danger now that that [sic] American-hating terrorists could unleash the smallpox virus on the German population.</p></blockquote>

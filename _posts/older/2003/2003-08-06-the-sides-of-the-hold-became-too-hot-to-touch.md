@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="a neighbor of Antipixel on being a POW in Nagasaki, August 1945" href="http://www.antipixel.com/blog/archives/2003/08/06/august_6_1945.html">the sides of the hold became too hot to touch</a></p>

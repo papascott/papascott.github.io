@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="mausi_psa.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/12/mausi_psa.jpg" width="320" height="224" border="0" /></p>
 <p>A reminder to the German blogging community that blogging is <em>not</em> about awards. It's time to lighten up.</p>

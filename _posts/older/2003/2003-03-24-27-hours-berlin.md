@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're back. Christopher loved it. I would have been better off staying home in bed, but I then would have been home alone with Christopher, so rest and recuperation was not an option. Since I was pretty much a wet blanket, I'll try to tell about our visit from Christopher's perspective.</p>
 <p>Riding the Inter City Express from Hamburg to Berlin was the main highlight, of course. Riding in a taxi from Bahnhof Zoo to the hotel was also an new and exciting experience. That night from his bed in Mama's room he could see the taxi stand in front of the hotel, and count the taxis as they came and went.</p>

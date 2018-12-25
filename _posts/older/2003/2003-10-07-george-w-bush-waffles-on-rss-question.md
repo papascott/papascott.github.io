@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="His blog has both RSS 1.0 and RSS 2.0 feeds" href="http://www.georgewbush.com/blog/">George W. Bush waffles on RSS question</a></p>

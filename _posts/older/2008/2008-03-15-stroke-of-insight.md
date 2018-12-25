@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://vowe.net/archives/009271.html">Vowe recommended</a> watching the video <a href="http://www.ted.com/talks/view/id/229">Stroke of Insight</a> and it was a very fascinating 19 minutes.</p>
 <blockquote><p>

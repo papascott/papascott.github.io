@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/158812779/" title="Photo Sharing"><img src="https://static.flickr.com/37/158812779_c3ab00bc46_m.jpg" width="240" height="180" alt="02062006024" /></a></p>
 <p>We just returned from camping. The weather was perfect: mostly sunny, slightly breezy, dry, and warm enough for short sleeves.</p>

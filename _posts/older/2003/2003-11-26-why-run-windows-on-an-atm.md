@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="It's actually quite common" href="http://simon.incutio.com/archive/2003/11/26/windowsOnATMs">Why run Windows on an ATM?</a></p>

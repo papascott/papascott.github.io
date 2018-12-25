@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>At <a href="http://martinamr.blogspot.com/">American im Odenwald</a> Martina wonders why an American in Germany would name a blog <a href="http://www.amiexpat.com/">AmiExpat</a>. <a href="http://martinamr.blogspot.com/2007/11/amis.html">Isn't "Ami" an insulting term for Americans?</a></p>
 <p>I've never felt insulted by the term Ami, and said so in her comments. Germans are always coming up with funny shortened names for things, like Wessi, Ossi, Sozi, Fundi. Such terms are more for bar talk than everyday speech, but I've never seen any harm in them. The split in the comments seemed to be 50-50, though, between those who felt uncomfortable with the term and those who did not.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>If anyone is keeping track, I still haven't received my September salary (although the firm has made a &euro;1000 partial payment to each employee). Late payments... this is starting to feel like free-lance work, only without the freedom.</p>

@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.mcdonalds.de/produkte/produktfinder.html#/veggieburger"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2010/03/McD_PM_20100216_Veggieburger_180x103.jpg" alt="McD_PM_20100216_Veggieburger_180x103.jpg" border="0" width="180" height="103" align="right" /></a>I'm a bit late on the uptake here, since it's been on the menu for over 2 weeks now, but the best <a href="https://www.papascott.de/archives/2009/10/21/marketing-non-secrets/">Marketing Non-Secret</a> we heard about last October was the <a href="http://www.mcdonalds.de/produkte/produktfinder.html#/veggieburger">Veggieburger</a> which has now debuted in Germany.</p>
 <p>There are a lot of vegetarians in Germany, and several years ago McDonald's offered a larger vegetarian burger, the Gemüse-Mac, which had a small but loyal fan base. However, it just didn't sell well enough to fit into the production system. Either they were made to order, meaning you had to wait 6 minutes at a minimum, or the sandwiches were held well over the 10 minute holding limit, and you can imagine how that tasted (not good).</p>

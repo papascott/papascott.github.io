@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This is a brilliant song, and perfectly sums up my mood at the moment. Imperfect translation is mine.<br />
 <!--more--><br />

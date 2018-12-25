@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Up til now, my WiFi setup has been pretty simple... no access point, just ad-hoc mode with an Elsa 11 MBit card in my notebook and a matching card in my floppy ISDN router. No authentication, no encryption... the cows in the pasture out back could steal all the bandwidth they waned. But I was never able to MamaMaus' notebook to connect. And she kept taking my notebook to check her Ebay auctions. There may also be a new notebook in my future, so it was time to upgrade to a real access point. </p>
 <p>I got the <a title="vowe's choice: Linksys WRT54G" href="http://vowe.net/whatiuse/archives/003672.php">Linksys WRT54G</a>, because it was cheap and supports 54 MBit (which is in Mama's new Centrino notebook). It's designed for DSL, but works fine with ISDN. So Mama can now surf from the couch, I can work on my ThinkPad , and WEP is enabled so the cows can't snoop our packets anymore.</p>

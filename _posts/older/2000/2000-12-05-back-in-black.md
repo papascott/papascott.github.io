@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>PapaScott (the website) is <a href="/1999/12/05">one year old</a> today. Thanks to "Userland" for providing at no cost the <a href="http://www.editthispage.com">webspace</a> and the software that makes it not only possible, but easy.</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/12/crh1203.jpg" height="262" width="350" border="0" alt="crh1203.jpg: " /></p>

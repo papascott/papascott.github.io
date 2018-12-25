@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Are you feeling lucky?" href="http://www.hyperorg.com/blogger/mtarchive/001941.html">Why Bruce Springsteen should not be made the skipper of a nuclear sub</a></p>

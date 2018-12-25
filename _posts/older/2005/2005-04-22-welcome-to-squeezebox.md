@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2005/04/squeezebox.gif" border="0" height="129" width="200" alt="squeezebox.gif" align="right" />This is my latest enhancement for my home workspace... a <a href="http://slimdevices.com/">Squeezebox</a> wireless digital music player for mp3s and Internet radio for our existing stereo, controlled via remote or a web browser.</p>
 <p>The files stored on my <a href="https://www.papascott.de/archives/2005/01/18/linux-mini/">NSLU2</a> running <a href="http://www.nslu2-linux.org/wiki/Unslung/HomePage">Unslung</a>. The <a href="http://www.slimdevices.com/su_downloads.html">SlimServer</a> (open-source, in Perl) is probably too hefty to run on Unslung; I've got it on a FreeBSD box which mounts the NSLU2 via NFS. The SlimServer can stream to software players as well as the Squeezebox and can serve several devices simultaneously. It seems much easier than having iTunes libraries on each PC. </p>

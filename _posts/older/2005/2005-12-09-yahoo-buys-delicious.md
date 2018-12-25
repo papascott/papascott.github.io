@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://blog.del.icio.us/blog/2005/12/yahoo.html" title="del.icio.us: y.ah.oo!">Yahoo! buys del.icio.us</a>. Let's hope they don't break it like they <a href="http://www.2020hindsight.org/2005/12/09/yahoo-buys-delicious/">broke</a> <a href="http://blo.gs/">blo.gs</a>.</p>

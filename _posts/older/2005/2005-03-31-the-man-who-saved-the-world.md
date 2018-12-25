@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.mosnews.com/feature/2004/05/21/petrov.shtml" title="The Man Who Saved the World Finally Recognized - FEATURE - MOSNEWS.COM">Moscow News: The Man Who Saved the World Finally Recognized</a> In 1983 he was supposed to push the button. But didn't. <a href="http://www.dashes.com/anil/2005/03/30/the_man_who_sav">(Anil Dash)</a></p>

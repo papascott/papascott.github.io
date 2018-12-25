@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama didn't like the Aqua theme, so I've switched to Basic Blog. I set the font to 12 points... I hope that works for everyone, including Grandma!</p>
 <hr />

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>MamaMaus dug out some old photos for a presentation she's giving at her old <em>Gymnasium </em>(high school). Here's how she looked when I fell in love with her.</p>
 <p><a href="http://www.flickr.com/photos/papascott/154267865/" title="Photo Sharing"><img src="https://static.flickr.com/57/154267865_d8972ec34f.jpg" width="500" height="338" alt="oakgrove2" /></a></p>

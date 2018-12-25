@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My MacBook wouldn't wake up this morning, and worse than that, it wouldn't even start. It would chime and get stuck on a blue screen, the default background color (nicer than Windows blue screen), similar to the problem described <a href="http://forums.macrumors.com/showthread.php?t=222380">here</a>.</p>
 <p>I started from the Install DVD, and after that the installed system started up just fine, but it was unnerving nonetheless. So <a href="http://www.scripting.com/2006/08/15.html#yesVirginiaMacsCrashToo">Macs really do crash</a>... :-)</p>

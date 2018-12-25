@@ -20,7 +20,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I guess if my home state of Minnesota can elect a <a href="http://en.wikipedia.org/wiki/Jesse_Ventura">professional wrestler as governor</a> there's no reason they can't elect a comedian to the US Senate: <a href="http://news.bbc.co.uk/2/hi/entertainment/6364345.stm">BBC: Comedian Franken makes Senate bid</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Spring may not begin for another week, but here in the country spring has already sprung. The first "honey wagon" has appeared in the fields, and we've been basking in the sweet smell of <em>Gülle</em> all day.</p>
 <p>The German Wikipedia describes <a href="http://de.wikipedia.org/wiki/G%C3%BClle"><em>Gülle</em></a> as "organic fertilizer comprised mostly of urine and excrement", which is somewhat more revealing than the straight dictionary translation of "liquid manure".</p>

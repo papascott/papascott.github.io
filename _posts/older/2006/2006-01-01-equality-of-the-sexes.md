@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <blockquote>The German women's team has already won the World Cup, and I don't see any reason why men cannot achieve the same as women.</p></blockquote>
 <p>Chancellor Merkel on the 2006 World Cup in her <a href="http://www.bundesregierung.de/-,413.940270/pressemitteilung/Neujahrsansprache-von-Bundeska.htm" title="REGIERUNGonline - Neujahrsansprache von Bundeskanzlerin Angela Merkel">New Year's Address</a>. By the way, her daily calendar is available as an <a href="http://bundeskanzlerin.de/bk/Navigation/Service/rss.html">RSS feed</a>.</p>

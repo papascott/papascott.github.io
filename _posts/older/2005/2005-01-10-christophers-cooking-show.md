@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/sets/80300/" title="photo set 'master chef' at flickr"><img src="http://photos1.flickr.com/3204271_3d6e24d20b_m.jpg" alt="" border="0" /></a></p>
 <p>A photo series.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Today, my home office day, the bear ate me. Or maybe I'm just tired from the weekend, since both days Mama I worked and I was in charge of the boy.</p>
 <p>Christopher has learned several new tricks. One is to pull his bib up over his head during mealtimes. If I pull the bib back down and say 'No,' he cries and won't eat. If I leave the bib over his head, his face is covered and he can't eat, although eventually he'll pull the bib completely off and start again with his shirt, which of course has sleeves and cannot be pulled over his head, so he cries and won't eat. Toddler logic.</p>

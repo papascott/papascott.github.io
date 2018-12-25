@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://lumma.de/eintrag.php?id=3895"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/10/worldvote2008.jpg" alt="worldvote2008.jpg" border="0" width="225" height="99" align="right" /></a>I'm pretty amused by things like the <a href="http://www.economist.com/vote2008/index.cfm">Global Electoral College at the Economist</a>, which polls people people around the world asking how they would vote in the US election. Of course the results are gong to look like <a href="http://lumma.de/eintrag.php?id=3895">this map from lumma.de</a>. It's like asking little kids what they would do if they had a pony... the answers may be cute but not particularly useful.</p>
 <p>I suspect the truth is actually closer to <a href="http://www.spiegel.de/international/world/0,1518,586770,00.html">this interview with Robert Kagen</a> <a href="http://www.eamonn.com/2008/10/europe_exactly.htm">(from Rainy Day)</a>;</p>

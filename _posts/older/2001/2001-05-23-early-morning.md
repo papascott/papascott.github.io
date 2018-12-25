@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Late</b></p>
 <p>Weekend! Well, for most of us anyway. Mama is on tour tomorrow, so Christopher and I will take a 'Vatertag' tour together. But without schnaps.</p>

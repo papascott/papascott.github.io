@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://lumma.de/eintrag.php?id=618" title="Das Weblog [Lummaland]">Nico</a> reports that Duden, the chroniclers of the German language, have <a href="http://blogg.zeit.de/salon/eintrag.php?id=20#k29668">noted the word "Weblog"</a> and are monitoring its usage to determine whether it should be Das Weblog or Der Weblog. No report if we have to wait for the next spelling reform for a decision. It doesn't matter to me, as long as it spelled with only one 'g', if only to <a href="http://blogtalk.net/lumman.html">irritate Nico</a>.</p>

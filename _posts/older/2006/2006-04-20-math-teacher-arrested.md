@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Another victory in the war on terror: <a href="http://info.interactivist.net/article.pl?sid=06/04/18/1633231" title="Interactivist Info Exchange | US Detains Al-Gebra Operative">US Detains Al-Gebra Operative</a> (as seen at <a href="http://www.spreeblick.com/2006/04/20/mathe-lehrer-festgenommen/">Spreeblick</a>).</p>
 <blockquote><p>At New York's Kennedy airport today, an individual later discovered to be a public school teacher was arrested trying to board a flight while in possession of a ruler, a protractor, a setsquare, a slide rule, and a calculator.</p>

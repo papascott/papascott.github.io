@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.live365.com/cgi-bin/directory.cgi?genre=search&searchdesc=papascott&autostart=papascott">PapaScott Radio</a> at <a href="http://www.live365.com">Live365</a>. The playlist is a little thin (one song, for Christopher) for now, but "It Worked!"</p>

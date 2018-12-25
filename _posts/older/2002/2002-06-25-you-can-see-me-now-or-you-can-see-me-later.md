@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As much as I like Alwin and reading his blog, I'm not all that sure I want to follow his suggestions to keep him <a href="http://www.vfth.com/2002/06/25">gainfully employed</a>.</p>

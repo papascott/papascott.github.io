@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Pot belly? Over 40? I guess I'd have fit in better in Boston than in Vienna" href="http://www.roell.net/weblog/archiv/2003/06/09/wbs_alte_leute.shtml">American Bloggers are old. European Bloggers are young.</a></p>

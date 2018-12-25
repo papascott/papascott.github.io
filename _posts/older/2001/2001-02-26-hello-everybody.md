@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/02/WinniePooh.jpg" height="262" width="350" border="0" alt="Winnie Pooh: " /></p>
 <p><i>Dad sure writes a lot about me. But he hasn't posted any pictures lately. I finally talked Mom into posting one of my latest pictures.<br />

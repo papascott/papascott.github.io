@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>MamaMaus just complained that there were no New Years' greetings on PapaScott. Consider yourselves so greeted.</p>
 <p>The full text of our New Years' address can be found <a href="http://www1.ndr.de/ndr_pages_std/0,2570,OID256092_REF_SPC258514,00.html">here</a> or as video <a href="http://www1.ndr.de/ndr_page_video/0,,OID258514_VID3459106,00.html">here</a>.</p>

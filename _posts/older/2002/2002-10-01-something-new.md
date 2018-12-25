@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Now for something completely different... welcome to PapaScott as presented by <a href="http://www.cafelog.com/">b2</a> (the only blogging software <a href="http://www.vfth.com">Alwin</a> hasn't tried yet? :-). After all the uncertainty at work, in politics, and in the world, I'm ready for something new. Are you?</p>

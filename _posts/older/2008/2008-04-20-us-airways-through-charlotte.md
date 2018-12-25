@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>For our flight to Orlando this week, we looked more at price than comfort. Direct flights to Orlando were full for the dates we wanted, so we ended up choosing US Airways in coach from Frankfurt with a stop at their hub in Charlotte.</p>
 <p>I've heard that US Airways has been having service problems since their merger with America West, so we weren't expecting any luxury. We weren't disappointed. The seats were tight on legroom, and there were charges for headsets and alcoholic beverages. Most annoying, however, was the check-in system, which separate our seats on 3 of the 6 legs, despite having reserved seats together. We weren't able to check-in online (because the Hamburg-Frankfurt leg was on a partner carrier), so we were at the mercy of the airport attendants. We were able to trade seats in the plane to sit together, but it's still a pain. Our colleagues in business class, however, were happy with their flight.</p>

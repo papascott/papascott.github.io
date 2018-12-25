@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We've known for months that MamaMaus would have to give up her company car, and we've known for months that we would replace it with a <a href="https://www.papascott.de/archives/2007/03/18/crosstouran/">VW CrossTouran</a>. It's roomy inside, and has a lot of surface area for company logos. We can also take advantage of the fleet rebate by ordering through McDonald's. We just had to wait until the firm was officially formed before placing the order.</p>
 <p>We got the paperwork for the GmbH back today, and MamaMaus called the fleet coordinator to say that the order could now be placed. "Great," she said, "I'll just need you to send back a paper copy with your signature and company stamp, then we can send in the order."</p>

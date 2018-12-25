@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>One rule I've been following when blogging about our new business is "no numbers"... which is too bad, since the numbers are the second-most fun part of the business (but not nearly as much fun as the people you work with). If you're really curious, you can check at <a href="http://www.mcdonalds.de/">mcdonalds.de</a> things like the average annual sales per restaurant or how much equity is required to become a franchisee.</p>
 <p>Yesterday we got our first formal financing offer, and it was somewhat breathtaking to see the monthly payment in black and white. It's one thing to have a line in your projected P&amp;L for debt service, it's quite another to have a concrete payment schedule with a payment that <em>well exceeds</em> our former gross salaries. Then the enormity of our undertaking becomes clear.</p>

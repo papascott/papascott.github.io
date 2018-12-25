@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://ahawkins.org/archives.html#note_241" title="code: theWebSocket;">code: theWebSocket: Chilling out the Burger King</a> "One of my patients had been having it his way down at the local Burger King when the elephant joined him for lunch and made itself at home on his chest..." I love it when Alwin talks shop.</p>

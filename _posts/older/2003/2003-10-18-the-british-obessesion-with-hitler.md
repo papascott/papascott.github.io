@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="... is a good thing if it keeps out the EU? Huh?" href="http://www.samizdata.net/blog/archives/004782.html#004782">The British obessesion with Hitler...</a></p>

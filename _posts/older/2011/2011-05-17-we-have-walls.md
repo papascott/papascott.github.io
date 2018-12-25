@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Here's a couple of quick drive-by shots of the new restaurant. You can see just how close to the Autobahn and how visible we are going to be. </p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/5729756409" title="View 'IMG_20110517_145908' on Flickr.com"><img border="0" alt="IMG_20110517_145908" width="500" src="6.static.flickr.com/5089/5729756409_93ce35813c.jpg" height="375" /></a></p>

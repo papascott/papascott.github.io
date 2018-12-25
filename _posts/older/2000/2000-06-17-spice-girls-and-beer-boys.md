@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After complaints from the grandparents, we finally have some new picutures at <a href="http://albums.photopoint.com/j/AlbumIndex?u=185392&a=6807392">PhotoPoint</a></p>
 <p><b>Euro 2000</b> The big news first: England 1 Germany 0. The game was fair, hard-fought, entertaining, and could have gone either way, but only confirmed what should have been already clear: neither team is in the top class of European soccer. </p>

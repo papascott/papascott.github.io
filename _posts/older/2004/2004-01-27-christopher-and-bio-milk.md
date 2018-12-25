@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Kids adapt quickly. Christopher now asks for Bio-Milk and Strawberry Yoghurt from <a href="http://www.mcdonalds.de/">McDonald's</a>. Really.</p>

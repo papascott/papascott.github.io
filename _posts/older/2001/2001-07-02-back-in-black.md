@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Another source of news from Germany in English is <a href="http://www.expatica.com/germany.asp">Expatica</a>. For example: <a href="http://www.expatica.com/germanymain.asp?pad=190,205,&item_id=10966">Wild housecats terrify students in Bamberg</a>. </p>
 <p>More to the point for us is a report on <a href="http://www.expatica.com/germanymain.asp?pad=197,212,&item_id=10961">German Hausfrauenkultur (Housewives' Culture)</a>. German women are expected to stay home and care for their children until they are out of school. Luckily we can afford an alternative. </p>

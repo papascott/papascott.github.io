@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yesterday the German Interior Ministry announced the introduction of a <a href="http://www.spiegel.de/politik/deutschland/0,1518,439937,00.html" title="Ausweise: Innenministerium plant elektronische 'Ausländerkarte' - Politik - SPIEGEL ONLINE - Nachrichten">personal id card for foreign residents</a>, an <em>Aufenthaltskarte</em> similar the the <em>Personalausweis</em> issued to German citizens. I'm not so hot about all my personal data on a digitally readable smart card, but it will be practical to be able to leave my passport at home when I want to <a href="https://www.papascott.de/archives/2005/11/04/things-an-american-cant-do-in-germany-get-a-official-id-card/">buy a phone or rent a video</a>.</p>

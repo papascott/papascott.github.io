@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://davespicks.com">Dave's Picks</a> has yet another way to <a href="http://davespicks.com/writing/programming/last10refs.html">display referrers</a> with PHP. No database required.</p>

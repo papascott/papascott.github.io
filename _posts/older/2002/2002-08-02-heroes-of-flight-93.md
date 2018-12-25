@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Thanks to <a href="http://timesShadow.editthispage.com/">Dave</a> and <a href="http://www.vfth.com/">Alwin</a> to pointing to the <a href="http://www.msnbc.com/news/787018.asp?pne=msn">Heroes of Flight 93</a>. Not being able to watch NBC, I probably would have missed it otherwise.</p>

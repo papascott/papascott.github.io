@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Iraq's a bit out-of-area, but NATO may be a practical compromise to get more nations involved" href="http://www.catotheyoungest.com/archives/001044.html#001044">The Perfect Army for Iraq: NATO</a></p>

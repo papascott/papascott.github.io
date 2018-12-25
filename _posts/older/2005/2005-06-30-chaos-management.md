@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This week we're painting and laying flooring upstairs or, more correctly, having it done. However, the carpenter is behind, he's only half done, and is flying off on vacation next week. Currently all rooms upstairs are impassable, except (thank God!) the bathroom.</p>
 <p>The cleaning lady also comes on Thursday. (Notice how we outsource much of our work.) With the work upstairs today, she can only do the downstairs and the bathroom.</p>

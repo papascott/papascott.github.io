@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mark Pilgrim <a title="Should Safari be intentionally buggy? [dive into mark]" href="http://diveintomark.org/archives/2003/01/09.html#should_safari_be_intentionally_buggy">pleads for buggy browsers</a>. Let him eat Netscape 4. Buggy browsers are never good, and we have enough of them already.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.mblog.com/blondelibrarian/075203.html">blondelibrarian: Die deutsche "Recht"schreibung</a> Another expat's perspective on the German spelling reform</p>

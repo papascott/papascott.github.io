@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="crh_rakete.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2005/01/crh_rakete.jpg" width="320" height="240" /></p>
 <p>We've made it through the holidays. The American visitors are now home, the birthday boy is now 5, the goose leftovers are gone, and the last fireworks were fired last night. We just need a few days now to rest up, and we're ready to start work again. Except we don't have a few days. We both go back to work tomorrow.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://fifaworldcup.yahoo.com/03/en/t/match/32/index.html"><img alt="weltmeister.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/10/weltmeister.jpg" width="276" height="400" border="0" /></a></p>
 <p>After defeating the heavily favored US in the semi-finals, Germany won the Women's World Cup yesterday, <a href="http://fifaworldcup.yahoo.com/03/en/t/match/32/index.html">defeating Sweden 2-1 in extra time</a> in a very good and close match (broadcast on ARD in prime time Sunday evening). </p>

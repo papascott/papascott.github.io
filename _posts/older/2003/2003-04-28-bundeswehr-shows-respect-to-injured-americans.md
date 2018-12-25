@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Winds of Change.NET: Guest Blog: Stories from Germany (scroll to chaplain's story)" href="http://windsofchange.net/archives/003361.html">Bundeswehr shows respect to injured Americans</a></p>

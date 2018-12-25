@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3611248234" title="View 'IMG_0164' on Flickr.com"><img src="https://farm4.static.flickr.com/3313/3611248234_6ca0540c2e_s.jpg" alt="IMG_0164" border="0" width="75" height="75" align="right" /></a>All the news about elections (European and upcoming German) reminded Christopher of two things. One, because of his dual citizenship, he can vote twice as often as either of his parents. Secondly, if he were to run for German Chancellor*, he would campaign for the following.</p>
 <ol>

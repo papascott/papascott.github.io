@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>That's enough of the <a href="https://www.papascott.de/bl.php">Bloglines layout</a> for now. It might come back some day, though. I find the layout very functional, and I may work out actual templates with a sidebar and more weblog-like features.</p>
 <p>The trick yesterday was to use wget to get the public copy of my blog from bloglines, insert a &lt;base href...&gt; in the html header so the relative links worked correctly, and add bl.php to the beginning of the DirectoryIndex line in my .htaccess to make it the default page. </p>

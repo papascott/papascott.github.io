@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://homepage.mac.com/dave_rogers/" title="Groundhog Day">Groundhog Day:</a> &ldquo;With my personal computer, I can now do, much faster, things I never used to have to do at all.&rdquo; Yep, that pretty much sums up my career planning.</p>

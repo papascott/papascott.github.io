@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>All week long we've been hearing stories about the chaos caused by the new 'practice fee' <em>(Praxisgebühr)</em> for health care introduced at the beginning of the year. Applied to those with public health insurance (90% of all Germans), 10 Euros is to be paid for each doctor visited per quarter in cash at the time of the first visit. The fee is waived for children and for referrals. The idea is to discourage patients from going directly to specialists without a referral from their family physician. Although the fee is collected by physicians, it goes entirely to the insurance funds. The physicians bear the administrative costs and the risk for those patients they treat but who refuse to pay.</p>
 <p>But the devil is in the details. Germans in the public insurance system have never seen a bill for their health care... now they suddenly have to pay before they see a doctor. The fee also applies to emergency rooms and ambulances (unless you called the ambulance through 110), so emergency personnel need to carry cash boxes and issue receipts. (The fee also applies to those given care involuntarily... imagine trying to collect cash from a drunk being admitted to detox.) The fee applies to welfare recipients and pensioners. There is a cap of 2% of annual income (1% for the 'chronically ill', which the law doesn't really define) for all practice fees and co-payments... so make sure you save all your receipts.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="What I'm doing right now" href="http://bradchoate.com/weblog/2002/10/12/smart-templating-with-movable-type">Brad Choate: Smart templating with Movable Type</a></p>

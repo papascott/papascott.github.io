@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm not particularly patriotic, but it wasn't without a small amount of pride that I picked up Christopher's US passport today.</p>
 <p><img alt="Christopher's passport" src="https://www.papascott.de/wordpress/wp-content/uploads/2002/11/crhpass.jpg" width="325" height="273" border="0" /></p>

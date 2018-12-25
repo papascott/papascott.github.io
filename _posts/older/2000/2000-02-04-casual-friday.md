@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Jim Roepcke: <a href="http://jim.roepcke.com/2000/02/02">Casual Friday for the telecommuter</a> (via <a href="http://carpediem.editthispage.com/">carpediem</a>)</p>
 <p><a href="http://dailynews.yahoo.com/h/ap/20000204/bs/europe_telecom_takeover_22.html">Mannesmann, Vodafone Set To Merge</a> </p>

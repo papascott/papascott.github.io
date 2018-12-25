@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As a kind of wedding present for our former <em>Tagesmutter</em>, I helped her set up a web site <a href="http://www.heidi-ritter.de/">http://www.heidi-ritter.de/</a> to promote her child care business. However, I've kind of developed myself into a hole.</p>
 <p>I set up the design using <a href="http://www.realmacsoftware.com/rapidweaver/">RapidWeaver</a>, a nice website creation tool for OS X. I choose it mostly because there are some nice ready-made design templates available (I'm colorblind, and can't match colors to save my life) but also because I knew there was an add-in to enable Heidi to edit her site online.</p>

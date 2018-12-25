@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="(Merkel proposes longer working hours) Einmal FDJlerin, immer FDJlerin" href="http://www.schockwellenreiter.de/2003/05/19.html#030519006">Der Schockwellenreiter: Merkel fordert längere Arbeitszeit </a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I had taken no have no plans for this weekend, as we had planned a web relaunch for Sept 1. But the delivery has been delayed until Monday, and so we have the weekend off. Maybe we'll go the the Expo tomorrow.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Here I wake up, expecting to find out who took the lead in the World Series, and they're still playing. Top of the 11th, bases loaded... and Grace grounds out.</p>
 <p>CNN: <a href="http://europe.cnn.com/2001/WORLD/europe/11/02/germany.anthrax/index.html"><br />

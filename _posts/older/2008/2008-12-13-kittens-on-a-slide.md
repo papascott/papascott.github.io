@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/1hhW76BIwP4&hl=en&fs=1" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed src="http://www.youtube.com/v/1hhW76BIwP4&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344" /></object></p>
 <p>In lieu of actual content, I present Kittens on a Slide, as seen at <a href="http://andrewsullivan.theatlantic.com/the_daily_dish/2008/12/mental-marathon.html">Andrew Sullivan</a>, and which pretty much describes how I feel about getting work done at the moment.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><em><a title="A Fistful of Euros: A very German day" href="http://fistfulofeuros.net/archives/000918.php#7240">Deutsche Nationale Regierungsumstürzenstag</a></em></p>

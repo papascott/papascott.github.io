@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Two years ago, I was delighted to discover that "it worked!". And it still does. Thanks, "UserLand".</p>
 <p>(But it doesn't always work as expected. The It Worked! link above, which I entered in Manila fashion in double quotes, goes to an <a href="http://mausnews.editthispage.com/">old name and design</a> for PapaScott. ";->")</p>

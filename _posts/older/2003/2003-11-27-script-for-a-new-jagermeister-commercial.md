@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="She pours two shots. She drinks one, and pours the other down her cleavage... " href="http://accordionguy.blogware.com/blog/_archives/2003/11/27/7419.html">Script for a new Jagermeister commercial?</a></p>

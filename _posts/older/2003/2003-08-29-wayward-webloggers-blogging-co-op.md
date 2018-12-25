@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Now open for new members" href="http://coop.burningbird.net/archives/000063.html">Wayward Webloggers Blogging Co-op</a></p>

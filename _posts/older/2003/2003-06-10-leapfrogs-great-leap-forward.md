@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Christopher loves his LeapPad. Too bad they have nothing in German. Yet." href="http://www.fastcompany.com/magazine/71/leapfrog.html">Fast Company: Leapfrog's Great Leap Forward</a></p>

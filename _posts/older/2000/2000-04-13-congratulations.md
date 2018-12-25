@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Another Edit This Page baby! Congratulations to Tina and John on the arrival of <a href="http://vfih.editthispage.com/2000/04/11">Gerrit John VanDyk</a></p>

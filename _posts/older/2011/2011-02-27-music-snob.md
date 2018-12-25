@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.amazon.de/Sempe-Keine-Klassik-Aber-Gef%C3%A4llt/dp/B0037L0D1K"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2011/02/ich-mag-keine-klassik-aber-das-gefaellt-mir-various.jpg" alt="Ich mag keine klassik aber das gefaellt mir various" class="alignright" /></a>The past several weeks our son has been obsessed with classical music. I suspect it has something to do with the music instruction at his new school. </p>
 <p>It doesn't come from us. Our consumption of classical music is close to zero. My wife currently has Rihanna and Katy Perry on heavy rotation in her car. Should you ever have the opportunity to drive her car, it is highly recommended to turn the music volume down before touching the ignition, if you value your sense of hearing. </p>

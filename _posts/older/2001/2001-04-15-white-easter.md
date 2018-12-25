@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/04/oma.jpg" height="243" width="325" border="0" alt="oma.jpg: " /></p>
 <p><b>Late</b><br />

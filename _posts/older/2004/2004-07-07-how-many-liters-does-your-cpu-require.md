@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I always knew that German washing machines were about as complicated as a PC, but <a href="http://www.worldwideklein.de/index.php?/weblog/sauberes-angebot/" title="Büro für Desinformation: The Very Large Orange">WorldWideKlein has proof</a> with an online ad from Karstadt.</p>

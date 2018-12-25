@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The good news is: I don't have <a href="http://en.wikipedia.org/wiki/Diabetes_mellitus_type_2">Diabetes mellitus type 2</a>. The flip side is: I'm well on my way to getting it unless I change my lifestyle, fast.</p>
 <p>My sister-in-law is a <i>Heilpraktikerin</i> (alternative practitioner) together with her husband, and I've been helping them with their website <a href="http://www.naturheilzentrumdrochtersen.de/">Naturheilzentrum Drochtersen</a>. She's started offering a <a href="http://www.stoffwechselprogramm.com/" title="gesund & aktiv - Pers&ouml;nliches Stoffwechselprogramm">weight-loss program</a> based on optimizing metabolism, and suggested we both start the program together. My <a href="http://en.wikipedia.org/wiki/Body_mass_index">Body Mass Index</a> is 35, so I could use such a program quite badly (I'm 174 cm tall, I'll let you do the math).</p>

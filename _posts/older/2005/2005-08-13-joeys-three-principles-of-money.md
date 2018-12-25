@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://accordionguy.blogware.com/blog/_archives/2005/8/12/1132567.html" title="The Adventures of Accordion Guy in the 21st Century :: Joey deVilla's Weblog :: Elliot's Photo">Joey's Three Principles of Money:</a></p>
 <ol>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Report from BlogTalk" href="http://www.wired.com/news/culture/0,1284,58976,00.html">Wired News: Blogs Opening Iranian Society?</a></p>

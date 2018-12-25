@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Offering the peace pipe?" href="http://diveintomark.org/archives/2003/07/01/leave_rss_alone.html">Support Echo! Leave RSS alone!</a></p>

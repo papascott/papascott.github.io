@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="tagesschau.de : Jeder zehnte Schüler ohne deutschen Pass" href="http://www.tagesschau.de/aktuell/meldungen/0,1185,OID2236914,00.html">Every 10th student in Germany is not a German citizen</a></p>

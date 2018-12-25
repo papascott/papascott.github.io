@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Some news items from Germany are just too gruesome to be translated into other languages. Take family policy. Both <a href="http://www.dw-world.de/dw/article/0,2144,2348164,00.html">DW-World</a> and <a href="http://www.spiegel.de/international/0,1518,466443,00.html">Spiegel International</a> will report in English on Germany's poor showing in the UNICEF study of child welfare, but the views of certain German politicians remain untranslated. But all is not lost, we will venture into the crypt, and PapaScott will explain and translate <a href="http://lumma.de/eintrag.php?id=3261">the gory details</a>...</p>
 <blockquote><p>

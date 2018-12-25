@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Hamburger <a title="Why Walk or Talk when you can Grill?" href="http://wiki.blogg.de/wakka.php?wakka=BlogGrill">BlogGrill</a>: 10 June, 20:00, Hamburg. See <a title="Why Walk or Talk when you can Grill?" href="http://wiki.blogg.de/wakka.php?wakka=BlogGrill">Wiki</a> for address and sign up.</p>

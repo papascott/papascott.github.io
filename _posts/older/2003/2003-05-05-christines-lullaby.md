@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Via <a href="http://www.lileks.com/bleats/archive/03/0503/050503.html">Lileks</a>: <a title="StarTribune: Big impact felt in post-9/11 work by budding composer" href="http://www.startribune.com/stories/462/3862254.html">Christine's Lullaby</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Can I do NIS and LDAP simultaneously, with the same passwords?" href="http://www.padl.com/OSS/MigrationTools.html">PADL: NIS to LDAP Migration Tools</a></p>

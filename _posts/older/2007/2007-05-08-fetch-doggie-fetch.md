@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://sprechblase.wordpress.com/2007/05/06/aua/">Cem</a> passed on this questionaire to me. For some reason, in German these questionaires are called a <em>Stöckchen</em>, a stick you throw for a dog to fetch. So I'm obediently picking up the stick...</p>
 <p><strong>Do you use social bookmarking/networking sites like Digg, Yigg, Mister Wong or Del.Icio.Us?</strong> I use del.icio.us, but not regularly. It's much easier to share links on Google Reader.</p>

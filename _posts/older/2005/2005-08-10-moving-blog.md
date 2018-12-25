@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My boss will be moving to Cologne this fall, and since he sees weblogs as the solution to all of life's problems, he has started a <a href="http://umzug.lumma.de/" title="Umzugsblog">moving blog</a>.</p>
 <p>Moving is somewhat like sex... Americans do it better and more often. I've moved 12 times in my adult life, including cross-country and trans-continental, and 8 times since getting married (we can attest that moving is a good stress test for any relationship, although not nearly as good as building a house together). Moving is somewhat easier in the States since American apartments tend to include amenities like closets, floor covering, light fixtures and a kitchen, and are usually available (and can be vacated) at short notice. </p>

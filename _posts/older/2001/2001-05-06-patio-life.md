@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're posting this from the patio. It's sunny, not all that warm, and a bit windy at 6 pm.</p>
 <p>It's my folks' last day here. Mama's away at a convention for work.</p>

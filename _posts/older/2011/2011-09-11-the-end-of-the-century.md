@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="http://papascott-de.s3.amazonaws.com/wordpress/wp-content/uploads/2001/09/s1poster.jpg" width="200" height="279" hspace="10" vspace="5" border="0" align="right" />II debated whether to post anything for the 10th anniversary of 9/11. I've pretty much written everything I have to say about it, either <a href="https://www.papascott.de/archives/2001/09/12/the-day-the-earth-stood-still/">a day later in 2001</a>, or <a href="https://www.papascott.de/archives/2006/09/10/five-years/">5 years ago</a>, or even just <a href="https://www.papascott.de/archives/2009/09/11/inner-peace/">2 years ago</a>.</p>
 <p>I was an expat American in Hamburg in 2001, the city where the evil had spawned, and perhaps I was much closer to that evil than I really wanted to know. <a href="https://www.papascott.de/archives/2001/09/13/were-in-this-together/">"Amerikaner, wir sind bei euch"</a> (Americans, we stand by you) was the headline in the Hamburg paper the next day, and that was certainly comforting at the time. The only lasting consequence of that solidarity seems to be the military quagmire in Afghanistan.</p>

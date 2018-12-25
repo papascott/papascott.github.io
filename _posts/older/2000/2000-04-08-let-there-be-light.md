@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>CNNSI <a href="http://www.cnnsi.com/soccer/world/news/2000/04/07/german_rdp_ap/index.html">Hamburg closes in on Munich and Leverkusen</a>:  "Hamburg won its fourth straight match Friday, this time edging Rostock 1-0" But Munich and Leverkusen both won today.</p>
 <p>My folks are still here, midway through their two-week visit. Updates are sporadic here, and Mama just declared a vacation to avoid updates at all.</p>

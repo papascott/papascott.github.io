@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="to avoid paying billions for Halliburton?" href="http://medienkritik.typepad.com/blog/2003/10/humanitarian_hy.html">Germany is Avoiding the Madrid Donor Conference</a></p>

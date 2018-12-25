@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If the politicans don't blog, we have to do it for them" href="http://www.hebig.com/wahlinhamburg/">Hamburg Election Blog</a></p>

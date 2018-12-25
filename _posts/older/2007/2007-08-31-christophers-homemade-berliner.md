@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/1283116694/" title="Photo Sharing"><img src="https://farm2.static.flickr.com/1201/1283116694_cfe4e4c199.jpg" width="500" height="375" alt="CIMG0110" /></a></p>
 <p>Christopher's homemade Berliner. All the goodness of a bakery Berliner without being cooked in lard.</p>

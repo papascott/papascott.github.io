@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Shortest spam ever?</p>
 <p>> Date: Sun, 12 Nov 2006 10:38:39 -0800<br />

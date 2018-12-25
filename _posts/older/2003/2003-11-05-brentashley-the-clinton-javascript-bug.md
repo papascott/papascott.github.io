@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Error: 'is' is undefined" href="http://www.ashleyit.com/blogs/brentashley/archives/000506.html">brentashley: The Clinton Javascript Bug</a></p>

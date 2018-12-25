@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="ESR tries to set up CUPS on Linux. And fails." href="http://www.catb.org/~esr/writings/cups-horror.html">The Luxury of Ignorance: An Open-Source Horror Story</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My brief note about the <a href="https://www.papascott.de/archives/2006/11/19/we-got-the-pig">return of Floyd of Rosedale</a> to it's rightful home in Minneapolis attracted a few comments, along with a note from my boss that <a href="http://lumma.de/eintrag.php?id=3110">Iowa is now wine country</a> so it no longer needs a bronze pig.</p>
 <p>Minnesota football is traditionally mediocre at best, and the Golden Gophers usually can't fight their way out of a paper bag. This year was no different, the Gophers were heading for a losing record until they won their last 3 Big 10 games. Back in the day, 3 Big 10 wins and 6th place was a poor season. These days it's <a href="http://sports.yahoo.com/ncaaf/news;_ylt=ArFP4yUYfihrrdJK8t4wQ6if1LYF?slug=ap-minnesota-insightbowl&amp;prov=ap&amp;type=lgns">good enough for a bowl game</a>.</p>

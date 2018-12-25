@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yes, Grandma and Grandpa, we haven't been very good about posting pictures the past couple of weeks. We've caught up now. At PhotoPoint we've filled up <a href="http://albums.photopoint.com/j/AlbumIndex?u=185392&a=12820285&f=0">May</a> and took pictures today at an historic mill and of Christopher playing in the rain for <a href="http://albums.photopoint.com/j/AlbumIndex?u=185392&a=13155765&f=0">June</a>. And just yesterday I figured out how to make a Video CD, and we'll be sending you one tomorrow.</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/06/crhbike.jpg" height="300" width="225" border="0" alt="crhbike.jpg: " /></p>

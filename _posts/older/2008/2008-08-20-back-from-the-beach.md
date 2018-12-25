@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/08/spo.jpg" alt="spo.jpg" border="0" width="300" height="400" /></p>
 <p>We've just returned from a couple of days at St. Peter-Ording on the North Sea. Details later.</p>

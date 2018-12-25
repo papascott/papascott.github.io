@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="and some people she insprired" href="http://www.billspricht.net/2003_11_09_archive.html#106840443547943729">Sophie Scholl</a></p>

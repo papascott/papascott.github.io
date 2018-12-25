@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Or in which PapaScott learns first hand of the frailty of bones, tendons and joints in the human body.</p>
 <p>It seems that the entire fall I've been dealing with aches and pains of one sort or another. In October it was my right shoulder. It would twinge when I would twist it a certain way (for instance, when backing out of a parking space I reach twist around to look out the back) or when sleeping on my right side. I hadn't injured myself as far as I could remember (altuough thinking back now, it was about that time when I carted off a couple cubic meters of dirt from a pile in the backyard). It seemed to appear by itself, and I hoped it would go away by itself as well.</p>

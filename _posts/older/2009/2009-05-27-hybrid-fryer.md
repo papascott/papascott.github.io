@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Just to show that we not only make <a href="https://www.papascott.de/archives/2009/04/15/stripes-from-paris">sexy investments with French models</a> (not to be confused with promotions with <a href="http://www.abendzeitung.de/leute/108462">German top models</a>), this morning at our restaurant in Dibbersen we installed the new <a href="https://www.papascott.de/archives/2009/04/15/stripes-from-paris">low-oil-volume (LOV) fryer</a> that we've been planning for over a year, replacing a double vat with a new triple vat.</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3570794066" title="View 'Hybrid Fryer' on Flickr.com"><img src="https://farm4.static.flickr.com/3641/3570794066_cebd1281e2.jpg" alt="Hybrid Fryer" border="0" width="375" height="500" /></a></p>

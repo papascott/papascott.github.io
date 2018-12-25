@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="A Fat Paycheck Waiting to Be Pocketed" href="http://www.worldnewyork.net/comments.php?id=530_0_1_0_C">Technical Self-Employment</a></p>

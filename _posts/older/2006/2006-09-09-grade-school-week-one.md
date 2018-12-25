@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/238178329/" title="Photo Sharing"><img src="https://static.flickr.com/91/238178329_a28850b306.jpg" width="375" height="500" alt="IMG 1752" /></a></p>
 <p>Well, it didn't take long for this school stuff to become old hat. Already on Wednesday morning Christopher said he didn't feel like going to school today. Heh heh, son, welcome to the next 12 years of your life. Things don't seem to be going fast enough for him. I asked him today what he learned at school, and he replied "Nothing new". My mother says that sounds like me in the first grade. He was looking very forward to learning to read, and I think he's disappointed that it will take longer than one or two days. "We don't do any reading, all we do are letters of the alphabet. I know those already." Patience, young Christopher, patience.</p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My cousin Tracy wanted to see some Grandma and Grandpa pictures.</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/04/crhgg1.jpg" height="236" width="350" border="0" alt="crhgg1.jpg: " /></p>

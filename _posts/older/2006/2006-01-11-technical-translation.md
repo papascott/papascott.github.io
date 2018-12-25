@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>A friend of my sister-in-law is looking for a technical translator, and<br />
 she thought that perhaps a reader of PapaScott might be qualified and<br />

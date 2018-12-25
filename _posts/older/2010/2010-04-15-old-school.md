@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Last year I mentioned the <a href="https://www.papascott.de/archives/2009/02/10/school-daze/">upcoming choice of a secondary school</a> for our son after the fourth grade... well, now the fourth grade is nearly over, and the decision has been made. It was a choice that 3 months ago we hadn't even considered.</p>
 <p>Our state of Lower Saxony still splits into the 3 traditional secondary systems, for simplicity the upper, middle, and lower tracks. We've been told since 3rd grade that our son could expect a recommendation for the upper <em>Gymnasium</em> track, and with the mid-term grades in February, that's what he got. </p>

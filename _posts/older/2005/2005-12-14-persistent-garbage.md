@@ -21,7 +21,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Two weeks ago at blogg.de we <a href="http://blogworkorange.de/eintrag.php?id=87#kommentare" title="Kein XML-RPC mehr bei blogg.de [blogworkorange]">stopped accepting xml-rpc pings</a> because, quite frankly, the data coming in was 99% garbage, either non-German blogs or out-and-out spam. Today we are still receiving between 300 and 500 requests per minute on the xmlprc domain. Since the change the outgoing bandwidth peaks according to <a href="http://www.cacti.net/" title="Cacti: The Complete RRDTool-based Graphing Solution">cacti</a> are 2 MBit/s less than before. That's a lot of garbage.</p>

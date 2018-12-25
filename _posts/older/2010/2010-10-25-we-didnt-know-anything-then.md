@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The reports this past the weekend of the WikiLeaks documents showing how the <a href="http://www.guardian.co.uk/world/2010/oct/22/iraq-war-logs-military-leaks">US ignored torture in Iraq</a> made me sad. Not so much that that it came as a surprise, but rather that it came as no surprise. And it made me think of what I wrote about <a href="https://www.papascott.de/archives/2002/09/24/how-did-we-get-into-this-mess/">the Iraq war before it began</a>...</p>
 <blockquote><p>Im no great fan of George W. Bush, and my own opinion on Iraq is ambivalent. I cant think of a good reason to use force against Iraq, but then again, I cant think of a good reason not to, either. The attack on Iraq is inevitable</p></blockquote>

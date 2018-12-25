@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="That's MISTER McJob to you, thank you very much..." href="http://news.bbc.co.uk/1/hi/world/americas/3255883.stm">McDonald's anger over McJob dictionary entry</a></p>

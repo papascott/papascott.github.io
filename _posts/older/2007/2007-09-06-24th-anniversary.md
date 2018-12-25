@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I was just directed to make the <a href="https://www.papascott.de/archives/2002/09/09/young-dumb-and-excited/">same blog posting</a>* that I make every year on this date (or <a href="https://www.papascott.de/archives/2006/09/10/23rd-anniversary/">close to it</a>). Ok, here it is.</p>
 <p>Let it be known that I gave my wife <a href="http://paulaner.de/home.html">20 beautiful flowers</a> from a meadow <a href="http://en.wikipedia.org/wiki/Oktoberfest">(<em>Wiesn</em>)</a> in Munich. I would have bought 24, but the 0.5 liter bottles came only in a case of 20.</p>

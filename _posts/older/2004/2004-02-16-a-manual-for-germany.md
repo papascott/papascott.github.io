@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Der Schockwellenreiter" href="http://schockwellenreiter.server-wg.de/blog/1781">Via SWR</a>: <a title=" We hope the word foreigner will become a foreign word for you as soon as possible..." href="http://www.handbuch-deutschland.de/index_en.html">A Manual for Germany</a></p>

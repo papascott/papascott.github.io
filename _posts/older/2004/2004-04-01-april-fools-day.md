@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm sure I've said this before, but an annoying thing about Germany is that Germans take April Fool's Day very seriously.</p>

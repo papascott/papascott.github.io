@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/10/mosssfront.jpg" height="263" width="350" border="0" alt="mosssfront.jpg: " /></p>
 <p>Christopher Ryan 'Randy' Moss is dressed up for Monday Night Football tonight.</p>

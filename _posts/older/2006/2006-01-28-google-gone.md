@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've removed the Google Adsense ads from PapaScott. Sure everyone seems to <a href="http://www.sourcelabs.com/blogs/ajb/2006/01/googles_doublespeak.html" title="Alex Bosworth's Weblog: Google's DoubleSpeak">do business with China</a> these days, but this is my personal site. They can buy their links someplace else.</p>

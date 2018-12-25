@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Translating not just words, but ideas" href="http://www.roell.net/weblog/archiv/2003/10/24/sprachbarrieren_ueberwinden.shtml">Martin Röll: Sprachbarrieren überwinden</a></p>

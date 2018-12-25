@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.spiegel.de/spiegel/0,1518,grossbild-223629-,00.html"><img src="https://www.papascott.de/images/spiegel181102.jpg" border="0" alt="Spiegel Cover 'Genosse Schröder'" align="right" /></a> Like <a href="http://www.couchblog.de/nico/archives/000880.php#000880">Nico</a>, I rather like <a href="http://www.spiegel.de/spiegel/0,1518,grossbild-223629-,00.html">this week's cover of Der Spiegel</a>. Lately Schröder has been acting like a politician from the previous century, so maybe the picture fits.</p>
 <p>Speaking of Spiegel, <a href="http://vowe.net/archives/002701.html">vowe</a> points to a <a href="http://www.spiegel.de/wirtschaft/0,1518,druck-223258,00.html">commentary </a> there entitled 'Green Sense, Red Nonsense', that contends that the Greens are the only party making economic sense these days, while the SPD is only concerned with not irritating its lobby groups. </p>

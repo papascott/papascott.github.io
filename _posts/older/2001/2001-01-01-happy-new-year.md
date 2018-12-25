@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Happy New Year from the three of us here in Lüllau!</p>
 <p>Mama's 1 year (actually 14 months) of maternity leave is now officially over. Today is a holiday; she starts work tomorrow. Task 1: getting to the office without a car, so she can drive her company car home.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="BSD is designed. Linux is grown." href="http://www.over-yonder.net/~fullermd/rants/bsd4linux/bsd4linux1.php">BSD For Linux Users</a></p>

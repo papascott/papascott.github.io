@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>No holiday here, just a normal work day, and no turkey. Just a glass (or two) this evening of <a href="http://www.beaujolais.net/eng/page.htm">Beaujolais Nouveau</a> (known here as <a href="http://www.beaujolais.net/deu/page.htm">Beaujolais primeur</a>).</p>
 <p>A sobering work day today. A sysadmin knows in the back of her mind that the real threats to her network are internal, not external. But it's still a shock when that shadow in the back of her mind becomes real. I didn't choose this profession for the joy of spying on my co-workers. But my firm pays me, among other things, to protect its assets. But some parts of that job are no fun at all.</p>

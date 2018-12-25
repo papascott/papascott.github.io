@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.spiegel.de/kultur/kino/0,1518,308577,00.html" title="Super Size Me: Angriff der Killer-Burger - Kultur - SPIEGEL ONLINE">Super Size Me opens in Germany</a> Although if one were <em>really</em> serious about suicide, 30 days of Bratwurst with <em>Pommes rot-weiß</em> would be more effective (that's fries red-and-white, i.e. with ketchup and mayonnaise).</p>

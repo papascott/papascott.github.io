@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama and I have to coordinate our schedules pretty closely. Actually, I need to coordinate to her schedule, since my schedule doesn't change much. I knew her boss was in town Tuesday and Wednesday this week, but Mama could still wake Christopher on Wednesday. And she could pick him up after work on Thursday, today.</p>
 <p>So this morning when I woke up, I was somewhat surprised to find her alarm turned off and that she was already up. And dressed. And gone. </p>

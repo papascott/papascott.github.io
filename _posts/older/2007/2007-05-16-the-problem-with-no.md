@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Cem just pointed me to the blog <a href="http://usaerklaert.wordpress.com/">USA Erklärt</a> which attempts to explain in German certain things about the USA. When I saw the entry on <a href="http://usaerklaert.wordpress.com/2006/09/18/warum-amerikaner-briten-kanadier-nicht-sagen-was-sie-meinen/">Why Americans Don't Say What They Really Mean</a>, I was struck by the passage</p>
 <blockquote><p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I've been thinking of trying out Cocoon. Is it really that hard?" href="http://www.russellbeattie.com/notebook/20030519.html#182148">Russell Beattie Notebook: No More Cocoon for Me</a></p>

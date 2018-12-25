@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My folks are flying back to Minnesota from Hamburg this afternoon. That means we'll slowly get back into the swing of things here at home.</p>
 <p>Christopher was apparently quite accustomed to the constant attention from Grandma and Grandpa. When he got home with Mama this evening, he would smile when Mama was next to him, but would start crying as soon as she walked away. Is this the end of our low-maintenance self-entertaining baby?</p>

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/45382175/" title="I want to be a strong knight!"><img src="https://static.flickr.com/24/45382175_691863020e.jpg" width="500" height="375" alt="IMG_0414" /></a></p>
 <p>Christopher drew this castle for his speech therapist to show how he feels about stuttering. He wants to be a strong knight! He wants to be able to defeat the words that sometimes come at him like cannonballs being shot in the heat of battle. He wants to be a strong fighter!</p>

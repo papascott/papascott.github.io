@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm now including the update times in my blogroll like I used to. <a href="http://www.blogrolling.com/">Blogrolling</a> makes my data available as a <a href="http://rpc.blogrolling.com/rss.php?r=ff5c543c6d32b2efee7f40bbb537da2d">chronologically sorted RSS file</a>, which I can parse quite easily using the <a href="http://magpierss.sourceforge.net/">Magpie RSS Parser</a> for PHP (thanks to <a href="http://traumwind.tierpfad.de/blog/">Martin</a> for the tip). Magpie chokes if any entities are in the file, but since I set the titles myself, I can easily avoid that. I do need to do a bit a parsing to convert the 'Last updated' string to a time/date I can use. One advantage over the data from <a href="http://www.blo.gs/">blo.gs</a> is that I can include sites that do not ping weblogs.com when they update. They land at the bottom of the list. Eventually I'll figure how to check them for updates as well (RSS feed? HTTP headers? md5 sums?).</p>
 <pre>&lt;h4>blogroll (CET):&lt;/h4>

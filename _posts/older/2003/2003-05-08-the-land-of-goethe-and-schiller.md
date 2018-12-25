@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Expatica Life in Germany: Mixing football and sex" href="http://www.expatica.com/germany.asp?pad=197,212,&amp;item_id=31010">The land of Goethe and Schiller is now the land of Bohlen and Effenberg</a></p>

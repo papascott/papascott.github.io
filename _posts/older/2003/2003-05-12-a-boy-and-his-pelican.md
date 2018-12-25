@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="crhpelican.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/05/crhpelican.jpg" width="244" height="323" border="0" /></p>

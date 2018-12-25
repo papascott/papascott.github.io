@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/08/floor.jpg" height="290" width="342" border="0" alt="crh0208.jpg: " /></p>
 <p>Yes, that's a hard tile kitchen floor that Christopher is rolling on. </p>

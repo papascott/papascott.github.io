@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20061207.html">Today's Dilbert</a> sums up modern system administration.</p>
 <p><a href="http://www.dilbert.com/comics/dilbert/archive/dilbert-20061207.html"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/12/dilbert_servers.gif" alt="Dilbert Servers" /></a></p>

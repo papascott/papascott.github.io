@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Since MamaMaus is on a <a href="http://www.aida.de/">cruise ship</a> somewhere between Venice and Dubrovnik this weekend (believe it or not, it's part of her job), Christopher and I decided to take in a baseball game in Hamburg, <a href="http://stealers.de/lokhtml/lok-news.php" title="HSV Stealers - Baseball im Hamburger Sport-Verein e.V.">HSV Stealers</a> against the Bonn Capitals.</p>
 <p>We've watched baseball before in Germany, namely The <a href="http://www.wildfarmers.de/">Dohren Wild Farmers</a>, a 2nd Bundesliga team, but there we were the only ones in the audience not related to a member of the team. Hamburg is in the first Bundesliga and there is a world of difference.  I actually had to pay for admission (Christopher was free), and there were at least 3 dozen spectators in attendance.</p>

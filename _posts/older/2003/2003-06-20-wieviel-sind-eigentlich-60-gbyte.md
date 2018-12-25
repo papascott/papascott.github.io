@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Fachschaft für Physik und Astronomie an der Ruhr-Universität Bochum" href="http://fachschaft.physik.ruhr-uni-bochum.de/entdeckungen/60Gigabyte.shtml">Wieviel sind eigentlich 60 GByte ??</a></p>

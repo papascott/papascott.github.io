@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I <a href="https://www.papascott.de/archives/2009/10/21/marketing-non-secrets/">promised</a> that as the marketing initiatives we learned about at our franchisee meeting in October were released, I'd mention them here. Has anyone noticed the new initiative, or more correctly, the old initiative that was rebranded this week?</p>
 <p><a href="http://www.mcdonalds.de/produkte/schnell_mal_sparen.html"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2009/11/sms.jpg" alt="sms.jpg" border="0" width="180" height="82" align="right" /></a>Back to my letter codes: S is for "SMS". The value menu segment (the German equivalent of the US <a href="http://cep.mcdonalds.com/dollar/">Dollar Menu</a>) has been renamed to <a href="http://www.mcdonalds.de/produkte/schnell_mal_sparen.html">"Schnell Mal Sparen"</a> (which is hard to translate, maybe "quickly save now"). The products and the prices are the same as before, and the new logo is very similar to the old one. I'm sure that most customers haven't even noticed the difference.</p>

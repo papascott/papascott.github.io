@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.signandsight.com/features/369.html" title="What was Schr&ouml;der on? - signandsight">signandsight: What was Schr&ouml;der on?</a></p>
 <blockquote><p>There was something surreal about Gerhard Schr&ouml;der's appearence on national television last night. Although his party was second in the polls, Schr&ouml;der saw the victory quite clearly as his own. And anyone who saw matters differently, an idiot.</p></blockquote>

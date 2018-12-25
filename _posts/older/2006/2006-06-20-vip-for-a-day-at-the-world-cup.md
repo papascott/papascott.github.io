@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sometimes good things do come to those who wait. Last week MamaMaus was offered comp VIP tickets for the World Cup match Saudi Arabia - Ukraine in Hamburg. We got free food and drink, the weather was comfortable (after a thunderstorm cooled things off just before kick-off), there were a lot of goals, and we had a good time. </p>
 <p>The seats were good too, just behind the Ukraine bench. We were in the same row as Uwe Seeler, and we could see FIFA President Blatter a few rows below. </p>

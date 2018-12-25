@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I asked this question on Twitter and got a lot of guesses, so I'll try it here for the blog crowd. </p>
 <p>In February we're about to start another coffee cup giveaway with our McMenüs (Value Meals). Even though the cup is free, we have to adjust our Value Added Tax (similar to sales tax) programming in the registers. Why do you think we have to pay VAT on an item that is free?</p>

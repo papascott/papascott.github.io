@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2115490694" title="View 'CIMG0386.JPG' on Flickr.com"><img src="3.static.flickr.com/2352/2115490694_02fc8c86ac.jpg" alt="CIMG0386.JPG" border="0" width="500" height="375" /></a></p>
 <p>While we're waiting for a DSL line to attach to our multimedia system, we've been showing a fireplace DVD on the flat screen. Sure we have to chop a lot of wood to keep it going, but it fits in well with the Advent season.</p>

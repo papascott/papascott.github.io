@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="noch'n blogg now at blogg.de" href="http://blogg.lumma.de/">Nico eats his own dogfood</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We missed (er, deliberately skipped) the first-ever German TV debate between chancellor candidates Sunday evening. It sounds like we didn't miss much. The consensus from the media, my co-workers, and the German weblogs I've scanned was the that the format was forced and sterile, Schröder was more convincing,  Stoiber came across better than expected, and the whole thing was rather boring. And they will do it all over again in a couple of weeks. Here are a few English headlines snitched from <a href="http://www.newsisfree.com/">News Is Free</a>.</p>
 <p>International Herald Tribune: Europe <a href="http://www.iht.com/articles/68843.htm">NEWS ANALYSIS Stoiber wins some respect in first TV debate with Schroeder</a> "<em>Edmund Stoiber may not have won Germany's first televised debate between chancellor candidates, but he performed so much better than the meager expectations of the German political world that he emerged into the election's homestretch with both momentum and a new measure of respect.</em>"</p>

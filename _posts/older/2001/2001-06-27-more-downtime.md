@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://lists.debian.org/debian-devel-announce-0106/msg00011.html">debian-devel-announce</a>: "If you install this package... login, su and other programs that ask for a password all fail." I feel like Bart Simpson. "You mean I broke my system so badly that not even root can login without rebooting into single-user mode? Cool!" <i>That's why they call the current distribution "unstable"!</i></p>
 <p>To be fair after my anti-Windows rant last night, the 3rd or 4th program I install under Linux is a <a href="http://www.citrix.com">Citrix</a> client to log into an NT Terminal Server. That's necessary for me to be able to use a Lotus Notes client. </p>

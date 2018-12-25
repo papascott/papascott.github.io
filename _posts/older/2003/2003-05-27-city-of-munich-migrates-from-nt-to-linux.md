@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Big Blue beats Big Ballmer" href="http://vowe.net/archives/003349.html">vowe.net: City of Munich to migrate from NT to Linux clients</a></p>

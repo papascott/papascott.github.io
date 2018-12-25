@@ -17,7 +17,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/7459114/" title="Flower Pot"><img src="http://photos6.flickr.com/7459114_25cd772fff_m.jpg" width="240" height="180" alt="IMG_0180" border="0" /></a></p>

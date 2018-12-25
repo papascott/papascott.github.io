@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>He: If anyone asks*, for my birthday I'd like money to get myself a new car radio.</p>
 <p>She: Your car radio works just fine. Why don't you buy a new car?</p>

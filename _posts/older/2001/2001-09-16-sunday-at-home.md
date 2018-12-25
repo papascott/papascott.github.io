@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/09/crhsandbottle.jpg" height="244" width="325" border="0" alt="crhsandbottle.jpg: " /></p>
 <p>At age 1-3/4, Christopher is just as old now as I was when JFK was shot.</p>

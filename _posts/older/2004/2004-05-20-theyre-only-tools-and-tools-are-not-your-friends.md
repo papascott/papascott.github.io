@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="But some tools are more fun than others" href="http://weblog.burningbird.net/archives/2004/05/20/splitting-lamp-from-the-weblog/#comments">Burningbird: They're only tools, and tools are not your friends</a></p>

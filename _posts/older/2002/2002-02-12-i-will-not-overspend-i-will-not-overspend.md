@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Guardian: <a href="http://www.guardian.co.uk/eu/story/0,7369,649045,00.html">EU compromise over German budget deficit</a>. Like a schoolboy with bad grades, Eichel avoids a report card with an 'F', but has to stay after school and write sentences on the blackboard.</p>

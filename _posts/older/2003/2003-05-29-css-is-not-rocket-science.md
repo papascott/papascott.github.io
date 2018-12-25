@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Is IE now stuck like Netscape was 5 years ago?" href="http://www.tbray.org/ongoing/When/200x/2003/05/28/CSS-IE">ongoing : CSS is not rocket science</a></p>

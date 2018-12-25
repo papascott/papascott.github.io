@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Just what I needed. Thanks, Garret!" href="http://www.dangerousmeta.com/dustbin/000249.html">Exploring the limits of CSS Layout</a></p>

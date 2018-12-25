@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <blockquote>It feels like a kegger at the psycho ward.</p></blockquote>
 <p>Wired on <a href="http://howto.wired.com/wiki/Oktoberfest_Etiquette">Oktoberfest Etiquette</a> (via <a href="http://bluelectric.org/2009/09/23/oktoberfest-etiquette/">bluelectric</a>)</p>

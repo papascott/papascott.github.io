@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>From an article on the <a href="http://www.nytimes.com/2006/11/08/education/08germany.html">Jacobs University Bremen</a> (via <a href="http://andrewhammel.typepad.com/german_joys/2006/11/private_donatio.html">German Joys</a>), which recently changed its name after receiving a $250 million donations from a certain Herr Jacobs:</p>
 <blockquote><p>

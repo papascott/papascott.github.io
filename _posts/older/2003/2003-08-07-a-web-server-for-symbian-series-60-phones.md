@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Cool! I can run my weblog on my cellphone!" href="http://www.russellbeattie.com/notebook/">A web server for Symbian Series 60 phones</a></p>

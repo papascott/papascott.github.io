@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Cool, we got our new catalog today" href="http://www.margaret-marks.com/Transblawg/archives/000314.html">Where IKEA gets the names</a></p>

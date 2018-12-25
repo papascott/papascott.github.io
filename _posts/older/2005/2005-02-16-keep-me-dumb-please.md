@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Duncan rambles on  how we bloggers (among others) <a title="My Expatriate Odyssey: Just me< rambling on about media bias..." href="http://expat-odyssey.blogspot.com/2005/02/just-me-rambling-on-about-media-bias.html">keep ourselves dumb</a>.</p>
 <p>> We <span style="font-style: italic;">choose</span> to believe the hype, the conspiracy theories, and the <span style="font-style: italic;">outright lies</span><br />

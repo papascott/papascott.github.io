@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Pot, meet Kettle... um, I mean Right Hand, meet Left Hand" href="http://www.calpundit.com/archives/002835.html">Bush Seeks Help of Allies Barred From Iraq Deals</a></p>

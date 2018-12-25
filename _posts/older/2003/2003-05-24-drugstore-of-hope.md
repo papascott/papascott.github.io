@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="apotheke.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/05/apotheke.jpg" width="150" height="113" border="0" /></p>
 <p>Pictures from Vienna by Nico at <a title="Noch'n Blogg.: Wien Bilder" href="http://lumma.de/mt/archives/000237.html#000237">Noch'n Blogg.</a></p>

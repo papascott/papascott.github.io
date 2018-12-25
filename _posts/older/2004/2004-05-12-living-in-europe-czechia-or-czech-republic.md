@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Maybe they need a symbol, like Prince used to have" href="http://www.livingineurope.net/archives/000253.html">Living in Europe: Czechia or Czech Republic?</a></p>

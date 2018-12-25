@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.sixapart.com/log/2004/06/announcing_pric.shtml" title="Six Log: Announcing Pricing & Licensing Changes to Movable Type">New lower pricing</a> for Movable Type, and fairer licenses. Especially cool is the free license for small non-profits.</p>

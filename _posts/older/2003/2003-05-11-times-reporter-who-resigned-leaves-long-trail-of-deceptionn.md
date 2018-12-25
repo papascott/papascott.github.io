@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Correcting the record" href="http://www.nytimes.com/2003/05/11/national/11PAPE.html">NY Times Reporter Who Resigned Leaves Long Trail of Deceptionn</a></p>

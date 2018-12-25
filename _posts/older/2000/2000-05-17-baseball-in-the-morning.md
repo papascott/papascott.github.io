@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://partykeller.editthispage.com/2000/05/17">partykeller</a> has a nice picture today of the Elbe River in Hamburg. To join in late on a conversation going on there and on <a href="http://netdyslexia.editthispage.com">netdyslexia</a>, I buy my tomato juice in the 1 liter bottles from Becker's Beste.</p>
 <p>Repeat after me: "When checking an apache installation, I will always check all the directory permissions, going all the way to /". I just wasted 2 days because someone messed up the / permissions.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <ul>
 <li>Wine glasses. We have 6, but we need 8. Might as well go to Ikea and get a set.</li>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Apple is evil.... but Macs are so cool!" href="http://www.kryogenix.org/days/561.html">The pull of the Mac</a></p>

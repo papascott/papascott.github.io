@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/395122023/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/142/395122023_8a7957159d.jpg" width="375" height="500" alt="IMG 1907" /></a></p>
 <p>This morning our son disappeared, and in his place a <a href="http://www.sams-fuehrung-bamberg.de/">Sams</a> appeared! A Sams is a being with red hair, a short trunk-like nose, a wet suit and swim flippers, and magical blue "wish dots" on its face that can grant wishes. It speaks or sings mostly in rhyme and causes a great deal of chaos. It usually arrives on Saturday (<em>Samstag</em>).</p>

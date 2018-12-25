@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="sofa. rites de passage" href="http://arrog.antville.org/stories/709872/">via sofa</a>: <a title="There is the real Dresden and the Dresden of legend..." href="http://www.salon.com/books/review/2004/03/01/dresden/index.html">Salon.com Books "Dresden: Tuesday, Feb. 13, 1945" by Frederick Taylor</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'if I'm wrong, you'll tell me. For _you_ are my editor.'" href="http://www.buzzmachine.com/archives/2003_07.html#004263">BuzzMachine: World without editors</a></p>

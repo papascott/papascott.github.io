@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>There are three regional election campaigns going on in Germany, with three CDU state presidents up for re-election: Roland Koch in Hesse, Ole von Beust in Hamburg, and <a href="http://www1.ndr.de/nachrichten/landtagswahl_niedersachsen_2008/kandidaten/wulff102.html">Christian Wulff</a> in our own Niedersachsen (Lower Saxony).</p>
 <p>We in Niedersachsen are blessed with the most boring of the three campaigns. The polls are showing a slight decline for Wulff's CDU from 5 years ago, when he was helped by an anti-Schr&ouml;der backlash, but his <a href="http://www.haz.de/newsroom/politik/zentral/politik/niedersachsen/art668,204453">CDU-FDP coalition is in no danger</a>. Even the question of whether the new Linke party makes it into the legislature, which is messing up the calculus in the other two states, doesn't put Wulff's coalition in any jeopardy. Wullf is well-known and well-liked.</p>

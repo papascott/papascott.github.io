@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>(That title should attract attention!) Or, A Different Kind of Dollar Menu. </p>
 <p><a href="https://www.papascott.de/wordpress/wp-content/uploads/2010/02/han-winsen.jpg"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2010/02/han-winsen-150x150.jpg" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-3710" align="left<br />

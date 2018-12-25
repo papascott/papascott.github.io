@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Last night I went to bed early, right after Christopher. And slept for 10 hours straight. Mama's been in Hannover for a meeting since Thursday, comes back this evening.</p>
 <p>I didn't see Bush's speech, since 9pm Eastern = 3am CET is not a very convenient time. <a href="http://www.whitehouse.gov/news/releases/2001/09/20010920-8.html">Reading</a> the text the next morning made me sad. I couldn't put my finger on why until I read <a href="http://booknotes.weblogs.com/2001/09/21">Craig's comments</a> last evening. "(T)he Presidents speech was amazing. It was amazing because it was so final.... It was amazing in its certainty that we are going to war. It was amazing in that it held out no hope for a peaceful option."</p>

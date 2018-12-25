@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>You'll never have heard of Kathy Byrne Caruso, unless you've ever played the game of <a href="http://www.avalonhill.com/default.asp?x=games_diplomacy">Diplomacy</a>. In the Diplomacy hobby, she was a legend. She could lie, cheat and stab in the back with the best of them, and in Diplomacy, those are compliments. (Diplomacy is like a stylized form of the game of Risk, but only if you could say that chess is a stylized form of tic-tac-toe.) </p>
 <p>She was also my friend, back in the 1980s when I was involved in the play-by-mail Diplomacy hobby. That was (and is) a community much like the weblog community, except the technology then was mimeograph, typewriters, photocopies, pen and ink, envelopes, stamps, and sometimes the telephone. Someimes we'd even travel cross-country to meet one another and play for a weekend. I was an awful player, but I enjoyed the company, and enjoyed producing a chatty zine, which I called 'Irksome'. That's how I met Kathy and her husband John, then living in Queens, New York. A brash-talking New Yorker, I'm not sure how she hit it off with a shy Minnesota boy, but we got along fine. She even got to know Mama, who was still in Germany, by mail, and on Mama's first visit to the States we went to New York to stay with John and Kathy for a week. </p>

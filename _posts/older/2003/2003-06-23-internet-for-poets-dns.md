@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Please, would you tell me what you call yourself?" href="http://weblog.burningbird.net/fires/001297.htm">Burningbird: Internet For Poets: DNS</a></p>

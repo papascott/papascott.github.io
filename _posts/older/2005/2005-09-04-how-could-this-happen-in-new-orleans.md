@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>People in here Germany (she for example <a href="http://vowe.net/">vowe</a> for the past few days) how the chaos in New Orleans can happen in a highly-developed first-world country? One answer is that New Orleans was not in real good shape even before Katrina. At <a href="http://11d.typepad.com/blog/2005/09/things_get_wors.html" title="11D: Things Get Worse">11D</a> I saw a quote from <a href="http://www.city-journal.org/html/eon_08_31_05ng.html" title="Will New Orleans Recover? by Nicole Gelinas">Nicole Gelinas of City Journal</a> (a conservative urban planning journal) that seems to sum things up.</p>
 <blockquote><p>And the locals and outsiders who try to help New Orleans in the weeks and months to come will do so with no local institutional infrastructure to back them up. New Orleans has no real competent government or civil infrastructure&mdash;and no aggressive media or organized citizens&rsquo; groups to prod public officials in the right direction during what will be, in the best-case scenario, a painstaking path to normalcy.</p>

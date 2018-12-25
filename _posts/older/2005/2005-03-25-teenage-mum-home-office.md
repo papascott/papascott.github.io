@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.boardsmag.com/screeningroom/animation/1146/" title="'boards - Screening Room">Sims-style "Teenage Mum" public service ad</a>. Doing home office with a child isn't much different. <a href="http://www.boingboing.net/2005/03/23/simsstyle_antiteenpr.html">(Boing Boing)</a></p>

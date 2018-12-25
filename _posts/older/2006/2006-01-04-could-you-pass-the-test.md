@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.elmada.com/000697.html" title="Citzen Adam">Could You Pass the US Citizenship Test?</a> You have to know some <a href="http://www.blogthings.com/couldyoupasstheuscitizenshiptestquiz/" title="Blogthings - Could You Pass the US Citizenship Test?">esoteric facts</a>. </p>
 <blockquote><p>1. How many times can a senator be re-elected?</p></blockquote>

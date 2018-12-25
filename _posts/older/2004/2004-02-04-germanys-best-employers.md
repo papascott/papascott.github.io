@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="First place a surprise? Not many DAX firms listed." href="http://www.spiegel.de/wirtschaft/0,1518,284907,00.html">Germany's Best Employers</a></p>

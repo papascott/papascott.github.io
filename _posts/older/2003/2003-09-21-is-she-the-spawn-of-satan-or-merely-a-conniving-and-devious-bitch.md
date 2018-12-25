@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="CalPundit: Hillary Mania" href="http://www.calpundit.com/archives/002207.html">Is she the spawn of Satan or merely a conniving and devious bitch?</a></p>

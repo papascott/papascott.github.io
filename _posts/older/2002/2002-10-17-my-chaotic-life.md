@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Mama's in Munich for 'media training' until tomorrow night, and Christopher is at his substitute <em>Tagesmutter</em> Petra, since Heidi is at a conference. Petra usually doesn't work afternoons, but keeps Christopher until 5 pm as a favor to us. So I make an extra effort to pick him up on time. Except this afternoon on the <em>Autobahn</em>, I hear a strange clunking from the back of my car just after the <em>Elbtunnel</em>. Pull off into an industrial area, and sure enough, the right rear tire has blown. No sweat, pull out the spare tire, get the car up on the jack, and pull off the bad wheel. It won't budge. It's stuck as if it were welded on.</p>
 <p>Time to start getting creative. Call the auto club. Call Mama, who has Petra's number. Call Petra. Wait. Call Mama's sister-in-law to pick Christopher up... not home. Call Oma... she's home, and can pick him up. Call Petra to say Oma will pick up Christopher, and will even bring him to our house. A hour has gone by. Call auto club again, I'm next in line. Wait. There's the auto club car, but doesn't come to me He stops across the street! A guy there apparently called first. Wait half an hour for the auto club man to fix his Audi. </p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>From a <a href="http://www.dw-world.de/dw/article/0,,2338613,00.html">Deutsche Welle analysis of the Kurnaz case</a>:</p>
 <blockquote><p>

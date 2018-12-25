@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I spent the morning renting a tuxedo, something I do every 10 years or so. No, noone I know is getting married. Mama's firm sponsors a charity which is having a benefit gala in Berlin next weekend, and her boss has made it clear that it would be very good if she were to attend. So we get to go to Berlin and watch millionaires spend money. </p>
 <p>Our first attempt in Hamburg yesterday was a failure, as the shop was too small and didn't do alterations, which left us both in a sour mood. Last night I searched Google and found <a href="http://www.guenstige-brautkleider.de/" title="Brautmoden Haupt in Hamburg">Brautmoden Haupt in Hamburg Barmbek</a>. Frau Haupt had my size, was willing to cut several centimeters from the arms and legs, and had me set up in a half an hour. </p>

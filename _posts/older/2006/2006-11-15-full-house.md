@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This morning Christopher asked if he could invite the neighbor boy René over to play this afternoon. Christopher had visited him before fall vacation, and they share a common interest in Legos. We're trying to encourage Christopher to keep contact with his local classmates, since he went to Kindergarten in a different town. Sure, I said, René could come over to play. </p>
 <p>Then after lunch, just after we arranged things with René's mother to have him come at 3:00, Johan called. He wanted to come visit Christopher as well. No problem, I thought. He's not the quiet Lego builder type, but three would be more fun than two, so why not?</p>

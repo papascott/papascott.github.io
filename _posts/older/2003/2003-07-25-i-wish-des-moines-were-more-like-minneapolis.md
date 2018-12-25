@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Doesn't everyone?" href="http://www.sethb.com/weblog/archive/2003_07_24_archive.html#105909894102201525">I wish Des Moines were more like Minneapolis</a></p>

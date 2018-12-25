@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I decided not to wait for the New Hampshire... I sent my absentee ballot for the Arizona Primary already late last week. I won't <a title="John Edwards 2004" href="http://www.johnedwards2004.com/">say</a> who I voted for, you'll have to hover over the link.</p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>One of the, er, joys of my new job is administering a spanking new <a href="http://lumma.de/eintrag.php?id=1361" title="Citrix [Lummaland - das Weblog]">Citrix server</a> on Windows Server 2003, as well as the accounts of those who use it. This is a new experience for me, since before I was strictly a network admin, which meant 1) no Windows and 2) no users. In the jargon of the trade, I performed second, not first, level support. Now at nu2m I am first, second, last, and all levels of support in between.</p>
 <p>So it was with some trepidition that I approached my leading problem this morning, namely that the Citrix users in Cologne weren't able to find their local printers. I tried to approach the problem technically, logging in on a test account, but alas I was able to print find my local printer, so I couldn't reproduce the problem. I checked the account permissions, and they were all set up to automatically use local printers. Checking the printer directory, a printer was in fact set up for one of the users but not the other (who had been logged in for over a week). After over an hour I still couldn't tell what was wrong with them that wasn't wrong with me, so I had them give me a call.</p>

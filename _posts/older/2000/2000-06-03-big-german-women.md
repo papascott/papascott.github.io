@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://andrea.editthispage.com/">Andrea</a>, here's a good example of the 'Big German Women' cliché: <a href="http://www.stpauligirl.com/main.htm">St. Pauli Girl</a>, "Germany's Fun Loving Beer" which (AFAIK) is only sold outside of Germany. The girl, in this case, is American.</p>
 <p><img src="/images/mausnews/mtp.jpg" align="right" />Our move at work to Millerntorplatz seems to be proceeding with no problems. I was on call, but nobody called. We had set up a substitute firewall and web server at the new office last week, and they covered the web site during the move. I haven't even been to the new location yet. </p>

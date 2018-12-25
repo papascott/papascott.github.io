@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.clientcopia.com/quotes.php?id=884" title="Clientcopia : Coping with stupid clients : Quotes, Comments & Remarks">Clientcopia:</a> "It's a nice idea. - but will it work abroad?" That could almost be a tagline... (Via <a href="http://ameisendorf.de/index.php?itemid=108" title="ameisendorf.de">ameisendorf</a>.)</p>

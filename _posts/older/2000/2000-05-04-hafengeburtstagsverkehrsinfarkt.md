@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Thanks to the 811th birthday celebrations for the Hamburg harbor this weekend, many of the streets near the harbor are closed. My 45 minute drive home took nearly two hours this evening.</p>

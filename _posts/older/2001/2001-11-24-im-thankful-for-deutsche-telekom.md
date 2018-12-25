@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/11/crhphone.jpg" height="296" width="350" border="0" alt="crhphone.jpg: " /></p>
 <p>Christopher talking to his grandparents in Minnesota. More recent action pics <a href="http://photos.shcon.com/index.php?album=11_2001%2F20011124&dispsize=512&start=0">here</a>.</p>

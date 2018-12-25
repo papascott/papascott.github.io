@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>How do people get serious work done with Windows? I have no idea...</p>
 <p>My wife wanted to update the route planning software (i.e. how many km from A to B, so she can fill out her mileage log) on her Windows XP notebook. Her company sells an atlas with software included, but she couldn't get the program to run. "Not enough licenses, try again later."</p>

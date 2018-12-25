@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've installed <a href="http://www.spambouncer.org/">SpamBouncer</a>, a procmail-based spam filter, at my hoster account. Highly recommended if you have access to procmail. It detected 39 out of 40 spams this weekend alone. My email might now be usable again.</p>

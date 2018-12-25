@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've been adding some reports on the anniversary to my Quick Links.  <a title="Heute vor 50 Jahren: Volksaufstand in der DDR :: hebig.org/blog" href="http://www.hebig.org/blogs/archives/main/001045.php">Haiko Hebig</a> has some photos, even if you can't read his German text. </p>
 <p>June 17, 1953 is a date that the powers in both East and West would have rather forgotten. In the East, of course, since it showed that the East German state had no standing without Soviet tanks to back it up, and in the West, since it showed that it lacked the ability, the will, and the courage to roll back the Iron Curtain. As the tanks opened fire, the protesters were on their own, just as they would be later in Budapest, in Prague, and in Gdansk. JFK and Ronald Reagan would shake their fists at the Wall, but could do little else.</p>

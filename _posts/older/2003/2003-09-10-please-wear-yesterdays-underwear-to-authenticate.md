@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If they're in the wash, you're out of luck" href="http://www.docuverse.com/blog/donpark/2003/09/09.html#a872">Please Wear Yesterday's Underwear to Authenticate</a></p>

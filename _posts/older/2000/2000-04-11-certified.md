@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I scanned in Christopher's <a href="http://shanson.editthispage.com/pictures/viewer$208">baptism certificate</a> (Taufschein) to print out for my folks.</p>

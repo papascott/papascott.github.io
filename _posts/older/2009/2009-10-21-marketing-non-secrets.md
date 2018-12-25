@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Last week we were at the annual fall franchisee meeting in Tenerife, where we had to endure sunny skies and 30&deg;C while those at home had a week of clouds and rain. We don't choose where to go for these meetings, we just go where McDonald's tells us to go. </p>
 <p>One highlight of these meetings is the marketing presentation, where the marketing department tells us how they intend to spend our money for the following year. Coming from marketing people, the presentation is of course very well done. This year, however, the content was also impressive. There were a number of simple, clear points where our immediate reaction was to nod and say yes, that's a good idea. </p>

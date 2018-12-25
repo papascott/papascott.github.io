@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In all fairness, after I complained yesterday that Christopher is difficult at times, today Mama reports that 'he was an angel' the entire day, including a shopping trip to Hamburg with a stop at IKEA, which taxes the patience of any mere mortal.</p>
 <p>When Mama told this to me, though, I could only think of the film with Humphrey Bogart and Peter Ustinov. What was the snake's name again? Christopher, perhaps?</p>

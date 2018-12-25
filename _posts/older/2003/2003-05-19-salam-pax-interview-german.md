@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Paul Boutin : Salam Pax interview" href="http://paulboutin.weblogger.com/2003/05/17">Salam Pax interview, German</a></p>

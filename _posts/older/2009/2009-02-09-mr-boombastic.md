@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This morning, I had to wait a few minutes before I could enter the kitchen. Mama and Christopher were busy lighting and couning tea canndles on the kitchen table. The first time they had 53 instead of 47, but at this stage of life, what do 6 extra candles really matter?</p>
 <p>Since I'm not German, I'm not supersticious about celebrating birthdays early, so I went ahead and bought myself a present a couple of weeks ago, a <a href="http://www.slimdevices.com/pi_boom.html">Squeezebox Boom network music player</a>. Note the classy and elegant title currently playing. </p>

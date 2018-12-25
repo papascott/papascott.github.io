@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="All your internet are belong to us" href="http://www.ashleyit.com/blogs/brentashley/archives/000496.html#000496">Verisign Breaks DNS</a></p>

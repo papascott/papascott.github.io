@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Euro 2000 update</b> Group A: Germany 1 Romania 1. An unsatisfying but fair result. After a total disaster in the first 20 minutes, the Germans were able to equilize and then controlled (without scoring) the final 30 minutes. But Germany did not look like a defending champion. What the draw means for the tournament will, of course, only be clear after Portugal and England play this evening.</p>
 <p>Via Dave's Picks <a href="http://homepage.ntlworld.com/mil.millington/things.html">Things my girlfriend and I have argued about</a> "Nothing keeps a relationship on its toes so much as lively debate. Fortunate, then, that my girlfriend and I agree on absolutely nothing. At all." He's English, she's German. </p>

@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>A <a href="http://twitter.com/davewiner/status/6346696650">tweet</a> yesterday from Dave Winer reminded me that online blogging service <a href="http://www.scripting.com/1999/12/04.html">editthispage.com</a> opened to the public on that date in 1999, 10 years ago, thanks to Dave and his company at the time, <a href="http://www.userland.com/">Userland Software</a>.</p>
 <p>Which means that today, a day later (due to the time difference between California and Germany), www.papascott.de is <a href="https://www.papascott.de/archives/1999/12/05/it-worked/">10 years old</a>.</p>

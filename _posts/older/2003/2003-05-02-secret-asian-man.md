@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="I've eaten _salads_ with more macho" href="http://www.kode-fu.com/shame/2003_04_27_archive.shtml#200232010">AccordionGuy: Secret Asian Man</a></p>

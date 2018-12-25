@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Feed on Feeds 3rd most popular" href="http://www.hebig.org/blogs/archives/main/001070.php">Aggregator stats from hebig.org: SharpReader, NetNewsWire rule them all"</a></p>

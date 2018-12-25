@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="But will Fritz really miss him?" href="http://windsofchange.net/archives/003419.html">Winds of Change.NET: Say Good-bye Fritz</a></p>

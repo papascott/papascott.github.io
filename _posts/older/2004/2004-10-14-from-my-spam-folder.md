@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We would like to introduce our new-born site, where you can shop around most wanted and needed items in your life. Our weapon section has wide range of hard-to-find machine guns, silencers, armour-piercing ammos and others.</p>
 <p>First of all, let's check our 3 top-selling items:</p>

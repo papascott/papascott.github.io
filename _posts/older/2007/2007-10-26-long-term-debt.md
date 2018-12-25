@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>WHen Mama and Christopher came home from Legoland last night, his first words to me were "Papa, you're gong to be upset with me!" I knew he'd be coming in with an oversized and overpriced Lego toy...</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/1757193981" title="View 'CIMG0292.JPG' on Flickr.com"><img src="https://farm3.static.flickr.com/2247/1757193981_fbefbb23cb.jpg" alt="CIMG0292.JPG" border="0" width="500" height="375" /></a></p>

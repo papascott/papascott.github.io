@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Christopher says "<b>Happy Birthday, Grandma!</b> We would have called today, but Papa was too tired. But we'll call tomorrow!"</p>
 <p>I've put Radio back on the shelf, but <a href="http://www.wiredfool.com/2002/01/16">Eric Soroos</a> explains how to get upstreaming to work with rsync/ssh, or indeed any command line tool (by enabling a backup, then writing a upstream callback that calls the tool). That's a lot simpler than I thought it would be. While he imagines the solution for OS X, I'm sure you could get it to work with <a href="http://www.cygwin.com/">cygwin</a> under Windows as well. But I don't have the time to pursue it.</p>

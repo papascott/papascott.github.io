@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="News I can _really_ use. Via Scripting News." href="http://www.securityfocus.com/rss/index.shtml">SecurityFocus RSS Feeds</a></p>

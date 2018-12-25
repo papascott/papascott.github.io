@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Election Day in Berlin today, and the chance to use a very bad bilingual pun in my headline. ";->"</p>

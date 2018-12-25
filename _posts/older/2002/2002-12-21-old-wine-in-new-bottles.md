@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I sent the following (edited for context) to Steven Den Beste in response to latest posting yesterday on <a href="http://denbeste.nu/cd_log_entries/2002/12/Oldwineinnewbottles.shtml">elitist Europeans</a>, a theory I don't think flies very far in the real world.</p>
 <p>For someone who thinks that Europe doesn't matter, he sure spends a lot of time grousing about Europe. Maybe the problem is as much an American <em>inferiority</em> complex as it is a Euopean <em>superiority</em> complex.</p>

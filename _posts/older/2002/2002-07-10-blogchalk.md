@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Why not? "Google! DayPop! This is my <b>blogchalk</b>: English, Germany, Hamburg, Jesteburg, Scott, Male, 41-45!"</p>
 <p><a href="http://www.blogchalking.tk" target="bc"><img src="http://danpadua.kit.net/chalk1.gif" border="0" alt="blogchalk: Scott/Male/41-45. Lives in Germany/Hamburg/Jesteburg and speaks English. Spends 40% of daytime online. Uses a Normal (56k) connection." title="blogchalk: Scott/Male/41-45. Lives in Germany/Hamburg/Jesteburg and speaks English. Spends 40% of daytime online. Uses a Normal (56k) connection." /></a></p>

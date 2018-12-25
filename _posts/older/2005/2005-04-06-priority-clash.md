@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.janegalt.net/blog/archives/005250.html" title="Asymmetrical Information: Priority clash">Asymmetrical Information: "Old Europe's" welfare states will undermine European integration</a> (Martin Wolf in today's Financial Times):</p>
 <blockquote><p>Hourly labour costs in the present wave of accession countries were, on average, one-seventh of the west German level in 2003... The incentive for migration then is huge, as is that for moving production in the opposite direction... </p></blockquote>

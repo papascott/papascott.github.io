@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>EU bans blogging? <a title="Das E-Business Weblog: Das Ende des Bloggens?" href="http://www.roell.net/weblog/archiv/2003/11/27/das_ende_des_bloggens.shtml">Martin Röll</a> thinks that <a title="Curia - CP0396EN" href="http://curia.eu.int/en/actu/communiques/cp03/aff/cp0396en.htm">this ruling</a> from the European Court of Justice upholding a ruling in Swedien may be the start:</p>
 <blockquote><p>Mrs Lindqvist was involved in preparing people for Communion in the parish of Alseda (Sweden). At the end of 1998 she set up internet pages on her personal computer at home to enable parishioners preparing for Confirmation to obtain easily the information they were likely to need. Those pages contained information on Mrs Lindqvist and<br />

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Can you see the kashimashii?" href="http://weblog.delacour.net/archives/000910.html">Jonathon Delacour: This is a test of Japanese</a></p>

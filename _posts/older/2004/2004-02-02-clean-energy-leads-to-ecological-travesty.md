@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Shark Blog: Clean Air, Hot Air" href="http://www.usefulwork.com/shark/archives/001479.html#001479">via Shark Blog</a>: <a title="ecological effects of wind generators" href="http://medvedfans.blog-city.com/read/462436.htm">Clean energy leads to ecological travesty</a></p>

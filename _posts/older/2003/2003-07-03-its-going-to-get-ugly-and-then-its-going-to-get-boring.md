@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="[insert your favorite political issue here]" href="http://nielsenhayden.com/electrolite/archives/002828.html">'It's going to get ugly. And then it's going to get boring.'</a></p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Yet another tidbit of geographic wisdom from <a href="http://www.overheardinnewyork.com/archives/008533.html">Overheard in New York</a>:</p>
 <blockquote><p>

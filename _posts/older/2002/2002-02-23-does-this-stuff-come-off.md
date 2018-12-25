@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2002/02/smhmakeup.jpg" height="257" width="325" border="0" alt="smhmakeup.jpg: " /></p>
 <p>No, this isn't how I prepare for the televised Olympic coverage. We were invited to a 'Fasching' birthday party. I wasn't aware that we would be dressing up until the last minute, and this is what I came up with on short notice.</p>

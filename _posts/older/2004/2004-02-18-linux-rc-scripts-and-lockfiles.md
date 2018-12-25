@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When I powered down one of our Notes servers running Linux last month to replace a bad drive in the RAID, I noticed that Notes was not powered down cleanly, even though we the stop script correctly set up under /etc/rc.d. Our Notes admins have various log rotation and safety commands in their server scripts, so they very much prefer that the server be powered down correctly. I couldn't for the life of me figure out what was wrong. The server started just fine on power up, calling the script on the command line worked just fine, but doing an actual shutdown seem to skip over the stop script completely.<br />
 <!--more--><br />

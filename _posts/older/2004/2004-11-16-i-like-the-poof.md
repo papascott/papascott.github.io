@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I made the mistake of showing Christopher how to <a title="Tiny Pineapple :: Archives :: "I like the poof."" href="http://www.tinypineapple.com/archives/2002/10/i_like_the_poof.html">poof items from the dock on my PowerBook. Now he wants to do it all the time.</p>

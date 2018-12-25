@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Since we're being nostalgic this month, with the <a href="https://www.papascott.de/archives/2009/11/09/as-the-wall-fell/">fall of the Berlin Wall</a> and all that, how about we go even further back, to November 1979. The <a href="http://en.wikipedia.org/wiki/Iran_hostage_crisis">Iran hostage crisis</a> had just begun on November 4, but I can't recall any of the other events. A month later, the Who Concert tragedy and the Soviet invasion of Afghanistan, I can recall them.</p>
 <p>But on Saturday, November 17, 1979  something occurred in Montevideo, Minnesota, that changed my life. I was 17, and at a Lutheran Church youth meeting I first laid my eyes on a 16-year-old AFS exchange student from West Germany who would later become my wife.</p>

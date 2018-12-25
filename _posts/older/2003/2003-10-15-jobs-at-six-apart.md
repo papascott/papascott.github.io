@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Might be fun except San Mateo is a bit of a long commute..." href="http://www.sixapart.com/jobs/">Jobs at Six Apart</a></p>

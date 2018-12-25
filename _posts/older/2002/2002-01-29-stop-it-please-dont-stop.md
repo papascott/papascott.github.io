@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>IWon: <a href="http://money.iwon.com/jsp/nw/nwdt_rt.jsp?cat=USMARKET&src=201&feed=reu&section=news&news_id=reu-l29305613&date=20020129&alias=/alias/money/cm/nw">German opposition prepared to drop A400M court bid</a>. I don't really get this. Sure the government is trying to buy more planes than they budgeted. The opposition isn't opposed to the additional planes, they just want to embarass the government by reopening the budget. But involving the Constitutional Court?<br />
 In the US, the government gets shut down all the time due to budget squabbles, and the Supreme Court never steps in.<br />

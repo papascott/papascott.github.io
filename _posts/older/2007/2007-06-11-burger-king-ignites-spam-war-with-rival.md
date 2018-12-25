@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://us.rd.yahoo.com/finance/news/rss/story/*http://biz.yahoo.com/ap/070611/burger_king_spam.html?.v=4">Burger King Ignites Spam War With Rival</a>... it's not what you might think, unless you are a fan of <a href="http://spam.com/">spiced ham in a can</a>. :-)</p>

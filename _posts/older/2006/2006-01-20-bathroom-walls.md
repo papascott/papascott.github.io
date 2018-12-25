@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Jean-Remy von Matt is head of the <a href="http://www.jvm.de/">Jung von Matt</a> ad agency which concieved the "Du bist Deutschland" campaign. A lot of German bloggers have expressed the opinion that the campaign is baloney, and so it's no surprise that Herr von Matt <a href="http://lumma.de/eintrag.php?id=2458" title="Klow&auml;nde des Internets [Lummaland - das Weblog]">doesn't like weblogs</a>:</p>
 <blockquote><p>Weblogs, the bathroom walls of the internet. What gives every PC user the right to excrete* their opinions? Most bloggers simply excrete. This new low point in the building of opinions is clear when one searches for 'Du bist Deutschland' at <a href="http://www.technorati.com">www.technorati.com</a>.</p></blockquote>

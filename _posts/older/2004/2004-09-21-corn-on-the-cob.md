@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2004/09/crh_corn.jpg" alt="Corn on the Cob" /></p>
 <p>Our German-American meal on Sunday was Westphalian ham, boiled potatoes and corn on the cob.</p>

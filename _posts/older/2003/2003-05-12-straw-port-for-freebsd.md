@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Oooh, now I can read RSS feeds too!" href="http://www.freshports.org/news/straw/">straw port for FreeBSD</a></p>

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/76172400/" title="Sleep Two Times"><img src="https://static.flickr.com/40/76172400_1cb29b539b.jpg" width="500" height="375" alt="IMG_0493" /></a></p>
 <p>Christopher is excited that he only has to sleep two more times until Christmas Eve. Mama and I both agree that we'd rather have another week.</p>

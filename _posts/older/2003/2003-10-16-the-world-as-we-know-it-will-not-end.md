@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="There will be no Cubs-Red Sox World Series" href="http://sports.yahoo.com/mlb/recap?gid=231015116">The world as we know it will *not* end</a></p>

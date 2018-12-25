@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Every little bit burns" href="http://weblog.delacour.net/archives/000897.html">Keep the Bird burning</a></p>

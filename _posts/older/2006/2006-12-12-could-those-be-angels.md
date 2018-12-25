@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We've come to the conclusion that since the 4th Advent Sunday falls on Christmas Eve, Christmas is coming way too soon this year. We'd like to apply for a week's extension. </p>
 <p>Christopher has school up to Friday the 22nd, but his special activities (tumbling at school and stutter therapy) have the week before Christmas off, so he has extra time to get excited for Christmas. We adults do not. He's also signed up for the Christmas program at church. He was in a nativity play in Kindergarten last year, playing one of the main roles, Joseph. As a special ed Kindergarten, Mary was in a wheelchair, so he had to both speak lines and push Mary to the stage. This year he's happy to play a supporting role, namely a shepherd. He's got one line, with exactly 6 words:</p>

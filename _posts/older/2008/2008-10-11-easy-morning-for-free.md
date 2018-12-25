@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Next Tuesday, in a promotion in the "so crazy it has to work" category, we hope to give away 1000 McMuffins between 6:00 and 10:30 am in a promotion we call <a href="http://www.mcdonalds-nordheide.de/2008/10/easy-morning-for-free/">Easy Morning for Free</a>. The daily HAN newspaper in Hamburg-Harburg will be printing a coupon on page 1 of their Monday edition that is good for a McMuffin Bacon &amp; Egg and a coffee, which we usually sell for 1.99&euro;. Here's the teaser report from last Thursday, (also as <a title="Gratis-Fru&#776;hstu&#776;ck-web.pdf" href="http://www.mcdonalds-nordheide.de/wordpress/wp-content/uploads/2008/10/gratis-fruhstuck-web.pdf">pdf</a>).</p>
 <p><img src="http://www.mcdonalds-nordheide.de/wordpress/wp-content/uploads/2008/10/hangratisfruehstueck.jpg" border="0" alt="HANGratisFruehstueck.jpg" width="500" height="615" /></p>

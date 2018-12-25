@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="German health care is broken too, but nowhere near this badly" href="http://www.southknoxbubba.net/skblog/archive_2003_08.php#1841">US health care, you can't beat the system, so just join it</a></p>

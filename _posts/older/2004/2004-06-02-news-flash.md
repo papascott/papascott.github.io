@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It was announed this evening that an investor has bought 1/4 of my employer's stock and is injecting 400k cash. It looks like my job is saved... for now.</p>

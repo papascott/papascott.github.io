@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/1999/12/snow.jpg" height="300" width="400" border="0" alt="snow.jpg: Snow in Lüllau 19 Dec 1999" /></p>
 <p>This is the view from our living room this morning. Our backyard only extends to the fence; the horse pasture isn't ours, it's just part of our view.</p>

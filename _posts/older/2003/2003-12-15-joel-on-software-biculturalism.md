@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Unix is not the center of the universe" href="http://www.joelonsoftware.com/articles/Biculturalism.html">Joel on Software - Biculturalism</a></p>

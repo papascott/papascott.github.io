@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://davespicks.com/archive/2005/08/22.html#1124627674" title="22. August, 2005 - older now">Dave's Picks:</a></p>
 <blockquote><p>The Fred Krause Miles Per Gallon is defined as the mileage obtained by a vehicle traveling 85 miles per hour with the air conditioner set on 'MAX.' My Camaro got nearly 35 FKMPG. My Blazer? Closer to 20. An even more useful measure is MPD (miles ger dollar), which turns it all into dollars. Until recently, I was getting a fairly solid 10 MPD, but the uptick in gas prices has wrecked that.</p></blockquote>

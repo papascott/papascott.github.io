@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I finally have something to show for my efforts for transfer this site to Moveable Type. The test homepage is at https://www.papascott.de/testing.</p>
 <p>How's <a href="/1999/12/05/">this</a> for something wierd!</p>

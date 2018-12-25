@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2009/08/t.jpg" alt="t.jpg" border="0" width="225" height="300" /> <img src="https://www.papascott.de/wordpress/wp-content/uploads/2009/08/a.jpg" alt="a.jpg" border="0" width="225" height="325" /></p>
 <p>I'm sorry, but when I saw these two posters yesterday, I knew they just were begging to be combined in a single post. The poster on the right has managed to hit a taboo-trifecta (race, nudity, homosexualtiy) with maybe even more taboos I haven't noticed (bad nail polish?).</p>

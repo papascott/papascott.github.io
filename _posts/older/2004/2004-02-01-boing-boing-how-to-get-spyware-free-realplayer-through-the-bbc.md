@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="expiry-free, spyware-free and nuicance-free" href="http://boingboing.net/2004_02_01_archive.html#107565322512239056">Boing Boing: How to get spyware-free RealPlayer through the BBC</a></p>

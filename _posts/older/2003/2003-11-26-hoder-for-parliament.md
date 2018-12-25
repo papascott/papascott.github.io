@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Hossein Derakhshan to stand for election in Iran" href="http://hoder.com/weblog/archives/008941.shtml">Hoder for Parliament</a></p>

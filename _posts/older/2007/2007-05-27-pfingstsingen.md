@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/515747259/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/239/515747259_d15ea7584f.jpg" width="500" height="375" alt="IMG_2056" /></a></p>
 <p><a href="http://www.flickr.com/photos/papascott/515748745/" title="Photo Sharing"><img src="https://farm1.static.flickr.com/220/515748745_fdaecf8f8c_m.jpg" width="240" height="180" alt="CIMG0409" /></a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Sunny and cool today. </p>
 <p>Another home office day. I'm getting more accomplished than I thought I would. My boss will be happy. :-)</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="We don't name our releases after cats" href="http://www.freebsd.org/releases/4.9R/announce.html">FreeBSD 4.9-RELEASE Announcement</a></p>

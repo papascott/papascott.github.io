@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I wrote before about how life was handing us a <a title="PapaScott: Truly, Deeply, Madly" href="https://www.papascott.de/archives/2004/12/09/truly-deeply-madly/">new twist of fate</a>. I can now explain all the details.</p>
 <p>Last month I had decided to <a href="https://www.papascott.de/archives/2004/11/15/half-time/">stick it out</a> at my old company. I reduced to 20 hours to give myself a little free time, but we remaining 3 admins had settled into a routine, and we had a new boss who respected us and our work, even if he didn't understand it.</p>

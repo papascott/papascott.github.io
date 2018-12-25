@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This <a href="http://poisonedminds.com/comics/pm20060621.png" title="Time Breakdown of Modern Web Design">pie chart</a> explains in terms even a <a href="http://en.wikipedia.org/wiki/Pointy_Haired_Boss">pointy-haired</a> manager can understand why web design takes so much longer than is planned. It also explains why the designers are sometimes so surly to the sys admins. (via <a href="http://www.2020hindsight.org/2006/06/21/designing-web-sites-how-much-time-is-spent-on-each-task/">2020 Hindsight</a>)</p>

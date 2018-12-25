@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>MamaMaus has her birthday today, and Christopher wanted to make her something special, something for the new restaurant. He decided on an "M" logo for her office... sure, she can get plenty of logos, but how many of them are hand-painted?</p>
 <p><a href="http://www.flickr.com/photos/papascott/540319606/" title="Photo Sharing"><img src="https://farm2.static.flickr.com/1080/540319606_015a045316.jpg" width="500" height="375" alt="IMG_2062" /></a></p>

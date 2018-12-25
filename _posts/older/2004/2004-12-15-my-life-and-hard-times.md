@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>December seems like a drag stip that ends in a brick wall, and we're speeding along in a hot rod without any brakes. </p>
 <p>For Christopher, there is the anticipation of the double super-duper holiday of Christmas and birthday, and of course he is strung as high as a kite. Perspective parents should think of this, and would be best advised to avoid having any sex in late March at all to prevent giving birth to children in late December. </p>

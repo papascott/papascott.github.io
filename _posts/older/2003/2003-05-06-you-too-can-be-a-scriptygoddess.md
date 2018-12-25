@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Where mere mortals fear to tread!" href="http://www.scriptygoddess.com/archives/003807.php">You, too, can be a scriptygoddess!</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="What were they thinking? Did they just screw up?" href="http://www.calpundit.com/archives/001829.html">CalPundit: Postwar planning (meaning the lack thereof)</a></p>

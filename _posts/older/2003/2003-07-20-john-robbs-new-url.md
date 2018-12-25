@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="NEVER (under any circumstances) publish a weblog to a domain that you don't control" href="http://jrobb.mindplex.org/">John Robb's New URL</a></p>

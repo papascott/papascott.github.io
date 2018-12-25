@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://radio.userland.com/radioMacrosHeadLinks">Userland</a> is starting to give links to blogroll files (in OPML).  At <a href="http://diveintomark.org/archives/2002/06/02.html#google_recommends">diveintomark</a> Mark Pilgrim is showing a script that can parse OPML blogroll files.</p>
 <p>Question: I've started using my favorites at <a href="blo.gs">blo.gs</a> as my blogroll. They also offer an <a href="http://blo.gs/184/favorites.opml">OPML version</a>. If I give this file as my blogroll link, will these tools be able to read it?</p>

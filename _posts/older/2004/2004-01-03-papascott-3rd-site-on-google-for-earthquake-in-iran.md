@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Behind Red Cross and CNN, ahead of BBC and Pravda? Google sucks." href="http://www.google.com/search?hl=en&amp;ie=utf-8&amp;oe=utf-8&amp;q=earthquake in iran">PapaScott 3rd site on Google for "earthquake in iran"?!?</a></p>

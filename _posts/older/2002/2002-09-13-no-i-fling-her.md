@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In case anyone is wondering, in order to find the Monty Python sketch <a href="http://www.montypython.net/scripts/interest.php">Interesting People</a>, in which Graham Chapman throws a cat into a bucket of water, it is sufficient to do a Google search on <a href="http://www.google.com/search?q=cat bucket fling her&amp;start=0&amp;start=0">cat bucket fling her</a>.</p>

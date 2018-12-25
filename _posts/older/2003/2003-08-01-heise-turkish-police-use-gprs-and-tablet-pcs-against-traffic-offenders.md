@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="In German, but Scoble will like the picture" href="http://heise.de/newsticker/data/em-31.07.03-000/">Heise: Turkish Police use GPRS and Tablet PCs against Traffic Offenders</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I thought that Christopher would only climb out of his crib if a chair was next to it. Just now he proved me wrong.</p>
 <p>Mama now has a new Überboss, from Holland. He's visiting Hamburg on Saturday. </p>

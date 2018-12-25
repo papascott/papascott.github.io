@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Abendblatt: <a href="http://www.abendblatt.de/daten/2002/11/15/92880.html">Springsteen kommt</a>! 2 June 2003, AOL Arena, Hamburg. Our calendar is marked.</p>

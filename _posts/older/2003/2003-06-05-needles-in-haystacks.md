@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="One man's trash..." href="http://www.eamonn.com/archives/000472.html#000472">Eamonn Fitzgerald: Needles in Haystacks</a></p>

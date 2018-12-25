@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We've flown between Hamburg and Minneapolis (either starting from there or starting from here) pretty much every year for the past 25 years. We'll be doing it again this summer. And we know the choices better than any travel agent or web site. There are no direct flights, there haven't been since the '80s. If you want one stop, you either have to fly direct Hamburg to North America (currently Continental or Emirates) or Minneapolis to Europe (Northwest or Northwest). My wife collects hundreds of thousands of <a href="http://www.miles-and-more.com/">Lufthansa miles</a>, but usually they don't help us much (this year the closest they could get us was Newark).</p>
 <p>You also would like to avoid an extra stop in the US if you can, since US Immigration is a risk factor. If you can't avoid it, you should allow at least 3 hours between flights. We've missed connections and had luggage delayed by cutting the connections too close. That would have limited our options to Northwest. They were OK last year, but the flights with the <a href="https://www.papascott.de/archives/2006/08/18/back-again/">old DC-10s</a> were somewhat cramped.</p>

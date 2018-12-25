@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Just trying to cash in on the media craze... PapalScott!</p>
 <p><a href="https://www.papascott.de/fotos/papalscott_shot.php" onclick="window.open('https://www.papascott.de/fotos/papalscott_shot.php','popup','width=818,height=634,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2005/04/papalscott_shot-thumb.png" width="320" height="248" border="0" alt="papalscott" /></a></p>

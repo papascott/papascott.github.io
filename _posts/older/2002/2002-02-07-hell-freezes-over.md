@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>CNNSI: <a href="http://sportsillustrated.cnn.com/soccer/news/2002/02/06/german_action/">St. Pauli defeats Bayern Munich</a> Hell has frozen over, and pigs can fly. At least in Hamburg, and at least for one night. See also <a href="http://www.bundesliga.de/en/bundesliga/detail.php?id=28811">bundesliga.de</a>.</p>

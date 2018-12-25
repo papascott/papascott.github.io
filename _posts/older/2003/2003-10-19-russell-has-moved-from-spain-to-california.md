@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="San Francisco is colder than Madrid. And the cars are bigger." href="http://www.russellbeattie.com/notebook/1004858.html">Russell has moved from Spain to California</a></p>

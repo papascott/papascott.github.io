@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This year's Whiney Expat Bloggers Meetup will be September 5th and 6th in Munich.</p>
 <p>Selecting the place and date was about as long and complex as selecting a presidential candidate, but that's just how we Americans are. We're now working on an agenda.</p>

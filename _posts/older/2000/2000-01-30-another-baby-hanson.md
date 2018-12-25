@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Congrats to Tom and Denise, who had a baby girl Friday evening! Tom is my cousin in northern Minnesota.</p>
 <p>Small World Dept: <a href="http://carpediem.editthispage.com">David Theig</a> from Grand Forks has inlaws in <a href="http://CarpeDiem.editthispage.com/discuss/msgReader$83">my hometown</a>.</p>

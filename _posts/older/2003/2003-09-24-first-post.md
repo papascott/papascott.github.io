@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img alt="1stpost.jpg" src="https://www.papascott.de/wordpress/wp-content/uploads/2003/09/1stpost.jpg" width="325" height="321" border="0" /></p>
 <p>Note Christopher's toys on the floor, and the box for Papa's new toy on the table in the background.</p>

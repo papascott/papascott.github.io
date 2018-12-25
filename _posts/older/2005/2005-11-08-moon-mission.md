@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/61328879/" title="Moon Mission"><img src="https://static.flickr.com/29/61328879_541327afc7.jpg" width="375" height="500" alt="IMG_0444" /></a></p>
 <p>Before going to bed, Christopher decided to take a quick trip to the moon. Here he is in his spacesuit.</p>

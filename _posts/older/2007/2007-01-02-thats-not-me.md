@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://beissholz.de/pivot/artikel-1463.html">Nicole</a> is looking friends on <a href="http://www.last.fm/">last.fm</a>. Fine, I can add <a href="http://www.last.fm/user/nixande">her</a> to my list of contacts... but the playlists on <a href="http://www.last.fm/user/papascott">my profile</a> don't really reflect what I like to listen to. Here are "my" "Favorite Artists" from last week:</p>
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2007/01/latest_artists_on_lastfm.gif" alt="Latest Artists on last.fm" /></p>

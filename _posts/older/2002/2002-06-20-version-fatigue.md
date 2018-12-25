@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Glenn Reynolds' article at Tech Central Station on <a href="http://www.techcentralstation.com/1051/techwrapper.jsp?PID=1051-250&amp;CID=1051-061902B">Version Fatigue</a> has been <a href="http://slashdot.org/articles/02/06/20/1223247.shtml?tid=126">Slashdotted</a>. He's better known as the <a href="http://instapundit.com/">InstaPundit</a>, but I guess this makes him a techblogger as well as a warblogger. As if there were ever a difference.</p>

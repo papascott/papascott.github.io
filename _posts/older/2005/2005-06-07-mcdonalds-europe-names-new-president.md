@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://biz.yahoo.com/ap/050607/mcdonald_s_europe_president.html?.v=1" title="McDonald's Europe Names New President">McDonald's Corp. Appoints Denis Hennequin As President of Its Europe Operations</a> For the first time, a European is in charge of McDonald's Europe</p>

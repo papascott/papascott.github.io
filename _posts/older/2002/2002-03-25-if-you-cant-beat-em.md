@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In my tries to produce XML files of this website, the obvious answer finally hit me this evening. If I'm trying to get a tool for Radio 7 to work, the thing to do is to download and install Radio 7. I've now got a folder of all the files I need. ;-)</p>
 <p><a href="http://www.vfth.com/2002/03/25#MTowODowNyBQTQdbdb">Cookies for breakfast?</a> Christopher's currently on a pickle kick. I guess that's not quite as bad.</p>

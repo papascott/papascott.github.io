@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Our travel needs are pretty simple. All we want to do is to fly to Las Vegas and back.</p>
 <p>Actually, Mama has a business meeting is in Vegas, and we'll be staying in Phoenix for R&amp;R afterwards, so we'd like to fly back from Phoenix. And since Mama's employer is paying for her ticket, she needs to book separately. And she has 100,000 Lufthansa frequent flyer miles, and we'd like to pay for my ticket with her miles. That's why we're booking so late... we had to wait for a PIN from Lufthansa. And that's also why we can't take BA through London, which would be cheaper if we had to pay for all the tickets ourselves (but would mean a ground transfer from Heathrow to Gatwick). There aren't enough miles to pay for Christopher, though, so we have to book him separately, as a child under 12, but not unaccompanied.</p>

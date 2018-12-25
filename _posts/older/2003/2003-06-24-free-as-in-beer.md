@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Re: <a title="USS Clueless - Free ain't cheap" href="http://denbeste.nu/cd_log_entries/2003/06/Freeaintcheap.shtml">USS Clueless - Free ain't cheap</a> (originally mailed to Steven Den Beste, so the 'you' refers to him).</p>
 <p>The <a href="http://site-essential.com/scgi-bin/mt-comments.cgi?entry_id=2161">Movable Type flap</a> seems to be <a href="http://www.movabletype.org/news/2003_06.shtml#000845">over</a>, but that won't stop me from commenting on it. </p>

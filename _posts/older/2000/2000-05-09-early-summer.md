@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.hislifeasaboy.com/">hislifeasaboy.com</a> has a great urban baby picture.</p>
 <p>The weather has been too nice for weblogging, since we don't yet have a notebook with wireless networking for the back patio.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="ZDF modernizes its mascots, the 'Mainzelmännchen'. Still no girls." href="http://news.focus.msn.de/G/GN/gn.htm?snr=127261&streamsnr=8">Jeans and mobile phone instead of overalls</a></p>

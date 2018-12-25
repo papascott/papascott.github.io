@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>At work we're a waiting on the result of a court order <em><a href="http://dict.leo.org/?search=injunction">(einstweilige Verfügung)</a></em>. I thought there was a song about waiting on an injunction, but I guess I was thinking of Losing My Religion by R.E.M. So we'll have to go with <a href="http://www.geocities.com/regitorico/shouldi.htm">The Clash</a>: </p>
 <p>"Should I stay or should I go now?<br />

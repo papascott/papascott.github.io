@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When you are a cartoonist you learn to be concise, and in the <a href="http://dilbertblog.typepad.com/the_dilbert_blog/2006/03/constitutional__1.html">The Dilbert Blog</a> Scott Adams summed my university education in economics and politics in just 3 sentences:</p>
 <blockquote><p>I still favor the traditional system where rich people run the country and convince the morons who live here that the voters are really the ones in charge. It's not a perfect system, but no one has come up with a better one. And it's fair in the sense that anyone could become rich and abuse the poor.</p></blockquote>

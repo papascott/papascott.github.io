@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We're in vacation mode this weekend. Yesterday we took Christopher and his grandparents to a <a href="http://www.wingst.de/spiel_und_sportpark/home.htm">play and sport  park</a> at Wingst, drove on to Cuxhaven to spend an hour on the beach, and had dinner at the <a href="http://www.schaufenster-fischereihafen.de/">renovated fishery harbor</a>  at Bremerhaven. Today we're staying the backyard.</p>

@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Slate, <a href="http://www.slate.com/id/2152088/entry/2152191/?nav=tap3">"Henry Miller School of Overseas Living for Misanthropes"</a>:</p>
 <blockquote><p>

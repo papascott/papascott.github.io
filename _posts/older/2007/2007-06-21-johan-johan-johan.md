@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Ladies, gentlemen and children of all ages, reintroducing the reigning best pitcher in major league baseball, <a href="http://www.startribune.com/blogs/sinker/?p=126">Mr. Johan Alexander Santana</a>!</p>
 <p><img src="http://www.startribune.com/blogs/sinker/wp-content/uploads/0ajohan.jpg" /></p>

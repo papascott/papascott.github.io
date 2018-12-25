@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><b>Evening update:</b> Christopher ate a little for the first time, and he's been filling urine sample bags quite regularly. His blood oxygen his excellent, but blood gas is only so-so. He's starting to say doddle-doddle-doddle and daddle-daddle-daddle again, so he's returning to his usual self. </p>
 <hr />

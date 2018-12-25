@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="founded in February 2003 in opposition to the Iraq War" href="http://www.americanvoicesabroad.net/cgi-bin/berlin">American Voices Abroad - Berlin</a></p>

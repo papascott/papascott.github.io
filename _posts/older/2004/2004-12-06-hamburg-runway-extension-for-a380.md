@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Yahoo! - Airbus says Hamburg runway extension for A380 cannot be prevented now Messenger" href="http://uk.biz.yahoo.com/041206/323/f7zj6.html">AFP: Airbus says Hamburg runway extension for A380 cannot be prevented now</a></p>

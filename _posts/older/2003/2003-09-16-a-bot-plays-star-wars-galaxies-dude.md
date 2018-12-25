@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="[Farglik hands Darth Vader a melon.]" href="http://www.kryogenix.org/days/542.html">A bot plays Star Wars Galaxies... Dude!</a></p>

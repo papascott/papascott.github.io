@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The Washington Post got it wrong" href="http://brmic.blogspot.com/2003_10_19_brmic_archive.html#106691752945656965">What 20% of Germans believe about Bush and 9/11</a></p>

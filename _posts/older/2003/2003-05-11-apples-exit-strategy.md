@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="'Music will not save Apple... Apple simply doesn?t care about your problems'" href="http://denbeste.nu/cd_log_entries/2003/05/Applesexitstrategy.shtml">USS Clueless: Apple's exit strategy</a></p>

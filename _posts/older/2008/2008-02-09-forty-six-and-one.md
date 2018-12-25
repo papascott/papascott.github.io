@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/2251628643" title="View 'CIMG0460' on Flickr.com"><img src="3.static.flickr.com/2254/2251628643_348ee4bb62.jpg" alt="CIMG0460" border="0" width="500" height="375" /></a></p>
 <p>Happy Birthday to Me! I turn forty-six today, and I started the day by working the closing shift in the restaurant last night, getting home at 5:30. It was a good shift despite being one closer short.</p>

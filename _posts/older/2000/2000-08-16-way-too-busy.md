@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm doing way too much. Overtime at work... we're launching our main site at the end of the month, I need to put together a quick bug database for Hanover 'by yesterday', and Leipzig needshelp importing a banking frontend into Lotus Notes. And I should really help Singapore for a few days, but don't know when or if I can fit it in. </p>
 <p>And of course, there is the small matter of a wife and son at home that are much more important than anything at work and need daily attention. So the weblog is suffering. So it goes.</p>

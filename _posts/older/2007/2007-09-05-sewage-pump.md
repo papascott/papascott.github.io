@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Our German word for today is *Hebeanlage*, and what happens when it clogs up.</p>
 <p>Actually, since *Hebeanlage* is a sewage pump, you can probably imagine what happens, and don't particularly want to know any details. So I'll just say that it was, and it did. And it's fixed, at least for now.</p>

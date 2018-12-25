@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Me too! Me too!" href="http://www.russellbeattie.com/notebook/20030509.html#095103">Russell Beattie: I'm SICK of finding my OWN BLOG when researching a topic I've ranted about</a></p>

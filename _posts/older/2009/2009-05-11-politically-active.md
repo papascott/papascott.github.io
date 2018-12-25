@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3522786088" title="View 'photo-6' on Flickr.com"><img src="4.static.flickr.com/3364/3522786088_e4f4621b8f_m.jpg" alt="photo-6" border="0" width="240" height="180" align="right" /></a>In a moment of weakness after a week of working middle-shifts, Frauke agreed to take Christopher for an outing this past weekend... only after promising the trip did she see where he wanted to go: to a demonstration in Hannover against policy of the current education ministry. That's a cause we can agree with, but taking up an entire Saturday with a bus trip to Hannover? And, yes, Christopher insisted on taking the bus.</p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3517884980" title="View 'photo-4' on Flickr.com"><img src="https://static.flickr.com/3322/3517884980_ca57ec61bb_m.jpg" alt="photo-4" border="0" width="" height="" align="left" /></a>I was not in on the promise, having taken the time to read the fine print. I did however bring to two of them to the bus pick-up point at 9:30 Saturday morning. We managed to get Christopher to compromise on taking the bus there, but to take the train back.</p>

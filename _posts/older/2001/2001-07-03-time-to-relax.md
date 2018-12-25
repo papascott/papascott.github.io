@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.quotegeek.com/Literature/Churchill_Winston/">Winston Churchill</a>: "Indeed, it has been said that democracy is the worst form of Government except all those other forms that have been tried from time to time."</p>
 <p>Today is a normal workday in Germany, of course, but I did my best to work <i>independently</i>!</p>

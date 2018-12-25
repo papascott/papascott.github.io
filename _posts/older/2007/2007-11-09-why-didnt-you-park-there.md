@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>This is yet another episode in the ongoing series "Germans are Strange and Wonderful Creatures"...</p>
 <p>During a particularly hard week of night shifts, I needed to get to the bank on Wednesday morning. Our bank has the proverbial "bankers' hours", they're closed on Wednesday afternoons. Wednesday is also market day in Buchholz, and the rare parking spaces downtown are even harder to find than usual.</p>

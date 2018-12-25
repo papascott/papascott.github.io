@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>When I described how I would vote in the German election if I could, I deliberately left out the topic of Schröder's anti-American campaign. All politics are local, and I would have chosen my party based on domestic issues.</p>
 <p>I'm no great fan of George W. Bush, and my own opinion on Iraq is ambivalent. I can't think of a good reason to use force against Iraq, but then again, I can't think of a good reason not to, either. The attack on Iraq is inevitable, and I believe that it would be best for Germany to play little or no role in it.</p>

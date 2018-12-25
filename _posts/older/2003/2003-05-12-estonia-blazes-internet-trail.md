@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="an Estonian likes to... surf the Net and at the same time talk on his mobile phone" href="http://www.theage.com.au/articles/2003/05/12/1052591710889.html">theage.com.au: Estonia blazes internet trail</a></p>

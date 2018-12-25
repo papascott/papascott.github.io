@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.bordbuch.net/archives/000075.html">Bordbuch: Long Way Home</a> Flying Ryanair to Lübeck, the long way around</p>

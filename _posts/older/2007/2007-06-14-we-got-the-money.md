@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>We got the money... and the papers, both yesterday.</p>
 <p>Our financing came through yesterday. The rate is pretty much the same as the first offer, but the small print is better (repayment begins later, less insurance required). Best of all, the extra funds for the Gym & Fun are included.</p>

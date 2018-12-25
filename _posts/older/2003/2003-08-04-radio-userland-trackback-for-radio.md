@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Anyone switching _to_ Radio Userland these days?" href="http://radio.userland.com/trackbackForRadio">Radio UserLand : TrackBack for Radio</a></p>

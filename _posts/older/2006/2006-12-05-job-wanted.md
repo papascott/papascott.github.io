@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="//www.oeskovic.com/">Dave</a> is looking for work and <a href="http://www.oeskovic.com/?p=984">wants to stay in Hamburg</a>.</p>
 <blockquote><p>

@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/11811929/" title="Confirmation by PapaScott, on Flickr"><img src="1.staticflickr.com/11/11811929_f041044711.jpg" width="389" height="442" alt="bild15a" /></a></p>
 <p>We didn't intend to celebrate my mother-in-law's 75th birthday on Mother's Days and the anniversary of VE Day. It just happened that way. As a surprise for her, we scanned in some of her old pictures and made a presentation. This picture is my favorite, and seems appropriate for all 3 occasions.</p>

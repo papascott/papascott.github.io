@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://diveintomark.org/">diveintomark</a> has started <a href="http://diveintomark.org/archives/2002/05/31.html#more_on_rss_autodiscovery">championing using a link tag to reference rss feeds</a>, something like this:</p>
 <p><code>&lt;link rel="alternate" type="text/xml" title="XML"<br />

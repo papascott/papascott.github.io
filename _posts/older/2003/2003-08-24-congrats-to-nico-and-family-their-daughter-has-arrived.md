@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Born at 9:34, father can still make HSV-Bayern this afternoon." href="http://lumma.de/mt/archives/000523.html#000523">Congrats to Sibylle and Nico, their daughter has arrived!</a></p>

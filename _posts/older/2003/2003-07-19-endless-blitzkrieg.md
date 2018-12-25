@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Spiegel Cover: 'How the USA lied to the world, defeated a tryrant, and now is in a guerilla war'" href="http://www.spiegel.de/spiegel/0,1518,grossbild-279399-,00.html">Endless Blitzkrieg</a></p>

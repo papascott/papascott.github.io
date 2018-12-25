@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Open Source is not the center of the universe either" href="http://www.onlamp.com/pub/a/onlamp/2003/12/11/myths.html">ONLamp.com: Myths Open Source Developers Tell Ourselves</a></p>

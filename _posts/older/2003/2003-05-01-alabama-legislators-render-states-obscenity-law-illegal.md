@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Right to keep and bear vibrators?" href="http://www.talkleft.com/archives/003060.html">TalkLeft: Alabama Legislators Render State's Obscenity Law Illegal</a></p>

@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/59423643/" title="Radical Trim"><img src="https://static.flickr.com/24/59423643_6a189d654c.jpg" width="500" height="375" alt="IMG_0442" /></a></p>
 <p>We just trimmed our wild roses down to the ground and had several trees removed, and we've discovered things in our backyard that we had forgotten we had. Like natural light. And neighbors.</p>

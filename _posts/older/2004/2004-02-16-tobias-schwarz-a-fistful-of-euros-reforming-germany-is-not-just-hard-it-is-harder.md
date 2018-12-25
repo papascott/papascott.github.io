@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="But please leave Dieter Bohlen out of this...." href="http://fistfulofeuros.net/archives/000369.php">Tobias Schwarz, A Fistful of Euros: Reforming Germany is not just hard. It is harder</a></p>

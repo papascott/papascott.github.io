@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Remember, Linux is free as in mad weed" href="http://www.russellbeattie.com/notebook/1004713.html">$129 for a lousy system upgrade?</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="And he should know..." href="http://lumma.de/eintrag.php?id=410">Lummaland: all German weblogs are written by foreign space aliens!</a></p>

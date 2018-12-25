@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In describing the CDU/CSU health care "plan", I love how <a title="Reuters AlertNet - German opposition ends row, has health plan" href="http://www.alertnet.org/thenews/newsdesk/L15592860.htm">Reuters</a> starts with the phrase "Germany's squabbling conservative opposition". The proposal has nothing to do with reforming the health care system, and everything to do with distributing party influence and power of Merkel and Stoiber.</p>
 <p>Now, I'm all for a health financing system that does away with the payroll tax and distributes the costs to everyone, not just wage earners. But this plan keeps a 6.5% payroll tax, while individuals pay 109 per month (but no more than 7% of income). So we keep the old bureaucracy, add a new one, and the difference gets paid with taxes. Nothing about cost reduction or efficiency. Everyone loses, except for high wage earners. Is this client politics, or what?</p>

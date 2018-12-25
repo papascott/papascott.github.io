@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Cannot find Stolen SCO Code in Linux... can you?" href="http://www.linuxstolescocode.com/">linux stole sco code dot com</a></p>

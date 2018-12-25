@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Last evening we had an interesting choice of movies on TV: Roland Emmerich's Independence Day on Pro7, Wolfgang Petersen's Air Force One on RTL. With attacks on New York, the White House and the President, I'm not sure how either one would play on US TV at the moment.<br />
 Having already seen Will Smith do his thang with the aliens, we went with Harrison Ford on the plane. Independence Day would have been more fun :-)</p>

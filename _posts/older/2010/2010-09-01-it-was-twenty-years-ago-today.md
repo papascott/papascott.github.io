@@ -18,8 +18,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>On this day in 1990 we arrived in Germany, with all the suitcases we could carry plus 3 cats, the rest of our belongings in a half-container on a slow boat, for what we thought would be a 3 to 5 year stint. Saddam had just invaded Kuwait, Germany had just won the World Cup, and we still didn't know who had killed Laura Palmer. Germany was still in two pieces, but the marriage papers had just been signed the day before and the party would be in a month.</p>
 <p>Coming to Germany was an impulse decision, and it was better to be lucky than good. We were in the right place at the right time, reunified Germany was where the action was. Change was happening before our eyes and history was being made at our feet. We had left the US during that decade's banking crisis and the beginning of a war. The US was slow and broken down; Germany was <em>exciting</em>.</p>

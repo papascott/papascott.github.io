@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In German <em>Kinder</em> language, the two functions one can perform on the toilet are <em>pi-pi</em> and <em>ah-ah</em>. This weekend Christopher performed <em>ah-ah</em> all by himself, twice. And there was much rejoicing, from both parents and child.</p>
 <p>I guess because we had toilets on our minds, we spontaneously bought new toilet seats for both bathrooms. You can do wild and crazy things like this when you own instead of rent.</p>

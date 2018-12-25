@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>My folks are not only going to venture to the wilds of Las Vegas next month to see us, but they're now planning a trip to Europe this August/September with Christopher Ryan as the main attraction. They've already seen more of Europe than I have, but now they are going to take a chartered bus trip through Scandinavia, which starts in London and passes right through Hamburg.</p>
 <p>Since they are going to see us after the bus trip, they are flying into Hamburg instead of London, and will join the bus tour here. Of course, their tour ends in London, so the interesting part will be to get them from London back here. Air travel in Europe is anything but cheap, but the no-frills <a href="http://www.ryanair.com">RyanAir</a> has a one-way deal London-Hamburg for &pound;29.99.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.torrentocracy.com/blog/archives/2004/10/first_president.shtml" title="torrentocracy - blog - First Presidential Debate Torrent">First Presidential Debate Torrent</a> Audio recorded from NPR, 93MB mp3 (Via <a href="http://www.newsisfree.com/blog/archives/001287.html" title="Too Much News: Presidential debate audio torrent">Too Much News</a>)</p>

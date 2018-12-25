@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="KC and Chi both lost big" href="http://sports.yahoo.com/mlb/recap?gid=230923109">Twins win 10th in a row, clinch AL Central!</a></p>

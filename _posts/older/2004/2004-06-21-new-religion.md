@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I <a href="https://www.papascott.de/archives/2004/06/13/zidane-is-god/">take</a> it back. <a href="http://news.bbc.co.uk/sport1/hi/football/euro_2004/3787401.stm" title="BBC SPORT | Football | Euro 2004 | Live: Croatia 2-4 England">Rooney</a> (45+1, 68) is God.</p>

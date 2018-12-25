@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://static.flickr.com/18/92075441_53531802ce.jpg" width="500" height="295" alt="Mouse Heads?" /></p>
 <p>Mouse Heads?!?</p>

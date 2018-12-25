@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.cnn.com/2005/WORLD/europe/06/10/germany.grandpas.ap/index.html" title="CNN.com - 'Grandpa Gang' bank robbers jailed - Jun 10, 2005">CNN.com - 'Grandpa Gang' bank robbers jailed</a>. Nice to see CNN covering the really important German news. Good thing there's no Michael Jackson verdict yet today...</p>

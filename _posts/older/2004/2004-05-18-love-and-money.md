@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>(I've been corresponding with Heiko Hebig, who represents TypePad and Movable Type in Germany, about the new MT license.)</p>
 <p>Hi Heiko,</p>

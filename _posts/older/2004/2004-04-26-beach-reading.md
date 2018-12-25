@@ -19,7 +19,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.amazon.com/exec/obidos/ASIN/0672325616/">Advanced PHP Programming</a> by George Schlossnagle is an excellent book, but it is poor reading for the beach. It's also <a title="PHP ist für Babies [Noch'n Blogg]" href="http://lumma.de/eintrag.php?id=175">not a good book for babies</a>.</p>

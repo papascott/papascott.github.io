@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Some big changes are coming to the PapaScott household.</p>
 <p>After 23 years with McDonald's, 16 years in Germany, MamaMaus will be leaving McDonald's Deutschland Inc. She has been Regional Manager for Northern Germany since 2001.</p>

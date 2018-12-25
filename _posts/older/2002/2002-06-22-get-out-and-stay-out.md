@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Dave Winer is <a href="http://scriptingnews.userland.com/backissues/2002/06/21">back home</a> after a week in the hospital. Nice to see Scripting News back, welcome home, and stay well!</p>

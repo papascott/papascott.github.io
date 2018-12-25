@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/papascott/330022609/" title="Photo Sharing"><img src="1.static.flickr.com/132/330022609_d9e7b90d42.jpg" width="500" height="375" alt="IMG 1857" /></a></p>
 <p>As seen from our driveway this afternoon. At least they haven't crossed the road... yet!</p>

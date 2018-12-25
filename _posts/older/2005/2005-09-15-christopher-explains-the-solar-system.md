@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2005/09/crh_solar1.jpg" border="0" height="240" width="320" alt="crh_solar1.jpg" /></p>
 <p>Christopher gives a seminar on the solar system using two flashlights.</p>

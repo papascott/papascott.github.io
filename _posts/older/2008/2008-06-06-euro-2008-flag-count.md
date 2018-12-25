@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2008/06/emcarflags.jpg" alt="Euro Auto Flags" align="right" />Driving in Harburg this afternoon, one day before the start of Euro 2008, here are the numbers of car-flags I noticed (German flags excluded):</p>
 <p>* POR 3<br />

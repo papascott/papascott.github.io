@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Campino of the Toten Hosen in the KölnArena. " href="http://www.industrial-technology-and-witchcraft.de/index.php?id=P3041">Guten Abend, Bochum</a></p>

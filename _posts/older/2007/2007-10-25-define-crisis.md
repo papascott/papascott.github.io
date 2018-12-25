@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Which of the following explanations would you choose to define the term "milk crisis"?</p>
 <p>1. There's not a single drop of milk in the house... the baby's going to starve is we don't... buy... milk.. RIGHT... NOW!!!</p>

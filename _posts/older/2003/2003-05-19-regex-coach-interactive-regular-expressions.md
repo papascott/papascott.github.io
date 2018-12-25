@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>via <a title="The Regex Coach - interactive regular expressions :: hebig.org/blog" href="http://www.hebig.org/blogs/archives/main/001003.php">hebig.org</a>: <a title="regular expressions look like comic book swear words: ^%&/?*+!$" href="http://weitz.de/regex-coach/">Regex Coach - interactive regular expressions</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="To whom will they sell it? Current MT users obviouly already have a hoster..." href="http://www.typepad.com/2003/05/some_frequently_aske.shtml">TypePad News: Some Frequently Asked Questions</a></p>

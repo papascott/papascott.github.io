@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/11/actionman.jpg" height="244" width="325" border="0" alt="actionman.jpg: " /></p>
 <p>John thinks this picture shows that we <a href="http://iowa.weblogger.com/2001/11/17">let Christopher play with dynamite</a>. While that does look like an explosion behind him to the right, Christopher is actually destructive enough without the help of explosives.</p>

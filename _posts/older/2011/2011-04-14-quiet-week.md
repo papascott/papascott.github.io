@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It's going to be a quiet week for us next week, the week before Easter. Not that we don't have enough to do, we have plenty of that. But our son is going to be away the entire week. He's flying by himself, for the first time, to Minnesota to visit his grandparents.</p>
 <p>We noticed during our visit last summer that he was doing very well communicating in English, and, of course, as for any child his grandparents are the greatest. So we decided that this spring would be the right time for the first big trip alone. </p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://scriptingnews.userland.com/backissues/2000/03/05">Scripting News</a>:  "Cafe Boronne in Menlo Park is a European type hangout place smack in the middle of Silicon Valley." But the <a href="http://scriptingnews.userland.com/stories/storyReader$448">picture</a> doesn't look like any hangout I've seen in Europe. </p>
 <p>I've become jaded. For me, a European cafe is a tiny <A HREF=http://www.tchibo.dTchibo coffee counter. You see them on every corner, and they all look alike. No place to sit... no chairs at all. Stay standing, drink your coffee in 5 minutes (no food served) and leave. </p>

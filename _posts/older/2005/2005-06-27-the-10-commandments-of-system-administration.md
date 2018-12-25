@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The 10 commandments of system administration, from <a href="http://www.newsforge.com/">NewsForge</a>:<br />
 I. <a href="//software.newsforge.com/article.pl?sid=05/04/15/2130246&tid=91">Thou shalt make regular and complete backups</a><br />

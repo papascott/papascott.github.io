@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="How quickly they've forgotten the Marienstrasse in Hamburg" href="http://www.alertnet.org/thenews/newsdesk/L23109558.htm">Poll shows many Germans see U.S. behind Sept 11</a></p>

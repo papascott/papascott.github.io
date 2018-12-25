@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Bring back German Sesame Street at 18:00!" href="http://www.sesamstrasse-retten.de/">Sesamstraße retten!</a></p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2000/01/crh0113.jpg" height="300" width="400" border="0" alt="crh0113.jpg: " /></p>
 <p>After taking several days off after returning from the hospital, Mama is again writing for the <a href="http://www.mausnews.de">Maus Newsletter</a>, mostly in German. Today she started her childbirth report.</p>

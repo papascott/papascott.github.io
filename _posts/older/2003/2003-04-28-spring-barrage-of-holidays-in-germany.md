@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="What's not to like about 4 day weeks?" href="http://www.smalla.net/infofeed/2003/04/27/spring_barrage_of_holidays_in_germany.shtml">Stefan Smalla: Spring Barrage of Holidays in Germany</a></p>

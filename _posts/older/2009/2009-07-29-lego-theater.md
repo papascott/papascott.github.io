@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3769319493" title="View 'CIMG0747' on Flickr.com"><img src="4.static.flickr.com/3582/3769319493_7e90676b26.jpg" alt="CIMG0747" border="0" width="500" height="375" /></a></p>
 <p>In the category "things my son does that amazes me" is the movie theater he's been building with Legos the past couple of days. He wants to make a Transformers' video for YouTube, and had the idea of a making a "film in film", so he needed a movie theater...</p>

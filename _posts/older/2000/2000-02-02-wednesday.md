@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>http://www.hislifeasaboy.com has a couple of new pictures</p>
 <p>Bier Verbot! The city has banned the Hamburg SV soccer club from selling strong beer at the stadium.... just before their match with league-leading Bayern Munich on Sunday. </p>

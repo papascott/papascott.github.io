@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.spreeblick.com/2006/06/26/eishockey/"><img src="https://www.papascott.de/wordpress/wp-content/uploads/2006/06/por_ned.jpg" alt="Por Ned" /></a></p>
 <p><a href="http://www.spreeblick.com/2006/06/26/eishockey/">Spreeblick</a> asks if the World Cup fiasco last night between <a href="http://www.spreeblick.com/2006/06/26/eishockey/">Portugal and Holland</a> was perhaps ice hockey instead of a soccer match.</p>

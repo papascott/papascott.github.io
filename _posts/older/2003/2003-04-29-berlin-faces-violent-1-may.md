@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Right-wing, left-wing, they're all going to party" href="http://www.expatica.com/germany.asp?pad=190,230,&item_id=30818">Expatica: Berlin faces violent 1 May</a></p>

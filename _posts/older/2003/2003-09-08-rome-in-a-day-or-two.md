@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Our anniversary weekend in Rome was everything we hoped it would be. Warm weather, great sights, quiet hotel, and best of all, we could sleep in (twice!) without the tap-tap-tap of little feet coming into our bedroom.</p>
 <p>Unfortunately Mama came down with a head cold, so we had to hold off on some of the walking and let her nap in the afternoon. I guess it was her revenge for my coming down with the bug for our weekend in Berlin this spring. Now we're even.</p>

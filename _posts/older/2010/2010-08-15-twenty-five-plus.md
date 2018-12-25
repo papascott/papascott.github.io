@@ -22,8 +22,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img style="margin-left:auto;margin-right:auto" src="https://www.papascott.de/wordpress/wp-content/uploads/2010/08/25plus.jpg" alt="25+.jpg" border="0" width="450" height="150" /></p>
 <p>Next weekend we are finally celebrating our silver wedding anniversary. As you may recall, the actual anniversary was in <a href="https://www.papascott.de/archives/2008/09/08/oslo-cruise/">September 2008</a>. So in the spirit of procrastination, the event is entitled "Twenty-Five Plus".</p>

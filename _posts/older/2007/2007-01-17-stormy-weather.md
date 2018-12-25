@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>MamaMaus has a business meeting in Westerland on the island of Sylt tomorrow afternoon, to be followed in the evening by a reception in the <a href="http://www.sansibar-sylt.de/">Sansibar</a> beach-side restaurant.</p>
 <p>The weather service is forecasting a <a href="http://www.spiegel.de/panorama/0,1518,460452,00.html">severe storm for all of Germany</a> tomorrow evening, especially severe on the North Sea coast, with winds in excess of 150 km/h.</p>

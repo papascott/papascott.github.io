@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Danger, danger, this post contains PHP code! Also note I've changed my mind a bit and put the quick links below any main posts for the day, rather than above.</p>
 <p>Note that the qlinks are saved in a separate blog. I'm not sure if that's the best idea or not... I could have defined a category for quick links. But it's difficult to define different entry formats for categories using MT tags. I find using a separate blog easier, then including the files with quick links in the index of the main blog, so the main blog always has the newest quick links without rebuilding. However, using a separate blog makes finding the links for each day somewhat complicated.  </p>

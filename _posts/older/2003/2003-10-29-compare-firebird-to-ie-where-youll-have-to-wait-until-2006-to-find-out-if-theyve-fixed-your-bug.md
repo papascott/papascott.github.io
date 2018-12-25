@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="... to find out if they fixed your bug" href="http://laughingmeme.org/archives/001362.html?rss">Compare that to IE where you'll have to wait until 2006</a></p>

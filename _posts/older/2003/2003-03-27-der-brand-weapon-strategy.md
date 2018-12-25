@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I'm about 1/3 through reading <a title="Amazon.de: Detailseite: Der Brand. Deutschland im Bombenkrieg 1940-1945." href="http://www.amazon.de/exec/obidos/ASIN/3549071655/qid=1048739482/sr=1-1/ref=sr_1_2_1/302-0079855-0700062">Der Brand</a>, the historical account of 'Germany in the bombing war 1940-1945'. I've finished the first two sections entitled 'Waffe' and 'Strategie'. Since a couple of readers have mentioned that they will be reading it as well, I'll give my impressions so far.</p>
 <p>This book looks at the bombing from the point of view of the civilian victims on the ground, the 500,000 dead and 30 million homeless. Most of them were not in Hamburg and Dresden, but in middle sized cities throughout Germany, in bombing raids that made no headlines but killed a few hundred people each night.</p>

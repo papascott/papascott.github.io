@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/1341746189" title="View 'CIMG0112' on Flickr.com"><img src="2.static.flickr.com/1125/1341746189_5d6dab7051.jpg" alt="CIMG0112" border="0" width="500" height="375" /></a></p>
 <p>It's not yet the meter-high arches we have planned, but it's a start.</p>

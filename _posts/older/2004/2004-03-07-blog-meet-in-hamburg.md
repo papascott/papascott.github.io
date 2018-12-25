@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>In case anyone in the area has missed it, the latest <a title="Hamburg Blog Meet by Heiko Hebig | hebig.com" href="http://www.hebig.com/archives/001838.shtml">Hamburg Blog Meet</a> will be this Wednesday evening, 7:30pm, Marktstube (Marktstr. 119). <a href="http://u-blog.net/loic/">Loic le Meur</a> from the French blog hosting service U-Blog will be in town as part of his <a title="LoicGermanyMarch04 - Joi Ito Wiki" href="http://joi.ito.com/joiwiki/LoicGermanyMarch04">whirlwind German tour</a>.</p>

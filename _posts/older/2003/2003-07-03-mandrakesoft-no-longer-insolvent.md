@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="And the more Linux the better" href="http://www.mandrakesoft.com/company/press/briefs?n=/mandrakesoft/news/2425">MandrakeSoft no longer insolvent</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Operation Iraqi Freedom, brought to you in association with Thuraya phones" href="http://dearraed.blogspot.com/2003_05_01_dear_raed_archive.html">Salam Pax: War sucks big time</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="PapaScott's Shop | Powered by CafePress.com" href="http://www.cafeshops.com/papascott">PapaScott's Shop</a>, powered by CafePress. Featuring apperal with the PapaScott logo in the 'visited link' color. Useful should you ever want to go to a blogger meeting and pretend to be me.</p>

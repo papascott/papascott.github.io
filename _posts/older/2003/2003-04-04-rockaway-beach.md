@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>"It's not hard, not far to reach<br />
 We can hitch a ride to Rockaway Beach"</p>

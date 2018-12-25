@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.dellah.com/orient/2005/08/17/britpop" title="From the Orient &raquo; Blog Archive &raquo; Another reason to dislike Oasis?">"I don't think you can blame Noel Gallagher for Coldplay"</a></p>

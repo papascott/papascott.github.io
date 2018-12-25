@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>It looks like we have a resolution at my workplace. I won't tell the whole story until everything has been finalized, but it looks like I am going to be happy with the result.</p>

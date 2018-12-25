@@ -16,7 +16,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="View from an Iowa Homestead: Waterslide" href="http://iowa.weblogger.com/2003/07/21">One of my goals is to make (the program) so informal that calling it a program is laughable.</a></p>

@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As a public service, here's a translation of the post <a href="http://www.x-ploration.de/archiv/2004/08/03/hoer-auf-zu-jammern-deutschland/">"Hör auf zu Jammern, Deutschland!"</a> by <a href="http://www.x-ploration.de/">Thomas Gigold</a> that was requested by <a href="http://www.hebig.com/archives/002381.shtml" title="Stop the whining by Heiko Hebig">Heiko</a>. </p>
 <p>"You know what? There's something wrong with the Ossis! Last night 7000 people in Magdeburg and Dessau demonstrated against <a href="#hartz4">Hartz IV*</a>. They want to keep everything as it is until... until when?</p>

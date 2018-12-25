@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>ChicagoKarl notes the <a href="http://chicagokarl.de/2006/05/german-articles-for-english-words" title="ChicagoKarl &raquo; Blog Archive &raquo; German Articles for English Words">prevelence of English jargon</a> in the German language, especially in IT. I think German would be a lot easier without any English words, because</p>
 <ol>

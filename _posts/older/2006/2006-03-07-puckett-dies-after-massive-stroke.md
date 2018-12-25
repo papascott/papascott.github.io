@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.startribune.com/10017/story/287541.html">Minnesota Twins Hall of Famer Kirby Puckett dies</a> after suffering a massive stroke. He was 45.</p>

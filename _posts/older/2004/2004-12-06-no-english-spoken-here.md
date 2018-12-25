@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Deutsche Welle has announced the recipients of their <a href="http://www.thebobs.de/bob.php?site=news_news&tsrid=113" title="The BOBs - BEST OF THE BLOGS - Deutsche Welle International Weblog Awards 2004">2004 Weblog Awards</a>, with two awards in each category, one chosen by a jury and the other in an online vote. Interesting is that <em>none</em> of the winners of the main categories are written in English. I guess English speakers really are a minority in the world. </p>
 <p><a title="Webpropaganda: Sack Reis umgefallen" href="http://couchblog.de/webpropaganda/blogging/627/sack-reis-umgefallen">Some</a> don't see the point, but that's OK. I <a title="PapaScott: Early Morning Cologne" href="https://www.papascott.de/archives/2004/11/23/early-morning-cologne/">still think</a> it's a useful exercise that enables us to see what blogs elsewhere are doing, even if we don't know the language.</p>

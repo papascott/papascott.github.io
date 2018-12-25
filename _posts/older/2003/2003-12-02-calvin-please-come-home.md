@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="A 'portrait' of Calvin and Hobbes creator Bill Watterson" href="http://www.clevescene.com/issues/2003-11-26/feature.html/1/index.html">Calvin, please come home!</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="FAZ: Scrap Metal" href="http://www.faz.com/IN/INtemplates/eFAZ/archive.asp?doc={CC739DD9-02EF-4141-B80D-982B122772A1}">Exact change, a German obsession</a> <a href="http://blogeline.blogspot.com/2004/09/german-small-change.html">(via Blogeline)</a></p>

@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>The other day I overheard <a href="http://twitter.com/NewWrldYankee">@AmiExpat</a> and <a href="http://twitter.com/NewWrldYankee">@NewWrldYankee</a> twittering about how annoying it is deal with link requests and keep a blogroll. My solution to that used to be to keep an automatic list of blogs I actually read.</p>
 <p>At the time I had a <a href="https://www.papascott.de/archives/2004/12/07/blogroll-timestamps-with-perl-and-bloglines/">bunch of scripts to do the dirty work</a> (don't bother looking for them, they seem to be gone from SourceForge) that would pull my readling list from Bloglines and output a list for my sidebar.</p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Wired <a href="http://www.wired.com/news/technology/0,1282,34475,00.html">Wireless Sparks Euros at CeBIT</a>: "Everyone's talking wireless and unveiling new services to turn phones and handhelds into the Web browsers of the future." <i>Sounds like they're using the right buzzwords</i></p>

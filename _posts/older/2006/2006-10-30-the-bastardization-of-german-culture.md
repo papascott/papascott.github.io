@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Thanks to the undue influence of American programs in German television, Christopher is insisting that we go trick-or-treating tomorrow night. Super RTL has been running Halloween specials of all their cartoons yesterday and today. He wants to dress as a ghost and collect a sack load of candy. And carve a pumpkin.</p>
 <p>I try to tell him that Halloween is an American holiday, and that German households will not be stocking loads of treats, particularly in the rural area where we live, but he says "You're American, Papa. You know how it works."</p>

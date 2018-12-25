@@ -21,8 +21,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.flickr.com/photos/51035717986@N01/3127617921" title="View 'CIMG0668.JPG' on Flickr.com"><img src="https://farm4.static.flickr.com/3110/3127617921_502b71d14c.jpg" alt="CIMG0668.JPG" border="0" width="500" height="375" /></a></p>
 <p>Left: Original Travel Adapter with safety tabs (left and right) to prevent use with grounded plugs</p>

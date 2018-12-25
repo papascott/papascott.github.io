@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Isn't the AOL Arena already..." href="http://www.dangerousmeta.com/dustbin/000615.html">Hamburg bar offers 'kindergarten' for men</a></p>

@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2001/05/sand.jpg" height="200" width="250" border="0" alt="sand.jpg: " /></p>
 <p>The sandbox season is now officially open. After some initial hesitation (what is this strange stuff on my toes?!?), Christopher spent nearly two hours on his first visit to his sandbox. We had to shake him out afterwards, and his nap schedule was totally ruined.</p>

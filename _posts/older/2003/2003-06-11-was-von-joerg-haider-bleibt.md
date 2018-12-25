@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Mit einem überraschenden Schluss. Den verrat ich aber nicht." href="http://godany.blogspot.com/2003_06_01_godany_archive.html#105527615779839302">Was von Jörg Haider bleibt</a></p>

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I don't really need to <a href="http://www.rentagerman.de/" title="rent a german">Rent A German</a>. I've already got one on long-term lease.</p>

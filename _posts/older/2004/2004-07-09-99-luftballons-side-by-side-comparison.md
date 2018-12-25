@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Learning German in the 80's" href="http://www.inthe80s.com/redger3.shtml">99 Luftballons, German/English Side by Side Comparison</a> <a href="http://accordionguy.blogware.com/blog/_archives/2004/7/9/102379.html" title="Okay, how 'bout doing the same thing for Der Kommissar?">(via Accordion Guy)</a></p>

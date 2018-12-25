@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://andrea.editthispage.com/2005/02/20" title="Andrea's Weblog: Sunday, February 20, 2005">Andrea</a> passed the Five Questions meme on to me. Good thing I've been paying attention, I had my answers ready.</p>
 <p><strong>1. Total amount of music files on your computer:</strong><br />

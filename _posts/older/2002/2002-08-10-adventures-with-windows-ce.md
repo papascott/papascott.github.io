@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>After being impressed by one of her franchisees, Mama bought a used Casio E-125 Pocket PC on Ebay a couple of weeks ago. She was going to try out my old Palm III, but while she was thinking about it Christopher grabbed it from her desk and threw it down the stairs. End of Palm III, but I digress. She'd really like to sync it with her Lotus Notes client, but I can see already that getting Pocket Outlook and Notes to work together will be an adventure and a half, so I thought we'd start small and try to sync with Outlook, which is supported out of the box.</p>
 <p>I don't get around much, I know, but I've never used Outlook. I don't even know what it looks like, at least I didn't until today. But it was included with ActiveSync, so I thought could just install it and sync to it. But, no, our E-Bay seller forgot to include the original CD pocket with the  product key, so I can't install it from there. No problem, we have Office 2000, so I'll just add Outlook to her Office installation.</p>

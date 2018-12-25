@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="If US jobs go to India, will German jobs go to Eastern Europe?" href="http://www.time.com/time/magazine/article/0,9171,1101030804-471198,00.html">TIME.com: Where the Good Jobs Are Going</a></p>

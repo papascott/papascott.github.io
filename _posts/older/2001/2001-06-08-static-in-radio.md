@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Maybe the <a href="http://sports.yahoo.com/mlb/teams/min/">Twins</a> aren't for real after all. It looks like they are about to lose 3 out of 4 to Cleveland at home. Ouch. As for the Mariners, I hope they have a World Series on whatever planet they are playing on.</p>
 <p>I'm putting together a website for the local daycare organization, just 5 or 6 static pages. I heard somewhere (<a href="http://www.derschockwellenreiter.de/">Der Schockwellenreiter</a> maybe?) that "Radio Userland" can do static websites just like "Frontier", so I thought I would give it a try. It has been over 2 years since I had put together a website (or in fact had done anything) in Frontier. I had forgotten how much fun it is. I had to look up a few things in the <a href="http://frontier.userland.com/tutorial/">tutorial</a>, and I still have a couple of questions (like how do I get an graphic from my #images table in the background of a table cell in my #template), but within a couple of hours I had the site pretty much working as I wanted it to.</p>

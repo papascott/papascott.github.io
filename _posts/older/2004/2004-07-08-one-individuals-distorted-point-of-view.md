@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://homepage.univie.ac.at/horst.prillinger/blog/archives/2004/07/000673.html#comments">Are You Serious?</a> Horst Prillinger's Blog Talk Paper</p>

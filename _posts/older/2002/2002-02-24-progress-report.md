@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><img src="https://www.papascott.de/wordpress/wp-content/uploads/2002/02/crhbathfeb02.jpg" height="325" width="244" border="0" alt="crhbathfeb02.jpg: " /></p>
 <p>Milestone check for Christopher:

@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://www.eamonn.com/archives/001459.html#001459">Rainy Day: The Great Spelling Debate</a> Another expat's view of the German spelling reform</p>

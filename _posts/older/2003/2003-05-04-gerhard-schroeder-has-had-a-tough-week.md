@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Those whistles from the unions weren't wolf whistles..." href="http://marston.blogspot.com/2003_04_27_marston_archive.html%23200238643">Marstonalia: German Chancellor Gerhard Schroeder has had a tough week</a></p>

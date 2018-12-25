@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Someone recently asked me about corrupted characters in a PHP-MySQL project. They had recent stable versions of everything, MySQL 5.0 and PHP 5.1, using UTF-8 for everything, and they were getting corrupted accented characters saved in the database, junk with 'Ã's was coming out. They were asking me if there were perhaps some secret PHP setting they were missing to make things right. Not that I knew of.</p>
 <p>I would have thought that in this day and age using UTF-8 with PHP and MySQL would just work. To try this out for myself, I downloaded some simple tutorial code, set up databases and HTML with UTF-8, and started creating records with names like Scött Hänsön and Mäcky Möüße. And sure enough, I got junk.</p>

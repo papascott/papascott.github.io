@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://trainedmonkey.com/entry/1939" title="October 4, 2004 7:45pm @ trainedmonkey">jobs are for chumps</a> I've had careers like that...</p>

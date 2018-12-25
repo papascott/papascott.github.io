@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Looking out our back window, we see nothing but fields, trees and a couple of horses. It's like our back yard goes on forever. This morning everything was so fresh and green in a misty rain. </p>
 <p><a href="http://www.flickr.com/photos/51035717986@N01/4662771272" title="View 'IMG_20100602_083001' on Flickr.com"><img border="0" width="500" alt="IMG_20100602_083001" src="5.static.flickr.com/4024/4662771272_1294e5555b.jpg" /></a></p>

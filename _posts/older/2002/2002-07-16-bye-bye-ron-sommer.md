@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>BBC: <a href="http://news.bbc.co.uk/hi/english/business/newsid_2132000/2132179.stm">Deutsche Telekom boss quits</a>. Now I thought I told you all in the US to switch to VoiceStream, but I guess not enough of you did. The way the governing coalition as largest stockholder was able to force a change of management weeks before national elections does make Germany look like a banana republic.</p>

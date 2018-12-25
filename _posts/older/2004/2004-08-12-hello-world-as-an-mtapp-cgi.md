@@ -20,8 +20,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've been waiting for a consumer version of Movable Type 3 before taking a look at it, having been bitten by a couple of bugs in the developer version and the lack of (the <a href="http://www.sixapart.com/log/2004/07/plug_in_to_mova.shtml">now award-winning</a>) <a href="http://www.jayallen.org/comment_spam/">MT-Blacklist</a>. Both will soon be alleviated in the upcoming <a href="http://www.movabletype.org/news/2004/07/movable_type_31_whats_new.shtml" title="Movable Type Publishing Platform: Movable Type 3.1: What's New">Movable Type 3.1</a>, scheduled for August 31, which means it may or may not be already in beta.</p>
 <p>Reason enough to look again at MT3 and the plugin architecture. I had an idea for a plugin, and it took all of one hour to write up. (More on that later.) But then I wanted to be able to use a CGI to set a couple of configuration variables. And there I got stuck.<br />

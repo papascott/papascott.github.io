@@ -16,8 +16,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Subject: hi dad<br />
 Date: Tue, 11 Jan 2000 11:10:13 +0100<br />

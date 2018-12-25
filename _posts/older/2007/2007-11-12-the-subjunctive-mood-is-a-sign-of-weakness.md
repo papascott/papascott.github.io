@@ -19,8 +19,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>I've reported before that in Germany you have to <a href="https://www.papascott.de/archives/2007/05/16/the-problem-with-no/">say no very directly</a> for it to be understood as no. I've recently discovered that the same principle can apply to "yes".</p>
 <p>Recently in a hotel Frauke mislaid her cell phone and sent me to the reception desk to check if anyone had found it. Indeed, a cell phone had been found, and it looked very similar to Frauke's phone, and I was asked if it was her phone. I couldn't be sure, though, without opening the case, so trying to be friendly and polite I replied "Yes, it could be." <em>(Ja, es k&ouml;nnte sein.)</em></p>

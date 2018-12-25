@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a href="http://andrewhammel.typepad.com/german_joys/2005/10/credit_cards_ho.html" title="German Joys: Credit Cards, Honor, and the Fatherland">German Joys</a> notes a <a href="http://www.csmonitor.com/2005/1020/p06s02-woeu.htm" title="Credit-card companies woo few Germans | csmonitor.com">story in the Christian Science Monitor</a> on the lack of acceptance of credit cards in Germany compared to other countries in Europe. It included this strange quote from a "high school student":</p>
 <blockquote><p>When I want something I pay for it myself. It's a question of honor.</p></blockquote>

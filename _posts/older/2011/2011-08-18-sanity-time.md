@@ -17,8 +17,6 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Forgive me, readers, for I have sinned. It's been over five weeks since my last post</p>
 <p>Our summer "vacation" was a busy as we suspected it would be. The restaurant in Rade, the truck stop store without a truck stop, is as busy as we hoped it would be. The self-serve "Easy Order" kiosks are in but are not being frequented that much yet (around 3% of guests). I suspect most people walk by not knowing what they are. Our first store in Dibbersen has been holding its own, down just a bit from last year despite having the brand new store just a few km away. </p>

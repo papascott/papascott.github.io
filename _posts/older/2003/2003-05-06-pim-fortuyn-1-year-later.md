@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="The big lie?" href="http://radio.weblogs.com/0001014/2003/05/06.html#a3598">Adam Curry: Pim Fortuyn 1 year later</a></p>

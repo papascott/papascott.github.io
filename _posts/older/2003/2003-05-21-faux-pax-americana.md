@@ -15,7 +15,5 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p><a title="Plenty of troops to win the war, not nearly enough to win the peace" href="http://www.washingtonmonthly.com/features/2003/0306.carter.html">Faux Pax Americana</a></p>

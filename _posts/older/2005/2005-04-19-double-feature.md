@@ -15,8 +15,6 @@ author:
   display_name: PapaScott
   first_name: Scott
   last_name: Hanson
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>As fate would have it, yesterday <a href="http://www.amango.de/">Amango</a> (like <a href="http://www.netflix.com/">Netflix</a>, only German) sent me 2 DVDs I've been waiting a long to see: </p>
 <p>* Die Unglaublichen - <a href="http://imdb.com/title/tt0317705">The Incredibles</a><br />
