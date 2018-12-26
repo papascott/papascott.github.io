@@ -28,5 +28,5 @@ author:
 <p><a href="http://www.flickr.com/photos/papascott/206498186/" title="Photo Sharing"><img src="https://static.flickr.com/58/206498186_dc2cbb9fc4_m.jpg" width="240" height="209" alt="IM000477" /></a></p>
 <p>They caught one.</p>
 <p><strong>Update 2</strong></p>
-<p><iframe src="http://wikimapia.org/s/#y=45594822&x=-95484238&z=12&l=0&m=h" width="324" height="263" frameborder="0"></iframe></p>
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44669.59746609835!2d-95.5016410137697!3d45.59356325198797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52ca66680c2f276d%3A0x8c347dbaac908dc2!2sBerens+Point+Dr%2C+Glenwood+Township%2C+MN+56381!5e0!3m2!1sen!2sus!4v1545819595907" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></p>
 <p>This is where we are</p>
