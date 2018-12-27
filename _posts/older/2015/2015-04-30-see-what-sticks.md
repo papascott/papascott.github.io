@@ -8,6 +8,7 @@ author:
   login: root
   email: papascott@gmail.com
   url: https://www.papascott.de/
+date: '2015-04-30 09:00:00 +0200'
 ---
 So now that I've [changed](/archives/2015/04/23/transition/) my blogging platform, I have something to blog about: my new blogging platform!
 
