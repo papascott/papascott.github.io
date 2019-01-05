@@ -20,6 +20,7 @@ exclude: [vendor, s3_website.yml, Rakefile, LICENSE.md, README.md, script, Gemfi
 ## Do not re-render old posts
 # exclude: [vendor, s3_website.yml, Rakefile, LICENSE.md, README.md, _posts/older]
 # keep_files: [archives/1999, archives/200, archives/2010, archives/2011, archives/2012, archives/2013, archives/2014, archives/2015]
+include: [_headers]
 
 plugins:
   - jemoji
