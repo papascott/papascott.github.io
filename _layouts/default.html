@@ -36,8 +36,8 @@
   <script src='/public/js/twitterFetcher_min.js'></script>{% endif %}
   <script>
     // optimistic-agnesi is the gatsby deploy for PapaScott
-    $("#sidebar").load("https://optimistic-agnesi-dbe2cf.netlify.com//index.html #sidebar > *");
-    {% if page.path contains '_posts' %} $("#related").load("https://www.papascott.de/includes/related.html"); {% endif %}
+    $("#sidebar").load("https://optimistic-agnesi-dbe2cf.netlify.com/index.html #sidebar > *");
+    {% if page.path contains '_posts' %} $("#related").load("https://optimistic-agnesi-dbe2cf.netlify.com/archives/2018/12/27/hey-nineteen/index.html #related > *"); {% endif %}
     {% if page.title == "Home" %} twitterFetcher.fetch({ "profile": { "screenName": 'papascott' }, "domId": 'twitter-news', "maxTweets": 3, "enableLinks": true, "showPermalinks": true, "showUser": false, "showRetweet": false, "showInteraction": false }); {% endif %}
   </script>
 
