@@ -22,11 +22,11 @@ author:
   display_name: PapaScott
   first_name: Root
   last_name: User
-# redirect_from: "/archives/2011/06/13/pngstbaumpanzen-pentecost-trees/"  
+# redirect_from: "/archives/2011/06/13/pngstbaumpanzen-pentecost-trees/"
 ---
 <p><a href="/wordpress/wp-content/uploads/2011/06/Pfingstbaumfplanzen.pdf" title="Pfingstbaumfplanzen.pdf" alt="Pfingstbaumfplanzen"><img src="https://res.cloudinary.com/papascott/image/upload/wordpress/wp-content/uploads/2011/06/pfingsbaumplanzen.png" alt="Pfingsbaumplanzen" border="0" width="150" height="228" align="right" /></a> I've mentioned the <a href="/archives/2005/05/18/pfingstbaum/">Pentecost traditions</a> in our village in previous years. This year there seems to be a revitalized interest in village activities, for example the <em>Dorffest</em> was newly organized and was a huge success with 10x the turnout of previous years. Last week a brochure <a href="/wordpress/wp-content/uploads/2011/06/Pfingstbaumfplanzen.pdf" title="Pfingstbaumfplanzen.pdf" alt="Pfingstbaumfplanzen">(<em>Pfingstbaumfplanzen</em> as PDF)</a> was distributed to all houses explaining the tradition of planting Pentecost trees, which in our area is unique to our village. Here is my attempt at a translation.</p>
 <blockquote><p>
-  <a href="http://www.flickr.com/photos/papascott/14489364/" title="Pfingsbaum at Flickr"><img src="https://photos11.flickr.com/14489364_4e14656699_m.jpg" width="180" height="240" alt="Pfingstbaum" border="0" align="left" /></a>Dear Villagers,</p>
+  <img src="/assets/14489364_4e14656699_m.jpg" width="180" height="240" alt="Pfingstbaum" border="0" align="left" style="margin-right:10px" />Dear Villagers,</p>
 <p>  Since Pentecost is almost here, we would like to explain to you, the new residents of the village, the custom of planting Pentecost trees (<em>Pfingstbaumpflanzen</em>) and to you, the old residents, to remind you of the history.</p>
 <p>  The custom of planting Pentecost trees descends from an old tradition, in which the young men of the village, starting in  the year in which they are confirmed, can participate.</p>
 <p>  They went from house to house and at the front doors of those families with unmarried daughters they placed a freshly cut young birch tree and sang traditional songs in order to introduce themselves.</p>
